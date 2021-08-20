@@ -33,7 +33,7 @@ h2 {
 }
 
 h3, h4, h5 {
-    font-weight: 400;
+    font-weight: 500;
 }
 
 a {
