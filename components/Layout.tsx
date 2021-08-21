@@ -6,10 +6,10 @@ export type LayoutProps = {
 };
 
 const Container = styled.div`
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
+  margin-left: auto;
+  margin-right: auto;
+  width: 100%;
+  max-width: 850px;
   padding: 0.5em;
 `;
 

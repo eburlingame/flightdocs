@@ -7,7 +7,6 @@ export type CardProps = {
 
 const CardContainer = styled.div`
   flex: 1;
-  max-width: 850px;
   border: 1px solid #eee;
   border-radius: 0.25em;
   padding-top: 0px;

@@ -45,5 +45,39 @@ a {
 * {
   box-sizing: border-box;
 }
+ul {
+  padding-left: 2em;
+}
+
+table { 
+  margin-left: auto;
+  margin-right: auto;
+  width: 80%;
+  border-collapse: collapse;
+}
+
+thead > tr > th {
+  border-bottom: 0.5px solid #ddd;
+}
+
+th {
+  text-align: left;
+  padding: 0.25em;
+}
+
+tr {
+  transition: 0.1s background-color;
+
+  :hover {
+    transition: 0.1s background-color;
+    background-color: #efefef;
+  }
+}
+
+td {
+  vertical-align: middle;
+  padding: 0.5em;
+}
+
 
 `;
