@@ -1,0 +1,55 @@
+import Link from "next/link";
+import CardWrapper from "../../../../components/CardWrapper.tsx";
+import Reg from "../../../../components/Reg.tsx";
+import Acronym, { AcronymRow } from "../../../../components/Acronym.tsx";
+
+export default CardWrapper;
+
+# Inoperative Equipment
+
+Part <Reg part="91.213" /> describes how to deal with inoperative equipment in aircraft used in Part 91 operations.
+
+Generally, if a piece of inoperative equipment is found before a flight your options are:
+
+- Cancel the flight
+- Perform maintenance before the flight
+- Defer maintenance of the item
+
+Some instruments and equipment _must_ be repaired before flight, including:
+
+- Those required for airworthiness of the aircraft
+- Those required by an AD to be operative
+- Those required for specific operations by Part 91, including:
+  - Day VFR equipment <Reg part="91.205(b)" />
+  - Night VFR equipment <Reg part="91.205(c)" />
+  - IFR equipment <Reg part="91.205(d)" />
+
+## Aircraft with a Minimum Equipment List
+
+Some aircraft (usually large or complex aircraft) will be certified with a Minimum Equipment List (MEL). An MEL will specify which equipment can be inoperable,
+and how it should be handled.
+
+An MEL is issued to an aircraft's operator via a letter of authorization for a specific type and registration number. It then becomes mandatory for that
+aircraft. With an MEL, equipment cannot be deferred via <Reg part="91.213(d)" />.
+
+If a piece of inoperative is found, it should be noted in the aircraft maintenance records, or a record specific to this purpose.
+
+<Reg part="91.213(a)" />
+
+## Aircraft without a Minimum Equipment List
+
+In an airplane without an MEL, maintenance of an inoperative item _can_ be deferred as long as the equipment is not required per:
+
+- The aircraft's VFR-day type certification
+- The aircraft's equipment list, or the [Kind of Operations Equipment List (KOEL)](/topics/regulations/airworthiness/koels)
+- An applicable AD
+- <Reg part="91.205" /> or any applicable section of Part 91 for the operation being
+  conducted
+
+In this case, the equipment shall either be:
+
+- Removed from the cockpit, the cockpit control placarded, and a record made in the maintenance log
+- Deactivate and placarded "Inoperative"
+  - If the deactivation requires maintenance, it must be done by an authorized mechanic
+
+<Reg part="91.213(d)" />

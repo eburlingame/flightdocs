@@ -5,6 +5,7 @@ export type AcronymRowProps = {
   letter: ReactNode;
   title: ReactNode;
   notes?: ReactNode;
+  reg?: ReactNode;
 };
 
 const LetterCell = styled.td`
@@ -14,12 +15,13 @@ const LetterCell = styled.td`
 const TitleCell = styled.td``;
 const NotesCell = styled.td``;
 
-export const AcronymRow = ({ letter, title, notes }: AcronymRowProps) => {
+export const AcronymRow = ({ letter, title, notes, reg }: AcronymRowProps) => {
   return (
     <tr>
       <LetterCell>{letter}</LetterCell>
       <TitleCell>{title}</TitleCell>
       {notes && <NotesCell>{notes}</NotesCell>}
+      {reg && <NotesCell>{reg}</NotesCell>}
     </tr>
   );
 };
