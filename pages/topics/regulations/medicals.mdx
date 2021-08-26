@@ -5,7 +5,7 @@ export default CardWrapper;
 
 # Medical Certificates
 
-<!-- class, expiration, privileges, temporary disqualifications -->
+<Reg part="61.23" />
 
 <table style={{ width: "100%" }}>
   <thead>
@@ -61,19 +61,24 @@ export default CardWrapper;
   </tbody>
 </table>
 
-<Reg part="61.23" />
+<Reg showTitle part="67" /> contains the specific medical requirements needed for
+a medical certificate, along with disqualifying medical conditions.
 
 A higher-class medical can be used in place of a lower class one.
 
-For example, suppose a pilot recieves a first-class medical certifiate:
+For example, suppose a pilot receives a first-class medical certificate:
 
-- He or she can exercise the privlieges of the first class medical for one year following it's issuance
-  - During this first year they can exercise the privleges of ATP, commerical, or private pilot
+- He or she can exercise the privileges of the first class medical for one year following it's issuance
+  - During this first year they can exercise the privileges of ATP, commercial, or private pilot
 - After one year, the medical can be used in lieu of a third class medical (for private pilot operations, instructing, etc.)
-  - The ceritifcate will remain valid for 4 more years (if under the age of 40)
-  - Or, one more yeear (if over the age of 40), just as a 3rd class certificate would
+  - The certificate will remain valid for 4 more years (if under the age of 40)
+  - Or, one more year (if over the age of 40), just as a 3rd class certificate would
 
 See <Reg part="61.23(d)" /> for details.
+
+Even when a pilot holds a valid medical certificate, they cannot act as PIC if they "know of any
+medical condition that would make the person unable to meet the requirements for the medical certificate
+necessary for the pilot operation." - <Reg part="61.53" />
 
 export const references = [
   {

@@ -6,7 +6,7 @@ const HomePage = () => {
     <Layout>
       <div>
         <h1>Outlines</h1>
-        <Link href="/outlines/commercial">commercial Outlline</Link>
+        <Link href="/outlines/commercial">Commercial Outline</Link>
       </div>
     </Layout>
   );
