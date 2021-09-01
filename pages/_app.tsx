@@ -1,5 +1,8 @@
 import { createGlobalStyle, ThemeProvider } from "styled-components";
 
+import standardComponents from "../components/components";
+import { MDXProvider } from "@mdx-js/react";
+
 import { GlobalStyle, theme } from "../styles/global";
 import Layout from "../components/Layout";
 import type { AppProps } from "next/app";
@@ -16,9 +19,11 @@ export default function App({ Component, pageProps }: AppProps) {
       <GlobalStyle />
 
       <ThemeProvider theme={theme}>
-        <Layout>
-          <Component {...pageProps} />
-        </Layout>
+        <MDXProvider components={standardComponents}>
+          <Layout>
+            <Component {...pageProps} />
+          </Layout>
+        </MDXProvider>
       </ThemeProvider>
     </>
   );
