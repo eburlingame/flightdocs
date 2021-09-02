@@ -5,7 +5,7 @@ export const theme = {
   colors: {
     blue: "#044389",
     lightBlue: "#5995ED",
-    orange: "#044389",
+    orange: "#EE6C4D",
     yellow: "#F0C808",
     offWhite: "#E0FBFC",
   },

@@ -1,0 +1,27 @@
+import Link from "next/link";
+import CardWrapper from "../../../../components/CardWrapper.tsx";
+import Reg from "../../../../components/Reg.tsx";
+import Acronym, { AcronymRow } from "../../../../components/Acronym.tsx";
+import EncodedDataExplainer, {
+  EncodedDataWord,
+} from "../../../../components/EncodedDataExplainer.tsx";
+import StandardAtmosphereSlider from "../../../../components/widgets/StandardAtmosphereSlider.tsx";
+
+export default CardWrapper;
+
+# Pilot Reports (PIREPs)
+
+A PIREP is a pilot-issued report which describes weather at a given location at a given time.
+
+They can be standard (denoted `UA`), or urgent (denoted `UUA`).
+
+They often contain height/bases of clouds, wind shear, turbulence, or icing.
+
+They are reported in altitude MSL, visibilities in statute miles, and distance in NM.
+
+export const references = [
+  {
+    name: "AC 00-06B",
+    link: "https://www.faa.gov/documentLibrary/media/Advisory_Circular/AC_00-6B.pdf",
+  },
+];
