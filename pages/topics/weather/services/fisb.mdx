@@ -1,40 +1,44 @@
-import Link from "next/link";
-import CardWrapper from "../../../../components/CardWrapper.tsx";
-import Reg from "../../../../components/Reg.tsx";
-import Acronym, { AcronymRow } from "../../../../components/Acronym.tsx";
-import StandardAtmosphereSlider from "../../../../components/widgets/StandardAtmosphereSlider.tsx";
+import Link from 'next/link'
+import CardWrapper from '../../../../components/CardWrapper.tsx'
+import Reg from '../../../../components/Reg.tsx'
+import Acronym, { AcronymRow } from '../../../../components/Acronym.tsx'
+import StandardAtmosphereSlider from '../../../../components/widgets/StandardAtmosphereSlider.tsx'
 
-export default CardWrapper;
+export default CardWrapper
 
 # Flight Information Service - Broadcast (FIS-B)
 
-The Flight Information Service - Broadcast (FIS-B) provides updated weather and flight information directly into
-the cockpit via the ABS-B system. It operative over the UAT (978 MHz) data link.
+The Flight Information Service - Broadcast (FIS-B) provides updated weather and
+flight information directly into the cockpit via the ABS-B system. It operative
+over the UAT (978 MHz) data link.
 
 Some weather products than can be received via FIS-B include:
 
-- Graphical AIRMET
-- Center Weather Advisory (CWA)
-- METARs / TAFs
-- Cloud Tops
-- Icing
-- NEXTRAD Radar
+-   Graphical AIRMET
+-   Center Weather Advisory (CWA)
+-   METARs / TAFs
+-   Cloud Tops
+-   Icing
+-   NEXTRAD Radar
 
-Be aware that data received from FIS-B can be as much as **5-15** minutes old by the time it is displayed in the cockpit.
-Never use FIS-B NEXTRAD data to circumnavigate a thunderstorm.
+Be aware that data received from FIS-B can be as much as **5-15** minutes old by
+the time it is displayed in the cockpit. Never use FIS-B NEXTRAD data to
+circumnavigate a thunderstorm.
 
 # Traffic Information Service - Broadcast (TIS-B)
 
-Similar to FIS-B, the Traffic Information Service - Broadcast (TIS-B) provides position of nearby traffic to the cockpit
-via ground stations. These ground stations aggregate traffic from ADS-B Out sources (978 MHZ or 1090ES transponders). FIS-B
-receivers can operate on either 978 MHZ or 1090ES.
+Similar to FIS-B, the Traffic Information Service - Broadcast (TIS-B) provides
+position of nearby traffic to the cockpit via ground stations. These ground
+stations aggregate traffic from ADS-B Out sources (978 MHZ or 1090ES
+transponders). FIS-B receivers can operate on either 978 MHZ or 1090ES.
 
-- TIS-B is only available below 24,000 feet.
-- You will receive TIS-B targets that are within a **15nm** and +/- **3500'** of your aircraft
+-   TIS-B is only available below 24,000 feet.
+-   You will receive TIS-B targets that are within a **15nm** and +/- **3500'**
+    of your aircraft
 
 export const references = [
-  {
-    name: "AC 00-06B",
-    link: "https://www.faa.gov/documentLibrary/media/Advisory_Circular/AC_00-6B.pdf",
-  },
-];
+    {
+        name: 'AC 00-06B',
+        link: 'https://www.faa.gov/documentLibrary/media/Advisory_Circular/AC_00-6B.pdf',
+    },
+]

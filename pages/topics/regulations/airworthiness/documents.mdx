@@ -1,46 +1,47 @@
-import Link from "next/link";
-import CardWrapper from "../../../../components/CardWrapper.tsx";
-import Reg from "../../../../components/Reg.tsx";
-import Acronym, { AcronymRow } from "../../../../components/Acronym.tsx";
+import Link from 'next/link'
+import CardWrapper from '../../../../components/CardWrapper.tsx'
+import Reg from '../../../../components/Reg.tsx'
+import Acronym, { AcronymRow } from '../../../../components/Acronym.tsx'
 
-export default CardWrapper;
+export default CardWrapper
 
 # Required Airworthiness Documents
 
-The following documents must be on board the aircraft to be considered airworthy:
+The following documents must be on board the aircraft to be considered
+airworthy:
 
 <Acronym>
-  <AcronymRow
-    letter="A"
-    title={
-      <Link href="/topics/regulations/airworthiness/certificate">
-        Airworthiness Certificate
-      </Link>
-    }
-    reg={<Reg part="91.203" />}
-  />
-  <AcronymRow
-    letter="R"
-    title={
-      <Link href="/topics/regulations/airworthiness/registration">
-        Registration Certificate
-      </Link>
-    }
-    reg={<Reg part="91.203" />}
-  />
-  <AcronymRow letter="R" title="Radio Station License" />
-  <AcronymRow
-    letter="O"
-    title={
-      <Link href="/topics/regulations/airworthiness/afms">
-        Operating Limitations - AFM/POH
-      </Link>
-    }
-    reg={<Reg part="91.9" />}
-  />
-  <AcronymRow letter="W" title="Weight and Balance information" />
+    <AcronymRow
+        letter="A"
+        title={
+            <Link href="/topics/regulations/airworthiness/certificate">
+                Airworthiness Certificate
+            </Link>
+        }
+        reg={<Reg part="91.203" />}
+    />
+    <AcronymRow
+        letter="R"
+        title={
+            <Link href="/topics/regulations/airworthiness/registration">
+                Registration Certificate
+            </Link>
+        }
+        reg={<Reg part="91.203" />}
+    />
+    <AcronymRow letter="R" title="Radio Station License" />
+    <AcronymRow
+        letter="O"
+        title={
+            <Link href="/topics/regulations/airworthiness/afms">
+                Operating Limitations - AFM/POH
+            </Link>
+        }
+        reg={<Reg part="91.9" />}
+    />
+    <AcronymRow letter="W" title="Weight and Balance information" />
 </Acronym>
 
 Also required are:
 
-- Serial number and external data plate - <Reg part="45.11" />
+-   Serial number and external data plate - <Reg part="45.11" />
