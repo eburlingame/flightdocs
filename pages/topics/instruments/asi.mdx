@@ -1,0 +1,32 @@
+import Link from 'next/link'
+import CardWrapper from '../../../components/CardWrapper.tsx'
+import Reg from '../../../components/Reg.tsx'
+import Acronym, { AcronymRow } from '../../../components/Acronym.tsx'
+
+export default CardWrapper
+
+# Airspeed Indicator (ASI)
+
+The airspeed indicator displays an approximation of the aircraft's airspeed,
+based on the difference between pitot pressure and the static pressure.
+
+![Airspeed Indicator Diagram](https://www.aopa.org/-/media/Images/AOPA-Main/News-and-Media/Publications/Flight-Training-Magazine/1811f/1811f_hiw/1811f_hiw_16x9.jpg)
+
+## Errors
+
+-   Position errors
+    -   Errors caused by erroneous pressure from the static port, usually caused
+        by a specific flight attitude or configuration
+-   Density errors
+    -   The instrument is not corrected for nonstandard temperature or pressure,
+        including the effects of altitude
+-   Compressibility errors
+    -   At high speeds, the packing of air into the pitot tube can result in
+        higher than normal readings. At low airspeed this is not significant
+
+export const references = [
+    {
+        name: 'Pilots Handbook of Aeronautical Knowledge, Chapter 8',
+        link: 'https://www.faa.gov/regulations_policies/handbooks_manuals/aviation/phak/media/10_phak_ch8.pdf',
+    },
+]

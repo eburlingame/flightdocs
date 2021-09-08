@@ -1,0 +1,29 @@
+import Link from 'next/link'
+import CardWrapper from '../../../components/CardWrapper.tsx'
+import Reg from '../../../components/Reg.tsx'
+import Acronym, { AcronymRow } from '../../../components/Acronym.tsx'
+
+export default CardWrapper
+
+# Altitude Types
+
+-   Indicated altitude
+    -   Read directly off the altimeter, after it is set to a correct altimeter
+        setting
+-   Pressure altitude
+    -   Read directly off the altimeter when it is set to 29.92" Hg
+-   Density altitude
+    -   Pressure altitude corrected for nonstandard temperature variation
+    -   Said another way, it is the height of the aircraft in standard
+        atmosphere based on the current temperature and pressure conditions
+-   True altitude
+    -   True altitude is the vertical distance above mean sea level (MSL)
+-   Absolute altitude
+    -   The vertical distance above the terrain
+
+export const references = [
+    {
+        name: 'Pilots Handbook of Aeronautical Knowledge, Chapter 8',
+        link: 'https://www.faa.gov/regulations_policies/handbooks_manuals/aviation/phak/media/10_phak_ch8.pdf',
+    },
+]

@@ -1,0 +1,36 @@
+import Link from 'next/link'
+import CardWrapper from '../../../components/CardWrapper.tsx'
+import Reg from '../../../components/Reg.tsx'
+import Acronym, { AcronymRow } from '../../../components/Acronym.tsx'
+
+export default CardWrapper
+
+# Operating at Airports without a Control Tower
+
+Announce your intentions on the CTAF **10nm** out from the airport.
+
+## Using the Traffic Patterns
+
+From the AIM:
+
+Key to traffic pattern operations
+
+1. Enter pattern in level flight, abeam the midpoint of the runway, at pattern
+   altitude.
+2. Maintain pattern altitude until abeam approach end of the landing runway on
+   downwind leg.
+3. Complete turn to final at least **1/4 mile** from the runway.
+4. Continue straight ahead until beyond departure end of runway.
+5. If remaining in the traffic pattern, commence turn to crosswind leg beyond
+   the departure end of the runway within **300 feet** of pattern altitude.
+6. If departing the traffic pattern, continue straight out, or exit with a 45
+   degree turn (to the left for a left-pattern; to the right for a right
+   pattern) beyond the departure end of the runway, after reaching pattern
+   altitude.
+
+export const references = [
+    {
+        name: 'AIM Chapter 4 Section 3',
+        link: 'https://www.faa.gov/air_traffic/publications/atpubs/aim_html/chap4_section_3.html',
+    },
+]
