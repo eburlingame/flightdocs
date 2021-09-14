@@ -6,18 +6,25 @@ import EncodedDataExplainer, {
     EncodedDataWord,
 } from '../../../../components/EncodedDataExplainer.tsx'
 import StandardAtmosphereSlider from '../../../../components/widgets/StandardAtmosphereSlider.tsx'
+import progchart from '../../../../images/surface_plot.gif'
 
 export default CardWrapper
 
 # Surface Analysis Charts
 
+Surface analysis charts are analyzed charts of surface weather observations. The
+chart depicts the distribution of several items, including sea-level pressure;
+the positions of highs, lows, ridges, and troughs; the location and type of
+fronts; and the various boundaries such as drylines.
+
+The [Aviation Weather Center](https://aviationweather.gov/) publishes the
+[WPC Surface Prog Chart](https://aviationweather.gov/progchart/sfc).
+
+<img {...progchart} />
+
 export const references = [
     {
-        name: 'AWC Sigmets',
-        link: 'https://www.aviationweather.gov/sigmet/help',
-    },
-    {
-        name: 'AC 00-06B',
-        link: 'https://www.faa.gov/documentLibrary/media/Advisory_Circular/AC_00-6B.pdf',
+        name: 'AC 00-45H',
+        link: 'https://www.faa.gov/documentLibrary/media/Advisory_Circular/AC_00-45H_CHG_2.pdf',
     },
 ]

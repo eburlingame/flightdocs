@@ -1,0 +1,38 @@
+import Link from 'next/link'
+import CardWrapper from '../../../components/CardWrapper.tsx'
+import Reg from '../../../components/Reg.tsx'
+import Acronym, { AcronymRow } from '../../../components/Acronym.tsx'
+import StandardAtmosphereSlider from '../../../components/widgets/StandardAtmosphereSlider.tsx'
+
+export default CardWrapper
+
+# Wind Shear
+
+Wind shear is the change in wind speed and/or direction, usually in the
+vertical. The characteristics of the wind shear profile are of critical
+importance in determining the impact for an aircraft on takeoff or landing.
+
+## Headwind-to-Tailwind Shear
+
+When a headwind shears to a tailwind, there will be a sudden decrease in
+airspeed and pitch attitude. In this situation, the remedy is to add power and
+raise the nose.
+
+## Tailwind-to-Headwind shear
+
+When a tailwind shears to a headwind, there will be a sudden increase in
+airspeed, causing an increase in pitch attitude. The usually reaction is to
+reduce both pitch and power, which can lead to a dangerous low-speed, low-nose
+configuration. This is dangerous if the aircraft suddenly experiences a
+downdraft and a tailwind.
+
+export const references = [
+    {
+        name: 'AC 00-06B',
+        link: 'https://www.faa.gov/documentLibrary/media/Advisory_Circular/AC_00-6B.pdf',
+    },
+    {
+        name: 'AC 00-54',
+        link: 'https://www.faa.gov/documentLibrary/media/Advisory_Circular/AC00-54.pdf',
+    },
+]
