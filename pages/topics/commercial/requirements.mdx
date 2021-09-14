@@ -1,0 +1,44 @@
+import CardWrapper from '../../../components/CardWrapper.tsx'
+import Reg from '../../../components/Reg.tsx'
+import Link from 'next/link'
+export default CardWrapper
+
+# Commercial Pilot Requirements
+
+A person applying for a commercial certificate (single-engine class rating) must
+have logged at least **250 hours** of flight time, including:
+
+-   100 hours in powered aircraft, of which 50 hours must be in airplanes.
+-   100 hours of pilot-in-command flight time, which includes:
+-   50 hours in airplanes
+-   50 hours in cross-country flight (where at least 10 hours is in airplanes)
+-   20 hours of commercial flight training, including:
+    -   10 hours of instrument training
+        -   Includes partial panel, unusual attitudes, intercepting and tracking
+        -   5 of these 10 hours must be in airplanes
+    -   10 hours of training in a complex, a turbine, or a technically advanced
+        airplane (TAA)
+    -   One 2-hour cross country flight in the _daytime_
+        -   With a total straight-line distance of more than 100nm from
+            departure point
+    -   One 2-hour cross country flight in the _nighttime_
+        -   With a total straight-line distance of more than 100nm from
+            departure point
+    -   3 hours with an instructor within the 2 months proceeding the checkride
+-   10 hours of solo flight time (or acting as PIC with an instructor)
+    -   One cross-country flight of not less than 300nm total distance
+        -   with landings at a minimum of three points
+        -   one of which is a straight-line distance of at least 250 nautical
+            miles
+    -   5 hours in night VFR conditions
+        -   with 10 takeoffs and 10 landings at an airport with an operating
+            control tower
+
+<Reg part="61.129" />
+
+export const references = [
+    {
+        name: '14 CFR Part 61.129',
+        link: 'https://www.ecfr.gov/cgi-bin/retrieveECFR?gp&r=PART&n=14y2.0.1.1.2#se14.2.61_1129',
+    },
+]
