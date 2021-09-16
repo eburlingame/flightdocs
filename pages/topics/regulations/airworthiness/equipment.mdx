@@ -1,5 +1,6 @@
 import Link from 'next/link'
 import CardWrapper from '../../../../components/CardWrapper.tsx'
+import Footnotes from '../../../../components/Footnotes.tsx'
 import Reg from '../../../../components/Reg.tsx'
 import Acronym, { AcronymRow } from '../../../../components/Acronym.tsx'
 
@@ -62,3 +63,52 @@ Per <Reg part="91.205(c)" />:
         notes="Usually alternator or generator"
     />
 </Acronym>
+
+## For IFR Operations
+
+In addition to the VFR equipment above, IFR operations also requires:
+
+Per <Reg part="91.205(d)" />:
+
+<Acronym>
+    <AcronymRow
+        letter="G"
+        title={'Generator or alternator'}
+        notes=" (a source of power)"
+        notes=""
+    />
+    <AcronymRow
+        letter="R"
+        title={'Radio and navigation equipment'}
+        notes="Suitable to the route flown"
+    />
+    <AcronymRow letter="A" title={'Altimeter (sensitive)'} notes="" />
+    <AcronymRow letter="B" title={'Ball'} notes="Slip/skid indicator" />
+    <AcronymRow
+        letter="C"
+        title={'Clock'}
+        notes="Displaying hours, minutes, and seconds with a sweep-second pointer or digital presentation"
+    />
+    <AcronymRow letter="A" title={'Attitude Indicator (A.I.)'} notes="" />
+    <AcronymRow
+        letter="R"
+        title={'Rate-of-turn indicator'}
+        notes="Often part of the turn coordinator*"
+    />
+    <AcronymRow letter="D" title={'Directional Gyro (Heading Indicator)'} />
+</Acronym>
+
+\* Except for airplanes with a third attitude instrument system
+
+## Above 24,000 MSL
+
+For flights at and above 24,000 ft. MSL (FL240) where you are using VORs as a
+primary means of navigation, you must also have a DME or RNAV system
+installed.\*
+
+<Reg part="91.205" />
+
+<Footnotes>
+    * This applies to U.S.-registered civil aircraft within the 50 states and
+    the District of Columbia.
+</Footnotes>
