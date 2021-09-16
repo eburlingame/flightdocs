@@ -1,0 +1,300 @@
+import ScenarioWrapper from '../../components/ScenarioWrapper.tsx'
+import WeightAndBalanceTable from '../../components/WeightAndBalanceTable.tsx'
+import Link from 'next/link'
+export default ScenarioWrapper
+
+# 1973 Cessna 172M Deep Dive
+
+The following is a detailed exploration of a specific aircraft model based on
+information from the POH, TCDS, and other resources.
+
+Source materials:
+
+-   [Pilot's Operating Handbook](https://mentoneflyingclub.org/aircraft/N12874POH.pdf)
+-   [Type Certificate Data Sheet](https://rgl.faa.gov/Regulatory_and_Guidance_Library/rgMakeModel.nsf/0/814b2fb4dc1615008625871e005ed037/$FILE/3A12_Rev86.pdf)
+
+## Vacuum System
+
+## Fuel System
+
+-   Two fuel tanks, one in each wing
+    -   21 gallons per side, 19 gallons usable
+    -   42 gallons total, 19 gallons total usable
+-   Total usable fuel is 19 gallons per side, for a total of 38 gallons
+-   Fuel is gravity fed to the selector valve, then through a fuel strainer and
+    then to the carburetor
+-   The fuel selector value should be used as follows:
+    -   BOTH for takeoff, landing, or anything maneuver involving prolonged
+        slips/skids
+    -   LEFT or RIGHT for cruising flight
+
+## Electrical System
+
+The electrical system consists of a 14-volt DC system, powered by an
+engine-drive alternator. A 12-volt battery is located on the left-hand portion
+of the firewall.
+
+There are two buses, one for general electrical equipment, and on for electronic
+equipment. When the ignition/starter switch is turned on, a power contactor
+opens the electronic bus circuit, preventing harmful voltage from damaging the
+electronics.
+
+The master switch consists of two halves:
+
+-   Left half controls the alternator connection to the system
+-   Right half controls the battery connection to the system
+
+The ammeter will show a positive charge when the battery is charging, and a
+negative charge when it is discharging faster than the alternator can charge it.
+
+There is an over-voltage system, which includes a warning light labelled HIGH
+VOLTAGE.
+
+-   When the light is on, the system has removed the alternator from the
+    electrical system.
+-   If this occurs resetting the alternator (turning the master off then on),
+    may reset the alternator in some cases.
+-   This can also be tested by momentarily turning off the ALT portion of the
+    master.
+
+### Circuit Breakers
+
+Most circuits are protected via "push to reset" circuit breakers on the front of
+the instrument panel. Exceptions are:
+
+-   Clock
+-   Hobbs meter
+-   Cigarette lighter
+
+### Lighting
+
+Lighting consists of:
+
+-   Flashing red beacon
+-   Navigation lights on each wingtip
+-   Landing and taxi light in the front cowling
+-   Overhead dome light
+
+## Wing Flaps
+
+Wing flaps are electrically operated by a motor in the right wing.
+
+-   The flaps operate in a 0&deg; to 40&deg; range.
+-   Full extension of the flaps takes approximated 9 seconds
+-   Full retraction of the flaps takes approximately 7 seconds
+-   The three-way switch can be returned to the center position once the flaps
+    are up
+-   If side slips are used with full rudder deflection and flaps more than
+    30&deg;, some elevator oscillation may be felt. However, this does not
+    affect the control of the aircraft.
+
+## Heat and Ventilation
+
+-   Front cabin heat and ventilation are provided via outlet hoses under the
+    pilots' feet.
+-   Rear cabin heat and ventilation comes from hoses which end on each side of
+    the rear cabin at floor level
+-   Window defrost air is supplied by a duct leading from the cabin manifold
+
+## Seatbelts
+
+-   Shoulder and lap belts are provided for the front seats
+-   Lap belts are provided for the rear seats
+
+## Operations
+
+### Starting
+
+-   Open throttle 1/8" inch
+-   1-2 strokes of primer should be sufficient in warm weather
+-   Up to 6 strokes may be necessary in cold temperatures
+-   If the engine is warm, no priming is required
+-   Oil pressure should be up within 30 second of starting in warm weather, or
+    about 60 second in very cold weather. Otherwise, stop the engine
+
+#### Cold-Weather Starting
+
+-   Prior to starting, pull the propeller through several times
+-   Use an engine preheater in extremely cold weather
+
+### Taxiing
+
+-   Carb heat should always be off for ground operations, as the intake air is
+    unfiltered with carb heat on.
+
+### Takeoff
+
+-   When taking off at >3000' MSL, the mixture should be leaned for max RPM in
+    the runwup prior to takeoff.
+-   Normal and obstacle clearance takeoffs are performed with wing flaps up
+-   10&deg; of flaps may be used for soft/rough fields, or where a minimum
+    ground run is desireable.
+    -   In this case, use a obstacle clearance speed of 65 MPH
+-   Crosswind takeoffs are performed
+    -   With minimum flaps
+    -   Allow the airplane to accelerate slightly more than usually
+    -   Abruptly pull the airplane off the runway to prevent it settling back
+        down
+
+### Climbs
+
+-   Climb at 80-90 MPH
+-   Mixture should be full rich below 3000' MSL
+-   Mixture should be leaned for max RPM and smooth engine operation above 3000'
+
+### Cruise
+
+-   Cruise between 65% and 75% power
+
+### Carbuerator Ice
+
+Carb ice is evidence by an unexplained drop in RPM.
+
+-   It can redmedied by full application of carb heat.
+-   Afterwards, use the minimum amount of heat necessary to form icing.
+-   Use full carb heat during flight in heavy rain
+-   In extremely heavy rain, partial carb heat and partial throttle may be
+    needed to maintain power
+
+### Stalls
+
+-   The stall horn will come upon around 5-10 MPH above stall in all
+    configurations
+
+### Spins
+
+Spin recovery is performed:
+
+1. Retard the throttle to idle.
+2. Apply full opposite rudder in the opposite direction of the turn.
+3. Move the control wheel forward in a brisk motion.
+4. Neutralize the rudder as the rotation stops, and make a smooth recovery from
+   the dive
+
+### Landings
+
+-   Short field landings are done with power off, 40 &deg; of flaps, and
+    approximately 69 MPH airspeed.
+-   Crosswind landings should be done with minimum flap setting
+-   With average pilot technique, a direct crosswind of **15 knots** can be
+    handled safely.
+
+## Go-Arounds
+
+1. Apply full power
+2. Reduce wing flaps to 20&deg;
+3. Once a safe altitude is reached above obstacles, retract the reset of the
+   flaps.
+
+## Emergency Procedures
+
+### Electrial Power System Malfunctions
+
+-   Excessive rate of charge
+    -   The ammeter should show less than two needle-widths of charge once
+        established in cruise flight.
+    -   If the charge reaches 16 volts, the protection system will shut off the
+        alternator
+-   Insufficient rate of charge
+    -   Usually caused by a alternator failure, or failure of the alternator
+        belt
+    -   In this case, load-shed off the battery and land
+
+### Rough Engine or Loss of Power
+
+-   Gradual loss of RPM is usually indicative of carburetor ice
+-   Spark plug fouling is indicated by rough, low power engine when operating on
+    one set of magnetos
+    -   If the problem persists, try operating a leaner mixture
+
+### Magneto Malfunction
+
+Sudden engine roughness is usually evidence of magneto problems. Switch from
+LEFT or RIGHT to determine which set is malfunctioning, then run on the good
+side. Land as soon as you can.
+
+### Low Oil Pressure
+
+-   Can be caused by th oil pressure gauge malfunctioning
+-   A leak in the line to the gauge isn't necessarily an emergency, as there is
+    an orifice that prevents a sudden loss of oil from the engine sump
+-   A loss of pressure and a rise in oil temperature is reason to suspect an
+    imminent engine failure:
+    -   Reduce power and select a suitable forced landing field
+
+### Engine Fire While Starting
+
+-   Continue cranking the engine until start
+-   If the engine starts, run at 1700 RPM for a few minutes before shutting down
+-   If the engine does not start, continue cranking until fire extinguishers can
+    be obtained
+
+### Engine Fire in Flight
+
+1. Mixture to idle cutoff
+2. Turn off fuel selector valve
+3. Master switch off
+4. Establish a 120 MPH glide
+5. Close cabin heat
+6. If fire does not extinguish, find an airspeed that results in an
+   incombustible mixture
+7. Execute a forced landing
+
+## Engine
+
+150 HP Lycoming O-320-E2D
+
+### Oil
+
+-   Oil type: SAE 20
+-   Do not operate with less than 6 quarts of oil
+-   Fill to 8 quarts for extended flights
+
+## Landing Gear
+
+-   Tire Pressures:
+    -   Nose Wheel: 231 PSI
+    -   Main Wheels 29 PSI
+-   Nose gear Shock:
+    -   Keep filled with hydraulic fluid and inflated with air to 45 PSI
+
+## Weight and Balance
+
+<WeightAndBalanceTable
+    airplaneEmptyWeightLbs={1396.5}
+    airplaneEmptyCgInches={40.0821}
+    stations={[
+        {
+            label: 'Oil',
+            weightLbsDefault: 15,
+            armInches: -13.3,
+            editable: false,
+        },
+        {
+            label: 'Fuel (at 6 lbs/gal)',
+            weightLbsDefault: 228,
+            armInches: 48,
+        },
+        { label: 'Pilot', weightLbsDefault: 150, armInches: 37 },
+        { label: 'Copilot', weightLbsDefault: 150, armInches: 37 },
+        { label: 'Rear Passenger 1', weightLbsDefault: 150, armInches: 73 },
+        { label: 'Rear Passenger 2', weightLbsDefault: 150, armInches: 73 },
+        { label: 'Rear Baggage', weightLbsDefault: 150, armInches: 95 },
+    ]}
+/>
+
+## Speeds
+
+-   V<sub>x</sub>: 74 MPH
+-   V<sub>y</sub>: 90 MPH
+-   V<sub>y</sub> (10,000' MSL): 79 MPH
+-   V<sub>A</sub>: 112 MPH
+-   V<sub>N0</sub>: 145 MPH
+-   V<sub>FE</sub>: 100 MPH
+-   V<sub>NE</sub>: 182 MPH
+-   Maneuver entry speeds:
+    -   Chandelles: 120 MPH
+    -   Lazy 8's: 120 MPH
+    -   Steep Turns: 112 MPH
+
+## AD's
