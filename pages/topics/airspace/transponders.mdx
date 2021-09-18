@@ -1,0 +1,66 @@
+import Link from 'next/link'
+import CardWrapper from '../../../components/CardWrapper.tsx'
+import Reg from '../../../components/Reg.tsx'
+import Acronym, { AcronymRow } from '../../../components/Acronym.tsx'
+
+export default CardWrapper
+
+# Transponder and ADS-B Requirements
+
+For the airspace listed below, aircraft are required to have one of:
+
+-   Mode A transponder (squawk code only)
+-   Mode S transponder (used on advanced aircraft for TCAS)
+-   Mode C transponder (with pressure altitude encoding)
+
+And an ADS-B out source operating on:
+
+-   1090 MHz Extended Squitter (TSO-C166b)
+-   978 MHz Universal Access Transceiver (UAT) (TSO-C154c)
+
+<Reg part="91.215(b)" />
+<Reg part="91.225(a)" />
+
+## Transponder Operation
+
+If you have an operational transponder and ADS-B out solution, then it must be
+operated at all time in controlled airspace.
+
+<Reg part="91.215(c)" />
+<Reg part="91.225(f)" />
+
+## Required Airspace
+
+-   Within Class A, B and C airspace
+-   Above the lateral bounds of Class B and C airspace
+-   Within 30nm of a Class B airport (the Mode C Veil), up to 10,000' MSL
+-   At and above 10,000' MSL over the contiguous states, excluding the airspace
+    at and below 2,500' AGL
+-   Class E airspace at and above 3000' MSL, over the Gulf of Mexico from the
+    coastline of the United States out to 12 nautical miles
+
+<Reg part="91.215(b)" />
+<Reg part="91.225(d)" />
+
+## Exceptions
+
+Aircraft that were not originally certificated with an engine-driven electrical
+system or which has not subsequently been certified with such a system
+installed, balloon, or glider.
+
+## ATC Deviations
+
+ATC deviations from these requirement (for both Mode C transponder and ADS-B
+out), can be made in several scenarios:
+
+-   If you have an operational transponder that isn't Mode C, you can request a
+    deviation at any time
+-   If you have an inoperative transponder/ADS-B out source, and you are
+    travelling to a destination (including any intermediate stops) where repairs
+    can be made, you can request a deviation at any time
+-   If your aircraft is not equipped with a transponder or ADS-B position
+    source, you can request a deviation at least **1 hour** before your proposed
+    operation
+
+<Reg part="91.215(d)" />
+<Reg part="91.225(f)" />

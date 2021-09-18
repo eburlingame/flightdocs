@@ -1,0 +1,21 @@
+import Link from 'next/link'
+import CardWrapper from '../../../components/CardWrapper.tsx'
+import Reg from '../../../components/Reg.tsx'
+import Acronym, { AcronymRow } from '../../../components/Acronym.tsx'
+
+export default CardWrapper
+
+# Uncontrolled Airspace
+
+Class G airspace (uncontrolled) is that portion of airspace that has not been
+designated as Class A, Class B, Class C, Class D, or Class E airspace.
+
+Minimum flight visibility and distance from clouds required for VFR flight are
+contained in <Reg part="91.155" />.
+
+export const references = [
+    {
+        name: 'AIM Chapter 3, Section 3',
+        link: 'https://www.faa.gov/air_traffic/publications/atpubs/aim_html/chap3_section_3.html',
+    },
+]
