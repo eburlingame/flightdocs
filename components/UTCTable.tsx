@@ -86,7 +86,9 @@ const UTCTable = ({}: UTCTableProps) => {
                 style={{ marginBottom: '1em' }}
             >
                 {timezones.map((zone, index) => (
-                    <option value={index}>{zone.name}</option>
+                    <option value={index} key={index}>
+                        {zone.name}
+                    </option>
                 ))}
             </select>
 
@@ -106,7 +108,7 @@ const UTCTable = ({}: UTCTableProps) => {
                 </thead>
                 <tbody>
                     {range(0, 12).map((index) => (
-                        <tr>
+                        <tr key={index}>
                             <td>{index}:00Z</td>
                             <td>
                                 {hourOf(index, timezones[timezoneIndex].offset)}
