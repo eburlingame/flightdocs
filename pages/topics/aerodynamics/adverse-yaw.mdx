@@ -1,0 +1,41 @@
+import Link from 'next/link'
+import CardWrapper from '../../../components/CardWrapper.tsx'
+import Reg from '../../../components/Reg.tsx'
+import Acronym, { AcronymRow } from '../../../components/Acronym.tsx'
+import EncodedDataExplainer, {
+    EncodedDataWord,
+} from '../../../components/EncodedDataExplainer.tsx'
+import StandardAtmosphereSlider from '../../../components/widgets/StandardAtmosphereSlider.tsx'
+
+import lOverDImg from '../../../images/l-over-d-curve.png'
+
+export default CardWrapper
+
+# Adverse Yaw
+
+Adverse yaw is the tendency for an airplane to yaw in the opposite direction of
+a bank. For example, if you roll to the right, you'll experience an adverse
+yawing moment to the left.
+
+This is because the lower wing (the inside wing) momentarily producing _less_
+lift than it was previously. This decrease in lift also comes with a decrease in
+induced drag, and the wing has a tendency to move forward.
+
+Likewise the outside wing is momentarily producing _more_ lift, which causes an
+increase in induced drag and "pulls" the wing backward.
+
+## Counteracting Adverse Yaw
+
+Most light airplanes are fitted with differential ailerons to counteract the
+effects of adverse yaw. With these, the upward alerion travels further upward
+than the downward aileron travels downward. This deceases the amount of drag
+produced by the upward moving wing.
+
+As always though, rudder input will still be required to coordinate the turn.
+
+export const references = [
+    {
+        name: "Pilot's Handbook of Aeronautical Knowledge",
+        link: 'https://www.faa.gov/regulations_policies/handbooks_manuals/aviation/phak/media/07_phak_ch5.pdf',
+    },
+]
