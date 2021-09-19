@@ -1,0 +1,42 @@
+import Link from 'next/link'
+import CardWrapper from '../../../components/CardWrapper.tsx'
+import Footnotes from '../../../components/Footnotes.tsx'
+import Reg from '../../../components/Reg.tsx'
+import Acronym, { AcronymRow } from '../../../components/Acronym.tsx'
+
+export default CardWrapper
+
+# Minimum Safe Altitudes
+
+<Reg part="91.119" /> states that no one can operate an airplane below an altitude
+such that:
+
+-   Anywhere: If a power unit fails, an emergency landing without undue hazard
+    to persons or property on the surface.
+-   Over congested areas\*: 1000' above the highest obstacle, within a 2000'
+    radius of the aircraft
+-   Over noncongested areas: 500' above the surface, except over open water or
+    sparsely populated areas.
+    -   In this case, cannot be more than 500' from any person, vessel vehicle,
+        or structure
+
+## Under IFR
+
+<Reg part="91.177" /> states that no person may operate and aircraft under IFR below:{' '}
+
+-   The minimum altitude for the route or segment (usually the MEA or MOCA),
+    except for takeoff and landing
+-   If no minimum IFR altitude is defined, then:
+    -   Over mountainous terrain: **2,000** feet above the highest obstacle
+        within a horizontal distance of **4nm** from the course flown
+    -   Over nonmountainous terrain: **1,000** feet above the highest obstacle
+        within a horizontal distance of **4nm** from the course flown
+
+<Footnotes>* Can be denoted by yellow shading on a sectional.</Footnotes>
+
+export const references = [
+    {
+        name: 'FAA Order JO 7110.65Z',
+        link: 'https://www.faa.gov/air_traffic/publications/atpubs/atc_html/chap7_section_5.html',
+    },
+]
