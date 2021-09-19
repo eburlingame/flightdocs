@@ -67,7 +67,7 @@ const UTCTable = ({}: UTCTableProps) => {
     const [timezoneIndex, setTimezoneIndex] = useState(5)
 
     const hourOf = (zuluHour: number, offset: number) => {
-        const changed = zuluHour - offset
+        const changed = zuluHour + offset
 
         if (changed < 0) {
             return changed + 24
