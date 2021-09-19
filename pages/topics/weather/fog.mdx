@@ -1,0 +1,55 @@
+import Link from 'next/link'
+import CardWrapper from '../../../components/CardWrapper.tsx'
+import Reg from '../../../components/Reg.tsx'
+import Acronym, { AcronymRow } from '../../../components/Acronym.tsx'
+import StandardAtmosphereSlider from '../../../components/widgets/StandardAtmosphereSlider.tsx'
+
+export default CardWrapper
+
+# Fog
+
+Fog forms when a small temperature-dewpoint spread exists.
+
+## Radiation Fog
+
+Radiation fog forms over land area when the Earth is cooled due to energy
+radiating into space. This cooling reduces the air temperature the dewpoint or
+below, and often occurs on clear, windless nights. Radiation fog is generally a
+nighttime occurrence and often does not dissipate until after sunrise.
+
+## Advection Fog
+
+Advection fog forms when moist air moves over a colder surface. This is common
+in coastal areas, where moist air from the water is blown onto the relatively
+cool land.
+
+Advection fog can move deep into continental land area. Strong winds can push
+the fog into a layer of low stratus clouds.
+
+## Upslope Fog
+
+Upslope fog forms as a result of moist, stable air being adiabatically cooled to
+or below its dewpoint as it moves up sloping terrain.
+
+## Frontal Fog
+
+When warm, moist air is lifted over a front, clouds and precipitation may form.
+If the cold air below is near its dewpoint, evaporation (or sublimation) from
+the precipitation may saturate the cold air and form fog.
+
+## Steam Fog
+
+When very cold air moves across relatively warm water, enough moisture may
+evaporate from the water surface to produce saturation. As the rising water
+vapor meets the cold air, it immediately recondenses and rises with the air that
+is being warmed from below.
+
+Because the air is destabilized, fog appears as rising filaments or streamers
+that resemble steam.
+
+export const references = [
+    {
+        name: 'AC 00-06B',
+        link: 'https://www.faa.gov/documentLibrary/media/Advisory_Circular/AC_00-6B.pdf',
+    },
+]

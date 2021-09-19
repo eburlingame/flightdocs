@@ -1,0 +1,38 @@
+import Link from 'next/link'
+import CardWrapper from '../../../components/CardWrapper.tsx'
+import Reg from '../../../components/Reg.tsx'
+import Acronym, { AcronymRow } from '../../../components/Acronym.tsx'
+import EncodedDataExplainer, {
+    EncodedDataWord,
+} from '../../../components/EncodedDataExplainer.tsx'
+
+export default CardWrapper
+
+# Flight Plans
+
+A VFR flight plans can be opened via flight service (either though a phone call,
+or though a flight service frequency), or through an app like ForeFlight. On IFR
+flight to an airport with a control tower, the control tower will close your IFR
+flight plan for you.
+
+Search and rescue procedures are commenced 30 minutes after your expected
+arrival time, if the flight plan has not been closed.
+
+IFR flight plans are usually deleted from ATC systems 2 hours after the proposed
+departure time.
+
+# DVFR Flight Plans
+
+For VFR flights into the U.S. Air Defense Identification Zone (ADIZ), a
+Defense-VFR flight plan must be filed.
+
+A VFR flight plan filed inflight makes an aircraft subject to interception for
+identification. Pilots are urged to file the DVFR flight plan either in person
+or by telephone prior to departure.
+
+export const references = [
+    {
+        name: 'AIM Chapter 5, Section 1',
+        link: 'https://www.faa.gov/air_traffic/publications/atpubs/aim_html/chap5_section_1.html',
+    },
+]

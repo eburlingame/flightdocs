@@ -1,15 +1,15 @@
-import { createGlobalStyle } from "styled-components";
+import { createGlobalStyle } from 'styled-components'
 
 // https://coolors.co/044389-e0fbfc-ee6c4d-f0c808-5995ed
 export const theme = {
-  colors: {
-    blue: "#044389",
-    lightBlue: "#5995ED",
-    orange: "#EE6C4D",
-    yellow: "#F0C808",
-    offWhite: "#E0FBFC",
-  },
-};
+    colors: {
+        blue: '#044389',
+        lightBlue: '#5995ED',
+        orange: '#EE6C4D',
+        yellow: '#F0C808',
+        offWhite: '#E0FBFC',
+    },
+}
 
 export const GlobalStyle = createGlobalStyle`
 html,
@@ -41,6 +41,10 @@ a {
   text-decoration: none;
 }
 
+blockquote {
+  font-weight: 600;
+  font-size 1.15em;
+}
 
 * {
   box-sizing: border-box;
@@ -80,4 +84,4 @@ td {
 }
 
 
-`;
+`
