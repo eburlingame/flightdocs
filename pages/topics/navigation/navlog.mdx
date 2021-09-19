@@ -5,25 +5,97 @@ import Acronym, { AcronymRow } from '../../../components/Acronym.tsx'
 import EncodedDataExplainer, {
     EncodedDataWord,
 } from '../../../components/EncodedDataExplainer.tsx'
-import StandardAtmosphereSlider from '../../../components/widgets/StandardAtmosphereSlider.tsx'
+import navlogImage from '../../../images/navlog.png'
 
 export default CardWrapper
 
-# Computing Course and Groundspeed
+# Completing a Navlog
 
-As part of filling out a navlog, pilots will need to estimate magnetic course to
-fly and ground speed based on the aircraft's performance and winds aloft.
+As part of filling out a navlog, pilots will need to estimate the magnetic
+course to fly, and ground speed based on the aircraft's performance and winds
+aloft.
 
-After you've determined your route of flight, start filling in the rest of the
-navlog.
+Before you can fill out the navlog, you will need to have:
 
-## Step 1: Determine True Course Between Legs
+-   Your route of flight
+-   Your cruising altitude
+-   The winds and temperatures aloft (probably from a weather briefing)
+-   The cruise performance table of the aircraft's manual
+-   The compass card for your airplane
 
-## Step 2:
+<img {...navlogImage} />
+
+## Step 1: Determine True Course and Distance Between Legs
+
+First, determine the true course between. This is course relative to true north,
+and can be determined using a plotting tool on a section, or with a mapping
+tool.
+
+Next, determine the distance in NM. Note this on your navlog in the leg distance
+columns.
+
+## Step 2: Determine the Winds and Temperatures Aloft for the Leg
+
+Using a winds aloft forecast from your weather briefing, determine the estimated
+wind direction, velocity, and temperature aloft. Record these in the Wind Dir.,
+Vel., and Temp columns.
+
+## Step 3: Determine True Airspeed for Cruise
+
+Using the table in the aircraft's manual, your cruising altitude, and
+temperature aloft, estimate the true airspeed at which you will be travelling on
+this leg. Record this number in the TAS column.
+
+Also, look for the fuel burn rate on the chart, and note this in the GPH in the
+fuel column.
+
+## Step 4: Compute the True Heading
+
+Using your E6B, compute the wind correction angle. This uses the wind direction,
+wind speed, true course, and true airspeed to compute an offset of your course
+which accounts for wind drift. This is called the Wind Correction Angle (WCA),
+note it in the WCA column.
+
+This step will also compute a groundspeed. Note this in the estimated ground
+speed (GS) column.
+
+Add the WCA to your true course to get the true heading (TC), note this in the
+TC column.
+
+## Step 5: Compute Magnetic Heading
+
+Next, look at the section for straight magenta dashed lines. These lines are
+called isogonic lines, or lines of equal magnetic variation. Find the one
+closest to your route segment.
+
+-   If the line is labelled something like 15&deg; E then you will **subtract**
+    the offset
+-   Likewise if it says something like 5&deg; W, **add** the offset
+
+This is converting your true heading to a magnetic heading. Not this offset in
+the Var. column, and then add or subtraact it to the true heading to get your
+magnetic heading (MH). Note this in the MH column.
+
+## Step 6: Determine the Magnetic Deviation
+
+Using the compass card for your airplane, determine the magnetic deviation. This
+is accounting for errors from magnetic fields present in your airplane. Note the
+correction in the TH Dev. column, and then add it to your magnetic heading to
+determine your course heading (CH).
+
+## Step 7: Compute Time Enroute and Fuel Burn
+
+Now that we know our groundspeed and distance, we can compute our estimated time
+enroute (ETE) for this leg. Simply divide the distance (in NM) by the ground
+speed (in knots) to determine the time in hours. Multiple this by 60 to get
+minutes, if you prefer.
+
+Next multiple your fuel burn rate (in gallons per hour) by your time enroute for
+that leg (in hours) to compute the estimated gallons of fuel you will burn.
 
 export const references = [
     {
-        name: '',
-        link: '',
+        name: "Pilot's Handbook of Aeronautical Knowledge, Chapter 16",
+        link: 'https://www.faa.gov/regulations_policies/handbooks_manuals/aviation/phak/media/18_phak_ch16.pdf',
     },
 ]
