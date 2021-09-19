@@ -14,7 +14,7 @@ const ContentsPage = ({ pages }: ContentsPageProps) => {
             <ul>
                 {pages.map((page) => (
                     <li key={page.path}>
-                        <a href={page.path}>{page.title}</a>
+                        <Link href={page.path}>{page.title}</Link>
                     </li>
                 ))}
             </ul>
