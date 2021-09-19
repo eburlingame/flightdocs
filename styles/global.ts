@@ -78,7 +78,7 @@ tr {
   }
 }
 
-td {
+td, th {
   vertical-align: middle;
   padding: 0.5em;
 }
