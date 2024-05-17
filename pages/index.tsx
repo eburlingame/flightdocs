@@ -7,7 +7,18 @@ const HomePage = () => {
             <Link href="/contents">All Content</Link>
             <div>
                 <h1>Outlines</h1>
-                <Link href="/outlines/commercial">Commercial Outline</Link>
+                <ul>
+                    <li>
+                        <Link href="/outlines/commercial">
+                            Commercial Outline
+                        </Link>
+                    </li>
+                    <li>
+                        <Link href="/outlines/flightreview">
+                            Flight Review Outline
+                        </Link>
+                    </li>
+                </ul>
             </div>
         </Layout>
     )

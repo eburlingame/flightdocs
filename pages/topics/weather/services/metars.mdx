@@ -17,7 +17,7 @@ standardized format.
 METARs include:
 
 -   Day of the month and zulu time of observation
--   Wind
+-   Wind (given relative to true north)
 -   Visibility
 -   Cloud cover (ceilings given in AGL)
 -   Temperature and dewpoint
@@ -37,7 +37,10 @@ Some example METARs:
             meaning:
                 'Observation time is 14:00 Zulu on the first day of the month',
         },
-        { text: '11010KT', meaning: 'Wind is 110 at 10 knots' },
+        {
+            text: '11010KT',
+            meaning: 'Wind is out of 110 degrees true at 10 knots',
+        },
         { text: '10SM', meaning: 'Visibility is 10 statute miles' },
         { text: 'BKN011', meaning: 'Ceiling is broken at 1,100 ft. AGL' },
         { text: 'OVC029', meaning: 'Overcast layer at 2,900 ft. AGL' },
