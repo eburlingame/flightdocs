@@ -1,7 +1,7 @@
 export type OutlineSection = {
   title: string
   page: string
-  children?: OutlineSection[]
+  subsections?: OutlineSection[]
 }
 
 export type InteractiveOutlineProps = {
@@ -9,14 +9,22 @@ export type InteractiveOutlineProps = {
   indent?: number
 }
 
-const InteractiveOutline = ({ sections, indent }: InteractiveOutlineProps) => {
+const InteractiveOutline = ({
+  sections,
+  indent = 0,
+}: InteractiveOutlineProps) => {
   return (
-    <div>
+    <div style={{ marginLeft: `${indent * 1.5}em` }}>
       {sections.map((section, index) => (
-        <div key={index}>
+        <div key={section.page}>
+          <input type="checkbox" style={{ marginRight: '1em' }} />
           <a href={section.page}>{section.title}</a>
-          {section.children && (
-            <InteractiveOutline sections={section.children} />
+
+          {section.subsections && (
+            <InteractiveOutline
+              sections={section.subsections}
+              indent={index + 1}
+            />
           )}
         </div>
       ))}

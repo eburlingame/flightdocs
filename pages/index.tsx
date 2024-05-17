@@ -15,7 +15,7 @@ const HomePage = () => {
             <Link href="/outlines/flightreview">Flight Review Outline</Link>
           </li>
           <li>
-            <Link href="/outlines/highperformane">
+            <Link href="/outlines/highperformance">
               High-Performance Outline
             </Link>
           </li>
