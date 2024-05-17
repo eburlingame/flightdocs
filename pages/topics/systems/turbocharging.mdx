@@ -2,11 +2,72 @@ import Link from 'next/link'
 import CardWrapper from '../../../components/CardWrapper.tsx'
 import Reg from '../../../components/Reg.tsx'
 import Acronym, { AcronymRow } from '../../../components/Acronym.tsx'
-import cspImage from '../../../images/constant-speed-prop-diagram.png'
+import turboImg from '../../../images/turbocharger.png'
 
 export default CardWrapper
 
-# Turbocharging
+# Turbocharging and Supercharging
 
+A turbocharger is a device that increases the horsepower by compressing the
+intake air before it enters the engine.
 
+Turbocharging can be done in two ways:
 
+- A **supercharger** relies on an engine-driven air pump or compressor
+- A **turbocharger** relies on a turbine driven by the engine's exhaust gases
+
+## Turbochargers
+
+Turbochargers utilize a turbine which is powered by the engine's exhaust gases.
+This turbine is used to drive a compressor which compresses the engine's intake
+air, which allows the engine to burn more fuel and produce more power.
+
+Since air density decreases with altitude, turbochargers can be used to get
+sea-level-like performance at high altitudes.
+
+<img {...turboImg} />
+
+### Components
+
+- **Turbine**: Driven by the engine's exhaust gases
+- **Compressor**: Connected to the turbine by a shaft, compresses the intake air
+- **Wastegate**: Controls the boost pressure by limiting how much air bypasses
+  the turbine
+- **Intercooler**: Cools the compressed air before it enters the engine, only in
+  some turbocharged engines
+
+### Types of Turbochargers
+
+- **Altitude turbocharging or turbonormalizing**: Used to maintain sea-level
+  performance at high altitudes
+- **Ground boosting**: Compresses intake air to pressures higher than sea level
+  to increase power output
+
+The type of turbocharging system depends on the engine's rating.
+
+### Types of Wastegates
+
+- **Automatic waste gate**: Uses a linkage to the throttle to control the boost
+  pressure, or a engine-oil pressure actuator
+- **Manual waste gate**: Controlled by a separate control in the cockpit
+- **Fixed waste gates**: The waste gate is fixed to a certain bypass
+  configuration. Care must be taken to ensure that the engine does not
+  overboost.
+
+### Overboosting
+
+Overboosting occurs when the turbocharger produces more boost pressure than the
+engine can handle. This can cause detotation and engine damage.
+
+This can occur in a manual waste-gate system if the waste gate is not opened
+while descending from a high altitude.
+
+It is also important for engine oil to be at the correct temperature before
+applying takeoff power. The turbine can spin as high as 80,000 RPM, so the
+bearings in the system must be continuously lubricated by engine oil.
+
+### Critical Altitude
+
+The critical altitude is the altitude at which the turbocharger can no longer
+maintain sea-level-like performance. This is the point at which the turbine can
+no longer compress the air to sea-level density.

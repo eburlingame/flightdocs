@@ -1,6 +1,6 @@
 export type OutlineSection = {
   title: string
-  page: string
+  page?: string
   subsections?: OutlineSection[]
 }
 
@@ -18,7 +18,14 @@ const InteractiveOutline = ({
       {sections.map((section, index) => (
         <div key={section.page}>
           <input type="checkbox" style={{ marginRight: '1em' }} />
-          <a href={section.page}>{section.title}</a>
+
+          <>
+            {section.page ? (
+              <a href={section.page}>{section.title}</a>
+            ) : (
+              <>{section.title}</>
+            )}
+          </>
 
           {section.subsections && (
             <InteractiveOutline
