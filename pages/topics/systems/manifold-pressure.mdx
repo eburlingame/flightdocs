@@ -2,40 +2,47 @@ import Link from 'next/link'
 import CardWrapper from '../../../components/CardWrapper.tsx'
 import Reg from '../../../components/Reg.tsx'
 import Acronym, { AcronymRow } from '../../../components/Acronym.tsx'
+import manifoldPressureGauge from '../../../images/manifold-pressure-gauge.png'
+import mapPoh from '../../../images/manifold-cruise-performance.png'
 
 export default CardWrapper
 
-# Detonation
+# Manifold Pressure
 
-Detonation is an uncontrolled, explosive ignition of the fuel-air mixture within
-the cylinder’s combustion chamber. It causes excessive temperatures and
-pressures which, if not corrected, can quickly lead to failure of the piston,
-cylinder, or valves.
+On aircraft equipped with a constant-speed propeller, power output is controlled
+by the throttle and indicated by a manifold pressure gauge. The gauge measures
+the absolute pressure of the fuel-air mixture inside the intake manifold and is
+more correctly a measure of **manifold absolute pressure (MAP)**.
 
-It's often caused by:
+<img {...manifoldPressureGauge} />
 
-- Use of a lower fuel grade than that specified by the aircraft manufacturer
-- Operation of the engine with extremely high manifold pressures in conjunction
-  with low rpm
-- Operation of the engine at high power settings with an excessively lean
-  mixture
+- When the engine is not running, the manifold pressure gauge will read
+  approximately ambient pressure.
+- When the engine is started, the manifold pressure indication decreases to a
+  value less than ambient pressure (i.e., idle at 12 "Hg)
+- Engine failure or power loss is indicated on the manifold gauge as an increase
+  in manifold pressure to a value corresponding to the ambient air pressure at
+  the altitude where the failure occurred.
 
-# Preignition
+### MAP and RPM
 
-Preignition occurs when the fuel-air mixture ignites prior to the engine’s
-normal ignition event.
+For any given rpm, there is a manifold pressure that should not be exceeded. If
+manifold pressure is excessive for a given rpm, the pressure within the
+cylinders could be exceeded, placing undue stress on the cylinders.
 
-Premature burning is usually caused by a residual hot spot in the combustion
-chamber, often created by:
+- When **lowering power**, reduce throttle first, then adjust propeller pitch to
+  maintain rpm.
+- When **increasing power**, adjust propeller RPM first, then increase throttle
+  to maintain rpm.
 
-- a small carbon deposit on a spark plug
-- a cracked spark plug insulator
-- other damage in the cylinder that causes a part to heat sufficiently to ignite
-  the fuel-air mixture
+For a given rpm, the manifold pressure should be set to the value specified in
+the aircraft's operating handbook.
+
+<img {...mapPoh} />
 
 export const references = [
   {
     name: "Pilot's Handbook of Aeronautical Knowledge, Chapter 7",
-    link: 'https://www.faa.gov/regulations_policies/handbooks_manuals/aviation/phak/media/09_phak_ch7.pdf',
+    link: 'https://www.faa.gov/sites/faa.gov/files/09_phak_ch7.pdf',
   },
 ]
