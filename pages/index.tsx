@@ -20,6 +20,15 @@ const HomePage = () => {
             </Link>
           </li>
         </ul>
+        <h1>Scenarios</h1>
+        <ul>
+          <li>
+            <Link href="/scenarios/c172m-deep-dive">Cessna 172M Deep Dive</Link>
+          </li>
+          <li>
+            <Link href="/scenarios/t182-deep-dive">Cessna T182 Deep Dive</Link>
+          </li>
+        </ul>
       </div>
     </Layout>
   )
