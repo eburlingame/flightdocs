@@ -3,7 +3,7 @@ import CardWrapper from '../../../../components/CardWrapper.tsx'
 import Reg from '../../../../components/Reg.tsx'
 import Acronym, { AcronymRow } from '../../../../components/Acronym.tsx'
 import EncodedDataExplainer, {
-    EncodedDataWord,
+  EncodedDataWord,
 } from '../../../../components/EncodedDataExplainer.tsx'
 import StandardAtmosphereSlider from '../../../../components/widgets/StandardAtmosphereSlider.tsx'
 
@@ -16,13 +16,13 @@ standardized format.
 
 METARs include:
 
--   Day of the month and zulu time of observation
--   Wind (given relative to true north)
--   Visibility
--   Cloud cover (ceilings given in AGL)
--   Temperature and dewpoint
--   Altimeter
--   Remarks
+- Day of the month and zulu time of observation
+- Wind (given relative to true north)
+- Visibility
+- Cloud cover (ceilings given in AGL)
+- Temperature and dewpoint
+- Altimeter
+- Remarks
 
 METARs are published hourly, however if conditions change rapidly, a SPECI
 report may be issued.
@@ -30,42 +30,38 @@ report may be issued.
 Some example METARs:
 
 <EncodedDataExplainer
-    words={[
-        { text: 'KGRI', meaning: 'Observation for the KGRI airport' },
-        {
-            text: '011400Z',
-            meaning:
-                'Observation time is 14:00 Zulu on the first day of the month',
-        },
-        {
-            text: '11010KT',
-            meaning: 'Wind is out of 110 degrees true at 10 knots',
-        },
-        { text: '10SM', meaning: 'Visibility is 10 statute miles' },
-        { text: 'BKN011', meaning: 'Ceiling is broken at 1,100 ft. AGL' },
-        { text: 'OVC029', meaning: 'Overcast layer at 2,900 ft. AGL' },
-        {
-            text: '19/16',
-            meaning: <>Temperature 19&deg; C, dewpoint 16&deg; C</>,
-        },
-        { text: 'A2993', meaning: 'Altitude setting is 29.93" Hg' },
-        { text: 'RMK', meaning: 'Start of the remarks section' },
-        { text: 'AO2', meaning: 'Station has a precipitation discriminator' },
-        {
-            text: 'T01890161',
-            meaning: (
-                <>
-                    More accurate temperature and dewpoint: 18.9&deg; C,
-                    16.1&deg; C
-                </>
-            ),
-        },
-    ]}
+  words={[
+    { text: 'KGRI', meaning: 'Observation for the KGRI airport' },
+    {
+      text: '011400Z',
+      meaning: 'Observation time is 14:00 Zulu on the first day of the month',
+    },
+    {
+      text: '11010KT',
+      meaning: 'Wind is out of 110 degrees true at 10 knots',
+    },
+    { text: '10SM', meaning: 'Visibility is 10 statute miles' },
+    { text: 'BKN011', meaning: 'Ceiling is broken at 1,100 ft. AGL' },
+    { text: 'OVC029', meaning: 'Overcast layer at 2,900 ft. AGL' },
+    {
+      text: '19/16',
+      meaning: <>Temperature 19&deg; C, dewpoint 16&deg; C</>,
+    },
+    { text: 'A2993', meaning: 'Altitude setting is 29.93" Hg' },
+    { text: 'RMK', meaning: 'Start of the remarks section' },
+    { text: 'AO2', meaning: 'Station has a precipitation discriminator' },
+    {
+      text: 'T01890161',
+      meaning: (
+        <>More accurate temperature and dewpoint: 18.9&deg; C, 16.1&deg; C</>
+      ),
+    },
+  ]}
 />
 
 export const references = [
-    {
-        name: 'AC 00-06B',
-        link: 'https://www.faa.gov/documentLibrary/media/Advisory_Circular/AC_00-6B.pdf',
-    },
+  {
+    name: 'AC 00-06B',
+    link: 'https://www.faa.gov/documentLibrary/media/Advisory_Circular/AC_00-6B.pdf',
+  },
 ]

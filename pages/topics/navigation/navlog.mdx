@@ -3,7 +3,7 @@ import CardWrapper from '../../../components/CardWrapper.tsx'
 import Reg from '../../../components/Reg.tsx'
 import Acronym, { AcronymRow } from '../../../components/Acronym.tsx'
 import EncodedDataExplainer, {
-    EncodedDataWord,
+  EncodedDataWord,
 } from '../../../components/EncodedDataExplainer.tsx'
 import navlogImage from '../../../images/navlog.png'
 
@@ -17,11 +17,11 @@ aloft.
 
 Before you can fill out the navlog, you will need to have:
 
--   Your route of flight
--   Your cruising altitude
--   The winds and temperatures aloft (probably from a weather briefing)
--   The cruise performance table of the aircraft's manual
--   The compass card for your airplane
+- Your route of flight
+- Your cruising altitude
+- The winds and temperatures aloft (probably from a weather briefing)
+- The cruise performance table of the aircraft's manual
+- The compass card for your airplane
 
 <img {...navlogImage} />
 
@@ -68,9 +68,9 @@ Next, look at the section for straight magenta dashed lines. These lines are
 called isogonic lines, or lines of equal magnetic variation. Find the one
 closest to your route segment.
 
--   If the line is labelled something like 15&deg; E then you will **subtract**
-    the offset
--   Likewise if it says something like 5&deg; W, **add** the offset
+- If the line is labelled something like 15&deg; E then you will **subtract**
+  the offset
+- Likewise if it says something like 5&deg; W, **add** the offset
 
 This is converting your true heading to a magnetic heading. Not this offset in
 the Var. column, and then add or subtraact it to the true heading to get your
@@ -94,8 +94,8 @@ Next multiple your fuel burn rate (in gallons per hour) by your time enroute for
 that leg (in hours) to compute the estimated gallons of fuel you will burn.
 
 export const references = [
-    {
-        name: "Pilot's Handbook of Aeronautical Knowledge, Chapter 16",
-        link: 'https://www.faa.gov/regulations_policies/handbooks_manuals/aviation/phak/media/18_phak_ch16.pdf',
-    },
+  {
+    name: "Pilot's Handbook of Aeronautical Knowledge, Chapter 16",
+    link: 'https://www.faa.gov/regulations_policies/handbooks_manuals/aviation/phak/media/18_phak_ch16.pdf',
+  },
 ]

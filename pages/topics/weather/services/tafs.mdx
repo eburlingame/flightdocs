@@ -3,7 +3,7 @@ import CardWrapper from '../../../../components/CardWrapper.tsx'
 import Reg from '../../../../components/Reg.tsx'
 import Acronym, { AcronymRow } from '../../../../components/Acronym.tsx'
 import EncodedDataExplainer, {
-    EncodedDataWord,
+  EncodedDataWord,
 } from '../../../../components/EncodedDataExplainer.tsx'
 import StandardAtmosphereSlider from '../../../../components/widgets/StandardAtmosphereSlider.tsx'
 
@@ -18,68 +18,68 @@ usually 24 hours.
 An example TAF:
 
 <EncodedDataExplainer
-    words={[
-        { text: 'TAF', meaning: 'Start of the TAF' },
-        { text: 'KLBF', meaning: 'For the KLBF airport' },
-        { text: '021145Z', meaning: 'Issued at 1145 Zulu on the 2nd' },
-        {
-            text: '0212/0312',
-            meaning: 'Valid from 12Z on the 2nd to 12Z on the 3rd',
-        },
-        {
-            text: '14014G22KT',
-            meaning:
-                'For the entire period, winds will be 140 at 14 knots, gusting to 22 knots',
-        },
-        { text: 'P6SM', meaning: 'Visibility is greater than 6 statute miles' },
-        { text: '-SHRA', meaning: 'Light rain showers' },
-        { text: 'SCT015', meaning: "Scatter clouds at 1500' AGL" },
-        { text: 'BKN040', meaning: "Broken clouds at 4000' AGL" },
-        { text: 'OVC080', meaning: "Overcast clouds at 8000' AGL" },
-        {
-            text: 'TEMPO 0212/0215',
-            meaning: 'Temporarily between 12Z and 15Z on the 2nd',
-            newLine: true,
-            indent: 1,
-        },
-        { text: 'OVC015', meaning: "Overcast clouds at 1500' AGL" },
-        {
-            text: 'FM021500',
-            meaning: 'Starting at 1500Z on the 2nd',
-            newLine: true,
-            indent: 1,
-        },
-        {
-            text: '15011G18KT',
-            meaning: 'Expect winds to be 150 at 11 knots, gusting to 18 knots',
-        },
-        { text: 'P6SM', meaning: 'Greater than 6 miles visibility' },
-        { text: 'FEW025', meaning: "Few clouds at 2500' AGL" },
-        { text: 'BKN050', meaning: "Broken clouds at 5000' AGL" },
-        {
-            text: 'FM022000',
-            meaning: 'From 20:00 Z on the 2nd',
-            newLine: true,
-            indent: 1,
-        },
-        { text: '36010KT', meaning: 'Winds will be 260 at 10 knots' },
-        { text: 'P6SM', meaning: 'Greater than 6 miles visibility' },
-        { text: 'BKN070', meaning: "Broken clouds at 7000' AGL" },
-        {
-            text: 'FM030000',
-            meaning: 'From 00:00Z on the 3rd',
-            newLine: true,
-            indent: 1,
-        },
-        { text: '02007KT', meaning: 'Wind wil be 020 at 7 knots' },
-        { text: 'P6SM', meaning: 'Greater than 6 miles visibility' },
-        { text: 'SCT250', meaning: "Clouds scattered at 25,000' AGL" },
-    ]}
+  words={[
+    { text: 'TAF', meaning: 'Start of the TAF' },
+    { text: 'KLBF', meaning: 'For the KLBF airport' },
+    { text: '021145Z', meaning: 'Issued at 1145 Zulu on the 2nd' },
+    {
+      text: '0212/0312',
+      meaning: 'Valid from 12Z on the 2nd to 12Z on the 3rd',
+    },
+    {
+      text: '14014G22KT',
+      meaning:
+        'For the entire period, winds will be 140 at 14 knots, gusting to 22 knots',
+    },
+    { text: 'P6SM', meaning: 'Visibility is greater than 6 statute miles' },
+    { text: '-SHRA', meaning: 'Light rain showers' },
+    { text: 'SCT015', meaning: "Scatter clouds at 1500' AGL" },
+    { text: 'BKN040', meaning: "Broken clouds at 4000' AGL" },
+    { text: 'OVC080', meaning: "Overcast clouds at 8000' AGL" },
+    {
+      text: 'TEMPO 0212/0215',
+      meaning: 'Temporarily between 12Z and 15Z on the 2nd',
+      newLine: true,
+      indent: 1,
+    },
+    { text: 'OVC015', meaning: "Overcast clouds at 1500' AGL" },
+    {
+      text: 'FM021500',
+      meaning: 'Starting at 1500Z on the 2nd',
+      newLine: true,
+      indent: 1,
+    },
+    {
+      text: '15011G18KT',
+      meaning: 'Expect winds to be 150 at 11 knots, gusting to 18 knots',
+    },
+    { text: 'P6SM', meaning: 'Greater than 6 miles visibility' },
+    { text: 'FEW025', meaning: "Few clouds at 2500' AGL" },
+    { text: 'BKN050', meaning: "Broken clouds at 5000' AGL" },
+    {
+      text: 'FM022000',
+      meaning: 'From 20:00 Z on the 2nd',
+      newLine: true,
+      indent: 1,
+    },
+    { text: '36010KT', meaning: 'Winds will be 260 at 10 knots' },
+    { text: 'P6SM', meaning: 'Greater than 6 miles visibility' },
+    { text: 'BKN070', meaning: "Broken clouds at 7000' AGL" },
+    {
+      text: 'FM030000',
+      meaning: 'From 00:00Z on the 3rd',
+      newLine: true,
+      indent: 1,
+    },
+    { text: '02007KT', meaning: 'Wind wil be 020 at 7 knots' },
+    { text: 'P6SM', meaning: 'Greater than 6 miles visibility' },
+    { text: 'SCT250', meaning: "Clouds scattered at 25,000' AGL" },
+  ]}
 />
 
 export const references = [
-    {
-        name: 'AC 00-06B',
-        link: 'https://www.faa.gov/documentLibrary/media/Advisory_Circular/AC_00-6B.pdf',
-    },
+  {
+    name: 'AC 00-06B',
+    link: 'https://www.faa.gov/documentLibrary/media/Advisory_Circular/AC_00-6B.pdf',
+  },
 ]

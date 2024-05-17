@@ -1,11 +1,11 @@
-import { ReactNode, useMemo } from "react";
-import styled from "styled-components";
+import { ReactNode, useMemo } from 'react'
+import styled from 'styled-components'
 
 export type RegProps = {
-  title?: string;
-  showTitle?: boolean;
-  part: string;
-};
+  title?: string
+  showTitle?: boolean
+  part: string
+}
 
 const RegContainer = styled.a`
   font-family: futura-pt;
@@ -24,19 +24,19 @@ const RegContainer = styled.a`
     background-color: #444477;
     transition: 0.2s background-color;
   }
-`;
+`
 
 const ecfrURL = (search: string) =>
-  `https://ecfr.federalregister.gov/cfr-reference?cfr[date]=current&cfr[view_mode]=enhanced&cfr[reference]=${search}&button=`;
+  `https://ecfr.federalregister.gov/cfr-reference?cfr[date]=current&cfr[view_mode]=enhanced&cfr[reference]=${search}&button=`
 
-const Reg = ({ title = "14", showTitle = false, part }: RegProps) => {
-  const url = useMemo(() => ecfrURL(`${title} CFR ${part}`), [title, part]);
+const Reg = ({ title = '14', showTitle = false, part }: RegProps) => {
+  const url = useMemo(() => ecfrURL(`${title} CFR ${part}`), [title, part])
 
   return (
     <RegContainer href={url} target="_new">
       {showTitle ? `${title} CFR ${part}` : part}
     </RegContainer>
-  );
-};
+  )
+}
 
-export default Reg;
+export default Reg
