@@ -29,6 +29,8 @@ const config: Config = {
     locales: ["en"],
   },
 
+  plugins: [require.resolve("@cmfcmf/docusaurus-search-local")],
+
   presets: [
     [
       "classic",
@@ -37,8 +39,7 @@ const config: Config = {
           sidebarPath: "./sidebars.ts",
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
-          editUrl:
-            "https://github.com/eburlingame/flightdocs/tree/master/src",
+          editUrl: "https://github.com/eburlingame/flightdocs/tree/master/src",
         },
         theme: {
           customCss: "./src/css/custom.css",
