@@ -1,17 +1,21 @@
 # FlightDocs
 
-This website is built using [Docusaurus](https://docusaurus.io/), a modern static website generator.
+FlightDocs aims to be an open-source repository of pilot information and reference material that is usually taught as part of pilot ground schools. On this site you'll find a variety of pages with concise explanations about aircraft systems, the national airspace system, weather, and pilot regulations.
+
+Contributions are always welcome! Some content is more complete than others, and there are always pages
+that could use more explanation.
 
 ### Installation
 
 ```
-$ cd site
-$ yarn
+$ git clone https://github.com/eburlingame/flightdocs.git
+$ cd flightdocs/
+$ yarn install
 ```
 
 ### Local Development
 
-Ensure you have Node v20 installed.
+Ensure you have [Node.js v20](https://nodejs.org/en/download) installed.
 
 ```
 $ yarn start
@@ -26,19 +30,3 @@ $ yarn build
 ```
 
 This command generates static content into the `build` directory and can be served using any static contents hosting service.
-
-### Deployment
-
-Using SSH:
-
-```
-$ USE_SSH=true yarn deploy
-```
-
-Not using SSH:
-
-```
-$ GIT_USER=<Your GitHub username> yarn deploy
-```
-
-If you are using GitHub pages for hosting, this command is a convenient way to build the website and push to the `gh-pages` branch.

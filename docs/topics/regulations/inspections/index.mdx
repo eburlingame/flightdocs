@@ -1,11 +1,11 @@
-import Reg from '@site/src/components/Reg'
-import Acronym, { AcronymRow } from '@site/src/components/Acronym'
+import Reg from "@site/src/components/Reg";
+import Acronym, { AcronymRow } from "@site/src/components/Acronym";
 import EncodedDataExplainer, {
   EncodedDataWord,
-} from '@site/src/components/EncodedDataExplainer'
-import StandardAtmosphereSlider from '@site/src/components/StandardAtmosphereSlider'
-import ReferenceList from '@site/src/components/ReferenceList'
-import Footnotes from '@site/src/components/Footnotes'
+} from "@site/src/components/EncodedDataExplainer";
+import StandardAtmosphereSlider from "@site/src/components/StandardAtmosphereSlider";
+import ReferenceList from "@site/src/components/ReferenceList";
+import Footnotes from "@site/src/components/Footnotes";
 
 # Required Inspections and Checks
 
@@ -13,19 +13,19 @@ import Footnotes from '@site/src/components/Footnotes'
   <AcronymRow
     letter="A"
     title={
-      <Link href="/topics/regulations/inspections/annuals">
+      <a href="/docs/topics/regulations/inspections/annuals">
         Annual Inspection
-      </Link>
+      </a>
     }
-    notes={'12 months'}
+    notes={"12 months"}
     reg={<Reg part="91.409" />}
   />
   <AcronymRow
     letter="A"
     title={
-      <Link href="/topics/regulations/airworthiness-certificate">
+      <a href="/docs/topics/regulations/airworthiness/ads">
         ADs and Life-Limited Parts
-      </Link>
+      </a>
     }
     notes="As required"
     reg={<Reg part="91.403" />}
@@ -33,9 +33,9 @@ import Footnotes from '@site/src/components/Footnotes'
   <AcronymRow
     letter="V"
     title={
-      <Link href="/topics/regulations/inspections/vor-checks">
+      <a href="/docs/topics/regulations/inspections/vor-checks">
         VOR Check (for IFR)
-      </Link>
+      </a>
     }
     notes="30 days"
     reg={<Reg part="91.171" />}
@@ -43,20 +43,16 @@ import Footnotes from '@site/src/components/Footnotes'
   <AcronymRow
     letter="1"
     title={
-      <Link href="/topics/regulations/inspections/100-hour">
+      <a href="/docs/topics/regulations/inspections/hour-100">
         100-hour inspection
-      </Link>
+      </a>
     }
     notes="Every 100 hours*"
     reg={<Reg part="91.409" />}
   />
   <AcronymRow
     letter="A"
-    title={
-      <Link href="/topics/regulations/afms">
-        Altimeter / Static System inspection
-      </Link>
-    }
+    title={"Altimeter / Static System inspection"}
     notes="24 months (2 years)"
     reg={<Reg part="91.411" />}
   />
