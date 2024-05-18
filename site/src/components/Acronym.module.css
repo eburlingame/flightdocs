@@ -24,7 +24,12 @@
   transition: 0.1s background-color;
 }
 
-.acronymRowContainer:hover {
+[data-theme='light'] .acronymRowContainer:hover {
   transition: 0.1s background-color;
-  background-color: #6c60ee;
+  background-color: #dbd8f4;
+}
+
+[data-theme='dark'] .acronymRowContainer:hover {
+  transition: 0.1s background-color;
+  background-color: #534c9c;
 }
