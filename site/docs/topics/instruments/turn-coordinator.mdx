@@ -1,0 +1,36 @@
+import Reg from "@site/src/components/Reg";
+import Acronym, { AcronymRow } from "@site/src/components/Acronym";
+import EncodedDataExplainer, {
+  EncodedDataWord,
+} from "@site/src/components/EncodedDataExplainer";
+import StandardAtmosphereSlider from "@site/src/components/StandardAtmosphereSlider";
+import ReferenceList from "@site/src/components/ReferenceList";
+
+# Turn Coordinator
+
+A traditional turn coordinator is essential a combination of two instruments: a
+rate-of-turn indicator, and an inclinometer.
+
+## Inclinometer
+
+An inclinometer shows the quality or coordination of a turn, either slipping or
+skidding.
+
+![Slipping and Skidding](https://upload.wikimedia.org/wikipedia/commons/1/1b/Turn_coordinators-en.svg)
+
+## Turn-and-slip Indicators vs Turn Coordinators
+
+![Turn-and-slip and turn coordinators](https://upload.wikimedia.org/wikipedia/commons/0/0c/Turn_indicators.png)
+
+Both the turn and slip indicator and turn coordinator are gyroscopic
+instruments, but they differ slightly in what they display.
+
+The turn coordinator is a gyroscopic instrument which displays roll rate _and_
+rate of turn. The turn-and-slip indicator only shows rate-of turn.
+
+<ReferenceList references={[
+  {
+    name: 'Pilots Handbook of Aeronautical Knowledge, Chapter 8',
+    link: 'https://www.faa.gov/regulations_policies/handbooks_manuals/aviation/phak/media/10_phak_ch8.pdf',
+  },
+]} />

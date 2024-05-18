@@ -1,0 +1,47 @@
+import Reg from "@site/src/components/Reg";
+import Acronym, { AcronymRow } from "@site/src/components/Acronym";
+import EncodedDataExplainer, {
+  EncodedDataWord,
+} from "@site/src/components/EncodedDataExplainer";
+import StandardAtmosphereSlider from "@site/src/components/StandardAtmosphereSlider";
+import ReferenceList from "@site/src/components/ReferenceList";
+
+# Manifold Pressure
+
+On aircraft equipped with a constant-speed propeller, power output is controlled
+by the throttle and indicated by a manifold pressure gauge. The gauge measures
+the absolute pressure of the fuel-air mixture inside the intake manifold and is
+more correctly a measure of **manifold absolute pressure (MAP)**.
+
+<img {...manifoldPressureGauge} />
+
+- When the engine is not running, the manifold pressure gauge will read
+  approximately ambient pressure.
+- When the engine is started, the manifold pressure indication decreases to a
+  value less than ambient pressure (i.e., idle at 12 "Hg)
+- Engine failure or power loss is indicated on the manifold gauge as an increase
+  in manifold pressure to a value corresponding to the ambient air pressure at
+  the altitude where the failure occurred.
+
+### MAP and RPM
+
+For any given rpm, there is a manifold pressure that should not be exceeded. If
+manifold pressure is excessive for a given rpm, the pressure within the
+cylinders could be exceeded, placing undue stress on the cylinders.
+
+- When **lowering power**, reduce throttle first, then adjust propeller pitch to
+  maintain rpm.
+- When **increasing power**, adjust propeller RPM first, then increase throttle
+  to maintain rpm.
+
+For a given rpm, the manifold pressure should be set to the value specified in
+the aircraft's operating handbook.
+
+<img {...mapPoh} />
+
+<ReferenceList references={[
+  {
+    name: "Pilot's Handbook of Aeronautical Knowledge, Chapter 7",
+    link: 'https://www.faa.gov/sites/faa.gov/files/09_phak_ch7.pdf',
+  },
+]} />

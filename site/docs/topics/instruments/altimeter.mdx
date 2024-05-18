@@ -1,0 +1,40 @@
+import Reg from "@site/src/components/Reg";
+import Acronym, { AcronymRow } from "@site/src/components/Acronym";
+import EncodedDataExplainer, {
+  EncodedDataWord,
+} from "@site/src/components/EncodedDataExplainer";
+import StandardAtmosphereSlider from "@site/src/components/StandardAtmosphereSlider";
+import ReferenceList from "@site/src/components/ReferenceList";
+
+# Sensitive Altimeters
+
+Airplanes are almost always equipped with an _sensitive altimeter_ which display
+altitude based on the ambient air pressure from the static port.
+
+## Altimeter Errors
+
+Because the altimeter is a pressure instrument, it is subject to errors when the
+external pressure changes. This can be the result of lower or higher atmospheric
+pressure, or be caused by difference in air pressure.
+
+- With regard to temperature:
+  - When the air is _warmer_ than standard, the pressure is higher
+    - The altimeter reads _lower_ than you are actually flying
+    - You have a tendency to fly higher than you expect
+  - When the air is _colder_ than standard, the pressure is lower
+    - The altimeter will read _lower_ than you are actually flying
+    - You have a tendency to fly lower than you expect
+- With regards to pressure:
+  - When the air has _higher_ pressure than standard, the altimeter will read
+    _lower_ than you are actually flying
+  - When the air has _lower_ pressure than standard, the altimeter will read
+    _higher_ than you are actually flying
+
+> Remember "high to low, look out below", and "from hot to cold, don't be bold."
+
+<ReferenceList references={[
+  {
+    name: 'Pilots Handbook of Aeronautical Knowledge, Chapter 8',
+    link: 'https://www.faa.gov/regulations_policies/handbooks_manuals/aviation/phak/media/10_phak_ch8.pdf',
+  },
+]} />

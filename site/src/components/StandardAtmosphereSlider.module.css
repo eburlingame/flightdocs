@@ -1,0 +1,22 @@
+.widgetContainer {
+  border: 0.5px solid #eee;
+  border-radius: 0.25em;
+  padding: 1em;
+}
+
+.sliderContainer {
+  margin-bottom: 0.5em;
+}
+
+.row {
+  display: flex;
+}
+
+.cell {
+  flex: 1;
+  text-align: center;
+}
+
+.label {
+  font-weight: 700;
+}

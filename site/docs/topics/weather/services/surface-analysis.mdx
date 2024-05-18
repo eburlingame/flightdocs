@@ -1,0 +1,26 @@
+import Reg from "@site/src/components/Reg";
+import Acronym, { AcronymRow } from "@site/src/components/Acronym";
+import EncodedDataExplainer, {
+  EncodedDataWord,
+} from "@site/src/components/EncodedDataExplainer";
+import StandardAtmosphereSlider from "@site/src/components/StandardAtmosphereSlider";
+import ReferenceList from "@site/src/components/ReferenceList";
+
+# Surface Analysis Charts
+
+Surface analysis charts are analyzed charts of surface weather observations. The
+chart depicts the distribution of several items, including sea-level pressure;
+the positions of highs, lows, ridges, and troughs; the location and type of
+fronts; and the various boundaries such as drylines.
+
+The [Aviation Weather Center](https://aviationweather.gov/) publishes the
+[WPC Surface Prog Chart](https://aviationweather.gov/progchart/sfc).
+
+<img {...progchart} />
+
+<ReferenceList references={[
+  {
+    name: 'AC 00-45H',
+    link: 'https://www.faa.gov/documentLibrary/media/Advisory_Circular/AC_00-45H_CHG_2.pdf',
+  },
+]} />

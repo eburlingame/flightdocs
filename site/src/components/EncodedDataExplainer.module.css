@@ -1,0 +1,21 @@
+.encodedDataExplainer {
+  border: 1px solid #eee;
+  border-radius: 0.25em;
+  padding-top: 0px;
+  padding: 1em;
+}
+
+.wordsContainer {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.newline {
+  flex-basis: 100%;
+  height: 0;
+}
+
+.encodedDataWord {
+  text-decoration: underline;
+  margin-right: 0.5em;
+}

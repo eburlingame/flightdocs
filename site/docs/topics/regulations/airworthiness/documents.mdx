@@ -1,0 +1,55 @@
+import Reg from "@site/src/components/Reg";
+import Acronym, { AcronymRow } from "@site/src/components/Acronym";
+import EncodedDataExplainer, {
+  EncodedDataWord,
+} from "@site/src/components/EncodedDataExplainer";
+import StandardAtmosphereSlider from "@site/src/components/StandardAtmosphereSlider";
+import ReferenceList from "@site/src/components/ReferenceList";
+
+# Required Airworthiness Documents
+
+The following documents must be on board the aircraft to be considered
+airworthy:
+
+<Acronym>
+  <AcronymRow
+    letter="A"
+    title={
+      <Link href="/topics/regulations/airworthiness/certificate">
+        Airworthiness Certificate
+      </Link>
+    }
+    notes="Does not expire if aircraft is maintained in airworthy condition. Must be displayed where passengers can see."
+    reg={<Reg part="91.203" />}
+  />
+  <AcronymRow
+    letter="R"
+    title={
+      <Link href="/topics/regulations/airworthiness/registration">
+        Registration Certificate
+      </Link>
+    }
+    notes="Valid for 3 years"
+    reg={<Reg part="91.203" />}
+  />
+  <AcronymRow
+    letter="R"
+    title="FCC Radio Station License"
+    notes="Required for flights outside the U.S."
+  />
+  <AcronymRow
+    letter="O"
+    title={
+      <Link href="/topics/regulations/airworthiness/afms">
+        Operating Limitations
+      </Link>
+    }
+    notes="AFM/POH, includes required placards and markings"
+    reg={<Reg part="91.9" />}
+  />
+  <AcronymRow letter="W" title="Weight and Balance information" />
+</Acronym>
+
+Also required are:
+
+- Serial number and external data plate - <Reg part="45.11" />

@@ -1,0 +1,33 @@
+import Reg from "@site/src/components/Reg";
+import Acronym, { AcronymRow } from "@site/src/components/Acronym";
+import EncodedDataExplainer, {
+  EncodedDataWord,
+} from "@site/src/components/EncodedDataExplainer";
+import StandardAtmosphereSlider from "@site/src/components/StandardAtmosphereSlider";
+import ReferenceList from "@site/src/components/ReferenceList";
+
+# Approved Flight Manual
+
+Approved Flight Manuals (AFMs) is a handbook designed as an operating guide for
+the aircraft. It includes normal and Emergency operating procedures, speeds, and
+limitations. It must meet the criteria set forth in <Reg part="21.5" />.
+
+All aircraft manufactured after March 1, 1979 are required to have an AFM.
+
+For aircraft under 6,000 pounds that do no have an AFM, the relevant information
+can be found in a combination of:
+
+- Approved manual materials (such as the Pilots Operating Handbook)
+- Placards
+- Markings
+
+Which all must be in the aircraft at all times.
+
+<Reg part="91.9" />
+
+<ReferenceList references={[
+  {
+    name: 'AC 60-6B',
+    link: 'https://www.faa.gov/documentLibrary/media/Advisory_Circular/AC60-6B.pdf',
+  },
+]} />

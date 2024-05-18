@@ -1,0 +1,378 @@
+import Reg from "@site/src/components/Reg";
+import Acronym, { AcronymRow } from "@site/src/components/Acronym";
+import EncodedDataExplainer, {
+  EncodedDataWord,
+} from "@site/src/components/EncodedDataExplainer";
+import StandardAtmosphereSlider from "@site/src/components/StandardAtmosphereSlider";
+import ReferenceList from "@site/src/components/ReferenceList";
+import WeightAndBalanceTable from "@site/src/components/WeightAndBalanceTable";
+
+# 1982 Cessna T182 Deep Dive
+
+The following is a detailed exploration of a specific aircraft model based on
+information from the POH, TCDS, and other resources.
+
+Source materials:
+
+- [Pilot's Operating Handbook](https://www.mattbeyer.com/poh/CT182-POH.pdf)
+- [Type Certificate Data Sheet](https://drs.faa.gov/browse/excelExternalWindow/DRSDOCID187359592420230421210853.0001)
+- [FAA ADs](https://www.faa.gov/regulations_policies/airworthiness_directives/)
+
+## Aircraft Information
+
+### Powerplant
+
+- Engine Manufacturer: Avco Lycoming
+- Engine Model Number: 0-540-L3C5D
+- Horsepower: 235
+- Certificated Maximum Operating Altitude: 20,000 Ft
+
+### Induction system
+
+- Air induction
+  - After passing through the turbocharger, the compressed air is ducted through
+    the carburetor and induction manifold into the engine cylinders.
+  - Heated intake air may be obtained from a shroud which covers the exhaust
+    manifold located on the left side of the engine, controlled by the
+    carburetor heat control
+- Cooling
+  - Cooling air is directed around the cylinders by baffling and through the
+    remote oil cooler, then exhausted through cowl flaps on the lower edge of
+    the cowling
+  - Before starting the engine, throughout takeoff and high power operations,
+    the cowl flap lever should be open to provide maximum cooling
+
+### Turbocharger
+
+<img src="/img/content/t182-turbocharger.png" />
+
+- The exhaust manifold discharges the gas into the turbine section of the
+  turbocharger.
+- A waste gate incorporated into the exhaust manifold, controls the volume of
+  gas flowing through the turbine by venting excess gas through a bypass.
+- Exhaust gases drive the turbine which, in turn drives the compressor
+
+> The compressor has the capability of producing manifold pressures in excess of
+> 31 inHg. In order not to exceed the maximum, manifold pressure should be
+> monitored closely and the throttle control adjusted as necessary to maintain
+> 31 inHg.
+
+Full open throttle control will not be necessary to maintain maximum continuous
+power (31 in. Hg.), with the possible exception during hot day conditions at
+high altitude.
+
+- The turbocharged engine will react just the opposite of a normally aspirated
+  engine when the RPM is varied:
+  - When the RPM is **increased**, the manifold pressure will **increase**
+    slightly
+  - When the RPM is **decreased**, the manifold pressure will **decrease**
+    slightly
+- Manifold pressure will also change slightly with airspeed:
+  - As airspeed is **increased**, the manifold pressure will **increase**
+    slightly
+  - As airspeed is **decreased**, the manifold pressure will **decrease**
+    slightly
+- Manifold pressure will also change with mixutre:
+  - **Enrichening** the mixture will **increase** the manifold pressure
+  - **Leaning** the mixture will **decrease** the manifold pressure
+
+#### Overboosting
+
+An inadvertent overboost of 2 to 3 inches of manifold pressure is not considered
+detrimental to the engine as long as it is momentary. Immediate corrective
+action is required when an overboost occurs.
+
+### Propeller
+
+Aircraft is equipped with a McCauley 3-blade, constant speed propeller.
+
+The propeller's pitched is controlled by a propeller governor, which controls
+flow of engine oil (boosted to high pressure by the governing pump) to or from a
+piston in the propeller hub.
+
+- Oil pressure acting on the piston twists the blades toward **high pitch** /
+  **low RPM**.
+- When this oil pressure is relieved, centrifugal force, assisted by an internal
+  spring, twist the blades toward **low pitch** / ** high RPM**.
+
+### Fuel
+
+- 100LL Fuel
+- Two wing fuel tanks, 46 gallons each. 92 gallons total
+  - 88 gallons usable
+- Fuel is delivered from the fuel system to the carburetor by gravity flow, the
+  engine-driven fuel pump, and/or auxiliary fuel pump
+- The fuel primer is a small pump which draws fuel from the fuel strainer when
+  the plunger knob is pulled out, and injects it into the engine intake ports
+  when the knob is pushed back in
+- If a fuel tank quantity is completely exhausted in flight, it is recommended
+  that the fuel selector valve be switched back to the BOTH position as this
+  will allow some fuel from the fuller tank to transfer back through the
+  selector valve to the empty tank
+
+### Oil
+
+- Sump: 8 quarts
+- Total: 9 quarts (an additional quart in the oil filter)
+
+### Engine Indications
+
+- Tachometer
+  - Normal operating range: 2100-2400 RPM, 2400RPM red line
+- Manifold Pressure
+  - Normal operating range: 17-25 inHg, 31 inHg red line
+- Oil temperature
+  - Normal operating range: 100&deg; - 245&deg;F, 245&deg;F red line
+- Cylinder head temperature
+  - Normal operating range: 200&deg; - 500&deg;F, 500&deg;F red
+- Fuel pressure
+  - Normal operating range: 3.0 - 30.0 psi, 30.0 psi red line
+- Oil pressure
+  - Normal operating range: 60 - 90 psi, 115 psi red line
+
+## Electrical System
+
+The airplane is equipped with a **28-volt, direct-current** electrical system.
+
+There are two buses:
+
+- The primary bus, which operates the fuel pumps, lights, and ignition switch
+- The avionics bus, which operates the radios and other avionics
+
+The master switch is a split-rocker type switch labeled MASTER, and is ON in the
+up position:
+
+- The right half of the switch, labeled BAT, controls all electrical power to
+  the airplane
+- The left half, labeled ALT, controls the alternator
+
+The ammeter, located between the fuel gages, indicates the amount of current, in
+amperes, from the alternator to the battery or from the battery to the airplane
+electrical system.
+
+- In the event the alternator is not functioning or the electrical load exceeds
+  the output of the alternator, the ammeter indicates a discharge
+- There is also a LOW VOLTAGE indicator light on the right of the panel
+- In the event of an over-voltage condition, the alternator will be
+  automatically removed from the electrical system
+  - The ammeter will then indicate a discharge from the battery
+  - The alternator can be reset by cycling the master switch
+
+## Weight Limits
+
+- Max ramp weight: 3112 lbs
+- Max takeoff weight: 3100 lbs
+- Max landing weight: 2950 lbs
+
+## Load Factor Limits
+
+- Flight Load Factors:
+  - Flaps Up: +3.8g, -1.52g
+  - Flaps Down: +2.0g
+
+The design load factors are 150% of the above, and in all cases, the structure
+meets or exceeds design loads.
+
+## Flap Limitations
+
+- Approved Takeoff Range: 0° to 20°
+- Approved Landing Range: 0° to FULL
+
+## Speeds
+
+<table>
+  <tr>
+    <td>
+      V<sub>r</sub>
+    </td>
+    <td>50 KIAS</td>
+    <td>Rotation Speed</td>
+  </tr>
+  <tr>
+    <td>
+      V<sub>y</sub>
+    </td>
+    <td>87 KIAS</td>
+    <td>Best rate of climb, S.L.</td>
+  </tr>
+  <tr>
+    <td>
+      V<sub>x</sub>
+    </td>
+    <td>73 KIAS</td>
+    <td>Best angle of climb, S.L.</td>
+  </tr>
+  <tr>
+    <td>
+      V<sub>S0</sub>
+    </td>
+    <td>40 KIAS</td>
+    <td>Stall speed, flaps extended, bottom of white arc</td>
+  </tr>
+  <tr>
+    <td>
+      V<sub>S1</sub>
+    </td>
+    <td>48 KIAS</td>
+    <td>Stall speed, clean configuration, bottom of green arc</td>
+  </tr>
+  <tr>
+    <td>
+      V<sub>a</sub>
+    </td>
+    <td>
+      <div>At 3100 lbs: 111 KIAS</div>
+      <div>At 2600 lbs: 101 KIAS</div>
+      <div>At 2100 lbs: 90 KIAS</div>
+    </td>
+    <td>Maneuvering speed</td>
+  </tr>
+  <tr>
+    <td>
+      V<sub>no</sub>
+    </td>
+    <td>140 KIAS</td>
+    <td>Normal operating speed, bottom of yellow arc</td>
+  </tr>
+  <tr>
+    <td>
+      V<sub>ne</sub>
+    </td>
+    <td>178 KIAS</td>
+    <td>Never exceed speed, red line</td>
+  </tr>
+  <tr>
+    <td>
+      V<sub>fe</sub>
+    </td>
+    <td>
+      <div>140 KIAS for flaps 10&deg;</div>
+      <div>95 KIAS for remaining flags</div>
+    </td>
+    <td>Flaps extended speed, top of white arc</td>
+  </tr>
+
+  <tr>
+    <td>
+      V<sub>bg</sub>
+    </td>
+    <td>
+      <div>Flaps up: 75 KIAS</div>
+      <div>Flaps down: 70 KIAS</div>
+    </td>
+    <td>Best glide speed</td>
+  </tr>
+  <tr>
+    <td>Max crosswind landing</td>
+    <td>15 knots</td>
+    <td></td>
+  </tr>
+</table>
+
+## Normal Procedures
+
+### Taxi
+
+<img src="/img/content/182-taxi-controls.png" />
+
+### Normal takeoff
+
+- Carburetor heat: cold
+- Flaps 0&deg; to 20&deg;
+- Power **31 inHg**, **2400 RPM**
+- Rotate at 50 KIAS
+- Climb speed 70 KIAS (flaps 20), 80 KIAS (flaps 0)
+
+### Normal climb
+
+- Power **25 inHg**, **2400 RPM**
+- Airspeed: 90-100 KIAS
+- Mixture: full rich
+- Cowl flaps: open (or as required)
+
+### Max performance climb
+
+- Power **31 inHg**, **2400 RPM**
+- Airspeed: 87 KIAS
+- Mixture: full rich
+- Cowl flaps: full open
+
+### Cruise
+
+- Power **17-25 inHg**, **2100-2400 RPM**
+- Carb heat: as required to prevent icing
+- Mixture: leaned
+- Cowl flaps: closed, or as required
+
+### Descent
+
+- Power: as required
+- Mixture: leaned for smoothness
+- Cowl flaps: closed, or as required
+- Wing flags: as desired (flaps 10&deg; below 140 KIAS for speed reduction)
+
+### Landing
+
+- Fuel selector: both
+- Mixture: full rich
+- Propeller: full fine
+- Carb heat: on
+- Airspeed: 70-80 KIAS (flags up)
+- Airspeed: 60-70 KIAS (flags down)
+- Lower nose wheel gently after touchdown
+- After landing
+  - Carb heat: off
+  - Flaps: retract
+  - Cowl flaps: open
+
+### Go-around
+
+- Power: **31 inHg** and **2400 RPM**
+- Wing flaps: retract to **20&deg;**
+- Climb speed: 60 KIAS until obstacles cleared
+- Cowl flaps: open
+- Power: Reduce to 25 inHg after obstacles cleared
+
+## Emergency Procedures
+
+### Spin Recovery
+
+1. Throttle to idle
+2. Ailerons neutral
+3. Hold full opposite rudder until rotation stops
+4. Briskly push elevator control forward to break stall
+5. Hold until rotation stops
+6. Make a smooth recovery to level flight
+
+## Weight and Balance
+
+<WeightAndBalanceTable
+  airplaneEmptyWeightLbs={1396.5}
+  airplaneEmptyCgInches={40.0821}
+  stations={[
+    {
+      label: "Oil",
+      weightLbsDefault: 15,
+      armInches: -13.3,
+      editable: false,
+    },
+    {
+      label: "Fuel (at 6 lbs/gal)",
+      weightLbsDefault: 228,
+      armInches: 48,
+    },
+    { label: "Pilot", weightLbsDefault: 150, armInches: 37 },
+    { label: "Copilot", weightLbsDefault: 150, armInches: 37 },
+    { label: "Rear Passenger 1", weightLbsDefault: 150, armInches: 73 },
+    { label: "Rear Passenger 2", weightLbsDefault: 150, armInches: 73 },
+    { label: "Rear Baggage", weightLbsDefault: 150, armInches: 95 },
+  ]}
+/>
+
+## Applicable Recurring AD's
+
+Serial #: 17261958
+
+- 5/13/2011,
+  [2011-10-09](https://rgl.faa.gov/Regulatory_and_Guidance_Library/rgAD.nsf/0/144a3898bf71041a8625788f004b5df2/$FILE/2011-10-09.pdf)
+  6/17/2011: Seat Rails and Roller Housing Inspections

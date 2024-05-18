@@ -1,0 +1,43 @@
+import Reg from "@site/src/components/Reg";
+import Acronym, { AcronymRow } from "@site/src/components/Acronym";
+import EncodedDataExplainer, {
+  EncodedDataWord,
+} from "@site/src/components/EncodedDataExplainer";
+import StandardAtmosphereSlider from "@site/src/components/StandardAtmosphereSlider";
+import ReferenceList from "@site/src/components/ReferenceList";
+
+# SIGMETs
+
+A SIGMET (or Significant Meteorological Information) is a weather advisory that
+pertains to significant types of weather.
+
+They are issued for:
+
+- Severe icing
+- Severe or extreme turbulence
+- Dust or sand storms lowering visibility to < 3 miles
+- Volcanic ash
+
+# Convective SIGMETs
+
+Convective SIGMETs are issued for significant convective weather, including:
+
+- A line of thunderstorms, at least 60 miles long with thunderstorms affecting
+  40% of its length
+- Area of thunderstorms covering at least 40% concerned area and exhibiting a
+  very strong radar reflectivity
+- Embedded or sever thunderstorms expected to occur for more than 30 minutes
+
+Any convective SIGMET implies severe turbulence, severe icing, and low level
+wind shear.
+
+<ReferenceList references={[
+  {
+    name: 'AWC Sigmets',
+    link: 'https://www.aviationweather.gov/sigmet/help',
+  },
+  {
+    name: 'AC 00-06B',
+    link: 'https://www.faa.gov/documentLibrary/media/Advisory_Circular/AC_00-6B.pdf',
+  },
+]} />

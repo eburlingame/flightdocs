@@ -1,0 +1,42 @@
+import Reg from "@site/src/components/Reg";
+import Acronym, { AcronymRow } from "@site/src/components/Acronym";
+import EncodedDataExplainer, {
+  EncodedDataWord,
+} from "@site/src/components/EncodedDataExplainer";
+import StandardAtmosphereSlider from "@site/src/components/StandardAtmosphereSlider";
+import ReferenceList from "@site/src/components/ReferenceList";
+
+# Night
+
+Depending on the context, the FAA has several definitions of "night".
+
+## For logging night time
+
+Night time may be logged between the end of **evening civil twilight** and the
+start of **morning civil twilight**.
+
+<Reg showTitle part="1" />
+
+## For logging takeoffs and landings at night
+
+To meet recent experience requirements, takeoffs and landings at night must be
+made between:
+
+- **1 hour after sunset**, to
+- **1 hour before sunrise**
+
+<Reg part="61.57(b)" />
+
+## For Position Lights
+
+An aircraft's position lights shall be operated between **sunset** and
+**sunrise**.
+
+<Reg part="91.209" />
+
+<ReferenceList references={[
+  {
+    name: '14 CFR Part 1',
+    link: 'https://ecfr.federalregister.gov/current/title-14/chapter-I/subchapter-A/part-1',
+  },
+]} />

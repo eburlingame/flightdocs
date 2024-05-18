@@ -1,0 +1,30 @@
+import Reg from "@site/src/components/Reg";
+import Acronym, { AcronymRow } from "@site/src/components/Acronym";
+import EncodedDataExplainer, {
+  EncodedDataWord,
+} from "@site/src/components/EncodedDataExplainer";
+import StandardAtmosphereSlider from "@site/src/components/StandardAtmosphereSlider";
+import ReferenceList from "@site/src/components/ReferenceList";
+
+# Altitude Types
+
+- Indicated altitude
+  - Read directly off the altimeter, after it is set to a correct altimeter
+    setting
+- Pressure altitude
+  - Read directly off the altimeter when it is set to 29.92" Hg
+- Density altitude
+  - Pressure altitude corrected for nonstandard temperature variation
+  - Said another way, it is the height of the aircraft in standard atmosphere
+    based on the current temperature and pressure conditions
+- True altitude
+  - True altitude is the vertical distance above mean sea level (MSL)
+- Absolute altitude
+  - The vertical distance above the terrain
+
+<ReferenceList references={[
+  {
+    name: 'Pilots Handbook of Aeronautical Knowledge, Chapter 8',
+    link: 'https://www.faa.gov/regulations_policies/handbooks_manuals/aviation/phak/media/10_phak_ch8.pdf',
+  },
+]} />

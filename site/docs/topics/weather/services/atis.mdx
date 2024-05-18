@@ -1,0 +1,30 @@
+import Reg from "@site/src/components/Reg";
+import Acronym, { AcronymRow } from "@site/src/components/Acronym";
+import EncodedDataExplainer, {
+  EncodedDataWord,
+} from "@site/src/components/EncodedDataExplainer";
+import StandardAtmosphereSlider from "@site/src/components/StandardAtmosphereSlider";
+import ReferenceList from "@site/src/components/ReferenceList";
+
+# Automated Terminal Information Service (ATIS)
+
+An ATIS broadcast is a continuously repeating recording of non-control
+information available at larger airport.
+
+The ATIS broadcast typically includes:
+
+- Time of observation
+- Latest weather observation
+- Cloud cover or vertical obscuration
+- Wind
+- Altimeter setting
+- Temperature / dewpoint
+- Active runways
+- Pertinent NOTAMs or advisories
+
+<ReferenceList references={[
+  {
+    name: 'AC 00-06B',
+    link: 'https://www.faa.gov/documentLibrary/media/Advisory_Circular/AC_00-6B.pdf',
+  },
+]} />

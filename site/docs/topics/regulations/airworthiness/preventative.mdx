@@ -1,0 +1,41 @@
+import Reg from "@site/src/components/Reg";
+import Acronym, { AcronymRow } from "@site/src/components/Acronym";
+import EncodedDataExplainer, {
+  EncodedDataWord,
+} from "@site/src/components/EncodedDataExplainer";
+import StandardAtmosphereSlider from "@site/src/components/StandardAtmosphereSlider";
+import ReferenceList from "@site/src/components/ReferenceList";
+
+# Preventative Maintenance
+
+According to <Reg showTitle part="1.1" />, preventative maintenance simple or
+minor preservation operations and the replacement of small standard parts not
+involving complex assembly operations.
+
+Any certificated pilot may perform preventive maintenance on any aircraft owned
+or operated by that pilot, so long as it is not being operated for part 121,
+129, or 135 operations. - <Reg part="43.3" />
+
+Allowed items of preventative maintenance are listed and limited to the items of
+[14 CFR 43 Appendix A(c)](<https://ecfr.federalregister.gov/current/title-14/chapter-I/subchapter-C/part-43/appendix-Appendix%20A%20to%20Part%2043#p-Appendix-A-to-Part-43(c)>).
+
+For instance, the following are allowed as preventative maintenance items:
+
+- Removal, installation, and repair of landing gear tires
+- Lubrication not requiring disassembly other than removal of nonstructural
+  items
+- Replacing safety belts
+- Replacing bulbs, reflectors, and lenses of position and landing lights
+- Replacing and servicing batteries
+- Cleaning or replacing fuel and oil strainers or filter elements
+
+<ReferenceList references={[
+  {
+    name: 'AC 41-12A',
+    link: 'https://www.faa.gov/documentLibrary/media/Advisory_Circular/AC_43-12A_CHG_1.pdf',
+  },
+  {
+    name: "Pilot's Flying Handbook, Chapter 9-10",
+    link: 'https://www.faa.gov/regulations_policies/handbooks_manuals/aviation/phak/media/11_phak_ch9.pdf',
+  },
+]} />

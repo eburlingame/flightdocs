@@ -1,0 +1,59 @@
+import Reg from "@site/src/components/Reg";
+import Acronym, { AcronymRow } from "@site/src/components/Acronym";
+import EncodedDataExplainer, {
+  EncodedDataWord,
+} from "@site/src/components/EncodedDataExplainer";
+import StandardAtmosphereSlider from "@site/src/components/StandardAtmosphereSlider";
+import ReferenceList from "@site/src/components/ReferenceList";
+
+# Stability
+
+The stability of the atmosphere is the property of the air to either enhance or
+suppress the vertical motion of air parcels.
+
+- In a stable atmosphere, a lifted parcel of air will be _cooler_ than the
+  surrounding air, and thus is not prone to further upward movement.
+- Likewise in an unstable atmosphere, a lifted parcel of air will be _warmer_
+  than the surrounding air, and thus is prone to further upward movement.
+
+## Associated Weather
+
+Very generally, the stability of the atmosphere determines what kind of weather
+is likely:
+
+<table>
+  <tbody>
+    <tr>
+      <th></th>
+      <th>Stable atmosphere</th>
+      <th>Unstable atmosphere</th>
+    </tr>
+    <tr>
+      <td>Clouds</td>
+      <td>Stratiform</td>
+      <td>Cumuliform</td>
+    </tr>
+    <tr>
+      <td>Turbulence</td>
+      <td>Smooth</td>
+      <td>Rough</td>
+    </tr>
+    <tr>
+      <td>Precipitation</td>
+      <td>Steady</td>
+      <td>Showery</td>
+    </tr>
+    <tr>
+      <td>Visibility</td>
+      <td>Fair to poor</td>
+      <td>Good</td>
+    </tr>
+  </tbody>
+</table>
+
+<ReferenceList references={[
+  {
+    name: 'AC 00-06B',
+    link: 'https://www.faa.gov/documentLibrary/media/Advisory_Circular/AC_00-6B.pdf',
+  },
+]} />

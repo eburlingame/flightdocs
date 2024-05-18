@@ -1,0 +1,69 @@
+import Reg from "@site/src/components/Reg";
+import Acronym, { AcronymRow } from "@site/src/components/Acronym";
+import EncodedDataExplainer, {
+  EncodedDataWord,
+} from "@site/src/components/EncodedDataExplainer";
+import StandardAtmosphereSlider from "@site/src/components/StandardAtmosphereSlider";
+import ReferenceList from "@site/src/components/ReferenceList";
+
+# Pilot Reports (PIREPs)
+
+A PIREP is a pilot-issued report which describes weather at a given location at
+a given time.
+
+They can be standard (denoted `UA`), or urgent (denoted `UUA`).
+
+They often contain height/bases of clouds, wind shear, turbulence, or icing.
+
+They are reported in:
+
+- Altitude MSL
+- Visibilities in statute miles
+- Distance nautical miles
+
+## Contents of a PIREP
+
+When giving a pilot report, be sure to include the following elements:
+
+<Acronym>
+  <AcronymRow letter="L" title="Location" notes="Location of your report" />
+  <AcronymRow letter="A" title="Altitude" notes="Altitude of the report" />
+  <AcronymRow letter="T" title="Time" notes="Time of the report in zulu time" />
+  <AcronymRow letter="T" title="Type of aircraft" notes="E.g. C172, BE36" />
+  <AcronymRow
+    letter="O"
+    title="Observation"
+    notes="What you're observering. This could be wind, sky condition, cloud tops, turbulence, icing. Not every element need to be in your report."
+  />
+</Acronym>
+
+## Solicitation of PIREPs by ATC
+
+ATC will actually ask for PIREPs in certain weather conditions:
+
+- Ceilings at or below 5,000 feet.
+  - These PIREPs must include cloud bases, tops and cloud coverage when
+    available.
+  - Additionally, when providing approach control services, ensure that at least
+    one descent/climb-out PIREP and other related phenomena is obtained each
+    hour
+- Visibility (surface or aloft) at or less than 5 miles
+- Thunderstorms and related phenomena
+- Turbulence of moderate degree or greater
+- Icing of light degree or greater
+- Wind shear
+- Braking action reports
+- Volcanic ash clouds
+- Detection of sulfur gases (SO2 or H2S), associated with volcanic activity, in
+  the cabin
+
+<ReferenceList references={[
+  {
+    name: 'AC 00-06B',
+    link: 'https://www.faa.gov/documentLibrary/media/Advisory_Circular/AC_00-6B.pdf',
+  },
+  {
+    name: 'FAA Order 7110.65Z',
+    link: 'https://www.faa.gov/air_traffic/publications/atpubs/atc_html/chap2_section_6.html',
+  },
+]} />

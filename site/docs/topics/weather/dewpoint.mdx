@@ -1,0 +1,30 @@
+import Reg from "@site/src/components/Reg";
+import Acronym, { AcronymRow } from "@site/src/components/Acronym";
+import EncodedDataExplainer, {
+  EncodedDataWord,
+} from "@site/src/components/EncodedDataExplainer";
+import StandardAtmosphereSlider from "@site/src/components/StandardAtmosphereSlider";
+import ReferenceList from "@site/src/components/ReferenceList";
+
+# Dewpoint
+
+The dewpoint is the temperature at which air must be cooled to become saturated
+with water vapor.
+
+## Temperature / Dewpoint Spread
+
+The difference between the ambient temperature and the dewpoint determines the
+relative humidity of the air, and whether clouds and fog are likely to form.
+
+- When the temperature and the dewpoint are the same, relatively humidity is
+  100%
+- When the temperature is withim 5&deg; C of the dewpoint, clouds, dew, and fog
+  are likely
+  - This is also the most favorable conditions for carburetor icing
+
+<ReferenceList references={[
+  {
+    name: 'AC 00-06B',
+    link: 'https://www.faa.gov/documentLibrary/media/Advisory_Circular/AC_00-6B.pdf',
+  },
+]} />

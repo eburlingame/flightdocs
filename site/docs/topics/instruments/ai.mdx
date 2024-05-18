@@ -1,0 +1,27 @@
+import Reg from "@site/src/components/Reg";
+import Acronym, { AcronymRow } from "@site/src/components/Acronym";
+import EncodedDataExplainer, {
+  EncodedDataWord,
+} from "@site/src/components/EncodedDataExplainer";
+import StandardAtmosphereSlider from "@site/src/components/StandardAtmosphereSlider";
+import ReferenceList from "@site/src/components/ReferenceList";
+
+# Attitude Indicator (AI)
+
+The attitude indicate provide pitch and bank information to the pilot.
+
+Standard vacuum-driven attitude indicators rely on a gyroscope mounted in the
+horizontal plane. When he aircraft is pitched or banked, the spinning gyroscope
+stays rigid in space.
+
+Most attitude indicators are accurate to +/- 100&deg; of bank, and 60-70&deg; of
+pitch. Beyond this, the gyro will tumble.
+
+Some modern AI's will never tumble.
+
+<ReferenceList references={[
+  {
+    name: 'Pilots Handbook of Aeronautical Knowledge, Chapter 8',
+    link: 'https://www.faa.gov/regulations_policies/handbooks_manuals/aviation/phak/media/10_phak_ch8.pdf',
+  },
+]} />

@@ -1,0 +1,30 @@
+import Reg from "@site/src/components/Reg";
+import Acronym, { AcronymRow } from "@site/src/components/Acronym";
+import EncodedDataExplainer, {
+  EncodedDataWord,
+} from "@site/src/components/EncodedDataExplainer";
+import StandardAtmosphereSlider from "@site/src/components/StandardAtmosphereSlider";
+import ReferenceList from "@site/src/components/ReferenceList";
+
+# Convective Outlooks
+
+Convective outlooks are issued by the storm prediction center, and include the
+_likelihood_ of severe weather over the next **8** days. This weather includes:
+
+- Severe convective activity
+  - Tornados
+  - Wind gusts 50 kts or greater
+  - Hail 1 in in diameter or greater)
+- Non-severe/general convective activity
+
+<img {...convectiveOutlook}></img>
+
+Note that the marginal or slight areas indicates a marginal or slight
+_potential_ for severe thunderstorms, not "marginal" thunderstorms.
+
+<ReferenceList references={[
+  {
+    name: 'AC 00-45H',
+    link: 'https://www.faa.gov/documentLibrary/media/Advisory_Circular/AC_00-45H_CHG_2.pdf',
+  },
+]} />
