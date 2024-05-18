@@ -1,15 +1,15 @@
 export type Reference = {
-  name: string;
-  link: string;
-};
+  name: string
+  link: string
+}
 
 export type ReferenceListProps = {
-  references: Reference[];
-};
+  references: Reference[]
+}
 
 const ReferenceList = ({ references }: ReferenceListProps) => {
   return (
-    <div style={{ marginTop: "0.5em" }}>
+    <div style={{ marginTop: '0.5em' }}>
       <h2>References</h2>
 
       <ul>
@@ -22,7 +22,7 @@ const ReferenceList = ({ references }: ReferenceListProps) => {
         ))}
       </ul>
     </div>
-  );
-};
+  )
+}
 
-export default ReferenceList;
+export default ReferenceList

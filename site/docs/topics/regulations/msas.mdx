@@ -1,10 +1,11 @@
-import Reg from "@site/src/components/Reg";
-import Acronym, { AcronymRow } from "@site/src/components/Acronym";
+import Reg from '@site/src/components/Reg'
+import Acronym, { AcronymRow } from '@site/src/components/Acronym'
 import EncodedDataExplainer, {
   EncodedDataWord,
-} from "@site/src/components/EncodedDataExplainer";
-import StandardAtmosphereSlider from "@site/src/components/StandardAtmosphereSlider";
-import ReferenceList from "@site/src/components/ReferenceList";
+} from '@site/src/components/EncodedDataExplainer'
+import StandardAtmosphereSlider from '@site/src/components/StandardAtmosphereSlider'
+import ReferenceList from '@site/src/components/ReferenceList'
+import Footnotes from '@site/src/components/Footnotes'
 
 # Minimum Safe Altitudes
 
@@ -32,11 +33,13 @@ such that:
   - Over nonmountainous terrain: **1,000** feet above the highest obstacle
     within a horizontal distance of **4nm** from the course flown
 
-<Footnotes>* Can be denoted by yellow shading on a sectional.</Footnotes>
+<Footnotes>\* Can be denoted by yellow shading on a sectional.</Footnotes>
 
-<ReferenceList references={[
-  {
-    name: 'FAA Order JO 7110.65Z',
-    link: 'https://www.faa.gov/air_traffic/publications/atpubs/atc_html/chap7_section_5.html',
-  },
-]} />
+<ReferenceList
+  references={[
+    {
+      name: 'FAA Order JO 7110.65Z',
+      link: 'https://www.faa.gov/air_traffic/publications/atpubs/atc_html/chap7_section_5.html',
+    },
+  ]}
+/>

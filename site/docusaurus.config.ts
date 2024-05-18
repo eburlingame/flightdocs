@@ -48,7 +48,6 @@ const config: Config = {
   ],
 
   themeConfig: {
-    // Replace with your project's social card
     image: "img/docusaurus-social-card.jpg",
     navbar: {
       title: "FlightDocs",
@@ -63,7 +62,6 @@ const config: Config = {
           position: "left",
           label: "Docs",
         },
-        { to: "/outlines", label: "Outlines", position: "left" },
       ],
     },
     footer: {

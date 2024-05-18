@@ -1,12 +1,12 @@
-import { ReactNode } from "react";
-import style from "./Acronym.module.css";
+import { ReactNode } from 'react'
+import style from './Acronym.module.css'
 
 export type AcronymRowProps = {
-  letter: ReactNode;
-  title: ReactNode;
-  notes?: ReactNode;
-  reg?: ReactNode;
-};
+  letter: ReactNode
+  title: ReactNode
+  notes?: ReactNode
+  reg?: ReactNode
+}
 
 export const AcronymRow = ({ letter, title, notes, reg }: AcronymRowProps) => {
   return (
@@ -16,19 +16,19 @@ export const AcronymRow = ({ letter, title, notes, reg }: AcronymRowProps) => {
       {notes && <td className={style.notesCell}>{notes}</td>}
       {reg && <td className={style.notesCell}>{reg}</td>}
     </tr>
-  );
-};
+  )
+}
 
 export type AcronymProps = {
-  children: ReactNode;
-};
+  children: ReactNode
+}
 
 const Acronym = ({ children }: AcronymProps) => {
   return (
     <table className={style.acronymTable}>
       <tbody>{children}</tbody>
     </table>
-  );
-};
+  )
+}
 
-export default Acronym;
+export default Acronym

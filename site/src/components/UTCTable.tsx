@@ -1,87 +1,87 @@
-import { useState } from "react";
+import { useState } from 'react'
 
-export type UTCTableProps = {};
+export type UTCTableProps = {}
 
 const timezones = [
   {
-    name: "Hawaii Daylight Time",
+    name: 'Hawaii Daylight Time',
     offset: -10,
   },
   {
-    name: "Hawaii-Aleutian Daylight Time",
+    name: 'Hawaii-Aleutian Daylight Time',
     offset: -9,
   },
   {
-    name: "Alaska Standard Time (Winter)",
+    name: 'Alaska Standard Time (Winter)',
     offset: -9,
   },
   {
-    name: "Alaska Daylight Time (Summer)",
+    name: 'Alaska Daylight Time (Summer)',
     offset: -8,
   },
   {
-    name: "Pacific Standard Time (Winter)",
+    name: 'Pacific Standard Time (Winter)',
     offset: -8,
   },
   {
-    name: "Pacific Daylight Time (Summer)",
+    name: 'Pacific Daylight Time (Summer)',
     offset: -7,
   },
   {
-    name: "Mountain Standard Time (Winter)",
+    name: 'Mountain Standard Time (Winter)',
     offset: -7,
   },
   {
-    name: "Mountain Daylight Time (Summer)",
+    name: 'Mountain Daylight Time (Summer)',
     offset: -6,
   },
   {
-    name: "Central Standard Time (Winter)",
+    name: 'Central Standard Time (Winter)',
     offset: -6,
   },
   {
-    name: "Central Daylight Time (Summer)",
+    name: 'Central Daylight Time (Summer)',
     offset: -5,
   },
   {
-    name: "Eastern Standard Time (Winter)",
+    name: 'Eastern Standard Time (Winter)',
     offset: -5,
   },
   {
-    name: "Eastern Daylight Time (Summer)",
+    name: 'Eastern Daylight Time (Summer)',
     offset: -4,
   },
-];
+]
 
 const range = (start: number, end: number) => {
-  var ans = [];
+  var ans = []
   for (let i = start; i < end; i++) {
-    ans.push(i);
+    ans.push(i)
   }
-  return ans;
-};
+  return ans
+}
 
 const UTCTable = ({}: UTCTableProps) => {
-  const [timezoneIndex, setTimezoneIndex] = useState(5);
+  const [timezoneIndex, setTimezoneIndex] = useState(5)
 
   const hourOf = (zuluHour: number, offset: number) => {
-    const changed = zuluHour + offset;
+    const changed = zuluHour + offset
 
     if (changed < 0) {
-      return changed + 24;
+      return changed + 24
     }
     if (changed >= 24) {
-      return changed - 24;
+      return changed - 24
     }
-    return changed;
-  };
+    return changed
+  }
 
   return (
-    <div style={{ textAlign: "center" }}>
+    <div style={{ textAlign: 'center' }}>
       <select
         value={timezoneIndex}
         onChange={(e) => setTimezoneIndex(parseInt(e.target.value))}
-        style={{ marginBottom: "1em" }}
+        style={{ marginBottom: '1em' }}
       >
         {timezones.map((zone, index) => (
           <option value={index} key={index}>
@@ -95,7 +95,7 @@ const UTCTable = ({}: UTCTableProps) => {
         {Math.abs(timezones[timezoneIndex].offset)}]
       </h2>
 
-      <table style={{ width: "100%", textAlign: "center" }}>
+      <table style={{ width: '100%', textAlign: 'center' }}>
         <thead>
           <tr>
             <th>Zulu Time</th>
@@ -123,7 +123,7 @@ const UTCTable = ({}: UTCTableProps) => {
         </tbody>
       </table>
     </div>
-  );
-};
+  )
+}
 
-export default UTCTable;
+export default UTCTable

@@ -1,19 +1,19 @@
-import { ReactNode, useState } from "react";
-import style from "./EncodedDataExplainer.module.css";
+import { ReactNode, useState } from 'react'
+import style from './EncodedDataExplainer.module.css'
 
 export type EncodedDataExplainerWord = {
-  text: ReactNode;
-  meaning: ReactNode;
-  newLine?: boolean;
-  indent?: number;
-};
+  text: ReactNode
+  meaning: ReactNode
+  newLine?: boolean
+  indent?: number
+}
 
 export type EncodedDataExplainerProps = {
-  words: EncodedDataExplainerWord[];
-};
+  words: EncodedDataExplainerWord[]
+}
 
 const EncodedDataExplainer = ({ words }: EncodedDataExplainerProps) => {
-  const [selected, setSelected] = useState(-1);
+  const [selected, setSelected] = useState(-1)
 
   return (
     <div className={style.encodedDataExplainerContainer}>
@@ -24,8 +24,8 @@ const EncodedDataExplainer = ({ words }: EncodedDataExplainerProps) => {
 
             <pre
               style={{
-                marginLeft: indent ? `${indent * 2}em` : "inherit",
-                fontWeight: selected === index ? "700" : "inherit",
+                marginLeft: indent ? `${indent * 2}em` : 'inherit',
+                fontWeight: selected === index ? '700' : 'inherit',
               }}
               key={index}
               onClick={() => setSelected(index)}
@@ -39,7 +39,7 @@ const EncodedDataExplainer = ({ words }: EncodedDataExplainerProps) => {
 
       {selected >= 0 && <div>{words[selected].meaning}</div>}
     </div>
-  );
-};
+  )
+}
 
-export default EncodedDataExplainer;
+export default EncodedDataExplainer

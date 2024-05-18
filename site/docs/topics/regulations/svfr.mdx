@@ -1,10 +1,11 @@
-import Reg from "@site/src/components/Reg";
-import Acronym, { AcronymRow } from "@site/src/components/Acronym";
+import Reg from '@site/src/components/Reg'
+import Acronym, { AcronymRow } from '@site/src/components/Acronym'
 import EncodedDataExplainer, {
   EncodedDataWord,
-} from "@site/src/components/EncodedDataExplainer";
-import StandardAtmosphereSlider from "@site/src/components/StandardAtmosphereSlider";
-import ReferenceList from "@site/src/components/ReferenceList";
+} from '@site/src/components/EncodedDataExplainer'
+import StandardAtmosphereSlider from '@site/src/components/StandardAtmosphereSlider'
+import ReferenceList from '@site/src/components/ReferenceList'
+import Footnotes from '@site/src/components/Footnotes'
 
 # Special VFR
 
@@ -33,13 +34,15 @@ delayed.
 <Reg part="91.157" />
 
 <Footnotes>
-  * The FAA wants pilots to know and understand the SVFR rules, and so they
+  \* The FAA wants pilots to know and understand the SVFR rules, and so they
   disallow controllers from suggesting it.
 </Footnotes>
 
-<ReferenceList references={[
-  {
-    name: 'FAA Order JO 7110.65Z',
-    link: 'https://www.faa.gov/air_traffic/publications/atpubs/atc_html/chap7_section_5.html',
-  },
-]} />
+<ReferenceList
+  references={[
+    {
+      name: 'FAA Order JO 7110.65Z',
+      link: 'https://www.faa.gov/air_traffic/publications/atpubs/atc_html/chap7_section_5.html',
+    },
+  ]}
+/>

@@ -1,18 +1,18 @@
-import { ChangeEventHandler, useState } from "react";
-import style from "./WeightAndBalanceTable.module.css";
+import { ChangeEventHandler, useState } from 'react'
+import style from './WeightAndBalanceTable.module.css'
 
 export type Station = {
-  label: string;
-  weightLbsDefault: number;
-  armInches: number;
-  editable?: boolean;
-};
+  label: string
+  weightLbsDefault: number
+  armInches: number
+  editable?: boolean
+}
 
 export type WeightAndBalanceProps = {
-  airplaneEmptyWeightLbs: number;
-  airplaneEmptyCgInches: number;
-  stations: Station[];
-};
+  airplaneEmptyWeightLbs: number
+  airplaneEmptyCgInches: number
+  stations: Station[]
+}
 
 const WeightAndBalance = ({
   airplaneEmptyWeightLbs,
@@ -21,44 +21,44 @@ const WeightAndBalance = ({
 }: WeightAndBalanceProps) => {
   const [weights, setWeights] = useState(
     stations.map(({ weightLbsDefault }) => weightLbsDefault.toString())
-  );
+  )
   const updateWeight = (updatedIndex: number) => (newWeight: string) =>
     setWeights((currentWeights) =>
       currentWeights.map((weight, index) => {
         if (updatedIndex === index) {
-          return newWeight;
+          return newWeight
         }
-        return weight;
+        return weight
       })
-    );
+    )
 
   const onChange =
     (index: number): ChangeEventHandler<HTMLInputElement> =>
     (e) => {
-      const updater = updateWeight(index);
-      updater(e.target.value);
-    };
+      const updater = updateWeight(index)
+      updater(e.target.value)
+    }
 
   const intOrZero = (valueString: string) => {
-    const value = parseInt(valueString);
+    const value = parseInt(valueString)
     if (!isNaN(value) && isFinite(value)) {
-      return value;
+      return value
     }
-    return 0;
-  };
+    return 0
+  }
 
   const totalWeight = weights.reduce(
     (total, weight) => total + intOrZero(weight),
     airplaneEmptyWeightLbs
-  );
+  )
 
-  const emptyMoment = (airplaneEmptyCgInches * airplaneEmptyWeightLbs) / 1000;
+  const emptyMoment = (airplaneEmptyCgInches * airplaneEmptyWeightLbs) / 1000
 
   const netMoment = stations.reduce(
     (total, { armInches }, index) =>
       total + (armInches * intOrZero(weights[index])) / 1000,
     emptyMoment
-  );
+  )
 
   return (
     <table className={style.wbTable}>
@@ -100,7 +100,7 @@ const WeightAndBalance = ({
         </tr>
       </tbody>
     </table>
-  );
-};
+  )
+}
 
-export default WeightAndBalance;
+export default WeightAndBalance
