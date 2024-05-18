@@ -3,7 +3,7 @@
 FlightDocs aims to be an open-source repository of pilot information and reference material that is usually taught as part of pilot ground schools. On this site you'll find a variety of pages with concise explanations about aircraft systems, the national airspace system, weather, and pilot regulations.
 
 Contributions are always welcome! Some content is more complete than others, and there are always pages
-that could use more explanation.
+that could use more love.
 
 ### Installation
 
