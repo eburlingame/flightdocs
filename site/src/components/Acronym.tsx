@@ -13,8 +13,8 @@ export const AcronymRow = ({ letter, title, notes, reg }: AcronymRowProps) => {
     <tr className={style.acronymRowContainer}>
       <td className={style.letterCell}>{letter}</td>
       <td className={style.titleCell}>{title}</td>
-      <td className={style.notesCell}>{notes}</td>
-      <td className={style.notesCell}>{reg}</td>
+      {notes && <td className={style.notesCell}>{notes}</td>}
+      {reg && <td className={style.notesCell}>{reg}</td>}
     </tr>
   );
 };

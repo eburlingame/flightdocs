@@ -6,13 +6,12 @@
 
 .letterCell {
   font-weight: 700;
-  width: 1em;
+  width: 80px;
   text-align: center;
   padding: 0.5em;
 }
 
 .titleCell {
-  width: 40%;
   padding: 0.5em;
 }
 
@@ -27,5 +26,5 @@
 
 .acronymRowContainer:hover {
   transition: 0.1s background-color;
-  background-color: #efefef;
+  background-color: #6c60ee;
 }
