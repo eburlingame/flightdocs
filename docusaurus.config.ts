@@ -54,7 +54,7 @@ const config: Config = {
       title: "FlightDocs",
       logo: {
         alt: "Flightdocs Logo",
-        src: "img/logo.svg",
+        src: "img/logo.png",
       },
       items: [
         {
