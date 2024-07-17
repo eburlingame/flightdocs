@@ -1,11 +1,11 @@
-import Reg from '@site/src/components/Reg'
-import Acronym, { AcronymRow } from '@site/src/components/Acronym'
+import Reg from "@site/src/components/Reg";
+import Acronym, { AcronymRow } from "@site/src/components/Acronym";
 import EncodedDataExplainer, {
   EncodedDataWord,
-} from '@site/src/components/EncodedDataExplainer'
-import StandardAtmosphereSlider from '@site/src/components/StandardAtmosphereSlider'
-import ReferenceList from '@site/src/components/ReferenceList'
-import WeightAndBalanceTable from '@site/src/components/WeightAndBalanceTable'
+} from "@site/src/components/EncodedDataExplainer";
+import StandardAtmosphereSlider from "@site/src/components/StandardAtmosphereSlider";
+import ReferenceList from "@site/src/components/ReferenceList";
+import WeightAndBalanceTable from "@site/src/components/WeightAndBalanceTable";
 
 # 1982 Cessna T182 Deep Dive
 
@@ -346,28 +346,66 @@ meets or exceeds design loads.
 
 ## Weight and Balance
 
+![182 Seat Loading](/img/content/182t-seat-loading.png)
+
 <WeightAndBalanceTable
-  airplaneEmptyWeightLbs={1396.5}
-  airplaneEmptyCgInches={40.0821}
-  stations={[
-    {
-      label: 'Oil',
-      weightLbsDefault: 15,
-      armInches: -13.3,
-      editable: false,
-    },
-    {
-      label: 'Fuel (at 6 lbs/gal)',
-      weightLbsDefault: 228,
-      armInches: 48,
-    },
-    { label: 'Pilot', weightLbsDefault: 150, armInches: 37 },
-    { label: 'Copilot', weightLbsDefault: 150, armInches: 37 },
-    { label: 'Rear Passenger 1', weightLbsDefault: 150, armInches: 73 },
-    { label: 'Rear Passenger 2', weightLbsDefault: 150, armInches: 73 },
-    { label: 'Rear Baggage', weightLbsDefault: 150, armInches: 95 },
-  ]}
+  config={{
+    stations: [
+      {
+        label: "Empty Weight",
+        weightLbsDefault: 1907.1,
+        defaultArmInches: 36.66,
+        editable: true,
+        units: "lbs",
+      },
+      {
+        label: "Fuel (at 6 lbs/gal)",
+        weightLbsDefault: 60,
+        defaultArmInches: 46.5,
+        units: "gallons",
+        unitsScalar: 6,
+      },
+      {
+        label: "Pilot",
+        weightLbsDefault: 160,
+        defaultArmInches: 41,
+        units: "lbs",
+      },
+      {
+        label: "Copilot",
+        weightLbsDefault: 160,
+        defaultArmInches: 41,
+        units: "lbs",
+      },
+      {
+        label: "Rear Passenger 1",
+        weightLbsDefault: 150,
+        defaultArmInches: 74,
+        units: "lbs",
+      },
+      {
+        label: "Rear Passenger 2",
+        weightLbsDefault: 150,
+        defaultArmInches: 74,
+        units: "lbs",
+      },
+      {
+        label: "Rear Baggage A",
+        weightLbsDefault: 0,
+        defaultArmInches: 96,
+        units: "lbs",
+      },
+      {
+        label: "Rear Baggage B",
+        weightLbsDefault: 20,
+        defaultArmInches: 122,
+        units: "lbs",
+      },
+    ],
+  }}
 />
+
+![182 CG Envelope](/img/content/182t-cg-envelope.png)
 
 ## Applicable Recurring AD's
 
