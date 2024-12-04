@@ -59,9 +59,15 @@ const config: Config = {
       items: [
         {
           type: "docSidebar",
-          sidebarId: "tutorialSidebar",
+          sidebarId: "allSidebar",
           position: "left",
-          label: "Docs",
+          label: "All Topics",
+        },
+        {
+          type: "docSidebar",
+          sidebarId: "ifrSidebar",
+          position: "left",
+          label: "IFR",
         },
       ],
     },
