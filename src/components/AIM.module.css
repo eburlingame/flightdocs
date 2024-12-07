@@ -1,0 +1,19 @@
+.aimContainer {
+  font-size: 1em;
+
+  transition: 0.2s background-color;
+  background-color: #136900;
+
+  color: #eee;
+
+  padding: 0.24em 0.4em;
+  border-radius: 0.4em;
+  margin-right: 0.25em;
+}
+
+.aimContainer:hover {
+  color: #eee;
+  text-decoration: none;
+  background-color: #2a5235;
+  transition: 0.2s background-color;
+}
