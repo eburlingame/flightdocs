@@ -1,5 +1,4 @@
 .acronymTable {
-  border: 0.5px solid #eee;
   margin: inherit;
   border-collapse: collapse;
 }
@@ -24,12 +23,12 @@
   transition: 0.1s background-color;
 }
 
-[data-theme='light'] .acronymRowContainer:hover {
+[data-theme="light"] .acronymRowContainer:hover {
   transition: 0.1s background-color;
   background-color: #dbd8f4;
 }
 
-[data-theme='dark'] .acronymRowContainer:hover {
+[data-theme="dark"] .acronymRowContainer:hover {
   transition: 0.1s background-color;
   background-color: #534c9c;
 }
