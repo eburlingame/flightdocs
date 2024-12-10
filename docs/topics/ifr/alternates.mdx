@@ -1,0 +1,44 @@
+import Reg from "@site/src/components/Reg";
+import AIM from "@site/src/components/AIM";
+import Acronym, { AcronymRow } from "@site/src/components/Acronym";
+import ReferenceList from "@site/src/components/ReferenceList";
+
+# Alternates
+
+Alternates are required if, within &pm; 1 hour of your ETA, [ceilings are &lt; 2000' or visibility is &lt; 3 s.m.](/docs/topics/ifr/ifr-fuel-requirements), or your destination does not have an instrument approach.
+
+## Selecting an Alternate
+
+- If an alternate is required, they must be selected based on the following criteria:
+  - For an airports with a **precision** approach, the weather must be better than:
+    - **> 600' ceiling**, and
+    - **> 2 s.m. visibility**
+  - For an airports with a **non-precision** approach, the weather must be better than:
+    - **> 800' ceiling**, and
+    - **> 2 s.m. visibility**
+  - If an airport contains a negative A on its approach plates, then it has non-standard alternate minimums.
+    - ![Negative A symbol](/img/content/kcvo-vor-a-header.png)
+  - In this case refer to the Alternate Minimums chart for the airport in the TPP:
+    - ![Alternative minimums](/img/content/kcvo-alternate-mins.png)
+  - If an airport does not have an instrument approach, it can be used as an alternate if:
+    - A decent to landing can be made from the **MEA** to the airport in basic VFR conditions
+  - If the chart contains a negative "A" followed by "NA", then that airport cannot be used as an alternate.
+    - This may be because the airport does not have weather reporting
+
+<Reg part="91.169" />
+
+## Forecasted Weather
+
+- TAFs are an acceptable source for the forecast weather minimums above
+- If an airport does not have a TAF, [graphical ceiling/visibility forecasts](https://aviationweather.gov/gfa/#cigvis) can be used
+
+## Alternate While Flying
+
+- There is no requirement to fly to your filed alternate if a landing at the intended destination cannot be made.
+- You can fly an approach into any airport, provided the minimums are higher than the approach used
+
+## RNAV Approaches
+
+- When using WAAS at an alternate airport, flight planning must be based on flying the RNAV (GPS) LNAV or circling minima line, or minima on a GPS approach procedure
+
+<AIM chapter="1-1-18.c" />
