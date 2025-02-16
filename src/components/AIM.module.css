@@ -1,8 +1,8 @@
-.regContainer {
+.aimContainer {
   font-size: 1em;
 
   transition: 0.2s background-color;
-  background-color: #2c2460;
+  background-color: #136900;
 
   color: #eee;
 
@@ -11,9 +11,9 @@
   margin-right: 0.25em;
 }
 
-.regContainer:hover {
+.aimContainer:hover {
   color: #eee;
   text-decoration: none;
-  background-color: #2a2a52;
+  background-color: #2a5235;
   transition: 0.2s background-color;
 }

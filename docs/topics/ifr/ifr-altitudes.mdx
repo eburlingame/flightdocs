@@ -1,0 +1,68 @@
+import Reg from "@site/src/components/Reg";
+import AIM from "@site/src/components/AIM";
+import Acronym, { AcronymRow } from "@site/src/components/Acronym";
+import ReferenceList from "@site/src/components/ReferenceList";
+
+# IFR Altitudes
+
+<table>
+  <tr>
+    <th>Altitude</th>
+    <th>Name</th>
+    <th>Obstruction Clearance</th>
+    <th>Navaid Signal</th>
+  </tr>
+  <tr>
+    <td>MEA</td>
+    <td>Minimum Enroute Altitude</td>
+    <td className="center">☑️</td>
+    <td className="center">☑️</td>
+  </tr>
+  <tr>
+    <td>MOCA</td>
+    <td>Minimum Obstruction Clearance Altitude</td>
+    <td className="center">☑️</td>
+    <td className="center">Within 22nm (25 s.m.) of NAVAID</td>
+  </tr>
+  <tr>
+    <td>MCA</td>
+    <td>Minimum Crossing Altitude</td>
+    <td className="center">☑️</td>
+    <td className="center">☑️</td>
+  </tr>
+  <tr>
+    <td>MRA</td>
+    <td>Minimum Reception Altitude</td>
+    <td className="center">☑️</td>
+    <td className="center">☑️</td>
+  </tr>
+  <tr>
+    <td>MAA</td>
+    <td>Maximum Authorized Altitude</td>
+    <td className="center">☑️</td>
+    <td className="center">☑️</td>
+  </tr>
+  <tr>
+    <td>OROCA</td>
+    <td>Off-route Obstruction Clearance Altitude</td>
+    <td className="center">☑️</td>
+    <td className="center">-</td>
+  </tr>
+</table>
+
+![IFR chart altitudes](/img/content/ifr-chart-altitudes.png)
+
+<Reg part="91.177" />
+
+## IFR Cruising Altitudes
+
+![IFR cruising altitudes](/img/content/ifr-enroute-alts.png)
+
+<ReferenceList
+  references={[
+    {
+      name: "Pilot Controller Glossary - M",
+      link: "https://www.faa.gov/air_traffic/publications/atpubs/pcg_html/glossary-m.html",
+    },
+  ]}
+/>

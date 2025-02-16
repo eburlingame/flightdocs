@@ -1,0 +1,66 @@
+import AIM from "@site/src/components/AIM";
+import Reg from "@site/src/components/Reg";
+import Acronym, { AcronymRow } from "@site/src/components/Acronym";
+import EncodedDataExplainer, {
+  EncodedDataWord,
+} from "@site/src/components/EncodedDataExplainer";
+import StandardAtmosphereSlider from "@site/src/components/StandardAtmosphereSlider";
+import ReferenceList from "@site/src/components/ReferenceList";
+
+# GPS Usage Under IFR
+
+## Non-IFR GPS Systems
+
+Non-IFR approved GPS systems cannot be used as a navigation source during IFR flight. They are considered by the FAA as an aid to situational awareness only.
+
+## RAIM
+
+Receiver autonomous integrity monitoring (RAIM) is a self-monitoring function of GPS systems that actively ensures adequate navigation signal coverage.
+
+RAIM will alert the pilot if the signals available are not safe for navigational use.
+
+## Non-WAAS GPS Systems (TSO-C129 or TSO-C196)
+
+A non-WAAS GPS requires that the pilot ensure GPS RAIM availability for the entire route of the flight. This can be determined a number of ways:
+
+- By contacting an FSS for non-precision approach RAIM
+- Service availability prediction tool (SAPT) online
+- A 3rd party interface to the FAA/Vlope Center RAIM data
+- A RAIM prediction system build into the GPS unit
+
+To use a non-WAAS GPS under IFR, a suitable alternative navigation source must be installed and up-to-date (for instance, 30-day VOR checks are completed).
+
+If RAIM is available, the pilot does not need to actively monitor the alternate source during flight.
+
+A pilot using a non-WAAS GPS may file a flight plan into an airport with a GPS IAP, or file an alternate with a GPS IAP, but not both.
+
+If the GPS IAP is used as the approach into the alternate airport, then the pilot must flight plan using the LNAV or circling minima. If these conditions are not met, then the alternate airport must have another form of instrument approach that the aircraft is equipped and approved to fly.
+
+<AIM chapter="1-1-17" />
+
+## WAAS-Enabled GPS Systems (TSO-C145/146)
+
+WAAS-Enabled GPS does not require that the pilot ensure RAIM availability for the route, if WAAS coverage is ensured.
+
+Additionally, a WAAS-enabled GPS may be used a the sole source of navigation. No alternate equipment is required.
+
+With a WAAS-enabled GPS, you may file an alternate with an GPS approach. However, you must use the LNAV or circling minima line for your flight planning, and adhere to the non-precision approach alternate weather requirements.
+
+## GPS System Requirements
+
+Any GPS must also have its Airplane Flight Manual Supplement onboard.
+
+GPS navigation databases are updated every 28 days. Obstacle databases are updated every 56 days. A pilot is authorized to update the database of a unit, as long as it can be done from the cockpit without disassembly. It does not require an entry into the aircraft logbook.
+
+To use an IFR navigator for approaches, the database must be up-to-date.
+
+However, some units will allow usage with expired databases, if the navigation data is verified against an official source before use. This allowance will be specified in the AFM.
+
+<ReferenceList
+  references={[
+    {
+      name: "Instrument Flying Handbook, Ch 9",
+      link: "https://www.faa.gov/sites/faa.gov/files/regulations_policies/handbooks_manuals/aviation/FAA-H-8083-15B.pdf",
+    },
+  ]}
+/>
