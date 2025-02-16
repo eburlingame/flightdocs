@@ -81,7 +81,7 @@ If an ELT has been removed for maintenance, the aircraft may be operated for up 
 Conviction of an offense involving alcohol or drugs is grounds for *suspension* or *revocation* of any certificate or rating issued under part 61.
 ---
 The fuel/air ratio is the ratio of the *weight* of the fuel and the *weight* of the air entering the cylinder.
---
+---
 Detonation occurs with high *cylinder temperatures|cylinder temps* and high *power setting|power*.
 ---
 An airplane leaving ground effect will experience a *pitch up|pitch-up* tendency.
@@ -133,7 +133,7 @@ An applicant for the private pilot rating is required to have at least *3* hours
 On a winds aloft forecast, if the direction of the predicted winds are greater than 36 (an impossible heading), then subtract *50* from the direction from the heading and add *100* to the velocity.
 ---
 If the data group on a winds aloft forecast is *9900*, then winds are calm (less than *5* knots).
---- 
+---
 On a winds aloft forecast, all temperatures above *24000|24,000*ft are assumed to be negative.
 ---
 Runway hold position markings on a runway indicate the presence of *LAHSO|land and hold short operations*.
@@ -213,7 +213,7 @@ A flight instructor applying for an additional instructor rating must have a min
 [61.183]
 ---
 A flight instructor who provides helicopter or multiengine airplane instruction must have *5* hours in the specific *make* and *model* of aircraft for which the instruction is given.
---- 
+---
 On a Surface Analysis Weather Chart, isobars are spaced at *4* millibars.
 ---
 Without an instrument rating, a commercial pilot cannot carry passengers on cross country flights longer than *50*nm, or at *night*.
@@ -227,11 +227,10 @@ In order to give flight instruction, an instructor must have done one of the fol
 To re-instate an expired instructor certificate, a instructor can:
 - Pass a *practical test* for one of the ratings held.
 - If less than 3 months have passed since the recent experience period, the instructor can complete an approved *refresher* course.
---- 
+---
 On a convective outlook chart *severe* thunderstorms are expected to affect:
 - In an area of slight risk: between *2* and *5* percent of the forecast area.
 - In an area of moderate risk: between *5* and *10* percent of the forecast area.
 - In an area of high risk: over *10* percent of the forecast area.
 
 [AWC Glossary](https://forecast.weather.gov/glossary.php?word=risk)
----
