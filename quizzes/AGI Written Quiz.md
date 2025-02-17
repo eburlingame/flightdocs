@@ -68,7 +68,7 @@ An aircraft engaged in training operations without an operating ELT cannot fly m
 
 (91.207f)
 ---
-An aircraft loaded at the aft CG limit will have the *lowest* stall speed and the *highest* cruise speed. 
+An aircraft loaded at the aft CG limit will have the *lowest|slowest* stall speed and the *highest* cruise speed. 
 ---
 The most pertinent/primary information for pitch control in straight-and-level flight is given by the *altimeter*.
 ---
@@ -78,13 +78,13 @@ The maximum intensity winds in a microburst will last *2* to *4* minutes.
 ---
 If an ELT has been removed for maintenance, the aircraft may be operated for up to *90* days.
 ---
-Conviction of an offense involving alcohol or drugs is grounds for *suspension* or *revocation* of any certificate or rating issued under part 61.
+Conviction of an offense involving alcohol or drugs is grounds for [*suspension* or *revocation*] of any certificate or rating issued under part 61.
 ---
 The fuel/air ratio is the ratio of the *weight* of the fuel and the *weight* of the air entering the cylinder.
 ---
-Detonation occurs with high *cylinder temperatures|cylinder temps* and high *power setting|power*.
+High cylinder temperatures and a high power setting can cause *detonation*.
 ---
-An airplane leaving ground effect will experience a *pitch up|pitch-up* tendency.
+An airplane leaving ground effect will experience a *pitch up|pitch-up|nose up|nose-up* tendency.
 ---
 Tornadoes, embedded thunderstorms, and hail 3/4" or larger is included in a *convective sigmet*.
 ---
@@ -162,7 +162,7 @@ During landing:
 ---
 The antidote to the "macho" attitude is: "*taking chances is foolish*".
 ---
-During an engine failure of a multi-engine airplane, banking towards the *inoperative* engine will increase the V_MC_ speed.
+During an engine failure of a multi-engine airplane, banking towards the *inoperative* engine will increase the Vmc speed.
 ---
 The minimum steady flight speed at which an airplane is controllable is known as *Vs*.
 ---
@@ -170,11 +170,11 @@ When flying into ground effect: lift will *increase* and induced drag will *decr
 ---
 An applicant will need to wait *12* months after a narcotics conviction before adding a new rating.
 ---
-ATC will provide *6* miles of separation between small aircraft landing behind a heavy.
+ATC will provide *6* miles of separation between small aircraft landing behind a heavy jet aircraft.
 ---
 The NTSB shall be notified immediately following an aircraft *accident*, or serious *incident* as defined in NTSB part *830*.
 ---
-A report shall be made to the NTSB within *10* following an accident. A report following an aircraft incident (including those that required immediate notification), shall be made *if requested|only if requested*.
+A report shall be made to the NTSB within *10* days following an accident. A report following an aircraft incident (including those that required immediate notification), shall be made *if requested|only if requested*.
 
 [49 CFR 830.15]
 ---
@@ -223,6 +223,7 @@ In order to give flight instruction, an instructor must have done one of the fol
 - Served as a *check pilot|check airman* for a part 121 or part 135 operation
 - Completed a CFI refresher course in the last *3* months
 - Served as an instructor in an FAA-sponsored pilot proficiency program, and conducted *15* flight activities with *5* different pilots, making endorsements in their logbooks.
+
 ---
 To re-instate an expired instructor certificate, a instructor can:
 - Pass a *practical test* for one of the ratings held.
