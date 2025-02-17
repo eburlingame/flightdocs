@@ -21,7 +21,7 @@ The best rate of climb speed with one engine inoperative (*Vyse*) is indicated w
 ---
 Low propeller pitch is a *smaller|small* bite of air, high propeller pitch is a *larger|large|big* bite of air.
 ---
-In cruise flight with a constant-speed propeller, an increase in airspeed will *increase* the pitch of the propeller, and a decrease in airspeed with *increase* the pitch of the propeller.
+In cruise flight with a constant-speed propeller, an increase in airspeed will *increase* the pitch of the propeller, and a decrease in airspeed with *decrease* the pitch of the propeller.
 ---
 A clockwise turning propeller will have a tendency to yaw the aircraft to the *left*, and roll the aircraft to the *right*.
 ---
@@ -60,9 +60,9 @@ A leading edge slot will delay the stall to a higher *angle of attack|aoa*.
 ---
 The following oxygen requirements must be followed:
 
-- Above *12,500*, the flight crew must use oxygen for the portion of the flight time more than 30 minutes
-- Above *14,000* the flight crew must use oxygen all the time
-- Above *15,000* the flight crew must use oxygen all the time, and the passengers must be provided oxygen
+- Above *12,500|12500|12.5k*, the flight crew must use oxygen for the portion of the flight time more than 30 minutes
+- Above *14,000|14000|14k* the flight crew must use oxygen all the time
+- Above *15,000|15000|15k* the flight crew must use oxygen all the time, and the passengers must be provided oxygen
 ---
 An aircraft engaged in training operations without an operating ELT cannot fly more than *50*nm from an airport.
 
