@@ -234,3 +234,29 @@ On a convective outlook chart *severe* thunderstorms are expected to affect:
 - In an area of high risk: over *10* percent of the forecast area.
 
 [AWC Glossary](https://forecast.weather.gov/glossary.php?word=risk)
+---
+![Weather Depiction Chart Sky Condition Symbols](https://flightdocs.io/img/content/wdc-sky-condition-question.png)
+
+1. *Clear*
+2. *Few*
+3. *Scattered*
+4. *Broken*
+5. *Broken overcast*
+6. *Overcast*
+7. *Obscured*
+8. *Missing|partial obscuration*
+---
+![Weather Depiction Chart Weather Symbols](https://flightdocs.io/img/content/wdc-weather-question.png)
+
+1. *Mist*
+2. *Fog*
+3. *Haze*
+4. *Smoke*
+5. *Drizzle*
+6. *Rain*
+7. *Freezing drizzle*
+8. *Freezing rain*
+9. *Ice pellets*
+10. *Snow*
+11. *Shower*
+12. *Thunderstorm*
