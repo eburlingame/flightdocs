@@ -74,8 +74,6 @@ The most pertinent/primary information for pitch control in straight-and-level f
 ---
 When flying low over hilly terrain, the greatest potential danger from turbulent air current will usually be encountered on the *leeward* side, when flying with a *headwind*.
 ---
-The maximum intensity winds in a microburst will last *2* to *4* minutes.
----
 If an ELT has been removed for maintenance, the aircraft may be operated for up to *90* days.
 ---
 Conviction of an offense involving alcohol or drugs is grounds for [*suspension* or *revocation*] of any certificate or rating issued under part 61.
@@ -100,13 +98,9 @@ Within an aircraft traffic pattern located within Class B airspace, the maximum 
 ---
 ELT batteries must be replaced after *1* hour of cumulative use.
 ---
-*Skin friction* drag is caused by air moving over the surface of the aircraft
+*Skin friction drag* is caused by air moving over the surface of the aircraft
 ---
 During a steep turn, the rudder is used to *prevent yawing*.
----
-Within any consecutive 24 hour period, an instructor may not perform more that *8* hours of flight training.
----
-A flight instructor may not give training in a multiengine airplane unless that flight instructor has at least *5* flight hours of pilot-in-command time in the specific make and model.
 ---
 The lift produced by an airfoil is a net force which acts perpendicular to the *relative wind*.
 ---
@@ -118,7 +112,7 @@ A CFI can provide flight instruction for a CFI in training if you have a least *
 ---
 Strong static directional stability and a weak dihedral contributes to *spiral instability*.
 ---
-If you are given priority by ATC during an emergency, you must submit a report to the ATC facility within *48* if requested.
+If you are given priority by ATC during an emergency, you must submit a report to the ATC facility within *48* hours if requested.
 ---
 A forward CG is most critical during *landing*.
 ---
@@ -204,6 +198,8 @@ Repeated solo cross-country flights may be made by a student pilot, provided the
 ---
 Wing dihedral increases [*lateral* or *roll*] stability.
 ---
+Within any consecutive 24 hour period, an instructor may not perform more that *8* hours of flight training.
+---
 An instructor is required to maintain records of each student pilot endorsement for a period of *3* years.
 
 [61.189]
@@ -212,7 +208,7 @@ A flight instructor applying for an additional instructor rating must have a min
 
 [61.183]
 ---
-A flight instructor who provides helicopter or multiengine airplane instruction must have *5* hours in the specific *make* and *model* of aircraft for which the instruction is given.
+A flight instructor who provides helicopter or multi-engine airplane instruction must have *5* hours of pilot-in-command in the specific *make* and *model* of aircraft for which the instruction is given.
 ---
 On a Surface Analysis Weather Chart, isobars are spaced at *4* millibars.
 ---
@@ -266,4 +262,9 @@ An individual microburst will rarely last longer than *15* minutes, but can cont
 ---
 Vmc in a non-turbocharged multiengine aircraft will *decrease* with altitude.
 ---
-During a level rate turn the primary instrument for bank is the *attitude indicator|AI*, and the supporting instrument is the *turn coordinator*.
+During a level, standard-rate turn the primary instrument for bank is the *attitude indicator|AI*, and the supporting instrument is the *turn coordinator*.
+---
+The dry adiabatic lapse rate is *3* degrees C pre *1000* ft.
+The standard atmosphere lapse rate is *2* degrees C per *1000*ft.
+---
+The typical convergence rate for the temperature and dewpoint, as you ascend in the atmosphere is *2.5*&deg; C per 1000 ft, or *4.4*&deg;C per 1000 ft.
