@@ -259,5 +259,5 @@ On a convective outlook chart *severe* thunderstorms are expected to affect:
 8. *Freezing rain*
 9. *Ice pellets*
 10. *Snow*
-11. *Shower*
-12. *Thunderstorm*
+11. *Showers*
+12. *Thunderstorms*
