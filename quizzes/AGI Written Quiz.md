@@ -261,3 +261,9 @@ On a convective outlook chart *severe* thunderstorms are expected to affect:
 10. *Snow*
 11. *Showers*
 12. *Thunderstorms*
+---
+An individual microburst will rarely last longer than *15* minutes, but can contain downdrafts as strong as *6000*fpm. The maximum intensity winds last *2* to *4* minutes.
+---
+Vmc in a non-turbocharged multiengine aircraft will *decrease* with altitude.
+---
+During a level rate turn the primary instrument for bank is the *attitude indicator|AI*, and the supporting instrument is the *turn coordinator*.
