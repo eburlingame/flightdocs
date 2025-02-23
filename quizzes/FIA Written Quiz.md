@@ -110,3 +110,76 @@ When operating on the same runway as a large aircraft:
 
 (AIM 7-4-6)
 ---
+"*Flat*" turns are the result of a subconscious tendency to avoid banking the airplanes, especially when close to the ground.
+
+(AFK 3-17)
+---
+If more than *3* calendar months have passed since a flight instructor's recent experience period, they can re-instate their privileges by completing a *practical test* for one of the ratings held, or for an additional rating. This will re-instate the privileges for *all* the ratings that the  instructor holds.
+
+(91.199)
+---
+A flight instructor may provide instrument instruction in a multi-engine airplane for the issuance of a multi-engine rating, even if their are not a *CFII*.
+
+(61.195)
+---
+When introducing students to turns, instructors should start with *medium* bank turns to avoid any *overbanking|over-banking* tendencies associated with steep turns.
+---
+After *12* months, a second-class medical certificate will "fail-down" to the allowances of a *third|3rd* class medical certificate.
+
+(61.23)
+---
+An elevator trim stall is the result of *full power* and *nose-up|nose up* trim, simulating what might happen during a *go-around|go around*.
+---
+Though they are not required to be performed on a private pilot practical test, CFI's should demonstrate [*cross-control* stalls and *elevator*] stalls.
+
+(AFK 5-20)
+---
+The *PAVE* model aids pilots in identifying and mitigating hazards.
+---
+A *SAA* NOTAM will be publishes when special-use airspace is active outside of its normally scheduled times.
+---
+During a level turn, a common error in instruction is holding a constant angle of bank only by reference to the airplane's *nose*.
+
+(AFK 3-17)
+---
+The proper recovery procedure for a nose-high unusual attitude is:
+1. Increase *power*
+2. Apply forward *elevator pressure*
+3. Correct bank with coordinate [*rudder* and *aileron*]
+
+IFH (7-27)
+---
+The proper recovery procedure for a nose-low unusual attitude is:
+1. Reduce *power*
+2. Correct bank with coordinate [*rudder* and *aileron*]
+3. Slowly raise the nose with smooth *elevator* back pressure
+
+IFH (7-27)
+---
+The dimensions of Class C airspace are:
+- An inner ring, *5*nm in diameter from the *surface* to *4000* above airport elevation.
+- An outer ring, *10*nm in diameter from *1200*' to *4000*' above airport elevation.
+- An uncharted outer area, with a radius of *20*nm
+
+(AIM 3-2-4)
+---
+IR and VR military training routes are identified with a *four|4* digit number.
+---
+Without a tower, FSS, or unicom frequency, pilots should broadcast their intentions on the *MULTICOM* frequency of *122.9* MHz.
+
+(AIM 4-1-9)
+---
+An up-sloping runway will make it seem like you're *higher* than you actually are when on approach. Conversely, a down-sloping runway will make it seem like you're *lower*.
+---
+With an inoperative heading indicator or DG, the *magnetic compass|compass* is your primary instrument for bank.
+---
+Integrated or composite flight training emphasizes flight largely by references outside the airplane, recommending *90*% of the pilot's focus be external, with *10*% focus on instruments. 
+---
+ADB-S out is required:
+- In Class *B* and *C* airspace
+- Within the lateral bounds of Class *B* and *C* airspace, up to *10,000|10000* ft.
+- Within *30*nm of large Class B airports, up to *10,000|10000* ft.
+- At and above *10,000|10000* ft., except when below *2500* ft. AGL.
+- Class *E* airspace at and above 3,000 feet MSL over the Gulf of Mexico from the coastline of the United States out to *12* nautical miles.
+
+(91.225)
