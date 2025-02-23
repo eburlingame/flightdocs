@@ -183,3 +183,27 @@ ADB-S out is required:
 - Class *E* airspace at and above 3,000 feet MSL over the Gulf of Mexico from the coastline of the United States out to *12* nautical miles.
 
 (91.225)
+---
+Shaded areas on a SIGWX prognostic chart indicate that precipitation is forecast over *50*% of the given area.
+---
+On a convective outlook chart, an area label APCHG indicates thunderstorms that are approaching severe status, meaning winds greater than *35*knots but less than *50* knots and/or hail of at least *0.5* inches.
+---
+An occluded front is when a *cold* front catches up to and merges with a *warm* front.
+---
+Tornadoes are most likely during thunderstorms associated with [*cold fronts* or *squall lines*].
+---
+On a surface analysis chart, a stationary front is *blue/red|red/blue*, and an occluded front is *purple*.
+---
+On a METAR, `SLPNO` means sea-level pressure is *not available*.
+---
+On a METAR, `WS005/27050` means: Windshear *270* at *50* knots at *500* ft.
+---
+On a METAR, a `$` at the end indicates the station may be in need of maintenance.
+---
+Most weather occurs in the *troposphere*.
+---
+Warm fronts are often associated with *precipitation* fog.
+---
+A wave cyclone often forms on a *stationary* front.
+---
+Windflow around a low is *cyclonic*.
