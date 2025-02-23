@@ -207,3 +207,9 @@ Warm fronts are often associated with *precipitation* fog.
 A wave cyclone often forms on a *stationary* front.
 ---
 Windflow around a low is *cyclonic*.
+---
+V2 is the *takeoff safety* speed.
+---
+As CG moves aft, the aircraft becomes *less* controllably and *less* stable.
+---
+As humidity increases density altitude will *increase*, although marginally.
