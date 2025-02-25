@@ -15,7 +15,7 @@ The *pilot* is always considered the referenced center of effect as the flight c
 ---
 Fuel consumption is primarily dependent of *percent horsepower|% horsepower*.
 ---
-Flying below *Va* allows for full deflection of an *one|single* control surface (rudder, aileron, elevator), but not multiple control surfaces.
+Flying below *Va* allows for full deflection of any *one|single* control surface (rudder, aileron, elevator), but not multiple control surfaces.
 ---
 The horizontal force acting upon an airplane during a turn is divided into two components:
 - *Centripetal* - inward
@@ -27,7 +27,7 @@ While an engine is running, a cylinder piston undergoes four phases:
 3. *Power*, the ignited gasses expand and drive the piston downward
 4. *Exhaust*, the cylinder is purged of burned gasses
 ---
-Before acting as PIC of a pressurized airplane (with a service ceiling or maximum operating altitude above *25,000|25000,25k* ft. MSL), a pilot must receive and log *ground* training from an authorized instructor. 
+Before acting as PIC of a pressurized airplane (with a service ceiling or maximum operating altitude above *25,000|25000|25k* ft. MSL), a pilot must receive and log *ground* training from an authorized instructor. 
 
 Additionally, that pilot must have received *flight* training in a pressurized aircraft or flight simulator.
 
@@ -64,7 +64,7 @@ No person may operate an aircraft in aerobatic flight:
 - Over an open air assembly of persons;
 - Within the lateral boundaries of the surface areas of Class B/C/D/E airspace designated for an airport;
 - Within *4* nautical miles of the center line of any Federal airway;
-- Below an altitude of *1,500* feet above the surface; or
+- Below an altitude of *1,500|1500* feet above the surface; or
 - When flight visibility is less than *3* statute miles
 
 (91.303)
@@ -96,7 +96,7 @@ Students sitting on the left will have a tendency to *dive* into left turn, sinc
 ---
 For pilot training and testing purposes, slow flight includes two main elements:
 - Slowing to and maneuvering just above *stall speed*
-- Practice maneuvers related to [*takeoffs* and *landings*] in those configurations
+- Practice maneuvers related to [*takeoffs|takeoff* and *landings|landing*] in those configurations
 
 (AFK 5-9)
 ---
@@ -128,9 +128,9 @@ After *12* months, a second-class medical certificate will "fail-down" to the al
 
 (61.23)
 ---
-An elevator trim stall is the result of *full power* and *nose-up|nose up* trim, simulating what might happen during a *go-around|go around*.
+An elevator trim stall is the result of *full power* and *nose-up|nose up|pitch-up|pitch up* trim, simulating what might happen during a *go-around|go around*.
 ---
-Though they are not required to be performed on a private pilot practical test, CFI's should demonstrate [*cross-control* stalls and *elevator*] stalls.
+Though they are not required to be performed on a private pilot practical test, CFI's should demonstrate [*cross-control|cross control* stalls and *elevator trim*] stalls.
 
 (AFK 5-20)
 ---
@@ -145,13 +145,13 @@ During a level turn, a common error in instruction is holding a constant angle o
 The proper recovery procedure for a nose-high unusual attitude is:
 1. Increase *power*
 2. Apply forward *elevator pressure*
-3. Correct bank with coordinate [*rudder* and *aileron*]
+3. Correct bank with coordinated [*rudder* and *aileron*]
 
 IFH (7-27)
 ---
 The proper recovery procedure for a nose-low unusual attitude is:
 1. Reduce *power*
-2. Correct bank with coordinate [*rudder* and *aileron*]
+2. Correct bank with coordinated [*rudder* and *aileron*]
 3. Slowly raise the nose with smooth *elevator* back pressure
 
 IFH (7-27)
@@ -198,7 +198,7 @@ On a METAR, `SLPNO` means sea-level pressure is *not available*.
 ---
 On a METAR, `WS005/27050` means: Windshear *270* at *50* knots at *500* ft.
 ---
-On a METAR, a `$` at the end indicates the station may be in need of maintenance.
+On a METAR, a *$* at the end indicates the station may be in need of maintenance.
 ---
 Most weather occurs in the *troposphere*.
 ---
