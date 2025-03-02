@@ -44,3 +44,5 @@
 - Helps student's "make meaning" out of their past experiences, and use that to strengthen their ADM
 
 [Aviation Instructor's Handbook pg. 3-6](/_referencs/AIH/3-6)
+
+[Pilot’s Handbook of Aeronautical Knowledge pg. 2-21](/_references/PHAK/2-21)
