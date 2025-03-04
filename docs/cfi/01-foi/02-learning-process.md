@@ -110,7 +110,7 @@ Social learning is simply learning by observation of others. Albert Bandura's So
 - Insight involves the grouping of perceptions into meaningful wholes
 - It is the instructor's job to facilitate the synthesis of perception into insight
 
-[Airplane Flying Handbook pg. 3-9](/_references/AFH/3-9)
+[Aviation Instructor's Handbook pg. 3-9](/_references/AIH/3-9)
 
 ## Selective Attention
 
@@ -118,7 +118,7 @@ Social learning is simply learning by observation of others. Albert Bandura's So
 
 See also [Sensory Memory](#sensory-memory)
 
-[Airplane Flying Handbook pg. 3-36](/_references/AFH/3-36)
+[Aviation Instructor's Handbook pg. 3-36](/_references/AIH/3-36)
 
 ## Acquiring Knowledge
 
@@ -144,7 +144,7 @@ See also [Sensory Memory](#sensory-memory)
 - **I**ntensity: Immediate, exciting, or dramatic experience will be more educational
 - **R**ecency: The more recent the information, the better it will be remembered
 
-[Airplane Flying Handbook pg. 3-11](/_references/AFH/3-11)
+[Aviation Instructor's Handbook pg. 3-11](/_references/AIH/3-11)
 
 ## Domains of Learning
 
@@ -152,7 +152,7 @@ See also [Sensory Memory](#sensory-memory)
 - Psychomotor: Doing, observation, habit
 - Affective: Beliefs and attitudes, emotions towards the experience
 
-[Airplane Flying Handbook pg. 3-13](/_references/AFH/3-13)
+[Aviation Instructor's Handbook pg. 3-13](/_references/AIH/3-13)
 
 ## Characteristics of Learning
 
@@ -161,7 +161,7 @@ See also [Sensory Memory](#sensory-memory)
 - Learning is multifaceted: Learning involves many elements of experience, and not always what's intended by an instructor
 - Active process: Learners must continuously react and respond to material and experiences to learn from it
 
-[Airplane Flying Handbook pg. 3-19](/_references/AFH/3-19)
+[Aviation Instructor's Handbook pg. 3-19](/_references/AIH/3-19)
 
 ## Learning Styles
 
@@ -179,7 +179,7 @@ See also [Sensory Memory](#sensory-memory)
   - Visual: Learn best from images
   - Kinesthetic: Learn by hands-on doing
 
-[Airplane Flying Handbook pg. 3-20](/_references/AFH/3-20)
+[Aviation Instructor's Handbook pg. 3-20](/_references/AIH/3-20)
 
 ## Acquiring Skill Knowledge
 
@@ -189,7 +189,7 @@ See also [Sensory Memory](#sensory-memory)
 2. Associate stage: Practice mode, associate task elements together, make assessments of their own progress
 3. Automatic response stage: Perform skills automatically and can multi-task, skill is rapid and smooth
 
-[Airplane Flying Handbook pg. 3-24](/_references/AFH/3-24)
+[Aviation Instructor's Handbook pg. 3-24](/_references/AIH/3-24)
 
 ### Knowledge of Results
 
@@ -209,7 +209,7 @@ See also [Sensory Memory](#sensory-memory)
   - reaching of cognitive capability limits
   - the need for a more efficient method of practice
 
-[Airplane Flying Handbook pg. 3-26](/_references/AFH/3-26)
+[Aviation Instructor's Handbook pg. 3-26](/_references/AIH/3-26)
 
 ## Types of Practice
 
@@ -224,7 +224,7 @@ See also [Sensory Memory](#sensory-memory)
    - Practices a random set of skills
    - The most valuable type of practice
 
-[Airplane Flying Handbook pg. 3-26](/_references/AFH/3-26)
+[Aviation Instructor's Handbook pg. 3-26](/_references/AIH/3-26)
 
 ## Evaluation vs Critique
 
@@ -233,22 +233,22 @@ See also [Sensory Memory](#sensory-memory)
   - Sometimes concepts can give way to rote procedure if not engaged with (like a checklist becoming rote)
 - Learners not only need a skill to become easy or habitual, but know when to apply the skill or knowledge
 
-[Airplane Flying Handbook pg. 3-28](/_references/AFH/3-28)
+[Aviation Instructor's Handbook pg. 3-28](/_references/AIH/3-28)
 
 ## Putting it all together
 
-- Multitasking: Attention switching, simulataneous performance
+- Multitasking: Attention switching, simultaneous performance
 - Distractions and interruptions should be minimized early in training, but added in as the student progresses
 - Fixation and inattention: A tendency to over- or under-observe a particular piece of information
 
-[Airplane Flying Handbook pg. 3-29](/_references/AFH/3-29)
+[Aviation Instructor's Handbook pg. 3-29](/_references/AIH/3-29)
 
 ## Errors
 
 - Slip: a person plans to do the _right_ thing, but does something else
 - Mistake: A person plans to do the _wrong_ thing
 
-[Airplane Flying Handbook pg. 3-33](/_references/AFH/3-33)
+[Aviation Instructor's Handbook pg. 3-33](/_references/AIH/3-33)
 
 ### Ways to minimize errors
 
@@ -258,7 +258,7 @@ See also [Sensory Memory](#sensory-memory)
 4. **Develop routines** to prevent the error
 5. **Raise awareness** when a person know an error is likely
 
-[Airplane Flying Handbook pg. 3-33](/_references/AFH/3-33)
+[Aviation Instructor's Handbook pg. 3-33](/_references/AIH/3-33)
 
 ### Learning from errors
 
@@ -266,13 +266,13 @@ See also [Sensory Memory](#sensory-memory)
 - Point out errors and ask student why they occurred
 - Point out that errors occur at all skill levels
 
-[Airplane Flying Handbook pg. 3-35](/_references/AFH/3-35)
+[Aviation Instructor's Handbook pg. 3-35](/_references/AIH/3-35)
 
 ## Memory
 
 > Memory is the vital link between the learning retaining information and the cognitive process of applying what has been learned.
 
-[Airplane Flying Handbook pg. 3-35](/_references/AFH/3-35)
+[Aviation Instructor's Handbook pg. 3-35](/_references/AIH/3-35)
 
 ### Sensory memory:
 
@@ -300,7 +300,7 @@ See also [Sensory Memory](#sensory-memory)
 - Interference: Something over shadows the knowledge, or a similar piece of information causes confusion
 - Repression or suppression: Forgetting because a person subconsciously does not want to remember
 
-[Airplane Flying Handbook pg. 3-37](/_references/AFH/3-37)
+[Aviation Instructor's Handbook pg. 3-37](/_references/AIH/3-37)
 
 ## Retention of Learning
 
@@ -309,15 +309,15 @@ See also [Sensory Memory](#sensory-memory)
 - Favorable attitudes help retention
 - Learning with all senses is most effective
 - Meaningful repetition aids recall
-- Mneumonics
+- Mnemonics
 
-[Airplane Flying Handbook pg. 3-38](/_references/AFH/3-38)
+[Aviation Instructor's Handbook pg. 3-38](/_references/AIH/3-38)
 
 ## Transfer of Learning
 
 > The process of applying knowledge from one context in a new situation.
 
-### Transfer
+### Types of Transfer
 
 - Near/far
   - Near transfer: applying information in a closely-related area
@@ -325,16 +325,19 @@ See also [Sensory Memory](#sensory-memory)
 - Positive/negative
   - Position transfer: When previous information aids in the learning and understanding of new information
   - Negative transfer: When previous information conflicts or confuses the new skill or information
+
+## Encouraging Transfer
+
 - Habit formation:
   - Encourage students to form good habits early
 - How understanding affects memory
   - The more deeply a person thinks about information, the better they will remember it
 - Remembering during training
-  - Students will need to practice 
+  - Students will need to practice
 - Remembering after training
   - Continued practice is key to remembering information
 - Sources of knowledge
   - Learners should seek out other sources of knowledge with different perspective
 - Summary of instructor actions
-  - Encourage students to use mneumonics
+  - Encourage students to use mnemonics
   - Discourage cramming

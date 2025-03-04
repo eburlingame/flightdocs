@@ -5,7 +5,7 @@
     "description": "Link to Airplane Instructors Handbook",
   },
   "afh": {
-    "prefix": "aih",
+    "prefix": "afh",
     "body": ["[Airplane Flying Handbook pg. $1](/_references/AFH/$1)"],
     "description": "Link to Airplane Flying Handbook",
   },
