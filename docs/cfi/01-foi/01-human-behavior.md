@@ -27,8 +27,6 @@
 
 ## Maslow's Hierarchy of Needs
 
-![Maslow's Hierarchy of Needs](images/image.png)
-
 - Abraham Maslow studied human needs and motivation
 - He discovered than certain needs take precedent over others
 - Learners tend to show little to no motivation or attention if most of their needs are not met
@@ -36,6 +34,15 @@
   - If a student feels unsafe, they will be distracted by a flight response
 - Utilize a pre-lesson evaluation of readiness
   - Do you best to verify whether the learner is physically and mentally ready to learn
+
+![Maslow's Hierarchy of Needs](images/image.png)
+
+1. Physiological
+2. Security
+3. Belonging
+4. Esteem
+5. Cognitive and Aesthetic
+6. Self-Actualization
 
 [Airplane Flying Handbook pg. 2-6](/_references/AFH/2-6)
 
