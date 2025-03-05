@@ -76,7 +76,8 @@ A four-step series of open-ended questions which guides the learner through a se
 
 Critiques are instructor-learner assessments.
 
-There are several types that can be used: 
+There are several types that can be used:
+
 - Instructor/learner: Learners are offered to criticize a performance
 - Learner-led: Learners lead the critique
 - Small group: Learners are divided and critique in groups
@@ -85,4 +86,33 @@ There are several types that can be used:
 
 ### Oral Assessments
 
-- 
+Oral assessment are direct questioning of a learner by an instructor.
+
+[Aviation Instructor's Handbook pg. 6-11](/_references/AIH/6-11)
+
+#### Characteristics of Effective Questions
+
+- Questions should be written in advance
+- Questions can be fact questions (rote) or thinking questions (HOTS)
+
+Questions should be:
+
+1. About the subject at hand
+2. Brief and concise, clear and definite
+3. Adapted to the experience level of the learner
+4. Center on one idea
+5. Persist a challenge to the learner
+
+#### Types of Questions to Avoid
+
+- Bewildering questions
+- Oversize questions
+- Toss-up
+- Trick questions
+- Irrelevant questions
+
+### Answering Learner Questions
+
+- Think before you answer
+- Don't introduce more complex topics in your answer if its not necessary
+- After responding, gauge how the student reacted to your answer

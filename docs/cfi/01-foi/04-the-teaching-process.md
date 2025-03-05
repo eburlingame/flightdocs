@@ -22,7 +22,9 @@ The four basic steps are:
 
 ## Course of Training
 
-A curriculum or training plan designed for a particular learning goal.
+A curriculum or training plan designed for the attainment of a specific goal, like a rating or certificate.
+
+[Aviation Instructor's Handbook pg. 5-4](/_references/AIH/5-4)
 
 ## Preparation of a Lesson
 
