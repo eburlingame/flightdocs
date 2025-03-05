@@ -12,9 +12,13 @@ const transformations: Record<string, (url: string) => string> = {
 const plugin = (options) => {
   const transformer = async (ast) => {
     visit(ast, "link", (node) => {
-      if (node.url && transformations[node.url]) {
-        const urlFn = transformations[node.url];
-        node.url = urlFn(node.url);
+      if (node.url) {
+        for (const key in transformations) {
+          if (node.url.startsWith(key)) {
+            const urlFn = transformations[key];
+            node.url = urlFn(node.url);
+          }
+        }
       }
     });
   };

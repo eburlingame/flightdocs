@@ -23,7 +23,7 @@
   - "What can you do with aviation"
   - Play down the negatives when appropriate
 
-[Airplane Flying Handbook pg. 2-2](/_references/AFH/2-2)
+[Aviation Instructor's Handbook pg. 2-2](/_references/AIH/2-2)
 
 ## Maslow's Hierarchy of Needs
 
@@ -44,7 +44,7 @@
 5. Cognitive and Aesthetic
 6. Self-Actualization
 
-[Airplane Flying Handbook pg. 2-6](/_references/AFH/2-6)
+[Aviation Instructor's Handbook pg. 2-6](/_references/AIH/2-6)
 
 ## Defense Mechanisms
 
@@ -56,7 +56,7 @@
 - Fantasy: Daydreams about how thing should be or will be in the future, ignoring the current reality
 - Displacement: Redirecting anger or frustration to someone or something else
 
-[Aviation Instructor's Handbook pg. 2-9](/_referencs/AIH/2-9)
+[Aviation Instructor's Handbook pg. 2-9](/_references/AIH/2-9)
 
 ## Learner Emotional Reactions
 
