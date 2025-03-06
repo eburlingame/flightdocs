@@ -64,7 +64,7 @@ Social learning is simply learning by observation of others. Albert Bandura's So
 ### Higher-Order Thinking Skills (HOTS)
 
 - Higher-order thinking skills (HOTS), also called aeronautical decision-making (ADM)
-- Based on the last three of Bloom's Taxonomy (Synthesis, evaluation, knowledge)
+- Based on the last three of Bloom's Taxonomy (synthesis, evaluation, knowledge)
 - Progress learning from simple to complex, from concrete to abstract
 
 ## Scenario-Based Training (SBT)
@@ -122,15 +122,17 @@ See also [Sensory Memory](#sensory-memory)
 
 ## Acquiring Knowledge
 
-- Memorization
+- **R**: Rote / Memorization
   - The first attempt in acquiring knowledge
-  - Memorization is quick, but lacks any depth
-- Understanding
+  - Memorization is quick, but lacks any depth and connection to other knowledge
+- **U**: Understanding
   - The next stage of learning
   - Ability to make association between facts and procedures
   - Knowledge is organized in a useful way, with coherent groups of facts
   - "Mental model" or self-explanation
-- Concept Learning
+- **A**: Application
+  - Applying and using the knowledge in a meaningful way
+- **C**: Concept Learning
   - Generalization of facts or steps into general concepts
   - Relies on categorization of knowledge into groups
   - Schemas are templates of thought that form when humans observe patterns
