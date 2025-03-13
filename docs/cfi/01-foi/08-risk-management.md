@@ -75,6 +75,7 @@ Pilots should actively recognize their own hazardous attitudes, but instructors 
 - Anti-authority: "Don't tell me" / "Taking chances is foolish"
 - Impulsivity: "Do it quickly" / "Follow the rules. They are usually right"
 - Invulnerability: "It won't happen to me" / "It could happen to me"
+  - Also, "it might just happen to me"
 - Macho: "I can do it" / "Not so fast. Think first"
 - Resignation: "What's the use" / "I'm not helpless. I can make a difference"
 

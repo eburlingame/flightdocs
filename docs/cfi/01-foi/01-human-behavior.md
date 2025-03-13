@@ -48,53 +48,68 @@
 
 ## Defense Mechanisms
 
-- Repression: A person places uncomfortable thoughts in an inaccessible area of the mind
-- Denial: Refusal to accept external reality because it is too threatening
-- Compensation: Emphasizing strengths in other areas to distract from or disguise a weakness
-- Projection: Projecting the blame of a personal failing onto someone else
-- Rationalization: Justifying poor performance on external factors outside of their control
-- Fantasy: Daydreams about how thing should be or will be in the future, ignoring the current reality
-- Displacement: Redirecting anger or frustration to someone or something else
+- **Repression**: A person places uncomfortable thoughts in an inaccessible area of the mind
+- **Denial**: Refusal to accept external reality because it is too threatening
+- **Compensation**: Emphasizing strengths in other areas to distract from or disguise a weakness
+- **Projection**: Projecting the blame of a personal failing onto someone else
+- **Rationalization**: Justifying poor performance on external factors outside of their control
+- **Fantasy**: Daydreams about how thing should be or will be in the future, ignoring the current reality
+- **Displacement**: Redirecting anger or frustration to someone or something else
 
 [Aviation Instructor's Handbook pg. 2-9](/_references/AIH/2-9)
 
 ## Learner Emotional Reactions
 
-- Anxiety
-  - A normal emotion for new pilot learners
-  - Can be minimized by making the experience pleasurable and introducing topics with care
-- Impatience
-  - Can be a large deterrent to student success
-  - Often learns only seek the objective, not the training steps taken to get there
-  - Train one step at a time
-  - Train at a pace appropriate for the learner, not too fast/too slow
-- Worry or lack of interest
-  - Learners who are worried or emotionally upset are not ready to learn
-  - Use the learner's enthusiasm and interests to get them engaged, and divert attention from worries and troubles
-- Physical discomfort, illness, fatigue, and dehydration
-  - Any physical discomfort greatly affects the ability of a student to learn
-  - Air sickness
-    - End a flight as soon as symptoms are experienced
-  - Fatigue
-    - Fatigue can be acute (short-term) or chronic (long-term)
-    - Acute fatigue accumulates as mental effort is utilized
-    - Only continue lessons if the learner is alert and performing at an expected level
-    - Acute fatigue can be indicated by:
-      - Inattention
-      - Distractibility
-      - Errors in timing
-      - Lack of awareness
-      - Irritability
-    - Chronic fatigue may have deep-seeded origins and requires a prolonged and deliberate solution
-  - Dehydration and heatstroke
-    - The first signs of dehydration is fatigue
-    - Always carry an ample supply of water, and drink frequently
-  - Apathy due to inadequate instruction
-    - Learners can be come disengaged when
-      - the instructor inadequately prepared
-      - Instruction is deficient, contradictory, or insincere
-    - Teach at an appropriate level
-    - Don't talk down to a learner
+### Anxiety
+
+- A normal emotion for new pilot learners
+- Can be minimized by making the experience pleasurable and introducing topics with care
+
+### Impatience
+
+- Can be a large deterrent to student success
+- Often learns only seek the objective, not the training steps taken to get there
+- Train one step at a time
+- Train at a pace appropriate for the learner, not too fast/too slow
+
+### Worry or lack of interest
+
+- Learners who are worried or emotionally upset are not ready to learn
+- Use the learner's enthusiasm and interests to get them engaged, and divert attention from worries and troubles
+
+### Physical discomfort, illness, fatigue, and dehydration
+
+Any physical discomfort greatly affects the ability of a student to learn.
+
+#### Air sickness
+
+- End a flight as soon as symptoms are experienced
+
+#### Fatigue
+
+- Fatigue can be acute (short-term) or chronic (long-term)
+- Acute fatigue accumulates as mental effort is utilized
+- Only continue lessons if the learner is alert and performing at an expected level
+- Acute fatigue can be indicated by:
+  - Inattention
+  - Distractibility
+  - Errors in timing
+  - Lack of awareness
+  - Irritability
+- Chronic fatigue may have deep-seeded origins and requires a prolonged and deliberate solution
+
+#### Dehydration and heatstroke
+
+- The first signs of dehydration is fatigue
+- Always carry an ample supply of water, and drink frequently
+
+#### Apathy due to inadequate instruction
+
+- Learners can be come disengaged when
+  - the instructor inadequately prepared
+  - Instruction is deficient, contradictory, or insincere
+- Teach at an appropriate level
+- Don't talk down to a learner
 
 [Aviation Instructor's Handbook pg. 2-12](/_referencs/AIH/2-12)
 

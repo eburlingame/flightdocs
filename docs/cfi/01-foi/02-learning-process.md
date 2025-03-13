@@ -108,7 +108,7 @@ Social learning is simply learning by observation of others. Albert Bandura's So
 ## Insight
 
 - Insight involves the grouping of perceptions into meaningful wholes
-- It is the instructor's job to facilitate the synthesis of perception into insight
+- It is the instructor's job to facilitate the synthesis of perceptions into insights
 
 [Aviation Instructor's Handbook pg. 3-9](/_references/AIH/3-9)
 
@@ -120,7 +120,7 @@ See also [Sensory Memory](#sensory-memory)
 
 [Aviation Instructor's Handbook pg. 3-36](/_references/AIH/3-36)
 
-## Acquiring Knowledge
+## Levels of Learning
 
 - **R**: Rote / Memorization
   - The first attempt in acquiring knowledge
@@ -132,19 +132,21 @@ See also [Sensory Memory](#sensory-memory)
   - "Mental model" or self-explanation
 - **A**: Application
   - Applying and using the knowledge in a meaningful way
-- **C**: Concept Learning
+- **C**: Correlation / Concept Learning
   - Generalization of facts or steps into general concepts
   - Relies on categorization of knowledge into groups
   - Schemas are templates of thought that form when humans observe patterns
 
+[Aviation Instructor's Handbook pg. 3-9](/_references/AIH/3-9)
+
 ## Laws of Learning
 
-- **R**eadiness: Student must be ready to learn
-- **E**xercise: Practice skill to remember
-- **E**ffect: What effect instruction has on the student
-- **P**rimary: Whatever is learned first will be learned strongest
-- **I**ntensity: Immediate, exciting, or dramatic experience will be more educational
-- **R**ecency: The more recent the information, the better it will be remembered
+- **R**: Readiness: Student must be ready to learn, want to learn, be properly motivated
+- **E**: Exercise: Skills take rehearsal to master
+- **E**: Effect: Successful experiences are more likely to be repeated, and thus better for learning
+- **P**: Primary: Whatever is learned first will be learned strongest
+- **I**: Intensity: Immediate, exciting, or dramatic experience will be more educational
+- **R**: Recency: The more recent the information, the better it will be remembered
 
 [Aviation Instructor's Handbook pg. 3-11](/_references/AIH/3-11)
 
@@ -158,10 +160,10 @@ See also [Sensory Memory](#sensory-memory)
 
 ## Characteristics of Learning
 
-- Purposeful: Learners will want to see relevancy of the material
-- Result of experience: Knowledge results from a bank of experience
-- Learning is multifaceted: Learning involves many elements of experience, and not always what's intended by an instructor
-- Active process: Learners must continuously react and respond to material and experiences to learn from it
+- **P**: Purposeful: Learners will want to see relevancy of the material
+- **E**: Result of experience: Knowledge results from a bank of experience
+- **M**: Learning is multifaceted: Learning involves many elements of experience, and not always what's intended by an instructor
+- **A**: Active process: Learners must continuously react and respond to material and experiences to learn from it
 
 [Aviation Instructor's Handbook pg. 3-19](/_references/AIH/3-19)
 
