@@ -2,6 +2,8 @@
 
 ## PAVE Checklist
 
+Use before every flight:
+
 - **P**: Pilot
 - **A**: Aircraft
 - **V**: EnVironment
@@ -54,6 +56,13 @@ This includes concepts like:
 - Automation management
 - Controlled flight into terrain awareness (CFIT)
 
+### CARE Checklist
+
+- C: Consequences
+- A: Alternatives
+- R: Reality
+- E: External pressures
+
 ### The 5Ps
 
 1. The Plan: What is the plan and how can it change
@@ -75,8 +84,13 @@ Pilots should actively recognize their own hazardous attitudes, but instructors 
 - Anti-authority: "Don't tell me" / "Taking chances is foolish"
 - Impulsivity: "Do it quickly" / "Follow the rules. They are usually right"
 - Invulnerability: "It won't happen to me" / "It could happen to me"
-  - Also, "it might just happen to me"
+  - Or, "it might just happen to me"
 - Macho: "I can do it" / "Not so fast. Think first"
+  - Don't compare yourself for others
 - Resignation: "What's the use" / "I'm not helpless. I can make a difference"
 
+Have pilots identify themselves with one or more of the attitudes, which may not happen all the time.
+
 [Aviation Instructor's Handbook pg. 1-22](/_references/AIH/1-22)
+
+## Risk Management Tips

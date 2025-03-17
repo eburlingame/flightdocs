@@ -12,8 +12,13 @@
   "phak": {
     "prefix": "phak",
     "body": [
-      "[Pilot’s Handbook of Aeronautical Knowledge pg. $1](/_references/PHAK/$1)",
+      "[Pilot's Handbook of Aeronautical Knowledge pg. $1](/_references/PHAK/$1)",
     ],
-    "description": "Link to Pilot’s Handbook of Aeronautical Knowledge",
+    "description": "Link to Pilot's Handbook of Aeronautical Knowledge",
+  },
+  "6165": {
+    "prefix": "6165",
+    "body": ["[AC 61-65 $1](/_references/AC-61-65/$1)"],
+    "description": "Link to AC 61-65",
   },
 }

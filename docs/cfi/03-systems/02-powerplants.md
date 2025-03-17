@@ -19,9 +19,13 @@ Most aircraft engines are horizontally-opposed, reciprocating, air-cooled engine
 
 ## Carburetor
 
-Carburetor supplies an intake of fuel and air from in the correct ratio.
+![Float-type carburetor](images/image-10.png)
+
+Carburetor supplies an intake of fuel and air to the engine cylinders in the correct ratio.
 
 - The venturi is a small opening that accelerates air and provides suction
+- Note that the fuel-air mixture lines are directed into the cylinders sequentially
+  - This means the first cylinder will have the richest mixture, and it gets slightly leaner for the subsequent cylinders
 
 ## Fuel Injection
 
@@ -40,3 +44,10 @@ Carburetor supplies an intake of fuel and air from in the correct ratio.
 - Most aircraft have two independent ignition systems, with two spark plugs for each cylinder
 - Magnetos are small generators attached directly to the crankshaft
 - The current produced by the magnetos are connected to a timing unit, which sends sparks at specific intervals for the engine to fire
+
+## Fuel Systems
+
+- Wet wings: tanks that are coated surface of the wing structure (as opposed to tanks set within the wing)
+- Low wing airplanes only have L/R fuel selectors
+  - This is due to the pressure imbalance between the tanks
+  - A both position would draw fuel from the lowest tank, since it has lower pressure, and run the tank dry
