@@ -21,4 +21,14 @@
     "body": ["[AC 61-65 $1](/_references/AC-61-65/$1)"],
     "description": "Link to AC 61-65",
   },
+  "cfr": {
+    "prefix": "cfr",
+    "body": ["[$1](/_references/14-CFR/$1)"],
+    "description": "Link to FAR",
+  },
+  "aim": {
+    "prefix": "aim",
+    "body": ["[AIM $1](/_references/AIM/$1)"],
+    "description": "Link to AIM",
+  },
 }

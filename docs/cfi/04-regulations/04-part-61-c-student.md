@@ -1,6 +1,6 @@
-# Part 61 Subpart C: Student Pilots
+# Part 61 C: Student Pilots
 
-## Eligibility
+## Eligibility ([61.83](/_references/14-CFR/61.83))
 
 - The minimum age to hold a student pilot certificate is 16
 - They must read, write, and understand English
@@ -8,31 +8,37 @@
 - Need a 3rd class medical, or BasicMed is some scenarios
 - Student pilot application will be submitted via IACRA
 
-## Solo Requirements
+## Solo Requirements ([61.87](/_references/14-CFR/61.87))
 
-- Give a knowledge written or online test, including:
+### Pre-solo Knowledge Test
+
+- Prior to solo, the instructor must give a knowledge written or online test, including:
   - Part 61 and part 91 regulations
   - Airspace rules and procedures for the airport where the solo flight will be performed
   - Flight characteristics and operational limitations for the make and model of aircraft to be flown
   - Note this must be given by the instructor doing the solor endorsement (it can't be inherited by another instructor)
-- Need training on the following maneuvers and procedures (the "15 things"):
-  - Proper flight preparation procedures, preflight planning, preparation, powerplant operation, aircraft systems
-  - Taxiing or surface operations, including runups
-  - Takeoffs and landings, including normal and crosswind
-  - Straight and level flight, and turns in both directions
-  - Climbs and climbing turns
-  - Airport traffic patterns, including entry and departure procedures
-  - Collision avoidance, windshear avoidance, and wake turbulence avoidance
-  - Descents, with and without turns, using high and low drag configurations
-  - Flight at various airspeeds from cruise to slow flight
-  - Stall entries from various flight attitudes and power combinations with recovery:
-    - initiated at the first indication of a stall, and
-    - recovery from a full stall
-  - Emergency procedures and equipment malfunctions
-  - Ground reference maneuvers
-  - Approaches to a landing area with simulated engine malfunctions
-  - Slips to a landing
-  - Go-arounds
+
+### Pre-Solo Training Areas
+
+Need training on the following maneuvers and procedures (the "15 things"), prior to solo:
+
+- Proper flight preparation procedures, preflight planning, preparation, powerplant operation, aircraft systems
+- Taxiing or surface operations, including runups
+- Takeoffs and landings, including normal and crosswind
+- Straight and level flight, and turns in both directions
+- Climbs and climbing turns
+- Airport traffic patterns, including entry and departure procedures
+- Collision avoidance, windshear avoidance, and wake turbulence avoidance
+- Descents, with and without turns, using high and low drag configurations
+- Flight at various airspeeds from cruise to slow flight
+- Stall entries from various flight attitudes and power combinations with recovery:
+  - initiated at the first indication of a stall, and
+  - recovery from a full stall
+- Emergency procedures and equipment malfunctions
+- Ground reference maneuvers
+- Approaches to a landing area with simulated engine malfunctions
+- Slips to a landing
+- Go-arounds
 - If the airplane cannot do the given maneuver, it is not required
 
 ## Basic Solo Checklist
@@ -56,7 +62,7 @@
 - Requires navigation training
 - Requires night-specific endorsement: [AC 61-65 A.5](/_references/AC-61-65/A.5)
 
-## Limitations
+## Limitations ([61.89](/_references/14-CFR/61.89))
 
 - Solo pilots have limitations
   - Carrying a passenger
@@ -65,9 +71,9 @@
   - If flight cannot be made with visual reference to the surface
   - Contrary to any instructor-given limitations
 
-## Solo XC Requirements
+## Solo Cross-Country (XC) ([61.93](/_references/14-CFR/61.93))
 
-## Prior to the XC endorsement
+### Prior to the XC endorsement
 
 - They must stay within 25nm where they train
 - Landing at an additional airport must be endorsed:
@@ -125,5 +131,7 @@
 - Students can be endorsed to fly in a _specific_ Class B airspace
   - Requires the [AC 61-65 A.12](/_references/AC-61-65/A.13) endorsement for flight in Class B airspace
   - Requires the [AC 61-65 A.13](/_references/AC-61-65/A.13) endorsement for flight to the an airport in Class B
-- Some airports require a PPL or higher (the "dirty dozen") (Part 91 Appendix D, Section 4)
-- Class B endorsements have 90 day limits
+- Some airports require a PPL or higher (the "dirty dozen") to operate at the airport
+  - These are listed in [Part 91 Appendix D, Section 4](<https://www.ecfr.gov/current/title-14/part-91#p-Appendix-D-to-Part-91(Section 1.)(Section%204)>)
+  - Students can still operate in the airspace, however
+- Class B endorsements have a 90 day limit

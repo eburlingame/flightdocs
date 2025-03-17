@@ -1,19 +1,17 @@
-# Part 61: Subpart A, B
+# Part 61 A, B: General
 
-## Part 61.31
+## Additional Training Requirements ([61.31](/_references/14-CFR/61.31))
 
 - Pilots who already hold a certificate, but want to fly another category or class can either get a certificate for that category, or receive training and an endorsement from an instructor
-  - Not this doesn't an expiration like the student pilot 90-day solo requirement
+  - Note this doesn't have an expiration like the student pilot 90-day solo requirement
 
-[61.31](https://www.ecfr.gov/current/title-14/part-61/section-61.31#p-61.31(d)>)
-
-## Part 61.35
+## Knowledge Tests ([61.35](/_references/14-CFR/61.35))
 
 - Knowledge test are required for initial ratings
 - If a pilot holds a powered rating (airplane, helicopter), but wants to get an unpowered category rating (glider, balloon) -> no knowledge test is required
 - An unpowered pilot wanting to get a powered category rating, will require a knowledge test
 
-## Part 61.39
+## Prerequisites for practical tests ([61.39](/_references/14-CFR/61.39))
 
 All ratings require an endorsement that:
 
@@ -21,11 +19,11 @@ All ratings require an endorsement that:
 - is prepared for the practical test
 - demonstrated satisfactory knowledge of any subject areas that were missed on the written
 
-## Part 61.41
+## International instructors ([61.41](/_references/14-CFR/61.41))
 
 - Flight training time from international instructors (inside the ICAO member states) can be accepted for a US flight training requirement.
 
-## Part 61.51
+## Logbooks ([61.51](/_references/14-CFR/61.51))
 
 - A logbook is not required, but you need to prove that you're current to fly and to log training time
 - Logbook entries must have:
@@ -37,18 +35,18 @@ All ratings require an endorsement that:
 - The sole manipulator of the controls can log PIC time
   - A second pilot can concurrently _log_ PIC time if they are required for the operation of the aircraft (like a A/C that requires 2 crew members), or if the regulations require it (like a safety pilot)
 
-## Part 61.53
+## Medical Deficiencies ([61.53](/_references/14-CFR/61.53))
 
 - If you know of a medical condition that would made you unable to meed the medical requirements, even if your current medical is still valid
 
-## Part 61.56
+## Flight Reviews ([61.56](/_references/14-CFR/61.56))
 
 - Flight reviews are required every 24 calendar months
 - Minimum 1 hour ground training and 1 hour flight training
 - A flight review renews all category and class ratings
 - A student pilot does _not_ need a flight review, if they are still undergoing training for a certificate and has a solo endorsement
 
-## Part 61.57
+## PIC Recency Requirements ([61.57](/_references/14-CFR/61.57))
 
 - 3 takeoffs and landings in the same category, class, and type (if a type rating is required)
   - Night landing require must be to a full stop

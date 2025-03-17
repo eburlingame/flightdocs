@@ -1,4 +1,4 @@
-# Aircraft Electrical System
+# Aircraft Electrical Systems
 
 ## Circuit Basics
 
