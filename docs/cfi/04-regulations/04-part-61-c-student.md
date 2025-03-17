@@ -81,7 +81,7 @@ Need training on the following maneuvers and procedures (the "15 things"), prior
     - fly with them to/from the airport
     - enter the traffic pattern
     - do takeoffs/landings
-    - include the airport in their endorsement
+    - provide the [AC 61-65 A.8](/_references/AC-61-65/A.8) endorsement
 
 ### Solo XC Training
 
@@ -126,7 +126,7 @@ Need training on the following maneuvers and procedures (the "15 things"), prior
   - It is only valid for a single flight
   - It can be given by any flight instructor
 
-### Solo in Class B Airspace
+### Solo in Class B Airspace ([61.95](/_references/14-CFR/61.95))
 
 - Students can be endorsed to fly in a _specific_ Class B airspace
   - Requires the [AC 61-65 A.12](/_references/AC-61-65/A.13) endorsement for flight in Class B airspace

@@ -8,8 +8,9 @@
 ## Knowledge Tests ([61.35](/_references/14-CFR/61.35))
 
 - Knowledge test are required for initial ratings
-- If a pilot holds a powered rating (airplane, helicopter), but wants to get an unpowered category rating (glider, balloon) -> no knowledge test is required
-- An unpowered pilot wanting to get a powered category rating, will require a knowledge test
+- Powered vs unpowered:
+  - If a pilot holds a powered rating (airplane, helicopter), and wants to get an unpowered category rating (glider, balloon): no knowledge test is required
+  - An unpowered pilot that wants to get a powered category rating: a knowledge test is required
 
 ## Prerequisites for practical tests ([61.39](/_references/14-CFR/61.39))
 
