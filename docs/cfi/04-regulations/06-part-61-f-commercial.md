@@ -96,11 +96,23 @@
 
 ## Scenarios
 
-- Commercial rotorcraft pilot wants to add commercial ASEL:
-  - Adding a category at the same level
-  - Must meet
-    - Aeronautical experience for 61.169
-    - Knowledge areas in 61.125
-    - Flight proficiency on 61.127
-    - [AC 61-65 A.74](/_references/AC-61-65/A.74) additional category endorsement, along with the A.1 endorsement
-  - No knowledge test
+### Commercial helicopter to commercial ASEL
+
+- Adding a category at the same level
+- Look at [61.63(b)](/_references/14-CFR/61.63), which states:
+- Must meet
+  - Aeronautical experience for 61.169
+  - Knowledge areas in 61.125
+  - Flight proficiency on 61.127
+  - [AC 61-65 A.74](/_references/AC-61-65/A.74) additional category endorsement, along with the A.1 endorsement
+- No knowledge test
+
+### Commercial multi-engine to commercial ASEL
+
+- Adding a class rating at the same level (commercial to commercial)
+- Look at [61.63(c)](/_references/14-CFR/61.63), which states:
+  - No need for 61.169 aeronautical experience
+  - Need training on 61.127
+  - Need training in the 61.167 operation areas
+  - No minimum flight time, and no 3 hours within 2 months of the practical test
+  - [AC 61-65 A.74](/_references/AC-61-65/A.74) additional category endorsement, along with the A.1 endorsement
