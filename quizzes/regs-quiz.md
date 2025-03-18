@@ -53,3 +53,5 @@ The "dirty dozen", airport which require a private pilot certificate operation, 
 - Both of these require flight and ground training for the *specific* airspace.
 ---
 Recreational pilots require the aeronautical experience listed in *61.99*, and they are subject to the limitations in *61.101*.
+---
+The completion of a home study course
