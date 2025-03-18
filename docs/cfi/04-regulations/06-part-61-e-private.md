@@ -82,8 +82,9 @@
 
 A pilot looking to add a category or class rating, for instance a multi-engine pilot adding a single-engine private:
 
-- To fly solo they need the [AC 61-65 A.72](/_references/AC-61-65/A.72) endorsement
-  - This endorsement does not expire, unless an expiry is added by the instructor
-- There's no hourly requirements, XC requirements, or night requirements
-- No student pilot limitation (25nm, 50nm airports, Class B flight)
-- For the practical test, they will only need to demonstrate what's on the task matrix
+- Look at [61.63(c)](/_references/14-CFR/61.63), which implies:
+  - To fly solo they need the [AC 61-65 A.72](/_references/AC-61-65/A.72) endorsement
+    - This endorsement does not expire, unless an expiry is added by the instructor
+  - There's no hourly requirements, XC requirements, or night requirements
+  - No student pilot limitation (25nm, 50nm airports, Class B flight)
+  - For the practical test, they will only need to demonstrate what's on the task matrix
