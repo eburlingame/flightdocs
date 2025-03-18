@@ -53,15 +53,16 @@
     - 50 hours in airplanes
     - 50 hours of XC flight, of which 10 hours must be in airplanes
   - 20 hours of flight training, including
-    - 10 hours of instrument training, 5 must be in a single-engine airplane
+    - 10 hours of instrument training, 5 hours must be in a single-engine airplane
       - This must be specifically logged to the requirements in [61.129(3)(i)](</_references/14-CFR/61.129(3)(i)>)
+      - This training must be done by a CFII
     - 10 hours of complex, turbine, or TAA aircraft
     - One dual 2-hour day XC flight >100nm
     - One dual 2-hour night XC flight >100nm
     - 3 hours within 2 months of the practical test
   - 10 hours of solo flight time or 10 hours performing the duties of PIC (PDPIC) with an instructor:
     - Restrictions
-      - Note that solo time and PDPIC time _cannot_ be combined
+      - The solo time and PDPIC time _cannot_ be combined
       - No instruction can be given on PDPIC flights
       - PDPIC cannot be used on the 300nm solo requirement
     - One 300nm with landings at 3 points, which is a straight-line distance of at least 250nm from the departure point
@@ -92,3 +93,14 @@
 ## ACS
 
 [Commercial Pilot for Airplane Category ACS](https://www.faa.gov/training_testing/testing/acs/commercial_airplane_acs_7.pdf)
+
+## Scenarios
+
+- Commercial rotorcraft pilot wants to add commercial ASEL:
+  - Adding a category at the same level
+  - Must meet
+    - Aeronautical experience for 61.169
+    - Knowledge areas in 61.125
+    - Flight proficiency on 61.127
+    - [AC 61-65 A.74](/_references/AC-61-65/A.74) additional category endorsement, along with the A.1 endorsement
+  - No knowledge test

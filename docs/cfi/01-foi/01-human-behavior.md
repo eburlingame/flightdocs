@@ -111,7 +111,7 @@ Any physical discomfort greatly affects the ability of a student to learn.
 - Teach at an appropriate level
 - Don't talk down to a learner
 
-[Aviation Instructor's Handbook pg. 2-12](/_referencs/AIH/2-12)
+[Aviation Instructor's Handbook pg. 2-12](/_references/AIH/2-12)
 
 ### Reactions to Stress
 
@@ -127,7 +127,7 @@ Stress will cause a flight or fight response in the body
   - Big changes in mood from lesson-to-lesson
   - Severe anger towards an instructor
 
-[Aviation Instructor's Handbook pg. 2-21](/_referencs/AIH/2-21)
+[Aviation Instructor's Handbook pg. 2-21](/_references/AIH/2-21)
 
 ## Teaching Adult Students
 
@@ -144,4 +144,4 @@ Stress will cause a flight or fight response in the body
   - Refrain from “spoon-feeding” the learner
   - Create opportunities for mutual planning
 
-[Aviation Instructor's Handbook pg. 2-17](/_referencs/AIH/2-17)
+[Aviation Instructor's Handbook pg. 2-17](/_references/AIH/2-17)

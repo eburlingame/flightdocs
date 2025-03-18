@@ -27,7 +27,7 @@ PEMA:
 - Focuses on what's going on inside the mind
 - Examine's the human ability to reflect, problem solve, and think critically
 
-[Aviation Instructor's Handbook pg. 3-2](/_referencs/AIH/3-2)
+[Aviation Instructor's Handbook pg. 3-2](/_references/AIH/3-2)
 
 ## Social Learning
 
@@ -59,7 +59,7 @@ Social learning is simply learning by observation of others. Albert Bandura's So
 5. Evaluation
 6. Knowledge
 
-[Aviation Instructor's Handbook pg. 3-5](/_referencs/AIH/3-5)
+[Aviation Instructor's Handbook pg. 3-5](/_references/AIH/3-5)
 
 ### Higher-Order Thinking Skills (HOTS)
 
@@ -72,7 +72,7 @@ Social learning is simply learning by observation of others. Albert Bandura's So
 - Use of structured, "real-world" scenarios to approach flight-training objectives
 - Helps student's "make meaning" out of their past experiences, and use that to strengthen their ADM
 
-[Aviation Instructor's Handbook pg. 3-6](/_referencs/AIH/3-6)
+[Aviation Instructor's Handbook pg. 3-6](/_references/AIH/3-6)
 
 [Pilot's Handbook of Aeronautical Knowledge pg. 2-21](/_references/PHAK/2-21)
 

@@ -1,6 +1,6 @@
 # Planning Instructional Activities
 
-After developing a [course of training](/foi/the-teaching-process#course-of-training), an instructor plans course content around the objectives and standards outlined in that course.
+After developing a [course of training](/docs/cfi/foi/the-teaching-process#course-of-training), an instructor plans course content around the objectives and standards outlined in that course.
 
 ## Blocks of Learning
 
