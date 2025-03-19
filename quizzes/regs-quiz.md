@@ -54,4 +54,46 @@ The "dirty dozen", airport which require a private pilot certificate operation, 
 ---
 Recreational pilots require the aeronautical experience listed in *61.99*, and they are subject to the limitations in *61.101*.
 ---
-The completion of a home study course
+Private pilot aeronautical experience requirements are listed in *61.109*
+---
+Private pilot applicants are required to have *40* hours of total time.
+---
+Private pilot applicants are required to receive *20* hours of dual flight time.
+---
+Private pilot applicants are required to have *3* hours of XC flight training.
+---
+Private pilot applicants are required to have *3* hours of flight solely by reference to instruments.
+---
+Private pilot applicants are required to have *3* hours of night flight training, including *10* takeoffs and landings to a full stop, and one cross-country flight in excess of *100*nm total distance.
+---
+Private pilot applicants are required to have *10* hours of solo flight time, including
+- *5* hours of solo cross-country time,
+- With a solo XC flight in excess of *150*nm total, with landings at *3* points, plus one segment greater than *50*nm
+---
+Flight instructors must by at least *18* years old.
+---
+To instructor in an aircraft, an instructor must have at least *15* hours in that category and class of aircraft.
+---
+Instructors cannot give more than *8* hours of instruction in a consecutive *24* hours period.
+---
+Training an initial CFI applicant requires an instructor to have:
+- *200* hours of dual instruction given
+- Held your certificate for *2* years
+---
+Doing the ground portion for an initial CFI applicant requires:
+- Held your CFI or AGI for *2* years
+- Given *40* hours of ground instruction.
+
+This can also be satisfied by giving *100* hours of instruction in any part 141 course.
+---
+Flight instructors must complete a recency event within *24* calendar months, which can include:
+- Completion of a *FIRC|refresher course*
+- Completion of a *practical test* for a current or new instructor rating
+- Recommendation of *5* applicants with an *80*% first-time pass rate
+- Completion of a *WINGS* program, providing *15* hours of flight time for at least *5* pilots
+---
+After the lapsing of a flight instructor's recency requirements, the instructor has *3* months to
+- Complete a *FIRC|refresher course*
+- Pass a *practical test* for a existing or new instructor certificate
+---
+Instructors are required to keep records of any endorsements given for *3* years.
