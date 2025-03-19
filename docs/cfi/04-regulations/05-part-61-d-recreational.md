@@ -25,7 +25,7 @@
     - runway lengths, takeoff and landing distances, weather reports and forecasts, and fuel requirements
     - HAlternatives if the planned flight cannot be completed or delays are encountered.
 
-## Flight proficiency includes ([61.98](/_references/14-CFR/61.98))
+## Flight proficiency requirements ([61.98](/_references/14-CFR/61.98))
 
 - Preflight preparation
 - Preflight procedures
