@@ -14,9 +14,14 @@ const transformations: Record<string, (url: string) => string> = {
     "https://www.faa.gov/documentLibrary/media/Advisory_Circular/AC_61-65J.pdf",
 
   "/_references/14-CFR/": (url: string) => {
-    console.log(url);
     const section = url.replace("/_references/14-CFR/", "");
     return `https://www.ecfr.gov/current/title-14/section-${section}`;
+  },
+
+  "/_references/AIM/": (url: string) => {
+    const sectionId = url.replace("/_references/AIM/", "");
+    const [chapter, section, paragraph] = sectionId.split("-");
+    return `https://www.faa.gov/air_traffic/publications/atpubs/aim_html/chap${chapter}_section_${section}.html#$paragraph${sectionId}`;
   },
 };
 

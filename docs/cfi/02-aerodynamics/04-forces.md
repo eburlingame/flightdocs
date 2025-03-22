@@ -60,4 +60,6 @@ Maneuvering speed is the speed at which the aircraft will stall before exceeding
   - The heavier the airplane, the more control input will be required to induce a given load factor. So the aircraft will run out of control authority before it can impart too much load factor
 
 References
+
 - [How is Maneuvering Speed Determined](https://www.youtube.com/watch?v=o_KdHEzIJkk&ab_channel=RodMachado)
+- [Stall speed and angle of attack](https://www.youtube.com/watch?v=jLDM8jQFRvs)

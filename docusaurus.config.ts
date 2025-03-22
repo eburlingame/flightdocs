@@ -88,6 +88,12 @@ const config: Config = {
           position: "left",
           label: "IFR",
         },
+        {
+          type: "docSidebar",
+          sidebarId: "deepDiveSidebar",
+          position: "left",
+          label: "Deep Dives",
+        },
       ],
     },
     footer: {
