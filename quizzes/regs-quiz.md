@@ -72,7 +72,7 @@ Private pilot applicants are required to have *10* hours of solo flight time, in
 ---
 Flight instructors must by at least *18* years old.
 ---
-To instructor in an aircraft, an instructor must have at least *15* hours in that category and class of aircraft.
+To instruct in an aircraft, an instructor must have at least *15* hours in that category and class of aircraft.
 ---
 Instructors cannot give more than *8* hours of instruction in a consecutive *24* hours period.
 ---
@@ -97,3 +97,7 @@ After the lapsing of a flight instructor's recency requirements, the instructor 
 - Pass a *practical test* for a existing or new instructor certificate
 ---
 Instructors are required to keep records of any endorsements given for *3* years.
+---
+An aircraft engaged in training operations without an operating ELT cannot fly more than *50*nm from an airport.
+---
+If an ELT has been removed for maintenance, the aircraft may be operated for up to *90* days.

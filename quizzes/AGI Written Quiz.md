@@ -116,7 +116,7 @@ If you are given priority by ATC during an emergency, you must submit a report t
 ---
 A forward CG is most critical during *landing*.
 ---
-The out ring of Class C airspace, which is not charted, is *20*nm in diameter.
+The outer ring of Class C airspace, which is not charted, is *20*nm in diameter.
 ---
 An aircraft must be test flown after any major alteration or repair (that may have appreciably changed its flight characteristics) before it can be flow with *passengers* aboard.
 ---
@@ -170,7 +170,7 @@ The NTSB shall be notified immediately following an aircraft *accident*, or seri
 ---
 A report shall be made to the NTSB within *10* days following an accident. A report following an aircraft incident (including those that required immediate notification), shall be made *if requested|only if requested*.
 
-[49 CFR 830.15]
+(49 CFR 830.15)
 ---
 A low-pressure system or *trough* is an area of *rising* air.
 ---
