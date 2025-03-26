@@ -38,7 +38,7 @@
 4. 3 miles, 500' below, 1000' above, 2000' horizontally
    - Class C, D, and E below 10,000' MSL
    - Class G < 10,000' MSL at night
-5. 5 miles, 1000' below, 1000' above, 1.sm horizontally
+5. 5 miles, 1000' below, 1000' above, 1 s.m horizontally
    - Class E or G above 10,000' MSL
 
 In Class G airspace, you may operate under VFR with in 1/2 mile of an airport runway:

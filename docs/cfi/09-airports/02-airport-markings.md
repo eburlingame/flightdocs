@@ -1,0 +1,49 @@
+# Airport Signage and Markings
+
+- Taxiway direction signs
+  - Common destination separated by a dot
+- Destination sign
+- Taxi location sign
+- Runway hold position sign at runway end
+- Runway hold position sign
+- Runway approach holding position sign
+  - Only need to hold short if instructed
+- Taxiway intersection sign
+- ILS critical area sign
+  - Only need to hold short if instructed
+  - Also pavement markings
+- Not entry sign
+- Runway location sign
+- Runway remaining sign
+- Displayed threshold
+  - Takeoff, but not landing
+- Yellow chevrons: Stopway or blastpad
+- Movement vs non-movement error boundary
+- Runway holding position lines
+  - Aircraft must be completely over the lines to be clear of the runway
+- Enhanced taxiway centerline markings
+- Hold position pained line
+- Runway boundary sign
+- X for a closed runway
+- Holding position marking for a taxiway (single dashed yellow)
+- Lights
+  - Runway edge lights are white
+  - Taxiway lights are blue
+  - Stopbar lights
+    - Never cross, even with a clearance
+  - Clearance bar lights
+  - Runway guard lights (wig-wag lights)
+  - Runway entrance lights
+  - Takeoff hold lights
+    - Don't take off if they are on
+  - Runway intersection light
+  - REIL: Strobes
+  - Runway centerline lighting system
+  - Touchdown zone lights
+  - Taxiway centerline lead-on lights
+  - LAHSO lights
+
+See also: 
+- [AIM 2-3-1](/_references/AIM/2-3-1)
+- [FAA runway safety presentation](https://www.faa.gov/airports/runway_safety/publications)
+- [AC 150/5340-18H](https://www.faa.gov/airports/resources/advisory_circulars/index.cfm/go/document.current/documentNumber/150_5340-18)
