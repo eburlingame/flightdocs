@@ -1,14 +1,14 @@
-import Reg from '@site/src/components/Reg'
-import Acronym, { AcronymRow } from '@site/src/components/Acronym'
+import Reg from "@site/src/components/Reg";
+import Acronym, { AcronymRow } from "@site/src/components/Acronym";
 import EncodedDataExplainer, {
   EncodedDataWord,
-} from '@site/src/components/EncodedDataExplainer'
-import StandardAtmosphereSlider from '@site/src/components/StandardAtmosphereSlider'
-import ReferenceList from '@site/src/components/ReferenceList'
+} from "@site/src/components/EncodedDataExplainer";
+import StandardAtmosphereSlider from "@site/src/components/StandardAtmosphereSlider";
+import ReferenceList from "@site/src/components/ReferenceList";
 
 # Inoperative Equipment
 
-Part <Reg part="91.213" /> describes how to deal with inoperative equipment in
+Part [91.213](/_references/14-CFR/91.213) describes how to deal with inoperative equipment in
 aircraft used in Part 91 operations.
 
 Generally, if a piece of inoperative equipment is found before a flight your
@@ -20,14 +20,22 @@ options are:
 
 Some instruments and equipment _must_ be repaired before flight, including:
 
-- Those required for airworthiness of the aircraft
-- Those required by an AD to be operative
 - Those required for specific operations by Part 91, including:
-  - Day VFR equipment <Reg part="91.205(b)" />
-  - Night VFR equipment <Reg part="91.205(c)" />
-  - IFR equipment <Reg part="91.205(d)" />
+  - Day VFR equipment [91.205(b)](</_references/14-CFR/91.205(b)>)
+  - Night VFR equipment [91.205(c)](</_references/14-CFR/91.205(c)>)
+  - IFR equipment [91.205(d)](</_references/14-CFR/91.205(d)>)
+- Those required for airworthiness of the aircraft
+- Those required per the Kinds of Operations Equipment List (KOEL)
+- Those required by an AD to be operative
 
-## Aircraft with a Minimum Equipment List
+There are two way to defer maintain for inoperative equipment:
+
+- The deferral provision of 14 CFR, part 91, section 91.213(d) and a
+- Or an FAA-approved MEL.
+
+[Pilot's Handbook of Aeronautical Knowledge pg. 9-9](/_references/PHAK/9-9)
+
+## With a Minimum Equipment List
 
 Some aircraft (usually large or complex aircraft) will be certified with a
 Minimum Equipment List (MEL). An MEL will specify which equipment can be
@@ -35,16 +43,14 @@ inoperable, and how it should be handled.
 
 An MEL is issued to an aircraft's operator via a letter of authorization for a
 specific type and registration number. It then becomes mandatory for that
-aircraft. With an MEL, equipment cannot be deferred via
-
-<Reg part="91.213(d)" />.
+aircraft. With an MEL, equipment cannot be deferred via [91.213d](/_references/14-CFR/91.213d)
 
 If a piece of inoperative is found, it should be noted in the aircraft
 maintenance records, or a record specific to this purpose.
 
-<Reg part="91.213(a)" />
+[91.213(a)](</_references/14-CFR/91.213(a)>)
 
-## Aircraft without a Minimum Equipment List
+## Without a Minimum Equipment List
 
 In an airplane without an MEL, maintenance of an inoperative item _can_ be
 deferred as long as the equipment is not required per:
@@ -53,7 +59,7 @@ deferred as long as the equipment is not required per:
 - The aircraft's equipment list, or the
   [Kind of Operations Equipment List (KOEL)](/docs/topics/regulations/airworthiness/koels)
 - An applicable AD
-- <Reg part="91.205" /> or any applicable section of Part 91 for the operation being
+- [91.205](/_references/14-CFR/91.205) or any applicable section of Part 91 for the operation being
   conducted
 
 In this case, the equipment shall either be:
@@ -64,4 +70,4 @@ In this case, the equipment shall either be:
   - If the deactivation requires maintenance, it must be done by an authorized
     mechanic
 
-<Reg part="91.213(d)" />
+[91.213(d)](</_references/14-CFR/91.213(d)>)

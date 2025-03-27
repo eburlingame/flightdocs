@@ -14,8 +14,10 @@ const transformations: Record<string, (url: string) => string> = {
     "https://www.faa.gov/documentLibrary/media/Advisory_Circular/AC_61-65J.pdf",
 
   "/_references/14-CFR/": (url: string) => {
-    const section = url.replace("/_references/14-CFR/", "");
-    return `https://www.ecfr.gov/current/title-14/section-${section}`;
+    const sectionAndParagraph = url.replace("/_references/14-CFR/", "");
+    const section = sectionAndParagraph.replace(/\([a-zA-Z]+\)$/, "");
+
+    return `https://www.ecfr.gov/current/title-14/section-${section}#p-${sectionAndParagraph}`;
   },
 
   "/_references/AIM/": (url: string) => {

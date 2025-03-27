@@ -1,0 +1,45 @@
+import Acronym, { AcronymRow } from "@site/src/components/Acronym";
+import EncodedDataExplainer, {
+  EncodedDataWord,
+} from "@site/src/components/EncodedDataExplainer";
+import ReferenceList from "@site/src/components/ReferenceList";
+import Reg from "@site/src/components/Reg";
+import StandardAtmosphereSlider from "@site/src/components/StandardAtmosphereSlider";
+
+# Airworthiness Directives
+
+Airworthiness directives (ADs) are used to communicate unsafe operating
+conditions related to aircraft and aircraft equipment.
+
+They are mandatory in nature and must be complied with for aircraft to remain
+airworthy.
+
+There are two types of ADs:
+
+- Emergency issue: Addressing a urgent, safety-of-flight issue
+- Normal issue: Less urgent issue, usually requires compliance within a
+  specified period
+
+## AD Compliant Records
+
+- An AD compliance record is a report compiled based on the serial number and options of the aircraft
+- This report contains what ADs the airframe needs to be compiled with
+- AD Entries need to contain:
+  - AD Number
+  - How it was compiled with
+  - When it will be due again
+
+# Special Airworthiness Information Bulletins
+
+Special Airworthiness Information Bulletins (SAIBs) are alerts and
+recommendations published by the FAA. They are non-regulatory in nature, and do
+not meet the criteria for an AD.
+
+<ReferenceList
+  references={[
+    {
+      name: "PlaneSense, Chapter 8",
+      link: "https://www.faa.gov/regulations_policies/handbooks_manuals/aviation/media/faa-h-8083-19a.pdf",
+    },
+  ]}
+/>

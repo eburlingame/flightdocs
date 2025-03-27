@@ -101,3 +101,9 @@ Instructors are required to keep records of any endorsements given for *3* years
 An aircraft engaged in training operations without an operating ELT cannot fly more than *50*nm from an airport.
 ---
 If an ELT has been removed for maintenance, the aircraft may be operated for up to *90* days.
+---
+Aircraft position lights must be used between *sunset* and *sunrise*.
+---
+Night landings for night currency must be logged between *1 hour after sunset* to *1 hour before sunrise*.
+---
+Night flight time may be logged between *end of civil twilight* to *start of civil twilight|the start of civil twilight*.
