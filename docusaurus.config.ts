@@ -74,19 +74,7 @@ const config: Config = {
           type: "docSidebar",
           sidebarId: "allSidebar",
           position: "left",
-          label: "All Topics",
-        },
-        {
-          type: "docSidebar",
-          sidebarId: "cfiSidebar",
-          position: "left",
-          label: "CFI",
-        },
-        {
-          type: "docSidebar",
-          sidebarId: "ifrSidebar",
-          position: "left",
-          label: "IFR",
+          label: "Knowledge",
         },
         {
           type: "docSidebar",
