@@ -27,7 +27,7 @@
 
 ## Flight Proficiency Requirements ([61.311](/_references/14-CFR/61.311))
 
-- The same as the [private pilot proficiency requirements](/docs/cfi/regulations/part-61-e-private#flight-proficiency-requirements-61107)
+- The same as the [private pilot proficiency requirements](/docs/topics/regulations/part-61/part-61-e-private#flight-proficiency-requirements-61107)
 - No night or instrument flight training
 
 ## Aeronautical Experience ([61.313](/_references/14-CFR/61.313))

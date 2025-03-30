@@ -17,7 +17,7 @@
 
 ## Flight proficiency requirements ([61.409](/_references/14-CFR/61.409))
 
-- The same as the [subpart H flight instructor requirements](/docs/cfi/regulations/part-61-h-instructors#flight-proficiency-requirements-61187), except:
+- The same as the [subpart H flight instructor requirements](/docs/topics/regulations/part-61/part-61-h-instructors#flight-proficiency-requirements-61187), except:
   - No night or instrument flight training
 
 ## Aeronautical experience ([61.411](/_references/14-CFR/61.411))
@@ -58,7 +58,7 @@
 
 ## Record Keeping ([61.423](/_references/14-CFR/61.423))
 
-- The same as a [Subpart H instructor](/docs/cfi/regulations/part-61-h-instructors#record-keeping-61189), plus you must maintain a record of:
+- The same as a [Subpart H instructor](/docs/topics/regulations/part-61/part-61-h-instructors#record-keeping-61189), plus you must maintain a record of:
   - Any endorsement given for an additional category/class
   - Any endorsement given for Class B/C/D airspace
   - Any endorsement given for a LSA with Vh greater than 87 KCAS
@@ -71,7 +71,7 @@
 
 ## Recency and Reinstatement ([61.429](/_references/14-CFR/61.429))
 
-The same requirements as for [Subpart H instructors](/docs/cfi/regulations/part-61-h-instructors#recency-and-reinstatement-61197)
+The same requirements as for [Subpart H instructors](/docs/topics/regulations/part-61/part-61-h-instructors#recency-and-reinstatement-61197)
 
 ## Endorsements
 

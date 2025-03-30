@@ -65,7 +65,7 @@ A four-step series of open-ended questions which guides the learner through a se
 
 ## Choosing an Effective Assessment
 
-1. Determine level-of-learning: Pick one of the [level of learning](/docs/cfi/foi/learning-process#levels-of-learning)
+1. Determine level-of-learning: Pick one of the [level of learning](/docs/topics/instruction/learning-process#levels-of-learning)
 2. List indicators of desired behaviors: Determine what would indicate achievement of assessment objective
 3. Establish criterion objectives: Define performance-based objectives and targets
 4. Develop criterion-referenced test items: Develop questions or activities which target the specific criterion objectives
