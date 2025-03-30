@@ -1,0 +1,77 @@
+import Acronym, { AcronymRow } from "@site/src/components/Acronym";
+import EncodedDataExplainer, {
+  EncodedDataWord,
+} from "@site/src/components/EncodedDataExplainer";
+import Footnotes from "@site/src/components/Footnotes";
+import ReferenceList from "@site/src/components/ReferenceList";
+import Reg from "@site/src/components/Reg";
+import StandardAtmosphereSlider from "@site/src/components/StandardAtmosphereSlider";
+
+# Required Inspections (AV1ATE)
+
+<Acronym>
+  <AcronymRow
+    letter="A"
+    title={
+      <a href="/docs/topics/airworthiness/inspections/annuals">
+        Annual Inspection
+      </a>
+    }
+    notes={"12 months"}
+    reg={<Reg part="91.409" />}
+  />
+  <AcronymRow
+    letter="A"
+    title={
+      <a href="/docs/topics/airworthiness/airworthiness/ads">
+        ADs and Life-Limited Parts
+      </a>
+    }
+    notes="As required"
+    reg={<Reg part="91.403" />}
+  />
+  <AcronymRow
+    letter="V"
+    title={
+      <a href="/docs/topics/airworthiness/inspections/vor-checks">
+        VOR Check (for IFR)
+      </a>
+    }
+    notes="30 days"
+    reg={<Reg part="91.171" />}
+  />
+  <AcronymRow
+    letter="1"
+    title={
+      <a href="/docs/topics/airworthiness/inspections/hour-100">
+        100-hour inspection
+      </a>
+    }
+    notes="Every 100 hours*"
+    reg={<Reg part="91.409" />}
+  />
+  <AcronymRow
+    letter="A"
+    title={"Altimeter / Static System inspection"}
+    notes="24 months (2 years)"
+    reg={<Reg part="91.411" />}
+  />
+  <AcronymRow
+    letter="T"
+    title="Transponder"
+    notes="24 months (2 years)"
+    reg={<Reg part="91.413" />}
+  />
+  <AcronymRow
+    letter="E"
+    title="ELT Inspection"
+    notes="12 months"
+    reg={<Reg part="91.207" />}
+  />
+</Acronym>
+
+<Footnotes>
+  \* Required for all aircraft under 12,500 pounds used to carry passenger for
+  hire. Or, if used for flight instruction where the aircraft is provided by the
+  CFI.
+</Footnotes>

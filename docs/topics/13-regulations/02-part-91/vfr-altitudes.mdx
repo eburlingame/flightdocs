@@ -1,0 +1,31 @@
+import Acronym, { AcronymRow } from "@site/src/components/Acronym";
+import EncodedDataExplainer, {
+  EncodedDataWord,
+} from "@site/src/components/EncodedDataExplainer";
+import ReferenceList from "@site/src/components/ReferenceList";
+import Reg from "@site/src/components/Reg";
+import StandardAtmosphereSlider from "@site/src/components/StandardAtmosphereSlider";
+
+# VFR Cruising Altitudes
+
+When flying VFR in level cruise _flight above 3000 feet MSL_ and below 18,000
+feet MSL, pilots should cruise at the following altitudes7t:
+
+<table style={{ width: "100%", marginBottom: "1.0em" }}>
+  <tbody>
+    <tr>
+      <td>Flying between 0 to 179&deg; magnetic (eastbound)</td>
+      <td>
+        Maintain <strong>odd</strong> thousands + 500'
+      </td>
+    </tr>
+    <tr>
+      <td>Flying between 180 to 359&deg; magnetic (westbound)</td>
+      <td>
+        Maintain <strong>even</strong> thousands + 500'
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+<Reg part="91.159" />

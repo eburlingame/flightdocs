@@ -1,0 +1,50 @@
+import Reg from "@site/src/components/Reg";
+import Acronym, { AcronymRow } from "@site/src/components/Acronym";
+import EncodedDataExplainer, {
+  EncodedDataWord,
+} from "@site/src/components/EncodedDataExplainer";
+import StandardAtmosphereSlider from "@site/src/components/StandardAtmosphereSlider";
+import ReferenceList from "@site/src/components/ReferenceList";
+
+# Lift
+
+Lift is a force that is produced by the dynamic effect of the air acting on the
+airfoil, and acts perpendicular to the flight path through the center of lift
+(CL) and perpendicular to the lateral axis.
+
+All other factors being constant, for every angle-of-attack (AOA) there is a
+corresponding airspeed required to maintain altitude in steady, unaccelerated
+flight.
+
+As airspeed increase, lift also increases. If the angle of attack were held
+constant, and the aircraft speed up, the lift would increase and the aircraft
+would climb as a result of the increased lifting force. Therefore, to keep the
+aircraft straight and level (not accelerating upward), lift must be kept
+constant by reducing the AOA (usually lowering the nose).
+
+<img src="/img/content/drag_curve.png" />
+
+## Lift equation
+
+$$
+\text{lift} = \frac{\frac{1}{2} \rho V^2 S C_l}{2}
+$$
+
+$$
+\text{Where:}\\
+\rho = \text{air density}\\
+V = \text{velocity}\\
+S = \text{surface area}\\
+C_l = \text{coefficient of lift}
+$$
+
+Note that lift will increase with the square of the velocity.
+
+<ReferenceList
+  references={[
+    {
+      name: "Pilot's Handbook of Aeronautical Knowledge",
+      link: "https://www.faa.gov/regulations_policies/handbooks_manuals/aviation/phak/media/07_phak_ch5.pdf",
+    },
+  ]}
+/>

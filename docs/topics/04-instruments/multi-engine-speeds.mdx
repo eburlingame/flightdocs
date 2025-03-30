@@ -1,0 +1,31 @@
+import Acronym, { AcronymRow } from "@site/src/components/Acronym";
+import EncodedDataExplainer, {
+  EncodedDataWord,
+} from "@site/src/components/EncodedDataExplainer";
+import ReferenceList from "@site/src/components/ReferenceList";
+import Reg from "@site/src/components/Reg";
+import StandardAtmosphereSlider from "@site/src/components/StandardAtmosphereSlider";
+
+# Multi-Engine Airplanes Speeds
+
+## Minimum Controllable Airspeed (Vmc)
+
+V_mc is the minimum airspeed at which, after the sudden critical loss of thrust, it is possible to
+maintain control of the airplane. It is marked with a red radial line on the airspeed indicator.
+
+Note that there is no requirement that the airplane be capable of climbing at this airspeed. VMC only addresses directional
+control such that the aircraft can maintain heading.
+
+## Best Rate of Climb Speed (Vyse)
+
+The best rate of climb speed with one engine inoperative (OEI). Marked with a blue radial line on most airspeed indicators.
+Above the single-engine absolute ceiling, VYSE yields the minimum rate of sink
+
+<ReferenceList
+  references={[
+    {
+      name: "Pilots Handbook of Aeronautical Knowledge, Chapter 13",
+      link: "https://www.faa.gov/sites/faa.gov/files/regulations_policies/handbooks_manuals/aviation/airplane_handbook/14_afh_ch13.pdf",
+    },
+  ]}
+/>

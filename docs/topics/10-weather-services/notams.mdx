@@ -1,0 +1,45 @@
+import Acronym, { AcronymRow } from "@site/src/components/Acronym";
+import EncodedDataExplainer, {
+  EncodedDataWord,
+} from "@site/src/components/EncodedDataExplainer";
+import ReferenceList from "@site/src/components/ReferenceList";
+import Reg from "@site/src/components/Reg";
+import StandardAtmosphereSlider from "@site/src/components/StandardAtmosphereSlider";
+
+# Notices to Airmen (NOTAMs)
+
+Notices to Airmen (NOTAMs) are time-sensitive information pertinent to pilots
+that could not be published ahead of time. They typically include:
+
+- Runway closures
+- NAVAID availability
+- ILS status
+- Obstacles
+- Radar service disruption
+
+## Types of NOTAMs
+
+- (D) NOTAMS: Information that requires mass dissemination
+  - Most NOTAMs are D-NOTAMs
+  - Usually pertains to enroute NAVAIDs or public-use airports, facilities and
+    procedures
+  - Contains a keyword which identifies what it pretains to, including:
+    - RWY
+    - TWY
+    - RAMP
+    - APRON
+    - AD
+    - OBST
+    - NAV
+    - COM
+    - SVC
+    - AIRSPACE
+    - U (unverified)
+    - O (other)
+- FDC NOTAMS: IFR-related information pertaining to IFR charts, procedures, or
+  airspace
+- POINTER NOTAMS: Call outs to other NOTAMs
+- MILITARY NOTAMS: Information pertaining to military NAVAIDS or airfields
+- SAA NOTAMS: Pertains to Special Activity Airspace being active outside of its
+  published schedule
+- FICON NOTAMS: Related to the condition of asphalt surfaces

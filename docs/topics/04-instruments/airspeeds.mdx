@@ -1,0 +1,54 @@
+import Reg from "@site/src/components/Reg";
+import Acronym, { AcronymRow } from "@site/src/components/Acronym";
+import EncodedDataExplainer, {
+  EncodedDataWord,
+} from "@site/src/components/EncodedDataExplainer";
+import StandardAtmosphereSlider from "@site/src/components/StandardAtmosphereSlider";
+import ReferenceList from "@site/src/components/ReferenceList";
+
+# Type of Airspeeds
+
+- Calibrated airspeed (CAS): Indicated airspeed corrected for position or
+  instruments errors
+- Equivalent airspeed (EAS): Calibrated airspeed corrected for adiabatic
+  compressible flow errors
+- True airspeed (TAS): This is calibrated airspeed corrected for nonstandard
+  temperature and pressure
+  - The speed at which the aircraft is moving through the airmass
+- Mach number: Ratio of the TAS to the speed of sound
+- Ground speed: Actual speed over the ground
+
+## V-Speeds
+
+- **V<sub>X</sub>**: Best angle of climb speed
+  - The fastest rate of climb per foot travelled over the ground
+- **V<sub>Y</sub>**: Best rate of climb speed
+  - The fastest rate of climb per second
+- **V<sub>N0</sub>**: Maximum structural cruising speed
+  - Don't exceed this speed unless in smooth air
+- **V<sub>A</sub>**: Design maneuvering speed
+  - The maximum speed where the structural design limit can be imposed (via full
+    control deflection or gusts) without causing structural damage
+  - The airplane will stall before it will exceed a critical load factor
+  - The maneuvering speed increases as weight increase
+- **V<sub>FE</sub>**: Maximum flaps extended speed
+- **V<sub>LE</sub>**: Maximum landing gear extended speed
+  - The maximum speed where that can be flown with the landing gear extended
+- **V<sub>LO</sub>**: Maximum landing gear operating speed
+  - The maximum speed where the landing gear can be extended or retracted
+- **V<sub>NE</sub>**: Never exceed speed
+- **V<sub>S1</sub>**: Stall speed in a clean configuration
+- **V<sub>S0</sub>**: Stall speed in the landing configuration
+
+## Airspeed Indicator Markings
+
+![Airspeed Indicator Markings](/img/content/airspeed-markings.png)
+
+<ReferenceList
+  references={[
+    {
+      name: "Pilots Handbook of Aeronautical Knowledge, Chapter 8",
+      link: "https://www.faa.gov/regulations_policies/handbooks_manuals/aviation/phak/media/10_phak_ch8.pdf",
+    },
+  ]}
+/>
