@@ -1,6 +1,6 @@
 # Flight Controls
 
-All flight controls work through the center of gravity of the airplane
+All flight controls work through the center of gravity of the airplane.
 
 ![Airplane aileron](images/image.png)
 
@@ -11,7 +11,7 @@ All flight controls work through the center of gravity of the airplane
 Controls rotation around the access, also provide downward pressure to counteract the rotational moment of the main wing.
 
 - The bell crank is a device that translates the forward/back motion of the yoke into the movement of the elevator.
-- The downspring keeps the elevator neutral
+- The down-spring keeps the elevator neutral
 
 ### T-tails
 

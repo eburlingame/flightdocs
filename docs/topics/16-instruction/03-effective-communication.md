@@ -6,6 +6,8 @@
 - Symbols: words, signs, props
 - Receiver: listener, student
 
+![Channel encoding](images/image-5.png)
+
 [Aviation Instructor's Handbook pg. 4-2](/_references/AIH/4-2)
 
 ## Barriers to Communication

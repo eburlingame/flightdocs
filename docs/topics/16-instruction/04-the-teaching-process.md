@@ -77,6 +77,7 @@ Basic lesson structure:
   - Good for background information
   - Good for large groups
   - Requires speaking skill
+  - Doesn't have good error-checking
 
 [Aviation Instructor's Handbook pg. 5-10](/_references/AIH/5-10)
 
@@ -115,6 +116,12 @@ Learners observe a skill, then try to reproduce it.
 2. Demonstration phase: Demonstrate the actions necessary
 3. Learner performance: Have the learner perform the actions, coaching as needed, evaluating
 4. Evaluation phase: Instructor identifies how well the skill was learned
+
+Useful when teaching in an airplane:
+
+1. Instructor does, instructor says
+2. Instructor does, student says
+3. Student does, student says
 
 [Aviation Instructor's Handbook pg. 5-21](/_references/AIH/5-21)
 
