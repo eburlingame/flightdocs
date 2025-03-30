@@ -4,6 +4,9 @@
 
 ![Magnetic north](images/image.png)
 
+- The magnetic north pole does not exist at the true north pole, so there's a slight error between true north and magnetic north
+- This error gets more pronounced as you travel further north
+
 ## Flight Plan Checkpoints
 
 - Use large airports, not small ones

@@ -2,8 +2,6 @@
 
 ## VHF Omni-directional Range (VOR)
 
-![Same-side safe of the VOR](images/IMG_2846.jpg)
-
 VORs operate within the 108.0 to 117.95 MHz frequency band and have a power
 output necessary to provide coverage within their assigned operational service
 volume. They are subject to line-of-sight restrictions, and the range varies
@@ -22,11 +20,15 @@ proportionally to the altitude of the receiving equipment.
 - Intercepting radial:
   - Fly an intercept
   - Radials get further apart as you get farther from the station
-- Same-side safe
+
+### Same-side safe
+
+"Same side safe" is a convenient mental process when intercepting between two radials to determine which side of the radial you are on.
+
+![Same-side safe of the VOR](images/IMG_2846.jpg)
 
 ## Service Volumes
 
 ![VOR Service Volumes](/img/content/vor-service-volumes.jpg)
 
-For IFR flight VOR must be
-[checked every 30 days](/docs/topics/regulations/inspections/vor-checks).
+For IFR flight VOR must be [checked every 30 days](/docs/topics/airworthiness/inspections/vor-checks).

@@ -86,7 +86,7 @@
 
 ## Electrical System
 
-![172N Electrical Diagram](images/image-4.png)
+![172N Electrical Diagram](images/c172n-electrical.png)
 
 - Components
   - 28V DC alternator (60A, continuous output)
