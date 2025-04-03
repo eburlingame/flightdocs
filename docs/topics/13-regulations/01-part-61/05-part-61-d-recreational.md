@@ -6,6 +6,7 @@
 - Be able to read, speak, write, and understand the English language
 - Pass a knowledge test
 - Meet the aeronautical experience requirements of 61.99
+- Hold a student pilot certificate or sport pilot certificate
 
 ## Knowledge Test ([61.97](/_references/14-CFR/61.97))
 
@@ -23,7 +24,7 @@
   - Aeronautical decision making and judgment and
   - Preflight action that includes—
     - runway lengths, takeoff and landing distances, weather reports and forecasts, and fuel requirements
-    - HAlternatives if the planned flight cannot be completed or delays are encountered.
+    - Alternatives if the planned flight cannot be completed or delays are encountered.
 
 ## Flight proficiency requirements ([61.98](/_references/14-CFR/61.98))
 
@@ -59,11 +60,11 @@
 - Must share expenses on pro-rata basis
 - No flight above 10,000' MSL or 2000' AGL, which ever is higher
 - Can't fly outside the US
-- Can fly beyond 50nm without
-  - Completing the [private pilot XC requirements](http://localhost:3000/docs/topics/regulations/part-61/part-61-c-student#solo-cross-country-xc)
+- Can't fly beyond 50nm without
+  - Completing the [private pilot XC requirements](/docs/topics/regulations/part-61/part-61-c-student#solo-cross-country-xc)
   - Getting the [AC 61-65 A.28](/_references/AC-61-65/A.28) endorsement
 - Require an endorsement for flying in Class B, C, or D airspace
-  - The ["dirty dozen"](<https://www.ecfr.gov/current/title-14/part-91#p-Appendix-D-to-Part-91(Section 1.)(Section%204)>) Class B airports will require a private pilot certificate
+  - The ["dirty dozen"](<https://www.ecfr.gov/current/title-14/part-91#p-Appendix-D-to-Part-91(Section 1.)(Section%204)>) Class B airports which require a private pilot certificate
 - Until you have 400 hours of PIC time, you need an endorsement from a CFI every 180 days
   - The endorsement [AC 61-65 A.29](/_references/AC-61-65/A.29)
 

@@ -1,5 +1,7 @@
 ---
-theme: Human Factors
+theme: default
+class:
+  - invert
 ---
 
 # Human Factors
@@ -8,7 +10,7 @@ theme: Human Factors
 
 ## Objective
 
-To become familiar with and apply the knowledge related to aeromedical factors.
+To become familiar with and apply the knowledge related to aeromedical and human factors.
 
 ## Motivation
 
@@ -31,7 +33,6 @@ Cyanosis, headache, dizziness, euphoria, impaired vision, drowsiness
 - Use supplemental oxygen
 - Fly at a lower altitude
 - Address any pollution in the air
-- Time of useful consciousness
 
 ---
 
@@ -45,24 +46,22 @@ Cyanosis, headache, dizziness, euphoria, impaired vision, drowsiness
 
 ## Types of Hypoxia
 
-- **Hypoxic**: Caused by the reduction in partial pressure of oxygen at
-  high altitude
-- **Hypemic**: Caused by the blood not being able to take up and
-  transport a sufficient amount of oxygen
-- **Stagnant**: Caused by a lack of circulation of oxygenated blood in
-  the body
-- **Histotoxic**: Caused by the inability of the cells to effectively
-  use oxygen
+- **Hypoxic**: Caused by the reduction in partial pressure of oxygen at high altitude
+- **Hypemic**: Caused by the blood not being able to take up and transport a sufficient amount of oxygen; CO poisoning
+- **Stagnant**: Caused by a lack of circulation of oxygenated blood in the body; can occur during high-G maneuvers
 
 ---
 
 # Hyperventilation
 
-Excessive rate and depth of respiration leading to abnormal loss of carbon dioxide
+Excessive rate and depth of respiration, leading to a condition where the body eliminates more carbon dioxide than the body can produce.
+
+<!-- This leads to a low level of CO2 in your blood, which can cause breathlessness. -->
 
 ### Symptoms
 
-Rapid breathing, visual impairment, sweaty skin, dizziness
+- Rapid breathing, visual impairment, sweaty skin, dizziness
+- Often occurs with stress or anxiety
 
 ### Corrective Actions
 
@@ -88,7 +87,8 @@ Rapid breathing, visual impairment, sweaty skin, dizziness
 - **Corrective Actions**
   - Valsalva method
   - Descend slowly
-  - Decongestants can be used for passengers
+  - Avoid flying with any sinus blockage
+    - Decongestants can be helpful (for passengers)
 
 ---
 
@@ -97,6 +97,8 @@ Rapid breathing, visual impairment, sweaty skin, dizziness
 Disagreement or confusion between your sensory systems about the aircraft's position, attitude, or movement.
 
 ![](images/image-2.png)
+
+<!-- vestibular system is sort of like a gyroscope -->
 
 ---
 
@@ -125,7 +127,7 @@ Disagreement or confusion between your sensory systems about the aircraft's posi
 # Somatogravic Illusion
 
 - Acceleration may feel like a pitching-up movement
-- Especially true with limited visual reference, like a night
+- Especially true with limited visual reference, like at night
 - Pilot may consequently push into a nose-low attitude
 - Likewise, deceleration may cause the sensation of pitching down
 
@@ -135,21 +137,21 @@ Disagreement or confusion between your sensory systems about the aircraft's posi
 
 # Inversion illusion
 
-- Abrupt change from climbing to straight-and-level flight can create the
-  illusion of tumbling backwards
+- Abrupt change from climbing to straight-and-level flight can create the illusion of tumbling backwards
 - Pilots may then push the aircraft into a nose-low attitude
 
 # Elevator Illusion
 
 - Upward vertical acceleration like an updraft can create the illusion of being in a climb
-- Pilots may may pull into a nose-up attitude
+- Pilots may push the aircraft into a nose-low attitude
+- Likewise a downward acceleration can create the illusion of being in a descent
 
 ---
 
 # Overcoming Disorienting Illusions
 
 - Trust flight instruments
-- Limit maneuvering
+- Limit maneuvering, especially high-load factor maneuvers
 - Limit rapid head movements
 - Use autopilot if needed
 
@@ -159,14 +161,14 @@ Disagreement or confusion between your sensory systems about the aircraft's posi
 
 Discomfort caused by the brain receiving conflicting messages about the state of the body's position in space.
 
-- **Symptoms**:
-  - Nausea, vomiting
-  - Dizziness
+- **Symptoms**
   - Paleness, sweaty, clammy skin
+  - Nausea, vomiting, dizziness
 - **Corrective Actions**
   - Fresh air
   - Focus on objects outside the airplane
   - Avoid unnecessary head movements
+  - Always have a bag
 
 ---
 
@@ -174,12 +176,14 @@ Discomfort caused by the brain receiving conflicting messages about the state of
 
 Hypemic hypoxia caused by the presence of CO in the air, which attaches to hemoglobin in the blood.
 
-- **Symptoms**:
+<!-- CO attaches to hemoglobin in the blood about 200 times more easily than oxygen -->
+
+- **Symptoms**
   - Headache, drowsiness
   - Blurred vision
   - Loss of muscle power
 - **Corrective Actions**
-  - Close header vent
+  - Close heater vent
   - Land and ventilate the cabin
   - Open fresh air vents
 
@@ -189,12 +193,12 @@ Hypemic hypoxia caused by the presence of CO in the air, which attaches to hemog
 
 The body’s response to physical and psychological demands placed upon it. Stress can be chronic or acute.
 
-- **Symptoms**:
+- **Symptoms**
   - Agitation
   - Not thinking well
   - Fatigue
 - **Corrective Actions**
-  - Correct underlying stressors, which may
+  - Correct underlying stressors
   - Chronic stress require medical treatment
 
 ---
@@ -221,7 +225,7 @@ The body’s response to physical and psychological demands placed upon it. Stre
 
 A critical loss of water or electrolytes from the body.
 
-- **Symptoms**:
+- **Symptoms**
   - Headache
   - Fatigue
   - Drowsiness
@@ -288,7 +292,7 @@ https://www.aopa.org/go-fly/medical-resources/medications-database
 
 ## Substances to Avoid
 
-- Nicotine: Impaired night vision, CO poisioning
+- Nicotine: Impaired night vision, CO poisoning
 - Amphetamines: Impaired vision, impaired judgement
 - Caffeine: Impaired judgement, dehydration, headaches
 - Antacids: Release CO2 at altitude
@@ -340,6 +344,8 @@ Preflight self-evaluation:
 p { text-align: center; }
 </style>
 
+## Illusion
+
 # False Horizon
 
 ![h:525](images/image-4.png)
@@ -350,6 +356,8 @@ p { text-align: center; }
 p { text-align: center; }
 </style>
 
+## Illusion
+
 # Runway Width Illusion
 
 ![h:525](images/image-5.png)
@@ -359,6 +367,8 @@ p { text-align: center; }
 <style scoped>
 p { text-align: center; }
 </style>
+
+## Illusion
 
 # Sloping Runway Illusion
 

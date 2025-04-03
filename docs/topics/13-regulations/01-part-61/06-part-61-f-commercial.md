@@ -54,7 +54,7 @@
     - 50 hours of XC flight, of which 10 hours must be in airplanes
   - 20 hours of flight training, including:
     - 10 hours of instrument training, 5 hours must be in a single-engine airplane
-      - This must be specifically logged to the requirements in [61.129(3)(i)](/_references/14-CFR/61.129(3)(i))
+      - This must be specifically logged to the requirements in [61.129(3)(i)](</_references/14-CFR/61.129(3)(i)>)
       - This training must be done by a CFII
     - 10 hours of complex, turbine, or TAA aircraft
     - One dual 2-hour day XC flight >100nm
@@ -62,7 +62,7 @@
     - 3 hours within 2 months of the practical test
   - 10 hours of solo flight time or 10 hours performing the duties of PIC (PDPIC) with an instructor:
     - Restrictions:
-      - The solo time and PDPIC time _cannot_ be combined
+      - The solo time and PDPIC time _cannot_ be combined (this comes from a [legal interpretation given by the FAA](https://www.faa.gov/about/office_org/headquarters_offices/agc/practice_areas/regulations/interpretations/Data/interps/2016/Grannis_2016_Legal_Interpretation.pdf))
       - No instruction can be given on PDPIC flights
       - PDPIC cannot be used on the 300nm solo requirement
     - One 300nm flight with landings at 3 points, which is a straight-line distance of at least 250nm from the departure point

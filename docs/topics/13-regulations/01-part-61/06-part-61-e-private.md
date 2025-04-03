@@ -61,7 +61,7 @@
 
 - Aircraft limitations
   - Max weight 12,500lbs without a type rating
-- > 200 hours you can demonstrate an airplane as a salesperson
+- With 200 hours you can demonstrate an airplane as a salesperson
 - Glider towing
 - Share expenses on pro-rata basis
 - Can be reimbursed for search and rescue or charitable events, with FAA approval

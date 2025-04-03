@@ -31,4 +31,21 @@
     "body": ["[AIM $1](/_references/AIM/$1)"],
     "description": "Link to AIM",
   },
+  "lessonplan": {
+    "prefix": "lessonplan",
+    "body": [
+      "# $1",
+      "",
+      "## Objectives",
+      "",
+      "## Motivations",
+      "",
+      "## Timings",
+      "",
+      "## Elements",
+      "",
+      "## References",
+    ],
+    "description": "Create a lesson plan template",
+  },
 }

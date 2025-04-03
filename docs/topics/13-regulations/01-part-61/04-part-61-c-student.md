@@ -67,7 +67,7 @@ Need training on the following maneuvers and procedures (the "15 things"), prior
 - Solo pilots have limitations
   - Carrying a passenger
   - Compensation or hire
-  - Flight visibility < 3 s.m during the day, and < 5 s.m at night
+  - Flight visibility > 3 s.m during the day, and > 5 s.m at night
   - If flight cannot be made with visual reference to the surface
   - Contrary to any instructor-given limitations
 
