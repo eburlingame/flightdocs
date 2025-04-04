@@ -157,6 +157,17 @@ Instrument training = training for instrument rating, a type rating not limited 
 
 ---
 
+### 61 Subpart H: Flight Instructors
+
+# Endorsements
+
+- Endorsement A.41: FOI knowledge test
+- Endorsement A.42: FIA knowledge test
+- Endorsement A.43: Ready for the practical test
+- Endorsement A.45: Spin training
+
+---
+
 # Knowledge Check
 
 A flight instructor with a single-engine airplane rating has not instructed in four years, but does fly occasionally and remains current. He works to earn his flight instructor certificate for multi-engine airplanes. After his checkride, will he able to exercise his privileges as a flight instructor in single-engine airplanes?

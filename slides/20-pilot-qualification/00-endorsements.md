@@ -88,8 +88,8 @@ Subpart K Flight Instructors With a Sport Pilot Rating 61.401 – 61.429
 ---
 
 - Flight review
-- Flight instructor renewal and recency
 - Additional privileges: tailwheel, high performance, pressurization
+- Pro-rata share definition
 
 ---
 
