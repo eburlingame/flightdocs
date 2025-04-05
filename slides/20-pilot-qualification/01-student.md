@@ -4,7 +4,7 @@ class:
   - invert
 ---
 
-# Endorsement and Logbook Entries
+# Endorsements and Pilot Qualifications
 
 ## Student Pilots, 61 Subpart C
 
@@ -12,7 +12,7 @@ class:
 
 ### 61 Subpart C: Student pilots
 
-# Eligibility
+# 61.83 Eligibility
 
 - Must be 16
 - Read write an understand English
@@ -25,7 +25,7 @@ class:
 
 ### 61 Subpart C: Student pilots
 
-# Initial solo
+# 61.87 Initial solo
 
 - In order to solo, a student pilot needs to
   - A student pilot certificate
@@ -81,7 +81,7 @@ class:
 
 ### 61 Subpart C: Student pilots
 
-# 61.87 Solo endorsement
+# 61.87 Solo Endorsement
 
 - Provide the **A.6 endorsement**, good for 90 days
 - Past the first 90 days, you would give the **A.7 endorsement**

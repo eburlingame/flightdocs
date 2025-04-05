@@ -4,7 +4,7 @@ class:
   - invert
 ---
 
-# Endorsement and Logbook Entries
+# Endorsements and Pilot Qualifications
 
 ## Private Pilots, 61 Subpart E
 
@@ -107,6 +107,22 @@ For meeting the aeronautical experience requirements of private, commercial, or 
 - May be reimbursed for search and rescue operation
 - With 200 hours, can demonstrate an airplane as a salesperson
 - Can tow gliders
+
+---
+
+### Pro-rata Share and Common Purpose
+
+- Private pilot may not pay less than the "pro rata share" of the operating expenses of a flight with passengers
+  - Provided the expenses involve only fuel, oil, airport expenditures, or rental fees
+  - Note that insurance, maintenance, tie-downs, are not part of "operating expenses"
+- Flight must share a "common purpose"
+  - You and your passengers need to be going to the same place for the same purpose
+  - This is determined on a case-by-case basis and subject to interpretation
+
+<!--
+- This makes for an interesting scenario with owners, who cannot share insurance and other costs, vs renters (where those costs are baking in the rental fee)
+
+-->
 
 ---
 

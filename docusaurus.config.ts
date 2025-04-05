@@ -82,12 +82,12 @@ const config: Config = {
           position: "left",
           label: "Deep Dives",
         },
-        {
-          type: "docSidebar",
-          sidebarId: "lessonPlansSidebar",
-          position: "left",
-          label: "Lesson Plans",
-        },
+        // {
+        //   type: "docSidebar",
+        //   sidebarId: "lessonPlansSidebar",
+        //   position: "left",
+        //   label: "Lesson Plans",
+        // },
       ],
     },
     footer: {

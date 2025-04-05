@@ -4,7 +4,7 @@ class:
   - invert
 ---
 
-# Endorsement and Logbook Entries
+# Endorsements and Pilot Qualifications
 
 ## Commercial Pilots, 61 Subpart F
 

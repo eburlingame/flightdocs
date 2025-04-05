@@ -4,7 +4,7 @@ class:
   - invert
 ---
 
-# Endorsement and Logbook Entries
+# Endorsements and Pilot Qualifications
 
 ---
 
@@ -51,6 +51,22 @@ Giving endorsements is a large part of a CFI's roles, so it is important to know
 
 ---
 
+# 61.51 Logbooks
+
+- Pilots need to maintain records:
+  - For the requirements of a certificate or rating
+  - For the recent flight experience requirements
+- Logbook entries
+  - Date
+  - Total flight time or lesson time
+  - Origin and destination
+  - Type and identification of aircraft (or sim or ATD)
+  - The name of a safety pilot, if required
+  - Type of pilot experience or training: Solo, dual, PIC, SIC
+  - Conditions of flight: Day, night, actual instrument, simulated instrument
+
+---
+
 # Part 61 Overview
 
 Subpart A General 61.1 – 61.60
@@ -87,12 +103,49 @@ Subpart K Flight Instructors With a Sport Pilot Rating 61.401 – 61.429
 
 ---
 
-- Flight review
-- Additional privileges: tailwheel, high performance, pressurization
-- Pro-rata share definition
+# 61.56 Flight Reviews
+
+- Minimum of 1 hour of flight training and 1 hour of ground training
+  - A review of the current general operating and flight rules of part 91 of this chapter; and
+  - A review of those maneuvers and procedures that, at the discretion of the person giving the review, are necessary for the pilot to demonstrate the safe exercise of the privileges of the pilot certificate.
+- Completion with the A.65 endorsement
+- Good for 2 years
+
+---
+
+# 61.56 Flight Reviews (cont.)
+
+- Things that can be used as a flight review:
+  - A pilot proficiency check or practical test conducted by an examiner
+  - The issuance of a flight instructor certificate
+  - An additional rating on a flight instructor certificate
+  - A practical test to reinstate a flight instructor privileges
+
+---
+
+# 61.56 Other Endorsements
+
+- Complex airplane
+  - Received and logged ground and flight training (in airplane or sim), been found proficient in the operation and systems
+  - A.68 endorsement
+- High performance
+  - Received and logged ground and flight training (in airplane or sim), been found proficient in the operation and systems
+  - A.69 endorsement
+
+---
+
+# 61.56 Other Endorsements (cont.)
+
+- Tailwheel
+  - Received and logged ground and flight training:
+    - Normal and crosswind takeoffs and landings
+    - Wheel landings (unless the manufacturer has recommended against)
+    - Go-around procedures
+  - A.71 endorsement
 
 ---
 
 ## References
 
 - AC 61-65 Appendix A
+- 14 CFR Part 61, Subpart A

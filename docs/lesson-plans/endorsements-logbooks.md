@@ -1,4 +1,4 @@
-# Endorsement and Logbook Entries
+# Endorsements and Pilot Qualifications
 
 ## Objectives
 

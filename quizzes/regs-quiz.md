@@ -107,3 +107,18 @@ Aircraft position lights must be used between *sunset* and *sunrise*.
 Night landings for night currency must be logged between *1 hour after sunset* to *1 hour before sunrise*.
 ---
 Night flight time may be logged between *end of civil twilight* to *start of civil twilight|the start of civil twilight*.
+---
+Flight review rules are defined in *61.56*.
+---
+Solo requirements for student pilots are defined in *61.87*.
+---
+Aeronautical experience requirements for commercial pilots are in *61.125*.
+---
+Aeronautical experience requirements for recreational pilots are in *61.99*.
+---
+Aeronautical experience requirements for sport pilots are in *61.313*.
+---
+The applicability for obtaining and commercial operator's certificate *119.1*.
+
+---
+Medical certificate rules are in *61.23*.
