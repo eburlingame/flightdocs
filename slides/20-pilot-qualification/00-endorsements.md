@@ -10,11 +10,11 @@ class:
 
 ## Objectives
 
-To understand and apply the required endorsement for pilot training and currency when providing instruction.
+To understand and apply the required endorsements for pilot training and currency when providing instruction, and the qualifications and documents needed for different flight operations.
 
 ## Motivations
 
-Giving endorsements is a large part of a CFI's roles, so it is important to know when endorsements are required and how to properly apply them.
+As a pilot, it is your responsibility to ensure you meet all pilot qualifications before flying. As an instructor, giving endorsements is a large part of the job, so it is important to know when endorsements are required and how to properly apply them.
 
 ## Timings
 
@@ -26,8 +26,7 @@ Giving endorsements is a large part of a CFI's roles, so it is important to know
 
 - An instructor sign the logbook of each person you give training to
 - Maintain a record of endorsements:
-  - Anyone endorsed for solo
-  - Any 90-day endorsement
+  - Anyone endorsed for solo flight (90-days)
   - Anyone endorsed for a knowledge or practical test, plus the results of the test
 - Keep these records for 3 years
 
@@ -35,8 +34,9 @@ Giving endorsements is a large part of a CFI's roles, so it is important to know
 
 # Endorsements
 
-- AC 61-65H has practical information about flight training and endorsements
-- Appendix A has listed sample endorsements
+- AC 61-65J has practical information about flight training and endorsements
+- Appendix A has listed sample endorsements, A.1 - A.92
+- RE: Instructor recent experience end date or certificate expiration date
 
 ```
 [date] <instructor signature> J. J. Jones 987654321CFI RE 12-31-2026
@@ -63,7 +63,9 @@ Giving endorsements is a large part of a CFI's roles, so it is important to know
   - Type and identification of aircraft (or sim or ATD)
   - The name of a safety pilot, if required
   - Type of pilot experience or training: Solo, dual, PIC, SIC
-  - Conditions of flight: Day, night, actual instrument, simulated instrument
+  - Conditions of flight: Day, night, actual instrument, simulated instrument, simulator
+
+<!-- Also NVG -->
 
 ---
 
@@ -92,6 +94,16 @@ Subpart K Flight Instructors With a Sport Pilot Rating 61.401 – 61.429
 - 61.31(d) To fly solo in an aircraft class which they are not rated:
   - They training and the the [A.72 endorsement](/_references/AC-61-65/A.72)
   - Note that this endorsement does not have an expiration, unless one is added by the instructor
+
+<!--
+
+Aircraft Classes
+  Single-engine
+  Multi-engine
+  Land
+  Sea
+
+ -->
 
 ---
 
@@ -123,7 +135,7 @@ Subpart K Flight Instructors With a Sport Pilot Rating 61.401 – 61.429
 
 ---
 
-# 61.56 Other Endorsements
+# 61.31 Other Endorsements
 
 - Complex airplane
   - Received and logged ground and flight training (in airplane or sim), been found proficient in the operation and systems
@@ -134,7 +146,7 @@ Subpart K Flight Instructors With a Sport Pilot Rating 61.401 – 61.429
 
 ---
 
-# 61.56 Other Endorsements (cont.)
+# 61.31 Other Endorsements (cont.)
 
 - Tailwheel
   - Received and logged ground and flight training:
@@ -148,4 +160,4 @@ Subpart K Flight Instructors With a Sport Pilot Rating 61.401 – 61.429
 ## References
 
 - AC 61-65 Appendix A
-- 14 CFR Part 61, Subpart A
+- 14 CFR Part 61, Subpart A-B

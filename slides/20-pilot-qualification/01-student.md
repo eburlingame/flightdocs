@@ -52,6 +52,7 @@ class:
 # 61.87 Pre-solo training areas
 
 - Items listed in 61.87d (the "15 things")
+- Demonstrate proficiency in make/model OR similar make/model
 - Provide the **A.4 endorsement**
 
 <!--
@@ -189,7 +190,7 @@ The "12 things":
 
 # Knowledge Check: Joann
 
-> After training with another instructor and completing their first solo, Joann wants to finish her private pilot training with you as her instructor. They hold a student pilot certificate and a 3rd class medical, and an 90 day solo endorsement given by their old instructor. You will fly in the same make/model of aircraft as the previous instructor.
+> After training with another instructor and completing their first solo, Joann wants to finish her private pilot training with you as her instructor. She holds a student pilot certificate and a 3rd class medical, and an 90 day solo endorsement given by their old instructor. You will fly in the same make/model of aircraft as the previous instructor.
 >
 > In order to perform a solo cross country flight, what flight training and endorsements will you need to provide?
 
@@ -199,9 +200,9 @@ The "12 things":
 
 1. A pre-solo knowledge test and A.3 endorsement - other instructor endorsement ok
 2. Flight training per 61.87d and A.4 endorsement - other instructor endorsement ok
-3. 90-solo flight endorsement, A.6 (initial) or A.7 (recurring) - you'll need to give this
+3. 90-solo flight endorsement, A.7 (recurring) - you'll need to give this
 4. Flight training on 61.93e and a A.9 endorsement - give this
-5. Endorsement for the specific XC flight to be completed: A.11 - give this
+5. Endorsement for the specific XC flight to be completed: A.10 - give this
 
 ---
 
@@ -211,7 +212,7 @@ The "12 things":
 
 - Students can be endorsed to fly in a _specific_ Class B airspace
   - Requires the [A.12 endorsement](/_references/AC-61-65/A.13) endorsement for flight in Class B airspace
-  - Requires the [A.13 endorsement](/_references/AC-61-65/A.13) endorsement for flight landing/departing from the primary airport
+  - Requires the [A.13 endorsement](/_references/AC-61-65/A.13) endorsement for flight landing/departing from the primary airport, or outlying airport
 - Some airports require a PPL or higher to operate at the airport (the "dirty dozen")
   - These are listed in [Part 91 Appendix D, Section 4](<https://www.ecfr.gov/current/title-14/part-91#p-Appendix-D-to-Part-91(Section 1.)(Section%204)>)
   - Atlanta, GA; Boston, MA; Camp Springs, MD; Chicago, IL; Dallas, TX; Los Angeles, CA; Miami, FL; Newark, NJ; New York, NY; New York, NY; San Francisco, CA; DC

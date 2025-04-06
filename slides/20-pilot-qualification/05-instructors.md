@@ -16,7 +16,7 @@ class:
 
 - Must be 18 years old
 - Be able to read, speak, write, and understand the English language
-- Hold a commercial certificate in the appropriate category/class rating
+- Hold a commercial certificate with the appropriate category/class rating
 - Hold an instrument rating
 - 15 hours PIC in category/class
 - Spin training and endorsement
@@ -36,7 +36,7 @@ class:
   - Part [61.97](/_references/14-CFR/61.97) Recreational pilot knowledge areas
   - Part [61.105](/_references/14-CFR/61.105) Private pilot knowledge areas
   - Part [61.125](/_references/14-CFR/61.125) Commercial pilot knowledge areas
-- Note Part 185 allows for ground instruction only, no home-study course
+- Note Part 61.185 allows for ground instruction only, no home-study course
 
 ---
 
@@ -46,14 +46,11 @@ class:
 
 Need ground and flight training around these areas:
 
-- Preflight/postflight preparation, procedures
-- Airport operations, takeoffs, landings, and go-arounds
-- Performance maneuvers (steep turns, lazy 8s, etc.)
-- Ground reference maneuvers
-- Navigation
-- Slow flight and stalls
-- Emergency operations
-- High-altitude operations
+- All of the commercial pilot areas
+- Fundamentals of instructing
+- Technical subject areas
+- Preflight lesson on a maneuver to be performed in flight
+- Fundamentals of flight
 
 ---
 
@@ -149,7 +146,7 @@ Instrument training = training for instrument rating, a type rating not limited 
 
 ### 61 Subpart H: Flight Instructors
 
-# 61.197 Reinstatement Experience
+# 61.197 Reinstatement
 
 - Grace period of 3 calendar months to:
   - Pass a practical test for currently held or a new instructor rating
@@ -162,7 +159,6 @@ Instrument training = training for instrument rating, a type rating not limited 
 # Endorsements
 
 - Endorsement A.41: FOI knowledge test
-- Endorsement A.42: FIA knowledge test
 - Endorsement A.43: Ready for the practical test
 - Endorsement A.45: Spin training
 
@@ -172,4 +168,4 @@ Instrument training = training for instrument rating, a type rating not limited 
 
 A flight instructor with a single-engine airplane rating has not instructed in four years, but does fly occasionally and remains current. He works to earn his flight instructor certificate for multi-engine airplanes. After his checkride, will he able to exercise his privileges as a flight instructor in single-engine airplanes?
 
-- Yes
+* Yes

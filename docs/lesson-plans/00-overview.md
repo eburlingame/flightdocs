@@ -5,51 +5,37 @@
 3. Collision Avoidance
 4. Ground Operations
 5. Airport Operations
-6. Aerodynamics
-   1. [Lift, Drag, Airfoils](/docs/lesson-plans/aerodynamics/lift-drag)
-   2. [Stability, Controllability](/docs/lesson-plans/aerodynamics/stability)
-   3. [Forces in Flight](/docs/lesson-plans/aerodynamics/forces)
-   4. [Load Factor, Vortices](/docs/lesson-plans/aerodynamics/load-factor)
-7. Engines, Systems, and Flight Controls
-   1. Flight Controls
-   2. Powerplants/Propellers
-   3. Aircraft Systems
-   4. Flight Instruments and Avionics
-8. Weight and Balance
-9. Performance Planning
-10. Airspace Basics
-    1. Chart symbology
-    2. Airspace extents
-    3. Airspace Entry
-    4. Restrictions for entry
-    5. Separation
-    6. Transponder / ADS-B Requirements
-    7. Currency publications
-    8. Airspace Minimums
-    9. VFR Weather Minimums
-    10. Special VFR
-    11. Speed limits
-    12. Special Airspace
-    13. SUA/TFRs
-    14. SATR/SFRs
-11. Navigation Systems
-    1. VORs
-    2. GPS
-12. Flight Planning
-13. Regulations
-14. [Endorsements and Pilot Qualifications](/docs/lesson-plans/endorsements-logbooks)
-    1. Endorsements Overview
-    2. Student Pilots
-    3. Recreational Pilot
-    4. Private Pilot
-    5. Commercial Pilots
-    6. Flight Instructors
-    7. Sport Pilot
-    8. Sport Instructors
-    9. Pilot Qualifications and Medicals
-15. Night Operations
-16. High Altitude Flight
-17. Pressurization
-18. Airworthiness
-19. Weather Theory
-20. Weather Services
+6. Aerodynamics: [Lift, Drag, Airfoils](/docs/lesson-plans/aerodynamics/lift-drag)
+7. Aerodynamics: [Stability, Controllability](/docs/lesson-plans/aerodynamics/stability)
+8. Aerodynamics: [Forces in Flight](/docs/lesson-plans/aerodynamics/forces)
+9. Aerodynamics: [Load Factor, Vortices](/docs/lesson-plans/aerodynamics/load-factor)
+10. Engines, Systems, and Flight Controls
+11. Flight Controls
+12. Powerplants/Propellers
+13. Aircraft Systems
+14. Flight Instruments and Avionics
+15. Weight and Balance
+16. Performance Planning
+17. Airspace: Chart symbology
+18. Airspace: Airspace Entry
+19. Airspace: Airspace Minimums
+20. Airspace: Special Airspace
+21. Navigation Systems
+22. Flight Planning
+23. Regulations
+24. [Endorsements and Pilot Qualifications](/docs/lesson-plans/endorsements-logbooks)
+25. Endorsements and Pilot Qualifications: Endorsements Overview
+26. Endorsements and Pilot Qualifications: Student Pilots
+27. Endorsements and Pilot Qualifications: Recreational Pilot
+28. Endorsements and Pilot Qualifications: Private Pilot
+29. Endorsements and Pilot Qualifications: Commercial Pilots
+30. Endorsements and Pilot Qualifications: Flight Instructors
+31. Endorsements and Pilot Qualifications: Sport Pilot
+32. Endorsements and Pilot Qualifications: Sport Instructors
+33. Endorsements and Pilot Qualifications: Pilot Qualifications and Medicals
+34. Night Operations
+35. High Altitude Flight
+36. Pressurization
+37. Airworthiness
+38. Weather Theory
+39. Weather Services

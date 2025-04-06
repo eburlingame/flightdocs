@@ -18,6 +18,7 @@ class:
 - Be able to read, speak, write, and understand the English language
   - ICAO Level 4 English
   - See AC 60-28B, Appendix A for evaluation
+- Hold a student or sport pilot certificate
 - Pass a knowledge test
 - Meet the aeronautical experience requirements of 61.99
 
@@ -100,7 +101,7 @@ Knowledge areas:
 - Can't carry more than 1 passengers
 - Must share expenses on pro-rata basis
 - No flight for compensation/hire, furtherance of a business/demonstrate an airplane
-- No flight sunset to sunrise
+- No flight sunset to sunrise (except for additional certificate or rating)
 - No flight above 10,000' MSL or 2000' AGL, which ever is higher
 - When flight/surface visibility < 3 s.m.
 - Without visual reference to surface
@@ -113,17 +114,27 @@ Knowledge areas:
 
 # 61.101 Limitations - Operation Limitations
 
+- Need endorsement to fly within 50nm
+  - Needs the [A.27 endorsement](/_references/AC-61-65/A.27)
+- Can't fly beyond 50nm without
+  - Completing ground & flight training XC training requirements for a private pilot
+  - Received the [A.28 endorsement](/_references/AC-61-65/A.28)
+
+<!-- These endorsement must be carried in the pilot's possession when they fly -->
+
+---
+
+### 61 Subpart D: Recreational Pilots
+
+# 61.101 Limitations - Operation Limitations (cont.)
+
 - Can't fly in Class A, B, C, D airspace, or any airport with a control tower, unless
   - Received ground and flight training on ATC operations
   - Received the [A.31 endorsement](/_references/AC-61-65/A.31)
   - The "dirty dozen" Class B airports which require a private pilot certificate
-- Can't fly beyond 50nm without
-  - Completing ground & flight training XC training requirements for a private pilot
-  - Received the [A.28 endorsement](/_references/AC-61-65/A.28)
 - Until you have 400 hours of PIC time, you need a CFI endorsement every 180 days
   - The endorsement [A.29 endorsement](/_references/AC-61-65/A.29)
-
-<!-- These endorsement must be carried in the pilot's possession when they fly -->
+  - Note: You still need a Flight Review per 61.56
 
 ---
 
@@ -136,5 +147,3 @@ Knowledge areas:
 3. A.1 endorsement: Preparation for the practical test
 4. A.2 endorsement: Review of any missed questions on knowledge test (if required)
 5. A.26 endorsement: Flight proficiency/practical test
-
----

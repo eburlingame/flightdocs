@@ -10,13 +10,22 @@ class:
 
 ---
 
+# 61.31 Additional Type Ratings
+
+- Type ratings are required for
+  - Large aircraft (12,500 pounds MTOW)
+  - Turbojet-powered airplanes
+  - Powered-lift (VTOL)
+
+---
+
 # 61.23 Medical Certificates
 
 - First-class medical: Exercising the privileges of an airline transport pilot certificate
 - Second-class medical: Exercising the privileges of commercial pilot certificate (not a balloon or glider)
   - Also SIC for ATP operations
-- Third-class medical: Exercising the privileges of Private pilot, recreational pilot, or student pilot certificate
-  - Also needed to take a practical test
+- Third-class medical: Exercising the privileges of private pilot, recreational pilot, or student pilot certificate
+  - Also needed to take a practical test (unless operating under basic med)
 
 ---
 

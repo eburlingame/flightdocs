@@ -30,7 +30,7 @@ class:
 
 - Student must receive and log ground training or complete a home-study course on the areas listed in 61.125(b).
 - Take a knowledge test, after the following endorsement
-  - The [A.32 endorsement](#) for ground training
+  - The [A.34 endorsement](#) for ground training
   - The [A.82 endorsement](#) for a home study course
 
 ---
@@ -120,22 +120,37 @@ https://www.faa.gov/about/office_org/headquarters_offices/agc/practice_areas/reg
 - A commercial pilot is free to work _for_ a commercial operator, who is certificated for the operations they perform.
 - They may also act _as_ an operator themselves, but the services their offer
   may require a operating certificate.
+- A person _or_ an organization can be a commercial operator
 
 ---
 
 ### 61 Subpart F: Commercial Pilots
 
-# 119.1 Commercial Operators
+# 119.1 Common Carriage
 
-- A person _or_ an organization can be a commercial operator
+- Common carriage requires a propensity to "hold out" to the public (or a segment)
 - Any operations of a "common carrier" requires an operator certificate
-  - Common carriage requires a propensity to "hold out" to the public (or a segment)
-  - This is a matter of degree and subject to interpretation
-- Even without common carriage, carrying passengers/cargo for hire requires a certificate:
-  - For airplanes with >20 seats, or a payload capacity of >6000 lbs.
-    - Private carriage operating certificate required per Part 125
+- This is a matter of degree and subject to interpretation
+- Advertising to the general public is an unambiguous sign of holding out
 
 <!-- Or a segment of the public -->
+
+---
+
+### 61 Subpart F: Commercial Pilots
+
+# 119.1 Applicable Parts
+
+For carrying passengers/cargo for hire:
+
+- Common carriage:
+  - Scheduled airlines: Part 121
+  - Nonscheduled operations (air taxi): Part 135
+- Private carriage:
+  - For airplanes with >20 seats, or a payload capacity of >6000 lbs.
+    - Private carriage operating certificate required per Part 125
+  - Otherwise, 
+    - Operate under Part 91, no operating certificate required
 
 ---
 
@@ -150,15 +165,6 @@ https://www.faa.gov/about/office_org/headquarters_offices/agc/practice_areas/reg
   - Crop dusting, banner towing, fire fighting, photography/survey, power line/pipeline patrol
   - Sightseeing in balloons/gliders
   - Parachute operations (within 25nm)
-
----
-
-## Knowledge Check
-
-Right after earning your commercial pilot certificate, the DPE needs to fly to an airport 25 miles away. They will only be there for 1 hour, and will need
-you to fly me back. I will pay you $100 plus the cost of the rental airplane. Can you make this flight legally?
-
-* No. While a commercial pilot certificate grants you the privilege to carry persons or property for compensation or hire, you must also meet the requirements of the applicable parts (e.g. Part 119; 133, 135, 137 etc.) of the regulation.
 
 ---
 

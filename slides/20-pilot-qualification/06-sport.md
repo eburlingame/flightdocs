@@ -25,7 +25,9 @@ class:
 
 # 61.309 Aeronautical Knowledge
 
-- The aeronautical knowledge items listed 61.309
+- Must receive and log ground training OR follow a home-study course for the areas listed 61.309
+- Must take a written test on these areas
+  - A.17 endorsement
 
 ---
 
@@ -47,7 +49,7 @@ class:
 
 ### 61 Subpart J: Sport Pilots
 
-# 61.311 Flight Proficiency Requirements
+# 61.311 Aeronautical Experience Requirements
 
 - 20 hours total flight time
   - 15 hours flight time in single-engine airplane
@@ -62,14 +64,14 @@ class:
 
 # Light Sport Airplane
 
+- 14 CFR 1.1
 - An airplane, since its original certification, has continued to meet the following:
   - Takeoff weight of &lt; 1320 lbs.
-  - V<sub>H</sub> &lt; 120 knots CAS
-  - V<sub>NE</sub>
+  - V<sub>H</sub> &lt; 120 knots CAS (maximum airspeed in level flight)
   - V<sub>S1</sub> of &lt; 45 knots
   - No more than two seats
   - Single, reciprocating engine
-  - Fixed-pitch propeller
+  - Fixed-pitch propeller (ground-adjustable ok)
   - Non-pressurized cabin
   - Fix landing gear
 
@@ -134,8 +136,8 @@ class:
 - Instead, all authorizations are done by endorsement
 - Training for an additional category or class:
   - Receive a logbook endorsement from your primary instructor
-  - Complete a proficiency check with a _different_ sport pilot instructor
     - A.18 endorsement from your primary instructor to take the proficiency check
+  - Complete a proficiency check with a _different_ sport pilot instructor
     - They will complete an 8710-11 and send it to the FAA
     - They will give the A.19 endorsement if you pass
 
@@ -153,6 +155,7 @@ The FAA form 8710-11 is the Airman Certificate and/or Rating Application for Spo
 
 - One-time endorsement to operate in Class B, C, or D airspace, the A.22 endorsement
 - This is good for all Class B airspace (not a specific one, like student pilot)
+- The "dirty dozen" Class B airports still a private pilot certificate
 
 ---
 
