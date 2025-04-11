@@ -16,12 +16,12 @@ Helps a student develop an intuitive understanding of the turning forces present
 
 ### Turning Tendencies
 
-- Torque reaction of the propeller: torquing the airplane to bank to the left
-- Propeller slipstream/Spiraling slipstream
-- Gyroscopic procession
-- P-factor / Asymmetric Loading
-  - With a high AOA, the "bite" of the downward moving blade is greater than the "bite" of the upward moving blade
-  - Note this can reverse at low AoA, like in a decent
+1. Torque reaction of the propeller: torquing the airplane to roll to the left
+2. Propeller slipstream/Spiraling slipstream
+3. Gyroscopic precession
+4. P-factor / Asymmetric Loading
+   - With a high AOA, the "bite" of the downward moving blade is greater than the "bite" of the upward moving blade
+   - Note this can reverse at low AoA, like in a decent
 
 ### Forces
 
@@ -40,7 +40,7 @@ Helps a student develop an intuitive understanding of the turning forces present
     - Beyond 50 degrees load factor in a level turn increases at a huge rate
 - Adverse yaw in a turn
   - Downward aileron producing less lift, up aileron producing more
-  - Slip vs skin: Too much rate of turn, too little rate of turn
+  - Slip vs skid: Too much rate of turn, too little rate of turn
 
 ## References
 

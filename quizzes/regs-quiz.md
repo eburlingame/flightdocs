@@ -119,6 +119,11 @@ Aeronautical experience requirements for recreational pilots are in *61.99*.
 Aeronautical experience requirements for sport pilots are in *61.313*.
 ---
 The applicability for obtaining and commercial operator's certificate *119.1*.
-
 ---
 Medical certificate rules are in *61.23*.
+---
+Supplemental oxygen rules are defined in *91.211*.
+---
+VFR weather minimums are defined in *91.155*.
+---
+Inoperative equipment rules are defined in *91.213*.

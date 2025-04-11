@@ -38,6 +38,7 @@ Helps a student develop an intuitive understanding of stability and controllabil
 - Controllability is dependent Cp vs Cg
   - Elevator authority range shifts up/down with a fore/aft CG
 - Maneuverability: How fast an aircraft can change its direction of flight or attitude
+  - Maneuverability vs stability
 
 ## References
 

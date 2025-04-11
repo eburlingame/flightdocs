@@ -109,8 +109,6 @@ Giving endorsements is a large part of a CFI's roles, so it is important to know
 
 ### 61 Subpart C: Student pilots - Repeated flights within 50nm
 
-
-
 ### Knowledge Check
 
 > After training with another instructor and completing their first solo, a student asks to finish out their private pilot training with you as their instructor. They hold a student pilot certificate and a 3rd class medical, and an 90 day solo endorsement given by their old instructor. You will fly in the same make/model of aircraft as the previous instructor.

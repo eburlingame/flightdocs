@@ -26,7 +26,7 @@ Gives students an intuitive understand of the causes that induce load factor on 
     - Sometimes different weight or CG limits apply
   - Aerobatic: 6 to -3 G's
   - Load factor limit are often placarded in the airplanes (in new airplanes)
-- Gusts can also induce load on the airplane
+- Gusts, turns, and climbs can all induce load on the airplane
 - Scenario where a sudden updraft hits an airplane
   - AoA suddenly increases, upward force is increased, load factor increases
   - The magnitude of this force is proportional to:
@@ -64,7 +64,7 @@ Gives students an intuitive understand of the causes that induce load factor on 
   - Note the aircraft's rotation point
   - Rotate prior and climb away from the flight path, turning into the wind if needed
   - ATC will provide a minimum of 3 minutes of delay when departing behind a large airplane
-- Keep at least 1000' below and airplane
+- Keep at least 1000' below another large airplane in flight
 
 ## References
 

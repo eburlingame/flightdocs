@@ -10,26 +10,40 @@ Forms foundational knowledge for more advanced aerodynamic topics and provides a
 
 ## Timing
 
-45 minutes
+1 hour
 
 ## Elements
 
 ### Basics
 
-- Airplane component: Fuselage, wings, control
+- Airplane component: Fuselage, wings, control surfaces
 - Newton's laws of motion: Momentum, Fnet = mass \* acceleration, equal and opposite reaction
 - Four forces of flight, equal in unaccelerated flight
-- Airfoil and relative wind
 - Theories of lift:
   - Bernoulli: low pressure above the wing
   - Newton: angle of attack
+- Airfoil and relative wind
 - Angle of attack
-  - Different between *flight path* and *relative wind*
+  - Different between _flight path_ and _relative wind_
 - Lift equation
+
+$$
+\text{lift} = \frac{\frac{1}{2} \rho V^2 S C_l}{2}
+$$
+
+$$
+\text{Where:}\\
+\rho = \text{air density}\\
+V = \text{velocity}\\
+S = \text{surface area}\\
+C_l = \text{coefficient of lift}
+$$
+
 - Critical angle of attack, stall
 - Flight at slow airspeeds
 - Basic torque
 - Center of pressure vs center of gravity
+  - Cl should always be behind Cg
 
 ### Thrust and Drag
 
