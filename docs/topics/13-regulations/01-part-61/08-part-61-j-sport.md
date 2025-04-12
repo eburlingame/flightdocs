@@ -41,6 +41,26 @@
   - 5 hours of solo flight time
     - One solo XC flight of at least 75nm with full-stop takeoffs and landings at three points, one segment is at least 25nm
 
+## Light-Sport Aircraft Definition ([1.1](/_references/14-CFR/1.1))
+
+Light-sport aircraft means an aircraft, other than a helicopter or powered-lift that, since its original certification, has continued to meet the following:
+
+- A maximum takeoff weight of not more than—
+  - 1,320 pounds for aircraft not intended for operation on water; or
+  - 1,430 pounds for an aircraft intended for operation on water.
+- A maximum airspeed in level flight with maximum continuous power (VH) of not more than 120 knots CAS under standard atmospheric conditions at sea level.
+- A maximum never-exceed speed (VNE) of not more than 120 knots CAS for a glider.
+- A maximum stalling speed or minimum steady flight speed without the use of lift-enhancing devices (VS1) of not more than 45 knots CAS at the aircraft's maximum certificated takeoff weight and most critical center of gravity.
+- A maximum seating capacity of no more than two persons, including the pilot.
+- A single, reciprocating engine, if powered.
+- A fixed or ground-adjustable propeller if a powered aircraft other than a powered glider.
+- A fixed or feathering propeller system if a powered glider.
+- A fixed-pitch, semi-rigid, teetering, two-blade rotor system, if a gyroplane.
+- A nonpressurized cabin, if equipped with a cabin.
+- Fixed landing gear, except for an aircraft intended for operation on water or a glider.
+- Fixed or retractable landing gear, or a hull, for an aircraft intended for operation on water.
+- Fixed or retractable landing gear for a glider.
+
 ## Privileges and Limitations ([61.315](/_references/14-CFR/61.315))
 
 - Share expenses on a pro rata basis
@@ -56,10 +76,10 @@
   - Demonstrate as a salesperson
   - In a passenger-carrying capacity for a charitable organization
   - At altitudes higher than 10,000 MSL or 2000 AGL, whichever is higher
-  - With surface visibility less than 3sm
+  - With surface visibility less than 3s.m.
   - Without visual reference to the surface
 - Aircraft restrictions:
-  - Vh must be less than 87 KCAS (max speed in level flight with max continuous power)
+  - V<sub>H</sub> must be less than 87 KCAS (max speed in level flight with max continuous power)
   - Contrary to any operating limitations
   - Contrary to any restriction on their driver's license
   - Can't tow anything
@@ -67,7 +87,7 @@
 
 ## Certificate Issuance and Airspace ([61.317](/_references/14-CFR/61.317))
 
-- Don't hold a category/class rating
+- Sport pilots aren't granted category/class ratings
 - Authorizations are all done by endorsement
 - Training for an additional category or class:
   - Receive a logbook endorsement from your primary instructor
@@ -76,7 +96,7 @@
     - They will give the endorsement
 - One-time endorsement to operate in Class B, C, or D airspace ([AC 61-65 A.22](/_references/AC-61-65/A.22))
   - This is good for all Class B airspace
-- Flying a sport aircraft with a Vh less than or more than 87 KCAS requires an endorsement
+- Flying a sport aircraft with a V<sub>H</sub> less than OR more than 87 KCAS requires an endorsement (A.23 or A.24 endorsement)
 
 ## Endorsements
 

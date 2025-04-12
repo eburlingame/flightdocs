@@ -6,7 +6,7 @@
 - Be able to read, speak, write, and understand the English language
 - Hold at least a Sport Pilot Certificate
 - Pass the FOI and Sport Pilot Flight Instructor knowledge tests
-- Endorse for and pass the practical test
+- Be endorsed for and pass the practical test
 - Receive spin training and an endorsement
 
 ## Knowledge Areas ([61.407](/_references/14-CFR/61.407))
@@ -30,7 +30,7 @@
 
 ## Instruction for Instrument Training for XC Flight ([61.412](/_references/14-CFR/61.412))
 
-- Must have Vh endorsement
+- Must have V<sub>H</sub> endorsement
 - 1 hour ground training
 - 3 hours of flight training in an airplane with a Vh greater than 87 KCAS
 - Get an endorse from a Subpart H instructor
