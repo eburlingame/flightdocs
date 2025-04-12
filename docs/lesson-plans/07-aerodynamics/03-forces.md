@@ -12,6 +12,10 @@ Helps a student develop an intuitive understanding of the turning forces present
 
 45 minutes
 
+## Format
+
+- [Whiteboard](/slides/08%20-%20Forces%20in%20Flight.pdf)
+
 ## Elements
 
 ### Turning Tendencies

@@ -95,11 +95,11 @@ It is important to have an intuitive understanding of how an engine operates to 
   - The amount of oil is governed by a set of fly-weights that are tuned to a specified RPM
     - If the prop spins faster, the flyweights move outward and more oil is forced into the blade angle piston
     - If the prop spins slower, the flyweights fall inward and less oil is allowed to enter the blade angle piston
+- When increasing power: Increase prop first, then engine power
+- When decreasing power: Decrease power first, then decrease power
 - Loss of oil pressure
   - Propeller should fail in the high pitch position
   - This may result in an overspeed condition if power is set too high
-- When increasing power: Increase prop first, then engine power
-- When decreasing power: Decrease power first, then decrease power
 
 ## References
 

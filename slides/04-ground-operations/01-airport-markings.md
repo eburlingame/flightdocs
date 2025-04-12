@@ -188,7 +188,7 @@ Sign: Runway holding position sign
 
 ---
 
-## Displaced Threshold
+## Relocated Runway Threshold
 
 ![h:450](images/image-16.png)
 

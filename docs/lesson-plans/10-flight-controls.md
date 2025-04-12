@@ -1,3 +1,9 @@
+---
+theme: default
+class:
+  - invert
+---
+
 # Flight Controls
 
 ## Objective
