@@ -34,7 +34,7 @@ theme: default
 
 ## Differential Ailerons
 
-![h:500](images/image-18.png)
+![h:450](images/image-18.png)
 
 - Differential ailerons can help with adverse yaw
   - Up aileron is raised more than the down aileron is lowered
