@@ -6,11 +6,13 @@ theme: default
 
 ---
 
-### Engines
+### Reciprocating Engines
 
 - Most light airplane engines are 4- or 6-cylinder, horizontally-opposed, air-cooled
 
 ---
+
+# 4-stroke vs 2-stroke
 
 - 4-stroke engines are most common
 - 4 strokes of an engine
