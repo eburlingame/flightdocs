@@ -10,7 +10,7 @@ convert_to_pdf() {
     local filename=$(basename "$file" .md)
     
     # Convert the markdown file to PDF using marp
-    marp "$file" "--pdf" "--pdf-notes" "--allow-local-files" "-o" "static/slides/$filename.pdf"
+    yarn marp "$file" "--pdf" "--pdf-notes" "--allow-local-files" "-o" "static/slides/$filename.pdf"
 }
 
 convert_to_pdf slides/23-pilot-qualification/30-sport-instructors.md            static/slides/30-sport-instructors.pdf

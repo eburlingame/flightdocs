@@ -1,6 +1,6 @@
 # Lessons
 
-1. [Human Factors](/docs/lesson-plans/01-human-factors)
+1. [Human Factors](/docs/lesson-plans/human-factors)
 2. Aeronautical Decision Making
 3. Collision Avoidance
 4. Ground Operations

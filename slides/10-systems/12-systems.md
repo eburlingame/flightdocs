@@ -152,3 +152,4 @@ theme: default
 - Deicing "boots": pneumatic boots used to break off ice
 - Cirrus aircraft use a "weeping wing"
   - TKS fluid (a ethylene-glycol liquid) is force out of a porous membrane on the leading edge
+- Ground-based deicing
