@@ -11,6 +11,7 @@
     "clear": "docusaurus clear",
     "serve": "docusaurus serve",
     "slides": "yarn marp -s slides/",
+    "copy-slides": "./makeSlides.sh",
     "write-translations": "docusaurus write-translations",
     "write-heading-ids": "docusaurus write-heading-ids",
     "typecheck": "tsc"

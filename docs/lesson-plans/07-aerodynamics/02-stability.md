@@ -12,6 +12,10 @@ Helps a student develop an intuitive understanding of stability and controllabil
 
 45 minutes
 
+## Format
+
+- [White board](/slides/07%20-%20Stability.pdf)
+
 ## Elements
 
 ### Stability

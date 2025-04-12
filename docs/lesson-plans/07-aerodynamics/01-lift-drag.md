@@ -12,6 +12,10 @@ Forms foundational knowledge for more advanced aerodynamic topics and provides a
 
 1 hour
 
+## Format
+
+- [White board](/slides/06%20-%20Lift%20and%20Drag.pdf)
+
 ## Elements
 
 ### Basics

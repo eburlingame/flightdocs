@@ -12,6 +12,10 @@ Gives students an intuitive understand of the causes that induce load factor on 
 
 45 minutes
 
+## Format
+
+- [Slides](/slides/09%20-%20Load%20Factor%20and%20Vorticies.pdf)
+
 ## Elements
 
 ### Load Factor

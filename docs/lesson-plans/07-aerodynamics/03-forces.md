@@ -14,7 +14,7 @@ Helps a student develop an intuitive understanding of the turning forces present
 
 ## Format
 
-- [Whiteboard](/slides/08%20-%20Forces%20in%20Flight.pdf)
+- [White board](/slides/08%20-%20Forces%20in%20Flight.pdf)
 
 ## Elements
 

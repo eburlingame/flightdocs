@@ -20,8 +20,12 @@ jobs:
 
       - name: Install dependencies
         run: yarn install --frozen-lockfile
+
       - name: Build website
         run: yarn build
+
+      - name: Convert slides to pdf
+        run: yarn copy-slides
 
       - name: Upload Build Artifact
         uses: actions/upload-pages-artifact@v3

@@ -12,6 +12,10 @@ Understand the risks and mitigations for aeromedical factors that can effect fli
 
 45 minutes
 
+## Format
+
+- [Slides](/slides/00-human-factors.pdf)
+
 ## Elements
 
 - Hypoxia
