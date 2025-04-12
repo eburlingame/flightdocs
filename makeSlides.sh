@@ -28,6 +28,8 @@ convert_to_pdf slides/04-ground-operations/04c-runway-incursions.md             
 convert_to_pdf slides/04-ground-operations/04b-taxi-operations.md               static/slides/04b-taxi-operations.pdf
 convert_to_pdf slides/10-systems/10-flight-controls.md                          static/slides/10-flight-controls.pdf
 convert_to_pdf slides/10-systems/11-powerplants.md                              static/slides/11-powerplants.pdf
+convert_to_pdf slides/10-systems/12-systems.md                                  static/slides/12-systems.pdf
+convert_to_pdf slides/10-systems/13-instruments.md                              static/slides/13-instruments.pdf
 
 
 # Recursively scan all .md files in the slides directory and convert them to .pdf using marp
