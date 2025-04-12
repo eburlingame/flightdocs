@@ -22,8 +22,8 @@ jobs:
       - name: Install dependencies
         run: yarn install --frozen-lockfile
 
-      - name: Test build website
-        run: yarn build
-
       - name: Convert slides to pdf
         run: yarn copy-slides
+
+      - name: Test build website
+        run: yarn build
