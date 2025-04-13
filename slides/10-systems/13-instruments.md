@@ -201,10 +201,13 @@ theme: default
 
 ## Attitude and Heading Reference System (AHRS)
 
-- No moving parts, uses accelerometers for roll/pitch/yaw information
+![bg left:30% contain](images/image-86.png)
+
+- No moving parts
+- Uses accelerometers for roll/pitch/yaw information
 - Use a magnetometer for heading information, often mounted on the wing
-- Used for modern glass-panel displays
-- Less susceptible to failures
+- Feeds modern glass-panel displays
+- Less susceptible to mechanical failures
 
 ---
 
@@ -216,14 +219,86 @@ theme: default
 
 ---
 
-## Electronic Flight Display (PFD)
-
-![h:550](images/image-78.png)
+![bg fit](images/image-78.png)
 
 ---
 
-### Magnetic compass
+# Magnetic Compass
 
-- Turning errors
-- UNOS
-- ANDS
+![bg left:40% fit](images/image-87.png)
+
+- Self-contained, no power needed
+- Operates on the magnetic pull of the Earth
+
+---
+
+## ![bg 75% contain](images/image-88.png)
+
+---
+
+## Compass Errors and Variation
+
+- Magnetic variation: Magnetic north vs true north
+- Magnetic deviation: Magnetic field in an aircraft can
+- Magnetic dip errors: North and south turning errors
+- Acceleration errors: Accelerating on an east/west heading
+
+---
+
+## Magnetic Variation
+
+![h:550](images/image-91.png)
+
+---
+
+## Magnetic Deviation
+
+![bg left:50% contain](images/image-92.png)
+
+- The magnetic field for various electronic/magnetic/metallic components in the airplane can skew the direction of the compass
+- The compass correction card gives you calibration to account for this
+- Compass correction cards are specific to each airplane
+
+---
+
+## Magnetic Dip
+
+![bg left:45% contain](images/image-93.png)
+
+- As you get closer to the poles the vertical component of the magnetic field get stronger (and the horizontal component gets weaker)
+- Compasses can compensate for this when they are level
+- When they are tilted though, the results may be skew
+
+---
+
+## Magnetic Dip Errors
+
+![bg left:60% contain](images/image-89.png)
+
+- When in a turning through a N or S heading
+- North: compass card leads actual heading
+- South: compass card lags actual heading
+- "UNOS"
+  - Undershoot North
+  - Overshoot South
+
+---
+
+## Acceleration Errors
+
+![bg left:60% contain](images/image-90.png)
+
+- Compass card is not a uniform mass
+  - It's a little heavier on the north side, to account for dip
+- "ANDS"
+  - Accelerate: North
+  - Decelerate: South
+
+---
+
+## Getting an Accurate Compass Reading
+
+- Straight and level, unaccelerated flight
+- Account for deviation using the compass correction card
+- Know when to use true headings vs magnetic headings
+- Magnetometer-based (electronic flight displays) systems won't have these errors
