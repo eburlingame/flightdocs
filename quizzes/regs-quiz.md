@@ -127,3 +127,19 @@ Supplemental oxygen rules are defined in *91.211*.
 VFR weather minimums are defined in *91.155*.
 ---
 Inoperative equipment rules are defined in *91.213*.
+---
+Aircraft speed limits are listed in *91.117*.
+---
+Aircraft right of way rules are listed in *91.113*.
+---
+Special VFR rules are listed in *91.157*.
+---
+Aircraft light requirements are listed in *91.209*.
+---
+You *do not* need a clearance to enter a MOA.
+---
+You *do* need a clearance to enter a restricted area, if it's *active*.
+---
+You *do not* need a clearance to enter a controlled-firing area.
+---
+You *do not* need a clearance to enter a TRSA.

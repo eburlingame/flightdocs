@@ -15,10 +15,10 @@
 13. [Aircraft Systems](/docs/lesson-plans/systems)
 14. Weight and Balance
 15. Performance Planning
-16. Airspace: Chart symbology
-17. Airspace: Airspace Entry
-18. Airspace: Airspace Minimums
-19. Airspace: Special Airspace
+16. [Airspace: Definitions](/docs/lesson-plans/airspace/a-airspace-definitions)
+17. [Airspace: Airspace Entry](/docs/lesson-plans/airspace/b-airspace-entry)
+18. [Airspace: Airspace Minimums](/docs/lesson-plans/airspace/c-airspace-minimums)
+19. [Airspace: Special Airspace](/docs/lesson-plans/airspace/d-airspace-special)
 20. Navigation Systems
 21. Flight Planning
 22. Regulations
