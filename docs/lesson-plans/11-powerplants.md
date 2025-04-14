@@ -14,7 +14,7 @@ It is important to have an intuitive understanding of how an engine operates to 
 
 ## Timing
 
-30 minutes
+1 hour
 
 ## Elements
 

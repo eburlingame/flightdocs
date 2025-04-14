@@ -14,7 +14,7 @@ It is important to have an intuitive understanding of how the electrical system 
 
 ## Timing
 
-30 minutes
+45 minutes
 
 ## Elements
 

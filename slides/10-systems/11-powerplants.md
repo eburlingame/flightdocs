@@ -354,7 +354,7 @@ Oil pressure is governed by a set of fly-weights, tuned to a specified RPM
 ![h:400](images/image-54.png)
 
 - When increasing power: Increase prop first, then engine power
-- When decreasing power: Decrease power first, then decrease power
+- When decreasing power: Decrease power first, then decrease prop
 
 ---
 
