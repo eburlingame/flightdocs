@@ -26,3 +26,9 @@
 .center {
   text-align: center;
 }
+
+.callout {
+  border: 1px solid rgb(159, 136, 112);
+  padding: 1em;
+  border-radius: 0.5em;
+}
