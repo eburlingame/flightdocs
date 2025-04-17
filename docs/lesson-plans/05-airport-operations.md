@@ -14,6 +14,8 @@ It is important for a pilot to know and understand the standard procedures for o
 
 ## Format
 
+- [Slides](/slides/05-airport-operations.pdf)
+
 ## Elements
 
 - Hazards operating near an airport
