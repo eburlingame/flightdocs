@@ -88,6 +88,12 @@ theme: default
 
 ---
 
+## IAS vs CAS
+
+![h:500](images/image-94.png)
+
+---
+
 ## Airspeed Indicator Markings
 
 ![bg left:40% contain](images/image-76.png)

@@ -13,14 +13,14 @@
 11. [Powerplants/Propellers](/docs/lesson-plans/powerplants)
 12. [Flight Instruments and Avionics](/docs/lesson-plans/flight-instruments)
 13. [Aircraft Systems](/docs/lesson-plans/systems)
-14. Weight and Balance
-15. Performance Planning
+14. [Weight and Balance](/docs/lesson-plans/weight-and-balance)
+15. [Performance Planning](/docs/lesson-plans/performance)
 16. [Airspace: Definitions](/docs/lesson-plans/airspace/a-airspace-definitions)
 17. [Airspace: Airspace Entry](/docs/lesson-plans/airspace/b-airspace-entry)
 18. [Airspace: Airspace Minimums](/docs/lesson-plans/airspace/c-airspace-minimums)
 19. [Airspace: Special Airspace](/docs/lesson-plans/airspace/d-airspace-special)
 20. Navigation Systems
-21. Flight Planning
+21. [Flight Planning](/docs/lesson-plans/flight-planning)
 22. Regulations
 23. [Endorsements and Pilot Qualifications](/docs/lesson-plans/endorsements-logbooks)
 24. Endorsements and Pilot Qualifications: Endorsements Overview

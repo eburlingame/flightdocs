@@ -30,6 +30,7 @@ convert_to_pdf slides/10-systems/10-flight-controls.md                          
 convert_to_pdf slides/10-systems/11-powerplants.md                              static/slides/11-powerplants.pdf
 convert_to_pdf slides/10-systems/12-systems.md                                  static/slides/12-systems.pdf
 convert_to_pdf slides/10-systems/13-instruments.md                              static/slides/13-instruments.pdf
+convert_to_pdf slides/05-airport-operations/05-airport-operations.md            static/slides/05-airport-operations.pdf
 
 
 # Recursively scan all .md files in the slides directory and convert them to .pdf using marp
