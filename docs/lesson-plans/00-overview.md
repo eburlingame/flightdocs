@@ -20,7 +20,7 @@
 18. [Airspace: Airspace Minimums](/docs/lesson-plans/airspace/c-airspace-minimums)
 19. [Airspace: Special Airspace](/docs/lesson-plans/airspace/d-airspace-special)
 20. Navigation Systems
-21. Flight Planning
+21. [Flight Planning](/docs/lesson-plans/flight-planning)
 22. Regulations
 23. [Endorsements and Pilot Qualifications](/docs/lesson-plans/endorsements-logbooks)
 24. Endorsements and Pilot Qualifications: Endorsements Overview
