@@ -9,7 +9,7 @@
 ## Format
 
 - Whiteboard
-- [Sample problem](/slides/14%20-%20Weight%20and%20Balance%20-%20Problem%20A.pdf)
+- [Sample problem](/slides/14%20-%20Weight%20and%20Balance.pdf)
 
 ## Elements
 
