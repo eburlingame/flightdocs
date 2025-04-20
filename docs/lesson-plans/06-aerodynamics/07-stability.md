@@ -14,7 +14,7 @@ Helps a student develop an intuitive understanding of stability and controllabil
 
 ## Format
 
-- [White board](/slides/07%20-%20Stability.pdf)
+- [White board](/slides/stability.pdf)
 
 ## Elements
 

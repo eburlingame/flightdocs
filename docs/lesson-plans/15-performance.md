@@ -10,7 +10,7 @@
 
 ## Format
 
-- Whiteboard
+- Slides
 
 ## Elements
 

@@ -10,7 +10,7 @@ It is important to have an intuitive understanding of how the electrical system 
 
 ## Format
 
-- Slides
+- [Slides](/slides/systems.pdf)
 
 ## Timing
 

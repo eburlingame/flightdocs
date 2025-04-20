@@ -16,7 +16,7 @@ Knowledge of the flight controls is important so a student can recognize abnorma
 
 ## Format
 
-- Slides
+- [Slides](/slides/flight-controls.pdf)
 
 ## Timing
 

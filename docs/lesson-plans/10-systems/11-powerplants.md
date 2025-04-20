@@ -10,7 +10,7 @@ It is important to have an intuitive understanding of how an engine operates to 
 
 ## Format
 
-- Slides
+- [Slides](/slides/powerplants.pdf)
 
 ## Timing
 
