@@ -63,31 +63,31 @@ Lesson plans designed for the Flight Instructor Airplane ACS:
         <!-- 9 -->
             <td>II.D - 4</td>
             <td>[Principles of Flight: Load Factor, Vortices](/docs/lesson-plans/aerodynamics/load-factor)</td>
-            <td>[Slides](/slides/20-%20Load%20Factor%20and%20Vorticies.pdf)</td>
+            <td>[Slides](/slides/load-factor-vorticies.pdf)</td>
         </tr>
         <tr>
         <!-- 10 -->
             <td>II.E - 1</td>
             <td>[Aircraft Systems: Flight Controls](/docs/lesson-plans/systems/flight-controls)</td>
-            <td>[Slides](/slides/10-flight-controls.pdf)</td>
+            <td>[Slides](/slides/flight-controls.pdf)</td>
         </tr>
         <tr>
         <!-- 11 -->
             <td>II.E - 2</td>
             <td>[Aircraft Systems: Powerplants/Propellers](/docs/lesson-plans/systems/powerplants)</td>
-            <td>[Slides](/slides/11-powerplants.pdf)</td>
+            <td>[Slides](/slides/powerplants.pdf)</td>
         </tr>
         <tr>
         <!-- 12 -->
             <td>II.E - 3</td>
             <td>[Aircraft Systems: Electrical, Hydraulic, Environmental](/docs/lesson-plans/systems/systems)</td>
-            <td>[Slides](/slides/12-systems.pdf)</td>
+            <td>[Slides](/slides/systems.pdf)</td>
         </tr>
         <tr>
         <!-- 13 -->
             <td>II.E - 4</td>
             <td>[Aircraft Systems: Flight Instruments and Avionics](/docs/lesson-plans/systems/flight-instruments)</td>
-            <td>[Slides](/slides/13-instruments.pdf)</td>
+            <td>[Slides](/slides/instruments.pdf)</td>
         </tr>
         <tr>
         <!-- 14 -->
