@@ -8,8 +8,7 @@
 
 ## Format
 
-- Whiteboard
-- [Sample problem](/slides/14%20-%20Weight%20and%20Balance.pdf)
+- [Whiteboard](/slides/14%20-%20Weight%20and%20Balance.pdf)
 
 ## Elements
 
