@@ -10,7 +10,7 @@ To a give a student an intuitive understanding of the operation of the flight in
 
 ## Format
 
-- Slides
+- [Slides](/slides/instruments.pdf)
 
 ## Timing
 

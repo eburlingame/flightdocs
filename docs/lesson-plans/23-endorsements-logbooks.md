@@ -17,4 +17,4 @@ Giving endorsements is a large part of a CFI's roles, so it is important to know
 
 ## References
 
-- [AC 61-65 Appendix A](/\_references/AC-61-65/Appendix A)
+- [AC 61-65 A.1](/\_references/AC-61-65/A.1)

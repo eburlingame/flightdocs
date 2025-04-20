@@ -14,7 +14,7 @@ Understand the risks and mitigations for aeromedical factors that can effect fli
 
 ## Format
 
-- [Slides](/slides/00-human-factors.pdf)
+- [Slides](/slides/human-factors.pdf)
 
 ## Elements
 

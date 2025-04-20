@@ -14,7 +14,7 @@ Forms foundational knowledge for more advanced aerodynamic topics and provides a
 
 ## Format
 
-- [White board](/slides/06%20-%20Lift%20and%20Drag.pdf)
+- [White board](/slides/lift-and-drag.pdf)
 
 ## Elements
 

@@ -14,7 +14,7 @@ Gives students an intuitive understand of the causes that induce load factor on 
 
 ## Format
 
-- [Slides](/slides/09%20-%20Load%20Factor%20and%20Vorticies.pdf)
+- [Slides](/slides/load-factor-vorticies.pdf)
 
 ## Elements
 
