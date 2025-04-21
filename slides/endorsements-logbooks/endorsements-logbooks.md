@@ -10,7 +10,7 @@ class:
 
 ## Objectives
 
-To understand and apply the required endorsements for pilot training and currency when providing instruction, and the qualifications and documents needed for different flight operations.
+To understand and apply the required endorsement for pilot training and currency when providing instruction.
 
 ---
 
@@ -24,7 +24,7 @@ To understand and apply the required endorsements for pilot training and currenc
 
 ---
 
-# 61.51 Logbook Requirements for All Pilots
+### 61.51 Logbook Requirements for All Pilots
 
 - Pilots need to maintain records:
   - For the requirements of a certificate or rating
