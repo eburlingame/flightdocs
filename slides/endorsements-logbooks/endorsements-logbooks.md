@@ -4,7 +4,7 @@ class:
   - invert
 ---
 
-# Endorsements and Pilot Qualifications
+# Endorsements and Logbook Entries
 
 ---
 
