@@ -147,7 +147,7 @@ Lesson plans designed for the Flight Instructor Airplane ACS:
         <!-- 23 -->
             <td>II.K</td>
             <td>[Endorsements and Logbook Entries](/docs/lesson-plans/endorsements-logbooks)</td>
-            <td></td>
+            <td>[Slides](/slides/endorsements-logbooks.pdf)</td>
         </tr>
         <tr>
         <!-- 24 -->

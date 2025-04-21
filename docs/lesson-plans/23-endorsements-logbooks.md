@@ -14,7 +14,7 @@ Giving endorsements is a large part of a CFI's roles, so it is important to know
 
 ## Format
 
-- [Slides](/static/slides/)
+- [Slides](/slides/endorsements-logbooks.pdf)
 
 ## Presentation
 
