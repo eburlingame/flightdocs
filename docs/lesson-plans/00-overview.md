@@ -188,7 +188,7 @@ Lesson plans designed for the Flight Instructor Airplane ACS:
         <tr>
         <!-- 30 -->
             <td>III.C - 2</td>
-            <td>[Weather Information](/docs/lesson-plans/weather-theory)</td>
+            <td>[Weather Information](/docs/lesson-plans/weather-products)</td>
             <td>[Slides](/slides/weather-products.pdf)</td>
         </tr>
         <tr>

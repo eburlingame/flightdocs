@@ -2,16 +2,24 @@
 
 ## Objective
 
+To understand basic meteorology concepts that pertain to aviation, and how they related to the safety of flight.
+
 ## Motivation
+
+It is important for a pilot to have an intuitive understand of basic weather phenomenons and hazardous weather to make good aeronautical decision.
 
 ## Timings
 
+- 1 hour
+
 ## Format
+
+- Slides
 
 ## Elements
 
-- Composition of the atmopshere
-- Layers of the atmopshere
+- Composition of the atmosphere
+- Layers of the atmosphere
 - Constant motion of the atmosphere
 - Hot air = lower pressure = rises
 - Ambient pressure: ~14.7 psi at sea level
@@ -100,16 +108,16 @@
     - Moisture
   - Three distinct stages:
     - Cumulus stage: Air rises, strong updrafts occur
-    - Mature stage: 
+    - Mature stage:
       - Moisture is too heavy for cloud to support, precipitation starts falling, this causes a downdraft
       - Vertical motion is stalled, and top of the cloud forms the anvil shape
-    - Dissipating stage: 
+    - Dissipating stage:
       - Downdrafts spread and replace updrafts
   - It is impossible to fly over most thunderstorms, especially in the light aircraft
   - Circumnavigate a thunderstorm radar echo by at least 20nm
   - Hazards
     - Heavy rain
-    - Engine water ingestion 
+    - Engine water ingestion
     - Hail which may be thrown miles from the storm
     - Violent turbulence in the storm and in the vicinity
     - Wind shear turbulence and microbursts near the surface
