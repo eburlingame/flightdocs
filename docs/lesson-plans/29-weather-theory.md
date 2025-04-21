@@ -20,7 +20,6 @@ It is important for a pilot to have an intuitive understand of basic weather phe
 
 - Composition of the atmosphere
 - Layers of the atmosphere
-- Constant motion of the atmosphere
 - Hot air = lower pressure = rises
 - Ambient pressure: ~14.7 psi at sea level
 - Barometer: Measures pressure
@@ -28,9 +27,16 @@ It is important for a pilot to have an intuitive understand of basic weather phe
 - Barometric pressure decreases with altitude
   - On average, 1" Hg per 1000'
   - Wings, engine, propellers are all less efficient with less pressure
+- Coriolis Force
+  - Hot air means lower pressure: air rises
+  - Radiation from the sun strikes the Earth strongly at the equator
+  - Since the earth is rotating, this causes circular wind patterns
 - In the northern hemisphere:
   - High to low pressure, clockwise: anticyclonic circulation
   - Low to high pressure, counterclockwise: cyclonic
+- Surface pressure maps
+  - Closer the contours: Greater the pressure differential
+  - Surface wind speeds are less
 - Convective heating of the air
   - Paved areas, plowed fields, dirt absorb and give off more heat quickly
   - Trees, water, vegetation give off heat more slowly
@@ -44,9 +50,6 @@ It is important for a pilot to have an intuitive understand of basic weather phe
 - Low-level wind shear
   - Microbursts: convective
   - Advisory Circular (AC) 00-54, FAA Pilot Wind Shear Guide
-- Surface pressure maps
-  - Closer the contours: Greater the pressure differential
-  - Surface wind speeds are less
 - Atmospheric stability
   - The ability of the atmosphere to resist or encourage vertical motion
   - Adibatic cooling: Air loses temperature as it rises, since the ambient pressure decreases
@@ -97,9 +100,9 @@ It is important for a pilot to have an intuitive understand of basic weather phe
     - Weather is a mixture of cold front/warm front conditions
   - Occluded front
     - Occurs when a cold front overtakes a slow-moving warm front
-    - Cold-front occulusion: Fast-moving cold front air is colder than the cooler air ahead of the warm front
+    - Cold-front occlusion: Fast-moving cold front air is colder than the cooler air ahead of the warm front
       - Mixture of cold/warm front weather, relatively stable
-    - Warm-front occulusion: Fast-moving cold front air is warmer than the cold air ahead of the warm front
+    - Warm-front occlusion: Fast-moving cold front air is warmer than the cold air ahead of the warm front
       - The cold front "rides up" over the warm front, and instability occurs. This can sauce severe thunderstorms, rain, and fog
 - Thunderstorms
   - Three things for a thunderstorm for form:
