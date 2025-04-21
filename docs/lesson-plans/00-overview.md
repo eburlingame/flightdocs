@@ -147,7 +147,7 @@ Lesson plans designed for the Flight Instructor Airplane ACS:
         <!-- 23 -->
             <td>II.K</td>
             <td>[Endorsements and Logbook Entries](/docs/lesson-plans/endorsements-logbooks)</td>
-            <td></td>
+            <td>[Slides](/slides/endorsements-logbooks.pdf)</td>
         </tr>
         <tr>
         <!-- 24 -->
@@ -188,8 +188,8 @@ Lesson plans designed for the Flight Instructor Airplane ACS:
         <tr>
         <!-- 30 -->
             <td>III.C - 2</td>
-            <td>Weather Information</td>
-            <td></td>
+            <td>[Weather Information](/docs/lesson-plans/weather-theory)</td>
+            <td>[Slides](/slides/weather-products.pdf)</td>
         </tr>
         <tr>
         <!-- 31 -->
