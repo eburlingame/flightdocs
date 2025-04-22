@@ -18,10 +18,8 @@ To understand the standard aviation weather products, and apply them in a flight
 
 ## Elements
 
-- Overview of Weather Products
-  - Talk about standard weather products (METARs, TAFs, Winds Aloft, Prog Charts)
-  - Flight planning exercise in ForeFlight
-  - In-airplane weather products
+### Weather Products Presentation
+
 - Weather Data Sources
   - EFBs: ForeFlight, Garmin Pilot
   - AviationWeather.gov
@@ -162,7 +160,9 @@ To understand the standard aviation weather products, and apply them in a flight
   - Importance of image age
   - System update frequency
 
-* AviationWeather walk-through
+### ForeFlight Flight Planning Walk-Thru
+
+- See [Sample ForeFlight Weather Planning](/docs/lesson-plans/problems/foreflight-wx-flt-plan)
 
 ## References
 
