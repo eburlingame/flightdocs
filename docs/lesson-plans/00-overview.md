@@ -93,7 +93,7 @@ Lesson plans designed for the Flight Instructor Airplane ACS:
         <!-- 14 -->
             <td>II.F - 1</td>
             <td>[Performance and Limitations: Weight and Balance](/docs/lesson-plans/weight-and-balance)</td>
-            <td></td>
+            <td>[Slides](/slides/weight-and-balance.pdf)</td>
         </tr>
         <tr>
         <!-- 15 -->
@@ -183,7 +183,7 @@ Lesson plans designed for the Flight Instructor Airplane ACS:
         <!-- 29 -->
             <td>III.C - 1</td>
             <td>[Weather Theory](/docs/lesson-plans/weather-theory)</td>
-            <td></td>
+            <td>[Slides](/slides/weather-theory.pdf)</td>
         </tr>
         <tr>
         <!-- 30 -->

@@ -116,8 +116,6 @@ It is important for a pilot to have an intuitive understand of basic weather phe
       - Vertical motion is stalled, and top of the cloud forms the anvil shape
     - Dissipating stage:
       - Downdrafts spread and replace updrafts
-  - It is impossible to fly over most thunderstorms, especially in the light aircraft
-  - Circumnavigate a thunderstorm radar echo by at least 20nm
   - Hazards
     - Heavy rain
     - Engine water ingestion
@@ -126,7 +124,15 @@ It is important for a pilot to have an intuitive understand of basic weather phe
     - Wind shear turbulence and microbursts near the surface
     - Supercooled water droplets that can freeze on impact with an airplane
     - Lightning can be temporarily blinding and induce radio interference and magnetic compass errors
+  - Thunderstorm avoidance
+    - It is impossible to fly over most thunderstorms, especially in the light aircraft
+    - Circumnavigate a thunderstorm radar echo by at least 20nm
+- Mountain wave
+  - Occurs with increasing wind gradient as altitude increases
+  - Wind imparts a "ripple" effect on the slope
 
 ## References
 
-[Pilot's Handbook of Aeronautical Knowledge pg. 12-1](/_references/PHAK/12-1)
+- [Pilot's Handbook of Aeronautical Knowledge pg. 12-1](/_references/PHAK/12-1)
+- [Aviation Weather Handbook](https://www.faa.gov/regulationspolicies/handbooksmanuals/aviation/faa-h-8083-28a-aviation-weather-handbook)
+- [AC 00-24C Thunderstorm](https://www.faa.gov/documentlibrary/media/advisory_circular/ac%2000-24c.pdf)

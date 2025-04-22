@@ -213,25 +213,79 @@ If the parcel cools slower than the surrounding air, it will want to ascend: **i
 
 ---
 
-- Thunderstorms
-  - Three things for a thunderstorm for form:
-    - Instability
-    - Lifting action
-    - Moisture
-  - Three distinct stages:
-    - Cumulus stage: Air rises, strong updrafts occur
-    - Mature stage:
-      - Moisture is too heavy for cloud to support, precipitation starts falling, this causes a downdraft
-      - Vertical motion is stalled, and top of the cloud forms the anvil shape
-    - Dissipating stage:
-      - Downdrafts spread and replace updrafts
-  - It is impossible to fly over most thunderstorms, especially in the light aircraft
-  - Circumnavigate a thunderstorm radar echo by at least 20nm
-  - Hazards
-    - Heavy rain
-    - Engine water ingestion
-    - Hail which may be thrown miles from the storm
-    - Violent turbulence in the storm and in the vicinity
-    - Wind shear turbulence and microbursts near the surface
-    - Supercooled water droplets that can freeze on impact with an airplane
-    - Lightning can be temporarily blinding and induce radio interference and magnetic compass errors
+## Thunderstorms
+
+![bg left:45% fit](images/image-34.png)
+
+- Three ingredients:
+  - Instability
+  - Lifting action
+  - Moisture
+- Heavy rain, hail, strong winds
+
+---
+
+## Stages of a Thunderstorm
+
+- Cumulus stage
+  - Air rises, strong updrafts occur
+- Mature stage
+  - Moisture is too heavy for cloud to support, precipitation starts falling, this causes a downdraft
+  - Vertical motion is stalled, and top of the cloud forms the anvil shape
+- Dissipating stage
+  - Downdrafts spread and replace updrafts
+
+---
+
+## Thunderstorm Hazards
+
+- Heavy rain
+- Engine water ingestion
+- Hail which may be thrown miles from the storm
+- Violent turbulence in the storm and in the vicinity
+- Wind shear turbulence and microbursts near the surface
+- Supercooled water droplets that can freeze on impact with an airplane
+- Lightning: Temporarily blindness, radio interference, magnetic compass errors
+
+---
+
+## Microbursts
+
+![h:350](images/image-38.png)
+
+- Result of strong downdrafts that form out of a storm (> 6000 fpm)
+- Can cause severe windshear when they impact the ground
+- Approximately 1-3 miles in diameter, last for 5-15 minutes
+
+---
+
+## Squall Lines
+
+![bg left:40% fit](images/image-37.png)
+
+- Large line of steady-state thunderstorms
+- Often associated with the passage of a fast-moving cold front
+
+---
+
+## Thunderstorm Avoidance
+
+![h:250](images/image-36.png)
+
+- It is impossible to fly over most thunderstorms, especially in a light aircraft
+- Circumnavigate a severe or large-echo thunderstorm by at least 20nm
+- Visual appearance to be a reliable indicator of turbulence
+- Never use NEXRAD for navigating through thunderstorms
+- More information in 00-24C
+
+---
+
+## Mountain Wave
+
+<div class="h-stack">
+
+![alt text](images/image-39.png)
+
+![alt text](images/image-40.png)
+
+</div>
