@@ -18,8 +18,13 @@ Knowledge of the flight controls is important so you can gain an intuitive under
 
 ## Overview
 
-- Basic flight controls: Elevator, aileron, rudder
-- Types of ailerons
+- Primary flight controls: Elevator, aileron, rudder
+  - Types of ailerons
+  - Stabilators
+- Secondary flight controls
+  - Flaps
+  - Trim tabs
+  - Leading edge devices
 
 ---
 
@@ -286,4 +291,4 @@ If we were unable to lower our flaps, how would our approach to landing change?
 
 ## Knowledge Check
 
-If our
+If our elevator were to get jammed, what could we use for pitch control?
