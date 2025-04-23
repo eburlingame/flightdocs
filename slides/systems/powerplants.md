@@ -6,6 +6,28 @@ theme: default
 
 ---
 
+## Objective
+
+To understand the basics of a reciprocating engine and a propeller and how it produces thrust in the airplane.
+
+## Why do we need to know about the engine?
+
+It is important to have an intuitive understanding of how an engine operates to use the engine controls effectively and troubleshoot issues as they arise.
+
+---
+
+## Overview
+
+- Reciprocating engines: 2- and 4-stroke engines
+- Engine instrumentation
+- Magnetos
+- Induction System, Carburetor
+- Turbochargers
+- Fixed-pitch propellers
+- Constant-speed Propellers
+
+---
+
 ### Reciprocating Engines
 
 - Most light airplane engines are 4- or 6-cylinder, horizontally-opposed, air-cooled
@@ -363,3 +385,35 @@ Oil pressure is governed by a set of fly-weights, tuned to a specified RPM
 - Loss of oil pressure
   - Propeller should fail in the high pitch position
   - This may result in an overspeed condition if power is set too high
+
+---
+
+## Summary
+
+- 4-stroke engine on most light aircraft
+- RPM and manifold pressure are our primary indications
+- Magnetos are self-contained electrical systems that power the spark plugs
+- The induction system gets air into the engine
+- Turbochargers: Help us maintain sea-level pressure and high altitude
+- Fixed-pitch propellers are common on most trainers
+- Constant-speed propellers are used for efficiency in cruise and climb
+
+---
+
+## Knowledge Check
+
+What effect would low oil pressure have on a constant-speed prop?
+
+---
+
+## Knowledge Check
+
+Two airplanes take off at sea level. One has a normally aspirated 150 H.P. engine, the other has a turbo-normalized 150 H.P. engine.
+
+Which one will produce more power?
+
+---
+
+## Knowledge Check
+
+You come out to the airplane one morning and notice your fuel sump is completely clear, but not blue. What should you suspect?
