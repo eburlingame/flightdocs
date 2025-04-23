@@ -4,7 +4,40 @@ class:
   - invert
 ---
 
+<style>
+
+.h-stack {
+  display: flex;
+  column-gap: 1em;
+}
+
+</style>
+
 # Weather Theory
+
+---
+
+## Why learn about weather theory?
+
+- How does weather affect airplane performance
+- How do we interpret weather information
+
+## What are the most important weather decisions we will make?
+
+- Go/no go
+- Decision to divert
+
+---
+
+## Overview
+
+- Atmosphere
+- Pressure
+- Air masses
+- Turbulence
+- Stability
+- Thunderstorms
+- Mountain Wave
 
 ---
 
@@ -12,8 +45,8 @@ class:
 
 ![bg left:65% fit](images/image-10.png)
 
-- Most weather occurs in the troposphere
 - Air is around 78% nitrogen, 21% oxygen
+- Constant proportion as you ascend
 
 ---
 
@@ -23,7 +56,6 @@ class:
 
 - Barometer: Measures pressure
 - Ambient pressure: ~14.7 psi at sea level
-- International standard atmosphere is a common reference
 
 ---
 
@@ -36,19 +68,54 @@ Barometric pressure decreases with altitude:
 
 ---
 
+## How does pressure change with temperature?
+
+- How does air change with temperature?
+
+![alt text](images/image-41.png)
+
+---
+
 ## Less Pressure = Less Performance
 
 ![alt text](images/image-13.png)
 
 ---
 
-## Coriolis Force
+## Uneven Heating of the Earth
 
 ![bg left:35% fit](images/image-14.png)
 
+- Sun's energy is most intense at the equator
 - Hot air means lower pressure: air rises
-- Radiation from the sun strikes the Earth strongly at the equator
 - Since the earth is rotating, this causes circular wind patterns
+
+---
+
+## Coriolis Force
+
+![alt text](images/image-42.png)
+
+- Because the earth is spinning, objects in the atmosphere are deflected to the right
+
+---
+
+## Surface Pressure Maps
+
+- Take all the pressure readings and plot them
+- Isobars have the same pressure
+  - Like contours on a topographical map
+
+![bg left:50% fit](images/image-21.png)
+
+---
+
+## Wind and Isobars
+
+![bg left:60% fit](images/surface.jpeg)
+
+- Wind wants to flow across the isobars
+- Due to the Coriolis force deflected and flows parallel to the isobars
 
 ---
 
@@ -58,15 +125,6 @@ In the northern hemisphere:
 
 - Low pressure, inward and clockwise: anticyclonic
 - High pressure, outward and counterclockwise: cyclonic
-
----
-
-## Surface pressure maps
-
-- Closer the contours: Greater the pressure differential
-- Surface wind speeds are less
-
-![bg left:40% fit](images/image-21.png)
 
 ---
 
@@ -99,6 +157,10 @@ In the northern hemisphere:
 
 ---
 
+## Turbulence
+
+---
+
 ## Turbulent flows from obstructions
 
 - Near the ground: hangars, buildings
@@ -117,11 +179,18 @@ In the northern hemisphere:
 
 ---
 
+## Convection / Conduction / Radiation Cycles
+
+![h:500](images/image-43.png)
+
+---
+
 ## Atmospheric stability
 
 - The ability of the atmosphere to resist or encourage vertical motion
 - Adiabatic cooling: Air loses temperature as it rises, since the ambient pressure decreases
 - A parcel of air from the surface will cool at roughly the dry adiabatic lapse rate (3 °C (5.4 °F) per 1,000 feet)
+- The average lapse rate is 2&deg; per 1000'
 
 ---
 
@@ -129,87 +198,147 @@ In the northern hemisphere:
 
 If the parcel cools faster than the surrounding air, it will want to descend: **stability**
 
+Example:
+
+- Parcel's 3&deg; per 1000'
+- Average's 2&deg; per 1000'
+
 ---
 
 ![bg left:60% fit](images/image-23.png)
 
 If the parcel cools slower than the surrounding air, it will want to ascend: **instability**
 
+Example:
+
+- Parcel's 3&deg; per 1000'
+- Average's 3.5&deg; per 1000'
+
 ---
 
 ## Moisture and Stability
 
-- The average lapse rate is 2&deg; per 1000'
-- Moisture decrease air density. Moist air cools at a slower rate
-
+- Moisture decreases air density
+- Moist air cools at a slower rate
 - In summary:
-  - Cool, dry air is very stable and resists vertical movement
+  - Cool, dry air is stable and resists vertical movement
   - Warm, moist air produces the most instability
 
 ---
 
 ## Temperature Inversions
 
-- Temperature inversions: Layers where temperature _increases_ with altitude
-  - Often occurs on clear, cool nights, when the ground cools the air above it
-  - Can trap pollutants
+![bg left:40% fit](images/image-24.png)
+
+- Layers where temperature _increases_ with altitude
+- Often occurs on clear, cool nights, when the ground cools the air above it
+- Can trap pollutants below the layer
+- Smooth air can often be found above the inversion
 
 ---
 
-- Moisture
-  - Every 20&deg;F increase in temperature increases the capacity of water the air can hold
-  - The relative humidity is the percentage of water present vs the total amount the air could hold
-  - Dewpoint is the point at which the air would be completely saturated by the current level of humidity
+## Moisture
+
+- Every 20&deg;F increase doubles the capacity of water the air can hold
+- The relative humidity is the percentage of this "saturation" of the air by water
+- Dewpoint is the point at which the air would be completely saturated by the current amount of water
+- Saturated air bring clouds, fog, and precipitation
   - Clouds often form when unstable air rises and cools to the dewpoint
-  - Saturated air bring clouds, fog, and precipitation
+  - Dew and frost: form when surfaces cool beyond the dewpoint and water condenses on the side
 
 ---
 
-- Dew and frost: form when surfaces cool beyond the dewpoint and water condenses on the side
-- Fog: Ground clouds that form when the ground temperature is low
-  - Radiation fog: Clear, windless nights, the ground cools and cools the air above it
-  - Advection fog: Warm, moist air moves over a colder surface at night. This requires wind (usually up to 15 knots) to move the air
-  - Upslope fog: Forms when air is forced up a slope and cools
-  - Steam fog: Cold, dry air moves over water
+## Fog: Ground Clouds
+
+- Radiation fog: Clear, windless nights, ground cools the air above it
+- Advection fog: Warm, moist air moves over a colder surface at night.
+  - Requires wind (up to 15 knots)
+- Upslope fog: Forms when air is forced up a slope and cools
+- Steam fog: Cold, dry air moves over water, causing evaporation
+
+![bg right:45% fit](images/image-25.png)
 
 ---
 
-- Clouds
-  - Three ingredients for clouds to form: Moisture, cooling, condensation nuclei
-  - Moisture condenses onto minicsule particles of matter
-  - Low clouds, middle clouds, high clouds
-  - Towering cumulus clouds contain very turbulent air and potential for thunderstorms
+## Cloud Formation
+
+![bg left:35% fit](images/image-45.png)
+
+- Three ingredients for clouds to form: Moisture, cooling, condensation nuclei
+  - Moisture condenses onto minuscule particles of matter
 
 ---
 
-- Air masses
-  - Form from large "source regions", where conditions may develop for days (deserts, oceans, large lakes, polar caps)
-  - Cold over warm: unstable
-  - Warm over cold: stable
+![bg center fit](images/image-26.png)
 
 ---
 
-- Fronts
-  - Fronts are boundaries between two different air masses
-    - As a front pass, the pressure will rise and climb, the temperature will change, and the wind direction will change
-  - Warm front
-    - Warm, often moist air that slides slowly over a colder air mass (shallow frontal slope)
-    - Ahead of the front, cirriform or stratiform clouds and light precipitation
-    - Poor visibility, haze as the front passes
-  - Cold front
-    - Cold, dense, stable air advances and quickly slide under and replaces a warmer air mass (steep frontal slope)
-    - Prior the passage of a warm front, cumulonimbus clouds are common
-    - A fast-moving cold front may produce a concentrated band of precipitin and thunder storms
-    - Squall lines may form ahead of a fast-moving cold front
-  - Stationary front
-    - Air masses with relatively equal forces can remain stationary for several days
-    - Weather is a mixture of cold front/warm front conditions
-  - Occluded front
-    - Occurs when a cold front overtakes a slow-moving warm front
-    - Cold-front occlusion: Fast-moving cold front air is colder than the cooler air ahead of the warm front
-      - Mixture of cold/warm front weather, relatively stable
-    - Warm-front occlusion: Fast-moving cold front air is warmer than the cold air ahead of the warm front
-      - The cold front "rides up" over the warm front, and instability occurs. This can sauce severe thunderstorms, rain, and fog
+![bg right:65% fit](images/image-27.png)
+
+## Air Masses
+
+- Form from large source regions
+- Deserts, oceans, large lakes, polar caps
+- Source conditions may develop for days
+
+---
+
+## Fronts
+
+- Fronts form as interactions between these air masses
+- As front pass:
+  - Pressure will change
+  - The temperature will change
+  - The wind direction will change
+
+![bg right:40% fit](images/image-28.png)
+
+---
+
+### Warm Fronts - Shallow frontal slope
+
+![h:380](images/image-29.png)
+
+- Warm, often moist air that slides slowly over a colder air mass (shallow frontal slope)
+- Ahead of the front, cribriform or stratiform clouds and light precipitation
+- Poor visibility, haze as the front passes
+
+---
+
+## Cold Fronts - Steep frontal slope
+
+![h:380](images/image-30.png)
+
+- Cold, dense, stable air quickly slides under and replaces a warmer air mass
+- May produce a concentrated band of precipitation and thunderstorms
+- Squall lines may form ahead of a fast-moving cold front
+
+<!-- Remember cooling aloft means instability -->
+
+---
+
+## Stationary Front
+
+![bg left:45% fit](images/image-32.png)
+
+- Air masses with relatively equal forces can remain stationary for several days
+- Weather is a mixture of cold front/warm front conditions
+- Precipitation is common
+
+---
+
+## Occluded front
+
+![bg left:35% fit](images/image-33.png)
+
+- Cold fronts typically move faster than warm fronts, so they catch up to warm fronts
+- Cold-front occlusion: A air is colder than B air
+  - Cold front pushes warmer air aloft, stability
+  - Mixture of cold/warm front weather
+- Warm-front occlusion: B air is colder than A air
+
+  - Cold front "rides up" over the warm front, cooling aloft, instability
+  - Can cause severe thunderstorms, rain, fog
 
 ---
 
@@ -289,3 +418,90 @@ If the parcel cools slower than the surrounding air, it will want to ascend: **i
 ![alt text](images/image-40.png)
 
 </div>
+## Thunderstorms
+
+![bg left:45% fit](images/image-34.png)
+
+- Three ingredients:
+  - Instability
+  - Lifting action
+  - Moisture
+- Heavy rain, hail, strong winds
+
+---
+
+## Stages of a Thunderstorm
+
+- Cumulus stage
+  - Air rises, strong updrafts occur
+- Mature stage
+  - Moisture is too heavy for cloud to support, precipitation starts falling, this causes a downdraft
+  - Vertical motion is stalled, and top of the cloud forms the anvil shape
+- Dissipating stage
+  - Downdrafts spread and replace updrafts
+
+---
+
+## Thunderstorm Hazards
+
+- Heavy rain
+- Engine water ingestion
+- Hail which may be thrown miles from the storm
+- Violent turbulence in the storm and in the vicinity
+- Wind shear turbulence and microbursts near the surface
+- Supercooled water droplets that can freeze on impact with an airplane
+- Lightning: Temporarily blindness, radio interference, magnetic compass errors
+
+---
+
+## Microbursts
+
+![h:350](images/image-44.png)
+
+- Result of strong downdrafts that form out of a storm (> 6000 fpm)
+- Can cause severe windshear when they impact the ground
+- Approximately 1-3 miles in diameter, last for 5-15 minutes
+
+---
+
+## Squall Lines
+
+![bg left:40% fit](images/image-37.png)
+
+- Large line of steady-state thunderstorms
+- Often associated with the passage of a fast-moving cold front
+
+---
+
+## Thunderstorm Avoidance
+
+![h:350](images/image-36.png)
+
+- It is impossible to fly over most thunderstorms, especially in a light aircraft
+- Circumnavigate a thunderstorm radar echo by at least 20nm
+
+---
+
+## Mountain Wave
+
+<div class="h-stack">
+
+![alt text](images/image-39.png)
+
+![alt text](images/image-40.png)
+
+</div>
+
+---
+
+Things to add:
+
+- Local weather examples
+- Conclusion and questions
+- Turbulence
+- Add frontal/precipitation fog
+- Morning fog
+-
+- Photos from each type of fog
+- Types of icing slide
+-
