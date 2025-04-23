@@ -17,12 +17,36 @@ class:
 
 ---
 
+## Why learn about weather theory?
+
+- How does weather affect airplane performance
+- How do we interpret weather information
+
+## What are the most important weather decisions we will make?
+
+- Go/no go
+- Decision to divert
+
+---
+
+## Overview
+
+- Atmosphere
+- Pressure
+- Air masses
+- Turbulence
+- Stability
+- Thunderstorms
+- Mountain Wave
+
+---
+
 ## Atmosphere
 
 ![bg left:65% fit](images/image-10.png)
 
-- Most weather occurs in the troposphere
 - Air is around 78% nitrogen, 21% oxygen
+- Constant proportion as you ascend
 
 ---
 
@@ -32,7 +56,6 @@ class:
 
 - Barometer: Measures pressure
 - Ambient pressure: ~14.7 psi at sea level
-- International standard atmosphere is a common reference
 
 ---
 
@@ -45,19 +68,54 @@ Barometric pressure decreases with altitude:
 
 ---
 
+## How does pressure change with temperature?
+
+- How does air change with temperature?
+
+![alt text](images/image-41.png)
+
+---
+
 ## Less Pressure = Less Performance
 
 ![alt text](images/image-13.png)
 
 ---
 
-## Coriolis Force
+## Uneven Heating of the Earth
 
 ![bg left:35% fit](images/image-14.png)
 
+- Sun's energy is most intense at the equator
 - Hot air means lower pressure: air rises
-- Radiation from the sun strikes the Earth strongly at the equator
 - Since the earth is rotating, this causes circular wind patterns
+
+---
+
+## Coriolis Force
+
+![alt text](images/image-42.png)
+
+- Because the earth is spinning, objects in the atmosphere are deflected to the right
+
+---
+
+## Surface Pressure Maps
+
+- Take all the pressure readings and plot them
+- Isobars have the same pressure
+  - Like contours on a topographical map
+
+![bg left:50% fit](images/image-21.png)
+
+---
+
+## Wind and Isobars
+
+![bg left:60% fit](images/surface.jpeg)
+
+- Wind wants to flow across the isobars
+- Due to the Coriolis force deflected and flows parallel to the isobars
 
 ---
 
@@ -67,15 +125,6 @@ In the northern hemisphere:
 
 - Low pressure, inward and clockwise: anticyclonic
 - High pressure, outward and counterclockwise: cyclonic
-
----
-
-## Surface pressure maps
-
-- Closer the contours: Greater the pressure differential
-- Surface wind speeds are less
-
-![bg left:40% fit](images/image-21.png)
 
 ---
 
@@ -108,6 +157,10 @@ In the northern hemisphere:
 
 ---
 
+## Turbulence
+
+---
+
 ## Turbulent flows from obstructions
 
 - Near the ground: hangars, buildings
@@ -123,6 +176,12 @@ In the northern hemisphere:
 - Especially dangerous near the ground
 
 ![alt text](images/image-20.png)
+
+---
+
+## Convection / Conduction / Radiation Cycles
+
+![h:500](images/image-43.png)
 
 ---
 
@@ -201,14 +260,12 @@ Example:
 
 ---
 
-## Clouds
+## Cloud Formation
 
-![bg left:20% fit](images/image-35.png)
+![bg left:35% fit](images/image-45.png)
 
 - Three ingredients for clouds to form: Moisture, cooling, condensation nuclei
   - Moisture condenses onto minuscule particles of matter
-- Low clouds, middle clouds (alto-), high clouds (cirro-)
-- Towering cumulus clouds contain very turbulent air and potential for thunderstorms
 
 ---
 
@@ -399,7 +456,7 @@ Example:
 
 ## Microbursts
 
-![h:350](images/image-38.png)
+![h:350](images/image-44.png)
 
 - Result of strong downdrafts that form out of a storm (> 6000 fpm)
 - Can cause severe windshear when they impact the ground
@@ -434,3 +491,17 @@ Example:
 ![alt text](images/image-40.png)
 
 </div>
+
+---
+
+Things to add:
+
+- Local weather examples
+- Conclusion and questions
+- Turbulence
+- Add frontal/precipitation fog
+- Morning fog
+-
+- Photos from each type of fog
+- Types of icing slide
+-
