@@ -177,7 +177,7 @@ Lesson plans designed for the Flight Instructor Airplane ACS:
         <!-- 28 -->
             <td>III.B</td>
             <td>[Airworthiness Requirements](/docs/lesson-plans/airworthiness)</td>
-            <td></td>
+            <td>[Slides](/slides/airworthiness.pdf)</td>
         </tr>
         <tr>
         <!-- 29 -->
