@@ -12,16 +12,16 @@ To understand the basics of a reciprocating engine and a propeller and how it pr
 
 ## Why do we need to know about the engine?
 
-It is important to have an intuitive understanding of how an engine operates to use the engine controls effectively and troubleshoot issues as they arise.
+We want an intuitive understanding of how an engine operates to use the engine controls effectively, troubleshoot issues as they arise, and take good care of our aircraft's engine.
 
 ---
 
 ## Overview
 
-- Reciprocating engines: 2- and 4-stroke engines
-- Engine instrumentation
-- Magnetos
-- Induction System, Carburetor
+- Reciprocating engines principles
+- Engine instrumentation (RPM, manifold pressure)
+- Ignition system and magnetic
+- Induction system and carburetors
 - Turbochargers
 - Fixed-pitch propellers
 - Constant-speed Propellers
@@ -36,18 +36,18 @@ It is important to have an intuitive understanding of how an engine operates to 
 
 ---
 
-# 4-stroke vs 2-stroke
+### Cylinders
 
-- 4-stroke engines are most common
-- 2-stroke engine are available
+![bg left:50% fit](images/crankshaft.gif)
 
-![h:340](images/image-23.png)
+- Cylinders produce controlled explosions that drive the crankshaft
+- The crankshaft then drives the propeller
 
 ---
 
-## Component of a 4-Stroke Engine
+![bg fit](images/image-105.png)
 
-![bg left:38%](images/image-25.png)
+<!-- Camshaft is responsible for opening/closing the intake/exhaust values in the correct sequence on the cylinder -->
 
 ---
 
@@ -56,8 +56,8 @@ It is important to have an intuitive understanding of how an engine operates to 
 ![bg left:40%](images/image-24.png)
 
 - 4 strokes of an engine
-  - Intake: Air sucked in
-  - Compression: Air and fuel is compressed
+  - Intake: Fuel/air sucked in
+  - Compression: Fuel/air is compressed
   - Combustion: Spark plugs ignite fuel/air mixture
   - Exhaust: Exhaust gasses are expelled
 - Each cylinder makes two up/down movements for a power cycle
@@ -65,45 +65,87 @@ It is important to have an intuitive understanding of how an engine operates to 
 
 ---
 
-# Engine RPM
+## Crankshaft and Camshaft
+
+![h:500](images/image-107.png)
+
+---
+
+# 2-stroke Engines
+
+- 2-stroke engines perform a power cycle on each stroke
+- Available on some light aircraft
+
+![bg left:45% fit](images/image-23.png)
+
+---
+
+# Tachometer: Engine RPM
 
 - Primary indication of power on a fixed-pitch propeller
+- Indicates hundreds of RPM
+- Green indicates normal operating range
+- Red line should never be exceeded
+- RPM output can change with altitude
 
-![alt text](images/image-27.png)
+![bg left:40% fit](images/image-27.png)
 
 ---
 
-# Manifold Pressure
+# Manifold Pressure: Engine Power
 
-- Manifold pressure is the partial vacuum of the airplane "sucking in" air
+- Partial vacuum of the engine "sucking in" air
 - Primary power indication with a constant-speed propeller
+- Reads ambient pressure when engine is off
 
-![h:500](images/image-28.png)
+![bg right:55% fit](images/image-28.png)
 
 ---
 
-## Ignition
+## Ignition System
 
 - Provides the spark which ignite the fuel/air mixture
+- Usually drive by magnetos, small generators which generate electrical current
+- Magnetos are driven directly from the engine, independent of the electrical system
 
-![h:500](images/image-30.png)
+![bg left:45% fit](images/image-108.png)
 
 ---
 
-## Magneto Operation
+## Dual-Magneto Systems
 
-- Magnetos generate electrical current, independent of the airplane's electrical system
-- Magneto are spinning magnets driven by the crank shaft of the engine
+![bg left:55% fit](images/image-30.png)
+
 - Two sets of spark plugs in each cylinder, one from each magneto
-- Magnetos can be selected independently, and will be checked before flight
-  - Running with both magnetos results in better burning of the fuel/air mixture
-  - Running with one magneto has a slightly lower power output
+- Magnetos can be selected independently
+  - Both magnetos results in better burning of the fuel/air mixture
+  - One magneto has a slightly lower power output
 
 ---
 
-## Induction System
+## Spark Plugs
 
-- Gets air from the outside into the cylinder
+![bg left:40% fit](images/image-109.png)
+
+- Current wants to jump the gap between leads
+- Dual-magnetos will have two spark plugs per cylinder
+- Leaded gasoline can leave lead deposits on the spark plugs
+
+---
+
+## Starter Systems
+
+![h:350](images/image-117.png)
+
+- Key engages a starter cog, which turns a flywheel
+  - Once the engine starts, starter cog retracts
+- Most starters are low-duty electric motors
+  - Don't crank for long periods, allow for cooldown between attempts
+- Stuck starters
+
+---
+
+## Induction System: Gets air into the engine
 
 ![h:500](images/image-32.png)
 
@@ -115,7 +157,7 @@ It is important to have an intuitive understanding of how an engine operates to 
 
 <!--
 
-- Mechanical control of the fuel-air mixture
+- Completely mechanical control mixing of fuel and air
 - Venturi is a narrowing that accelerates the air, forcing fuel to flow out of the discharge nozzle
 - Mixture needle control mixture
 - Throttle valve controls flow of entire fuel/air mixture into the cylinders
@@ -128,28 +170,39 @@ It is important to have an intuitive understanding of how an engine operates to 
 
 ## Carburetor Icing
 
-- Most likely at &lt; 70&deg;F and &gt; 80% humidity
-- Carburetor heat
+- Acceleration of air + vaporization of fuel drastically cools the air
+- Carburetor heat is used to combat this
 
-![w:1000](images/image-32.png)
+![w:1000](images/image-110.png)
 
 ![bg right:45%](images/image-35.png)
 
 ---
 
-## Fuel-injection
+## Fuel Injection
 
-- Uses a electronically/computer controlled unit to regulate fuel to air mixture
+![bg left:55% fit](images/image-34.png)
 
-![h:500](images/image-34.png)
+- Alternative to carburetor
+- Fuel is mixed in a manifold just before entering the cylinder
+- Relies on a fuel pump for continuous fuel pressure
+- Produces more even cylinder temperatures
 
 <!-- - Cylinder temperatures tend to be more even -->
 
 ---
 
-## Oil: Lubricates, cools, cleans, seals
+## Engine Oil System
 
-- Wet-sump systems hold oil within the engine itself
+![bg left:50% fit](images/image-111.png)
+
+- Lubricates, cools, cleans, seals engine components
+- Also prevents rust
+- Lubricates the crankshaft, pushrods, cylinder heads
+
+---
+
+## Types of Oil Systems: Dry or Wet Sump
 
 ![h:500](images/image-36.png)
 
@@ -158,11 +211,11 @@ It is important to have an intuitive understanding of how an engine operates to 
 - An oil pump is used to circulate oil to the primary component
 - Dry-sump systems hold oil in a separate tank
 
- -->
+-->
 
 ---
 
-## Engine cooling
+## Engine Cooling: Air Cooling
 
 ![bg left:50%](images/image-37.png)
 
@@ -171,22 +224,44 @@ It is important to have an intuitive understanding of how an engine operates to 
 
 ---
 
+## Engine Cooling: Liquid Cooling
+
+![bg left:50% fit](images/image-118.png)
+
+- Coolant is circulated through the engine and absorbs heat
+- Coolant is passed through a radiator to expel heat energy
+- Similar to a car's radiator
+
+---
+
 ## Detonation
 
 - Detonation: Uncontrolled, explosive ignition of the fuel-air mixture within the cylinder
+- May happen with:
   - Lower fuel grade
   - Excessively lean mixture / high power
   - Low RPM / high power
 
-![h:350](images/image-38.png)
+![bg left:40% fit](images/image-38.png)
 
 ---
 
 ## Pre-Ignition
 
-- Preignition occurs when the fuel-air mixture ignites prior to the engine’s normal ignition event
-- Residual hot spot in the combustion chamber
+![bg left:40% fit](images/image-112.png)
+
+- Occurs when the fuel-air mixture ignites prior to the engine’s normal ignition time
+- Carbon build up and create hot spot in the combustion chamber
 - Can cause damage since the cylinder is being pushed on the compression stroke
+
+---
+
+## Preigintion and Detonation Remedy
+
+- Engine running rough, but we may not know which one
+- Lower power
+- Open cowl flaps and shallow climb angle
+- Enrichen mixture to enhance cooling
 
 ---
 
@@ -197,7 +272,7 @@ It is important to have an intuitive understanding of how an engine operates to 
 - High-wing airplanes are usually gravity-fed
 - Low-wing airplanes have a fuel-pump system
   - Electrical pump and an engine-driven pump
-- Fuel tanks: Wet wings vs wing tanks
+- Fuel tanks: Wet wings vs wing tanks or bladders
 
 ---
 
@@ -210,7 +285,6 @@ It is important to have an intuitive understanding of how an engine operates to 
   - High-wing airplanes may have a "both" option
   - Low-wing airplanes often do not, must be switched periodically
 - Running a fuel tank dry may cause vapor lock and impurities to enter the engine
--
 
 <!-- One of the most common fuel-starvation causes is failure to switch tanks -->
 
@@ -228,18 +302,27 @@ It is important to have an intuitive understanding of how an engine operates to 
 
 ---
 
-## Fuel grades
+## Fuel Grades
 
 ![h:250](images/image-41.png)
 
+![bg right:30% fit](images/image-113.png)
+
+- AVGAS 80 and 100 aren't available
+- Can never mix JET-A and AVGAS
+- 100UL is an unleaded variety now available - colored yellow
+- Automobile gasoline may also be available (mogas)
+
 ---
 
-# Turbochargers
+# Turbochargers and Superchargers
 
-- What is a turbocharger?
-  - Normally-aspirated engines lose horsepower as they climb
-  - Boosting intake air pressure can maintain horsepower
-  - Turbonormalization vs turboboosting
+![bg left:35% contain](images/image-114.png)
+
+- Normally-aspirated engines lose horsepower as they climb into thinner air
+- Boosting intake air pressure can maintain horsepower, burning more fuel
+- Turbonormalization: Boosting to sea-level pressure
+- Turboboosting: Boosting to more than sea-level
 - They are especially useful when flying high
 
 ---
@@ -261,11 +344,11 @@ It is important to have an intuitive understanding of how an engine operates to 
 
 # Turbo Wastegate
 
+![bg left:45% contain](images/image-2.png)
+
 - Controls how much exhaust is vented into the turbine
 - Wastegate slowly closes as you climb, meaning more pressure and constant power
 - At the critical altitude the wastegate is completely closed, no more boost
-
-![h:400](images/image-44.png)
 
 ---
 
@@ -275,15 +358,32 @@ It is important to have an intuitive understanding of how an engine operates to 
   - Some airplanes open/close automatically to maintain a give manifold pressure
   - Manual wastegates are common on aftermarket turbochargers
   - The T182 is mechanically linked to the throttle
+    - Need to be careful not to overboost
 
 ![h:300](images/image-45.png)
 
 ---
 
-# Turbo Failures
+## Turbo Failures
+
+![bg left:50% fit](images/image-44.png)
 
 - Failure of the turbine/compressor
   - Engine essentially because a normally-aspirated engine with constricted airflow
+- Failure of the wastegate
+  - May fail open, closed, or partially open
+  - Need to modulate throttle to prevent over boosting
+- Turbo cooldown
+  - Allow for the RPM bearing temperature to equalize
+
+---
+
+## Supercharger Operation
+
+![bg left:50% fit](images/image-115.png)
+
+- Same principle as turbochargers, but different energy source
+- Compressor is driven by the engine directly, not from the exhaust
 
 ---
 
@@ -309,6 +409,8 @@ It is important to have an intuitive understanding of how an engine operates to 
 
 # Fixed-pitch propellers
 
+![bg left:35% fit](images/image-116.png)
+
 - Propellers are calibrated for a single speed
   - High/fine pitch: Small "bite" of air
   - Low/coarse pitch: Big "bite" of air
@@ -328,13 +430,18 @@ It is important to have an intuitive understanding of how an engine operates to 
 
 ---
 
-# Constant-Speed Propellers
+# Variable-Pitch Propellers
+
+- What if we could vary the prop angle in flight?
+- Variable-pitch propellers allow us to dynamically set the blade angle
+  - Constant-speed propellers automatically vary the pitch of the propeller to maintain an given RPM
+
+---
+
+## Constant-Speed Propellers
 
 ![bg left:25%](images/image-49.png)
 
-- What if we could vary the prop angle in flight?
-  - Variable-pitch propellers, precursors to constant-speed propellers
-- Constant-speed propellers vary the pitch of the propeller to maintain an given RPM
 - Effect of pitch on RPM
   - A "finer" or large pitch of a propeller increases RPM
   - A "coarser" or smaller pitch of the propeller decreases RPM
@@ -343,7 +450,7 @@ It is important to have an intuitive understanding of how an engine operates to 
 
 ## Propeller Governor
 
-- The propeller governor controls the pitch of the propeller to maintain a pilot-selected RPM
+The propeller governor controls the pitch of the propeller to maintain a pilot-selected RPM
 
 ![h:400](images/image-50.png)
 
@@ -373,18 +480,33 @@ Oil pressure is governed by a set of fly-weights, tuned to a specified RPM
 
 ## Constant-Speed Prop Usage
 
-![h:400](images/image-54.png)
+![h:375](images/image-54.png)
 
 - When increasing power: Increase prop first, then engine power
 - When decreasing power: Decrease power first, then decrease prop
+- Always change RPM slowly and smoothly
 
 ---
 
 ## Constant-Speed Prop Failures
 
 - Loss of oil pressure
-  - Propeller should fail in the high pitch position
-  - This may result in an overspeed condition if power is set too high
+  - Propeller should fail in the high pitch position (high RPM)
+- Prop control linkage failure
+  - May get stuck at a particular RPM setting
+  - Modulate with engine power to prevent overspeed
+
+---
+
+## Constant-Speed Prop Pros/Cons
+
+- Pros
+  - Better performance at high altitudes
+  - Better performance for climb and cruise
+- Cons
+  - Complexity, risk of failure
+  - Weight
+  - Maintenance
 
 ---
 
@@ -402,6 +524,12 @@ Oil pressure is governed by a set of fly-weights, tuned to a specified RPM
 
 ## Knowledge Check
 
+Will the engine run if the master switch is off?
+
+---
+
+## Knowledge Check
+
 What effect would low oil pressure have on a constant-speed prop?
 
 ---
@@ -411,6 +539,12 @@ What effect would low oil pressure have on a constant-speed prop?
 Two airplanes take off at sea level. One has a normally aspirated 150 H.P. engine, the other has a turbo-normalized 150 H.P. engine.
 
 Which one will produce more power?
+
+---
+
+## Knowledge Check
+
+You come out to the airplane one morning and notice your fuel sump is completely clear, but not blue. What should you suspect?
 
 ---
 
