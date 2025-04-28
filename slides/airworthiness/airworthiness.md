@@ -20,7 +20,8 @@ A pilot should be able to determine the airworthiness status of an airplane give
 
 ## Overview
 
-- Type certificates and airworthiness certificate
+- Type certificates and airworthiness certificates
+- ARROW document - in the plane
 - AV1ATED checklist
 - Aircraft logbooks
 - Aircraft equipment lists
@@ -46,13 +47,25 @@ Per [91.7](<https://www.ecfr.gov/current/title-14/part-91/section-91.7#p-91.7(b)
 
 ---
 
-## Airworthiness Certificates
+## Aircraft Certification
 
-![bg left:35% fit](images/image.png)
+![bg left:35% fit](images/image-6.png)
 
 - When an aircraft is designed it undergoes a certification process for the model being produced
-- When that model of aircraft is manufactured they recieve an airworthiness certificate
-- These have no expiration and are valid so long as the airplane is maintained
+- Following certification, the model receives a type certificate and authorization for production
+- When that model of aircraft is manufactured they receive an airworthiness certificate
+- Each type has a type certificate data sheet (TCDS), which includes various information about the type
+
+---
+
+## Standard vs Special Airworthiness Certificate
+
+- Special Airworthiness Certificate is issued for all aircraft certificated in other than the Standard classifications
+  - Experimental
+  - Restricted
+  - Limited
+  - Provisional
+  - Light-Sport Aircraft (LSA)
 
 ---
 
@@ -65,6 +78,54 @@ ARROW:
 3. **R**adio station license from FCC, for flight outside the U.S.
 4. **O**perating Limitations: AFM/POH, placards, markings
 5. **W**eight and balance information: Latest measurements
+
+---
+
+## Airworthiness Certificates
+
+![bg right:40% fit](images/T182-1.jpg)
+
+- Issued with the airframe when it was manufactured
+- No expiration date: Good as long as the aircraft is maintained in an airworthy condition
+- Required per [91.203(a)](<https://www.ecfr.gov/current/title-14/part-91/section-91.203#p-91.203(a)(1)>)
+
+---
+
+## Registration Certificate
+
+![bg left:50% fit](images/T182-2.jpg)
+
+- Federal aircraft registration for a given N-number
+- Good for 3 years from issuance ([47.31](https://www.ecfr.gov/current/title-14/section-47.31))
+- Required per [91.203(a)](<https://www.ecfr.gov/current/title-14/part-91/section-91.203#p-91.203(a)(2)>)
+
+---
+
+## State Registration Certificate
+
+![bg right:50% fit](images/T182-3.jpg)
+
+- Some states require their own registration certificate
+- Varies between states
+
+---
+
+## Radio Station License - FCC
+
+![bg left:40% fit](images/image-7.png)
+
+- Required for flights outside the U.S.
+- [87.18](https://www.ecfr.gov/current/title-47/section-87.18)
+
+---
+
+## Operating Limitations / Approved Flight Manual
+
+![bg left:40% fit](images/image-8.png)
+
+- Aircraft produced since 1979 should have an approved flight manual (AFM)
+- These are standardized into common chapters (general, limitation, performance)
+- Limitation are in conjunction with placards in the aircraft
 
 ---
 
