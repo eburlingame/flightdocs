@@ -51,7 +51,13 @@ We want an intuitive understanding of how an engine operates to use the engine c
 
 ---
 
-## 4-Strokes of an Engine
+![bg fit](images/image-119.png)
+
+<!-- Camshaft is responsible for opening/closing the intake/exhaust values in the correct sequence on the cylinder -->
+
+---
+
+## The Power Cycle (4-stroke engine)
 
 ![bg left:40%](images/image-24.png)
 
