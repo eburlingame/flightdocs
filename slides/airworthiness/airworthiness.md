@@ -20,8 +20,9 @@ A pilot should be able to determine the airworthiness status of an airplane give
 
 ## Overview
 
-- Type certificates and airworthiness certificate
-- AV1ATED checklist
+- Type certificates and airworthiness certificates
+- ARROWS documents - in the plane
+- AV1ATED checklist - maintain the plane
 - Aircraft logbooks
 - Aircraft equipment lists
 - 91.205, required VFR equipment
@@ -46,13 +47,39 @@ Per [91.7](<https://www.ecfr.gov/current/title-14/part-91/section-91.7#p-91.7(b)
 
 ---
 
-## Airworthiness Certificates
+## Aircraft Certification
 
-![bg left:35% fit](images/image.png)
+![bg left:35% fit](images/image-6.png)
 
 - When an aircraft is designed it undergoes a certification process for the model being produced
-- When that model of aircraft is manufactured they recieve an airworthiness certificate
-- These have no expiration and are valid so long as the airplane is maintained
+- Following certification, the model receives a type certificate and authorization for production
+- When that model of aircraft is manufactured they receive an airworthiness certificate
+- Each type has a type certificate data sheet (TCDS), which includes various information about the type
+
+---
+
+## Standard vs Special Airworthiness Certificate
+
+![bg right:35% fit](images/image-17.png)
+
+- Standard Airworthiness Certificate: "Certified" aircraft
+- Special Airworthiness Certificate, other types of aircraft:
+  - Experimental
+  - Restricted
+  - Limited
+  - Provisional
+  - Light-Sport Aircraft (LSA)
+
+---
+
+## Supplemental Type Certificates - Changes to Original Designs
+
+- Used for major modifications to an existing certified aircraft
+- Requires engineering work to prove the safety of the aircraft following the change
+- Examples:
+  - Retrofit avionics and autopilots
+  - Different engines or propellers
+  - After-market turbochargers
 
 ---
 
@@ -65,6 +92,73 @@ ARROW:
 3. **R**adio station license from FCC, for flight outside the U.S.
 4. **O**perating Limitations: AFM/POH, placards, markings
 5. **W**eight and balance information: Latest measurements
+6. **S**erial number data plate
+
+---
+
+## A - Airworthiness Certificates
+
+![bg right:40% fit](images/T182-1.jpg)
+
+- Issued with the airframe when it was manufactured
+- No expiration date: Good as long as the aircraft is maintained in an airworthy condition
+- Required per [91.203(a)](<https://www.ecfr.gov/current/title-14/part-91/section-91.203#p-91.203(a)(1)>)
+
+---
+
+## R - Registration Certificate
+
+![bg left:50% fit](images/T182-2.jpg)
+
+- Federal aircraft registration for a given N-number
+- Good for 3 years from issuance ([47.31](https://www.ecfr.gov/current/title-14/section-47.31))
+- Required per [91.203(a)](<https://www.ecfr.gov/current/title-14/part-91/section-91.203#p-91.203(a)(2)>)
+
+---
+
+## R - State Registration Certificate
+
+![bg right:50% fit](images/T182-3.jpg)
+
+- Some states require their own registration certificate
+- Varies between states
+
+---
+
+## R - Radio Station License - FCC
+
+![bg left:40% fit](images/image-7.png)
+
+- Required for flights outside the U.S.
+- [87.18](https://www.ecfr.gov/current/title-47/section-87.18)
+
+---
+
+## O - Operating Limitations / Approved Flight Manual
+
+![bg left:40% fit](images/image-8.png)
+
+- Aircraft produced since 1979 should have an approved flight manual (AFM)
+- These are standardized into common chapters (general, limitation, performance)
+- Limitation are in conjunction with placards in the aircraft
+- Standardized by [21.5](https://www.ecfr.gov/current/title-14/section-21.5)
+
+---
+
+## W - Weight and Balance
+
+- Current weight and balance information including:
+  - Latest empty weight
+  - Latest empty moment
+  - Latest empty CG location (inches aft of datum)
+
+---
+
+## S - Serial Number and External Data Plate
+
+![bg left:45% fit](images/image-9.png)
+
+- Required per [45.11(a)](<https://www.ecfr.gov/current/title-14/part-45/section-45.11#p-45.11(a)>)
 
 ---
 
@@ -82,11 +176,10 @@ ARROW:
 
 ## A - Annual Inspection - Every 12 months
 
-- [91.409](https://www.ecfr.gov/current/title-14/section-91.409)
+- Required per [91.409](https://www.ecfr.gov/current/title-14/section-91.409)
 - Check of the aircraft systems by an authorized mechanic
-- Details of the check are in Part 41
-- Propeller and airframe have separate annuals
 - Details of work in [Part 43 Appendix D](<https://www.ecfr.gov/current/title-14/part-43/appendix-Appendix D to Part 43>)
+- Airframe, propeller, and engine have separate annuals (usually done at the same time)
 
 ---
 
@@ -104,28 +197,37 @@ ARROW:
 - [91.409(b)](<https://www.ecfr.gov/current/title-14/part-91/section-91.409#p-91.409(b)>)
 - Required for airplanes flying for hire, or for flight instruction if the instructor is providing the aircraft
 - Can be exceeded by 10 hours, to relocate to a location where the inspection can be done
+- Good for 24 months, to the end of the month
 - Tachometer time (not Hobbs time)
-- Details of work in [Part 43 Appendix D](<https://www.ecfr.gov/current/title-14/part-43/appendix-Appendix D to Part 43>)
+- Same inspection as annual, details in [Part 43 Appendix D](<https://www.ecfr.gov/current/title-14/part-43/appendix-Appendix D to Part 43>)
 
 ---
 
-## A - Altimeter/Pitot-Static - 24 months
+## A - Altimeter/Pitot-Static
 
-- [91.411](https://www.ecfr.gov/current/title-14/section-91.411)
+### IFR flight only - 24 months
+
+![bg right:40% contain](images/image-16.png)
+
+- Required per [91.411](https://www.ecfr.gov/current/title-14/section-91.411)
 - Ensure the accuracy of the altimeter, airspeed indictor, VSI
+- Only needed for IFR flight
 
 ---
 
 ## T - Transponder - 24 months
 
-- [91.413](https://www.ecfr.gov/current/title-14/section-91.413)
+- Required per [91.413](https://www.ecfr.gov/current/title-14/section-91.413)
 - Tests the operation of the transponder radio
+- Often done concurrently with the pitot-static test
 
 ---
 
 ## E - ELT - 12 months
 
-- [91.207](https://www.ecfr.gov/current/title-14/section-91.207)
+![bg left:40% fit](images/image-10.png)
+
+- Required per [91.207](https://www.ecfr.gov/current/title-14/section-91.207)
 - Inspection of the ELT, including
   - Installation
   - Battery corrosion
@@ -136,22 +238,27 @@ ARROW:
 
 ## E - ELT - Battery Requirements
 
+![bg left:35% fit](images/image-11.png)
+
 The battery for an ELT must be replaced (or recharged) after:
 
 - 1 hour of cumulative use
 - When 50% of its useful life has been consumed
+  - Batteries are rated for a certain lifespan (2-year battery, etc.)
+- This is separate from the ELT test
 
 ---
 
 ## D - Airworthiness Directives
 
-- Airworthiness directives are legally enforceable rules issued by the FAA in accordance with 14 CFR part 39 to correct an unsafe condition in a product.
+- Airworthiness directives are legally-required mandates made by the FAA to correct an unsafe condition in a product
 - Used to correct deficiencies after an airplane has been certified
 - Can require a one-time fix or inspection
 - May require a recurring inspection
-- Two types
+- Two types:
   - Emergency issue: Addressing a urgent, safety-of-flight issue
-  - Normal issue: Less urgent issue, usually requires compliance within a specified period
+    - Example: 737 MAX groundings
+  - Normal issue: Less urgent, usually requires compliance within a specified period
 
 ---
 
@@ -163,17 +270,35 @@ The battery for an ELT must be replaced (or recharged) after:
 
 ## D - Life-Limited Parts
 
+![bg left:30%](images/image-13.png)
+
 - Parts that have a fixed lifetime and must be replaced at some interval in the life of an aircraft
-- Life-limited parts may be required per the original type certificate
-- Listed in the type certificate data sheet
+- Life-limited parts may be required per the original type certificate or an AD
+  - Listed in the type certificate data sheet
+- Examples: Helicopter rotor blades, turbine fan blades
+- Less common on light airplanes
 
 ---
 
 ## Service Bulletins (S.B.'s)
 
 - Service bulletins are issued by the manufacturer
-- Describe recommended inspections or
+- Describe recommended inspections or maintenance
 - Not regulatory
+- Some SB's are labelled as "Mandatory Service Bulletins", which usually affect flight safety
+- A.D.'s often start as service bulletins
+
+---
+
+## Time Between Overhauls (TBO)
+
+![bg right:40% fit](images/image-12.png)
+
+- Aircraft engines have recommended hours between engine overhauls
+- An engine overhaul usually requires a replacement or rebuild
+- TBOs for reciprocating engines are around 1,200 to 2,000 hours
+- Specific aircraft will list the time since major overhaul (SMOH)
+- Not required for Part 91 operators
 
 ---
 
@@ -185,7 +310,7 @@ The battery for an ELT must be replaced (or recharged) after:
 4. **A**ltimeter/pitot-static inspection - 24 months
 5. **T**ransponder inspection - 24 months
 6. **E**LT - 12 months, plus battery requirements
-7. **D**irectives - As needed
+7. **D**irectives - ADs/Life-limited parts - As needed
 
 ---
 
@@ -193,15 +318,17 @@ The battery for an ELT must be replaced (or recharged) after:
 
 ![bg left:50% fit](images/image-1.png)
 
-- Sometimes broken down into separate logbooks for airframe, propeller, engine
-- A&P: Airplane and powerplant mechanic
-- I.A.: Inspection authorization, A&P allowed to sign-off annuals
+- Often broken down into separate logbooks for airframe, propeller, engine, and sometimes avionics
+- A&P: Airframe and powerplant mechanic
+- I.A.: Inspection authorization, an A&P allowed to sign-off annuals
 
 ---
 
 ## Required Equipment
 
-- What equipment is required in the airplane?
+![h:440](images/image-14.png)
+
+- What equipment is required to be in the airplane?
 - What do we do if we find equipment that's inoperative?
 
 ---
@@ -233,7 +360,7 @@ The battery for an ELT must be replaced (or recharged) after:
 <div>
 
 - **F**uel gauge for each tank
-- **L**anding light (if flow for hire)
+- **L**anding gear position indicator
 - **A**nti-collision lights
 - **M**agnetic compass
 - **E**LT
@@ -247,9 +374,10 @@ The battery for an ELT must be replaced (or recharged) after:
 
 ## Required Equipment - Night VFR
 
+- All the day VFR required equipment (ATOMATOFLAMES), plus
 - [91.205(c)](<https://www.ecfr.gov/current/title-14/part-91/section-91.205#p-91.205(b)>) - FLAPS
   - **F**uses
-  - **L**anding light
+  - **L**anding light (if flown for hire)
   - **A**nti-collision lights - beacon or strobes
   - **P**osition lights / nav lights - red and green
   - **S**ource of power
@@ -270,7 +398,6 @@ The battery for an ELT must be replaced (or recharged) after:
 - Those required for specific operations by Part 91, including:
   - Day VFR equipment 91.205(b) - ATOMATOFLAMES
   - Night VFR equipment 91.205(c) - FLAPS
-- Those required for the airworthiness of the aircraft
 - Those required per the Kinds of Operations Equipment List (KOEL), if present
 - Those required by an AD to be operative
 
@@ -290,12 +417,29 @@ The battery for an ELT must be replaced (or recharged) after:
 
 ## Deferral of Maintenance ([91.213(d)(3)](<https://www.ecfr.gov/current/title-14/part-91/section-91.213#p-91.213(d)(3)>))
 
+![bg left:30% fit](images/image-15.png)
+
 If we deem the system is not required, we can:
 
 - Remove it, or deactivated
 - Placard it as inoperative
 
-If the deactivation requires a mechanic, then it will need to be done by a mechanic and appropriate logged.
+If the deactivation requires a mechanic, then it will need to be done by a mechanic and logged appropriately.
+
+Note: Removal of equipment may change the W&B of the airplane.
+
+---
+
+## Minimum Equipment List
+
+If our aircraft has a minimum equipment list, refer to the list
+
+![bg left:40% fit](images/image-5.png)
+
+- Gives specific instruction on what can be inoperative
+- Inoperative equipment must be dealt with per the MEL (can't use the previous process)
+- Master MELs (MMELs) are publish by the manufacturer
+  - Operators can then create their own MEL for a specific aircraft
 
 ---
 
@@ -305,25 +449,13 @@ If the deactivation requires a mechanic, then it will need to be done by a mecha
 
 ---
 
-## Minimum Equipment List
-
-If our aircraft has a minimum equipment list, defer to the required equipment on the list.
-
-![bg left:40% fit](images/image-5.png)
-
-- Gives specific instruction on what can be inoperative
-- Inoperative equipment must be dealt with per the MEL, they can't use the previous process
-- Master MELs (MMELs) can be created after the fact, and apply to an existing airframe
-
----
-
 ## Special Flight Permits
 
 - What happens if we need to move the airplane to make repairs while it's not airworthy?
 - A Special Flight Permit allows for a specific flight
 - Can requested from the local Flight Standards District Office (FSDO)
-- Usually requires an A&P to determine the safety of flight
-- Reasons for a permit
+- May require an A&P to determine the safety of flight
+- Reasons for a permit:
   - To fly to base where repairs, alterations, or maintenance can be done
   - Delivering or exporting an aircraft
   - Evacuating an aircraft from an area of impending danger
@@ -343,7 +475,6 @@ If our aircraft has a minimum equipment list, defer to the required equipment on
   - Replace or clean spark plugs
   - Replace and service batteries
   - Replace hose connections, except hydraulic connection
-  - Lubricate items not needed disassembly
 
 ---
 
@@ -354,6 +485,7 @@ Pilots who perform preventive maintenance must make an entry in the maintenance 
 Include the following information:
 
 1. A description of the work, such as “changed oil (Shell Aero-50) at 2,345 hours”
+   - Should be logged "in accordance with" a maintenance document
 2. The date of completion of the work performed
 3. The pilot’s name, signature, certificate number, and type of certificate held
 
