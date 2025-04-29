@@ -20,8 +20,8 @@ Lesson plans designed for the Flight Instructor Airplane ACS:
         <tr>
         <!-- 2 -->
             <td>II.B</td>
-            <td>Collision Avoidance</td>
-            <td></td>
+            <td>[Collision Avoidance](/docs/lesson-plans/collision-avoidance)</td>
+            <td>[Slides](/slides/collision-avoidance.pdf)</td>
         </tr>
         <tr>
         <!-- 3 -->
