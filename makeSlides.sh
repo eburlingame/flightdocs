@@ -36,6 +36,7 @@ convert_to_pdf slides/weather/weather-products.md                         static
 convert_to_pdf slides/weather/weather-theory.md                           static/slides/weather-theory.pdf
 convert_to_pdf slides/endorsements-logbooks/endorsements-logbooks.md      static/slides/endorsements-logbooks.pdf
 convert_to_pdf slides/airworthiness/airworthiness.md                      static/slides/airworthiness.pdf
+convert_to_pdf slides/collision-avoidance/collision-avoidance.md                      static/slides/collision-avoidance.pdf
 
 
 # Recursively scan all .md files in the slides directory and convert them to .pdf using marp

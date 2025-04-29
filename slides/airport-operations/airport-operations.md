@@ -79,7 +79,7 @@ class:
 
 ---
 
-## Preferred entry
+## Preferred Mid-Field Traffic Pattern Entry
 
 ![h:550](images/image-3.png)
 
@@ -153,7 +153,7 @@ These may be less than physical distances to account for runway safety area buff
 
 ---
 
-## Light gun signals
+## Light Gun Signals
 
 ![alt text](images/image-4.png)
 
