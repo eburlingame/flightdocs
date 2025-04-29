@@ -40,15 +40,15 @@ To understand basic meteorology concepts and how they relate to aviation, especi
 
 ## Overview
 
-- The Atmosphere
+- The atmosphere
 - Temperature
 - Pressure
 - Wind
 - Turbulence
 - Stability
-- Moisture and Clouds
+- Moisture, fog, and clouds
+- Air masses and fronts
 - Thunderstorms
-- Mountain Wave
 
 ---
 
@@ -282,6 +282,12 @@ In the northern hemisphere:
 </div>
 
 </div>
+
+---
+
+## Lenticular clouds often indicate mountain wave
+
+![h:500](images/image-73.png)
 
 ---
 
