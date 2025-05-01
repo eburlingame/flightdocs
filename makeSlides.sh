@@ -13,19 +13,19 @@ convert_to_pdf() {
     yarn marp "$file" "--pdf" "--pdf-notes" "--allow-local-files" "-o" "static/slides/$filename.pdf"
 }
 
-# convert_to_pdf slides/human-factors/human-factors.md                      static/slides/human-factors.pdf
-# convert_to_pdf slides/ground-operations/airport-markings.md               static/slides/airport-markings.pdf
-# convert_to_pdf slides/ground-operations/runway-incursions.md              static/slides/runway-incursions.pdf
-# convert_to_pdf slides/ground-operations/taxi-operations.md                static/slides/taxi-operations.pdf
-# convert_to_pdf slides/systems/flight-controls.md                          static/slides/flight-controls.pdf
-# convert_to_pdf slides/systems/powerplants.md                              static/slides/powerplants.pdf
-# convert_to_pdf slides/systems/systems.md                                  static/slides/systems.pdf
-# convert_to_pdf slides/systems/instruments.md                              static/slides/instruments.pdf
-# convert_to_pdf slides/airport-operations/airport-operations.md            static/slides/airport-operations.pdf
-# convert_to_pdf slides/weather/weather-products.md                         static/slides/weather-products.pdf
-# convert_to_pdf slides/weather/weather-theory.md                           static/slides/weather-theory.pdf
-# convert_to_pdf slides/airworthiness/airworthiness.md                      static/slides/airworthiness.pdf
-# convert_to_pdf slides/collision-avoidance/collision-avoidance.md          static/slides/collision-avoidance.pdf
+convert_to_pdf slides/human-factors/human-factors.md                      static/slides/human-factors.pdf
+convert_to_pdf slides/ground-operations/airport-markings.md               static/slides/airport-markings.pdf
+convert_to_pdf slides/ground-operations/runway-incursions.md              static/slides/runway-incursions.pdf
+convert_to_pdf slides/ground-operations/taxi-operations.md                static/slides/taxi-operations.pdf
+convert_to_pdf slides/systems/flight-controls.md                          static/slides/flight-controls.pdf
+convert_to_pdf slides/systems/powerplants.md                              static/slides/powerplants.pdf
+convert_to_pdf slides/systems/systems.md                                  static/slides/systems.pdf
+convert_to_pdf slides/systems/instruments.md                              static/slides/instruments.pdf
+convert_to_pdf slides/airport-operations/airport-operations.md            static/slides/airport-operations.pdf
+convert_to_pdf slides/weather/weather-products.md                         static/slides/weather-products.pdf
+convert_to_pdf slides/weather/weather-theory.md                           static/slides/weather-theory.pdf
+convert_to_pdf slides/airworthiness/airworthiness.md                      static/slides/airworthiness.pdf
+convert_to_pdf slides/collision-avoidance/collision-avoidance.md          static/slides/collision-avoidance.pdf
 
 convert_to_pdf slides/endorsements-logbooks/endorsements-logbooks.md    static/slides/endorsements-logbooks.pdf
 convert_to_pdf slides/pilot-qualifications/pilot-qualifications.md      static/slides/pilot-qualifications.pdf
