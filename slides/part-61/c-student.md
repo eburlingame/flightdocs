@@ -10,7 +10,7 @@ class:
 
 ---
 
-### 61 Subpart C: Student pilots
+### Student Pilots (61 Subpart C)
 
 # 61.83 Eligibility
 
@@ -23,7 +23,7 @@ class:
 
 ---
 
-### 61 Subpart C: Student pilots
+### Student Pilots (61 Subpart C)
 
 # 61.87 Initial solo
 
@@ -35,7 +35,7 @@ class:
 
 ---
 
-### 61 Subpart C: Student pilots
+### Student Pilots (61 Subpart C)
 
 # 61.87 Pre-solo knowledge test
 
@@ -45,15 +45,28 @@ class:
   - Flight characteristics and operational limitations for the make and model of aircraft to be flown.
 - Provide the **A.3 endorsement**
 
+```
+I certify that [First name, MI, Last name] has satisfactorily completed the pre-solo
+knowledge test of § 61.87(b) for the [make and model (M/M] aircraft.
+```
+
 ---
 
-### 61 Subpart C: Student pilots
+### Student Pilots (61 Subpart C)
 
 # 61.87 Pre-solo training areas
 
-- Items listed in 61.87d (the "15 things")
+- Items listed in [61.87d](<https://www.ecfr.gov/current/title-14/part-61/section-61.87#p-61.87(d)>) (the "15 things")
 - Demonstrate proficiency in make/model OR similar make/model
 - Provide the **A.4 endorsement**
+
+```
+A4. I certify that [First name, MI, Last name] has received and logged pre-solo flight training
+for the maneuvers and procedures that are appropriate to the [M/M] aircraft. I have
+determined they have demonstrated satisfactory proficiency and safety on the maneuvers
+and procedures required by § 61.87 in this or similar make and model of aircraft to be
+flown.
+```
 
 <!--
 15 things:
@@ -80,7 +93,7 @@ class:
 
 ---
 
-### 61 Subpart C: Student pilots
+### Student Pilots (61 Subpart C)
 
 # 61.87 Solo Endorsement
 
@@ -89,9 +102,15 @@ class:
 - Good for 90 days, limited to a single make + model
 - Instructor can add any limitation they desire to the endorsement
 
+```
+A6. I certify that [First name, MI, Last name] has received the required training to qualify for
+solo flying. I have determined they meet the applicable requirements of § 61.87(n) and
+are proficient to make solo flights in [M/M].
+```
+
 ---
 
-### 61 Subpart C: Student pilots
+### Student Pilots (61 Subpart C)
 
 # 61.89 General limitations
 
@@ -103,7 +122,7 @@ class:
 
 ---
 
-### 61 Subpart C: Student pilots
+### Student Pilots (61 Subpart C)
 
 # 61.93 Solo XC
 
@@ -113,7 +132,7 @@ class:
 
 ---
 
-### 61 Subpart C: Student pilots
+### Student Pilots (61 Subpart C)
 
 # 61.93 Repeated Flights to airport within 25nm
 
@@ -125,9 +144,16 @@ class:
 - The purpose must be for takeoff and landing practice at the airport
 - Instructor provides the **A.8 endorsement** for the specific airport
 
+```
+A8. I certify that [First name, MI, Last name] has received the required training of
+§ 61.93(b)(1). I have determined that they are proficient to practice solo takeoffs and
+landings at [airport name]. The takeoffs and landings at [airport name] are subject to the
+following conditions: [List any applicable conditions or limitations.]
+```
+
 ---
 
-### 61 Subpart C: Student pilots
+### Student Pilots (61 Subpart C)
 
 # 61.93 Solo XC Training
 
@@ -136,8 +162,13 @@ class:
 - Then, for each XC flight they must be given a specific **A.10 endorsement**, ensuring:
   - The student's flight planning is correct
   - Flight can be completed in VFR
-  - Student is proficient
-  - Student has a current 90-day endorsement (A.6 or A.7)
+  - Student is proficient and has a current 90-day endorsement (A.6 or A.7)
+
+```
+A9. I certify that [First name, MI, Last name] has received the required solo cross-country
+training. I find they have met the applicable requirements of § 61.93 and are proficient to
+make solo cross-country flights in a [M/M] aircraft, [aircraft category].
+```
 
 <!--
 The "12 things":
@@ -163,7 +194,7 @@ The "12 things":
 
 ---
 
-### 61 Subpart C: Student pilots
+### Student Pilots (61 Subpart C)
 
 # 61.93 Solo XC Checklist
 
@@ -175,16 +206,23 @@ The "12 things":
 
 ---
 
-### 61 Subpart C: Student pilots
+### Student Pilots (61 Subpart C)
 
 # Repeated flights within 50nm
 
 - Usually you need to provide and A.10 endorsement for _each_ flight
 - However, students can make repeated flights to airports within 50nm provided you:
-  - fly with them to/from the airport
-  - enter the traffic pattern
-  - do takeoffs/landings
-  - provide the **A.11 endorsement**
+  - Fly with them to/from the airport
+  - Enter the traffic pattern
+  - Do takeoffs/landings
+  - Provide the **A.11 endorsement**
+
+```
+A11. I certify that [First name, MI, Last name] has received the required training in both
+directions between and at both [airport names]. I have determined that they are proficient
+of § 61.93(b)(2) to conduct repeated solo cross-country flights over that route, subject to
+the following conditions: [List any applicable conditions or limitations.]
+```
 
 ---
 
@@ -200,21 +238,21 @@ The "12 things":
 
 1. A pre-solo knowledge test and A.3 endorsement - other instructor endorsement ok
 2. Flight training per 61.87d and A.4 endorsement - other instructor endorsement ok
-3. 90-solo flight endorsement, A.7 (recurring) - you'll need to give this
+3. 90-solo flight endorsement, A.7 (recurring) - other instructor ok, until 90 days is up
 4. Flight training on 61.93e and a A.9 endorsement - give this
 5. Endorsement for the specific XC flight to be completed: A.10 - give this
 
 ---
 
-### 61 Subpart C: Student pilots
+### Student Pilots (61 Subpart C)
 
 # 61.95 Solo in Class B Airspace
 
 - Students can be endorsed to fly in a _specific_ Class B airspace
-  - Requires the [A.12 endorsement](/_references/AC-61-65/A.13) endorsement for flight in Class B airspace
-  - Requires the [A.13 endorsement](/_references/AC-61-65/A.13) endorsement for flight landing/departing from the primary airport, or outlying airport
+  - Requires the A.12 endorsement for flight in Class B airspace
+  - Requires the A.13 endorsement for flight landing/departing from the primary airport (or an outlying airport)
 - Some airports require a PPL or higher to operate at the airport (the "dirty dozen")
   - These are listed in [Part 91 Appendix D, Section 4](<https://www.ecfr.gov/current/title-14/part-91#p-Appendix-D-to-Part-91(Section 1.)(Section%204)>)
-  - Atlanta, GA; Boston, MA; Camp Springs, MD; Chicago, IL; Dallas, TX; Los Angeles, CA; Miami, FL; Newark, NJ; New York, NY; New York, NY; San Francisco, CA; DC
+  - Atlanta, GA; Chicago, IL TX; Los Angeles, CA; New York, NY; New York, NY; etc.
   - Students can still operate in the airspace, however
 - Class B endorsements have a 90 day limit
