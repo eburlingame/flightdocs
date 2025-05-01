@@ -19,7 +19,8 @@ To understand and apply the required endorsement for pilot training and currency
 - Logbook requirements
 - Flight reviews
 - Endorsements
-- Student pilot
+- Aircraft Category / Class Ratings
+- Student pilot privileges and limitations
 - Flight instructor currency requirements
 
 ---
@@ -48,7 +49,7 @@ To understand and apply the required endorsement for pilot training and currency
   - A review of the current general operating and flight rules of part 91 of this chapter; and
   - A review of those maneuvers and procedures that, at the discretion of the person giving the review, are necessary for the pilot to demonstrate the safe exercise of the privileges of the pilot certificate.
 - Completion with the A.65 endorsement
-- Good for 2 years
+- Good for 2 years (to the end of the month)
 
 ---
 
@@ -104,12 +105,38 @@ subject areas in which they were deficient on the [applicable] airman knowledge 
 
 ---
 
+## Aircraft Category and Classes
+
+### Categories are broad
+
+- Airplane
+- Rotorcraft
+- Glider
+- Lighter-than-air
+
+### Classes are breakdown a category
+
+- Airplane
+  - Single-engine
+  - Multi-engine
+  - Land
+  - Sea
+- Rotorcraft
+  - Gyroplane
+  - Helicopter
+- Lighter-than-air
+  - Airship
+  - Free balloon
+
+---
+
 # 61.63 Adding a Class Rating
 
 - [61.63(c)](<https://www.ecfr.gov/current/title-14/part-61/section-61.63#p-61.63(c)>) A pilot looking to add an additional aircraft class rating:
   - Does _not_ need the specified aeronautical experience
-  - Does _not_ need to a take a written test, provided the pilot holds a airplane/rotorcraft/powered-lift/weight-shift-control aircraft/powered parachute/airship rating
-    - Unpowered aircraft (balloon or glider) will require a knowledge test
+  - Does _not_ need to a take a written test, provided the pilot holds a powered aircraft rating rating
+    - Powered to unpowered: No knowledge test
+    - Unpowered to power: Knowledge test required
 - 61.31(d) To fly solo in an aircraft class which they are not rated:
   - They training and the the **A.72 endorsement**
   - Note that this endorsement does not have an expiration, unless one is added by the instructor
@@ -131,6 +158,23 @@ Aircraft Classes
 - Need A.1 endorsement
 - Need A.2 endorsement, if there was a knowledge test required
 - Need A.74 endorsement, stating the applicant is ready for the practical test
+
+---
+
+## Student Pilots
+
+---
+
+### 61 Subpart C: Student pilots
+
+# 61.83 Eligibility
+
+- Must be 16
+- Read write an understand English
+  - ICAO Level 4 English
+  - See AC 60-28B, Appendix A for evaluation
+- 3rd Class Medical, or BasicMed
+- Student pilot application via IACRA
 
 ---
 
@@ -259,7 +303,7 @@ are proficient to make solo flights in [M/M].
 A8. I certify that [First name, MI, Last name] has received the required training of
 § 61.93(b)(1). I have determined that they are proficient to practice solo takeoffs and
 landings at [airport name]. The takeoffs and landings at [airport name] are subject to the
-following conditions: [List any applicable conditions or limitations.
+following conditions: [List any applicable conditions or limitations.]
 ```
 
 ---
@@ -349,7 +393,7 @@ the following conditions: [List any applicable conditions or limitations.]
 
 1. A pre-solo knowledge test and A.3 endorsement - other instructor endorsement ok
 2. Flight training per 61.87d and A.4 endorsement - other instructor endorsement ok
-3. 90-solo flight endorsement, A.7 (recurring) - you'll need to give this
+3. 90-solo flight endorsement, A.7 (recurring) - other instructor ok, until 90 days is up
 4. Flight training on 61.93e and a A.9 endorsement - give this
 5. Endorsement for the specific XC flight to be completed: A.10 - give this
 
@@ -379,6 +423,9 @@ the following conditions: [List any applicable conditions or limitations.]
   - Take a practical test for your current instructor rating, or a new rating
   - Recommend 5 applicants for checkrides and have an 80% first-time pass rate
   - Complete a phase of the WINGS program and provide 15 hours of flight time for at least 5 pilots
+- If an instructor's recency has lapsed, within 3 months you can:
+  - Take a practical test for current or new instructor rating
+  - Take a FIRC
 - Note a practical test can be used in lieu of a flight review, but a FIRC cannot
 
 ---

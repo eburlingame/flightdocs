@@ -18,7 +18,7 @@ class:
 - Be able to read, speak, write, and understand the English language
   - ICAO Level 4 English
   - See AC 60-28B, Appendix A for evaluation
-- Hold a student, sport, or recreational pilot certificate
+- Hold a private pilot certificate
 - Pass a knowledge test
 - Meet the aeronautical experience 61.129
 
@@ -118,8 +118,7 @@ https://www.faa.gov/about/office_org/headquarters_offices/agc/practice_areas/reg
 # 61.133 and 119.1 Privileges and Limitations
 
 - A commercial pilot is free to work _for_ a commercial operator, who is certificated for the operations they perform.
-- They may also act _as_ an operator themselves, but the services their offer
-  may require a operating certificate.
+- They may also act _as_ an operator themselves, but the services they offer may require a operating certificate.
 - A person _or_ an organization can be a commercial operator
 
 ---
@@ -149,7 +148,7 @@ For carrying passengers/cargo for hire:
 - Private carriage:
   - For airplanes with >20 seats, or a payload capacity of >6000 lbs.
     - Private carriage operating certificate required per Part 125
-  - Otherwise, 
+  - Otherwise,
     - Operate under Part 91, no operating certificate required
 
 ---

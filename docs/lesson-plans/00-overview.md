@@ -171,7 +171,7 @@ Lesson plans designed for the Flight Instructor Airplane ACS:
         <!-- 27 -->
             <td>III.A</td>
             <td>Pilot Qualifications</td>
-            <td></td>
+            <td>[Slides](/slides/pilot-qualifications.pdf)</td>
         </tr>
         <tr>
         <!-- 28 -->
@@ -199,3 +199,15 @@ Lesson plans designed for the Flight Instructor Airplane ACS:
         </tr>
     </tbody>
 </table>
+
+## Other Slides
+
+Additional slides covering more topics
+
+- [Part 61 C Student Pilots](/slides/c-student.pdf)
+- [Part 61 D Recreational Pilots](/slides/d-recreational.pdf)
+- [Part 61 E Private Pilots](/slides/e-private.pdf)
+- [Part 61 F Commercial Pilots](/slides/f-commercial.pdf)
+- [Part 61 H Flight Instructor](/slides/h-instructors.pdf)
+- [Part 61 J Sport Pilots](/slides/j-sport.pdf)
+- [Part 61 K Sport Flight Instructors](/slides/k-sport-instructors.pdf)

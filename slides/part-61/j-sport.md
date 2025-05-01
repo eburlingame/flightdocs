@@ -73,7 +73,7 @@ class:
   - Single, reciprocating engine
   - Fixed-pitch propeller (ground-adjustable ok)
   - Non-pressurized cabin
-  - Fix landing gear
+  - Fixed landing gear
 
 ---
 
@@ -110,7 +110,7 @@ class:
 - Cannot fly:
   - In a passenger-carrying capacity for a charitable organization
   - At altitudes higher than 10,000 MSL or 2000 AGL, whichever is higher
-  - With surface visibility less than 3s.m.
+  - With surface visibility less than 3 s.m.
   - Without visual reference to the surface
 
 ---
