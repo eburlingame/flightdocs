@@ -30,19 +30,17 @@ Night flying is a privilege of a private pilots, and involves numerous additiona
 ## Overview
 
 - The eye and night vision
-- Definitions of night
-- Disorientation and night illusions
-- Personal equipment
-- Night preflight
-- Engine start
-- Taxiing
-- Takeoff
-- In-flight orientation
-- Use of flight instruments
-- Emergency procedures
-- Traffic patterns
-- Approaches
-- Go-arounds
+- Dark Adaptation
+- Night Illusions
+- Legal definitions of night
+- Night flying equipment
+- Rotation Beacons
+- Airport Lighting
+- Pilot-Controlled Lighting
+- Night takeoffs
+- Night navigation
+- Night approaches and landings
+- Emergencies at night
 
 ---
 
@@ -98,20 +96,6 @@ Vision types:
 - Drugs
 - Alcohol
 - Diet
-
----
-
-## Legal Definitions of Night
-
-![bg right:40% fit](images/image-1.png)
-
-There are three different legal definitions of night.
-
-- Aircraft lights (91.209): Sunset to sunrise
-  - Position/nav lights on
-- Night flight (FAR Part 1) - End of evening civil twilight to start of morning civil twilight
-  - Needed to log night flight hours for a certificate/rating
-- 90-day night currency (61.57) - 1 hour after sunset to 1 hour before sunrise
 
 ---
 
@@ -183,6 +167,24 @@ Use caution when approaching to land with no lights except the runway lights, li
 
 ---
 
+# Legal Requirements for Night Operations
+
+---
+
+## Legal Definitions of Night
+
+![bg right:40% fit](images/image-1.png)
+
+There are three different legal definitions of night.
+
+- Aircraft lights (91.209): Sunset to sunrise
+  - Position/nav lights on
+- Night flight (FAR Part 1) - End of evening civil twilight to start of morning civil twilight
+  - Needed to log night flight hours for a certificate/rating
+- 90-day night currency (61.57) - 1 hour after sunset to 1 hour before sunrise
+
+---
+
 ## Night Flying Equipment
 
 ![bg right:35% fit](images/image-10.png)
@@ -219,6 +221,26 @@ Use caution when approaching to land with no lights except the runway lights, li
 
 ---
 
+## Knowledge Check: Position Light Recognition
+
+<div class="h-stack">
+
+![h:500](images/position-light-recognition-blank.png)
+
+</div>
+
+---
+
+## Knowledge Check: Position Light Recognition
+
+<div class="h-stack">
+
+![h:500](images/position-light-recognition.png)
+
+</div>
+
+---
+
 # Airport Lighting
 
 ---
@@ -227,10 +249,14 @@ Use caution when approaching to land with no lights except the runway lights, li
 
 ![bg left:50% fit](images/image-12.png)
 
+Airport colors:
+
 - White/green: Lighted land airport
 - Two white flashes/green: Military airport
 - White/yellow: Lighted water airport
 - White/yellow/green: Lighted heliport
+
+A beacon operating during the daytime may indicate IFR conditions.
 
 ---
 
@@ -257,7 +283,7 @@ Use caution when approaching to land with no lights except the runway lights, li
 
 ---
 
-## Pilot-Controlled Lighting
+## Pilot-Controlled Lighting (PCL)
 
 ![bg left:50% fit](images/IMG_D76061BC6E1E-1.jpeg)
 
@@ -279,4 +305,148 @@ Use caution when approaching to land with no lights except the runway lights, li
 
 ---
 
+### Runway Guard Lights - Hold short bars
+
+Used to indicate hold short bars
+
+<div class="h-stack">
+
+![](images/image-16.png)
+
+</div>
+
+### Red stop bar lights - Automatically activate when the runway is active
+
+<div class="h-stack">
+
+![](images/image-17.png)
+
+</div>
+
+---
+
+## Start, Taxi, and Runup at Night
+
+![bg left:40% fit](images/image-19.png)
+
+- Beacon/anti-collision lights on before starting engine
+- Taxi with taxi lights, or landing lights on (if equipped)
+- Hold brakes firmly during runup
+  - It's difficult to detect any movement of the aircraft
+
+---
+
+## Night Takeoffs
+
+- Relay on flight instruments, since fewer visual references are available
+- Ensure a positive rate of climb using the altimeter and VSI
+- Use heading indicator to maintain heading
+
+---
+
+## Night Navigation
+
+![bg left:50% fit](images/image-18.png)
+
+- Be careful with iPad brightness at night
+- Use good pilotage
+  - Cross-check urban areas on the sectional with city lights
+  - Identify airports and obstacles where you expect them
+
+---
+
+### Beacons on a Sectional
+
+![h:275](images/image-21.png)
+
+### Lighted Obstacles
+
+![](images/image-22.png)
+
+---
+
+## Night Approaches and Landings
+
+![bg right:38% fit](images/image-20.png)
+
+- Identify the airport and runway early
+- Fly a normal traffic pattern
+- Use normal power and flap settings
+- Use a heading bug on the runway heading to help prevent disorientation
+- Fly a stabilized approach
+  - Use the VASI or PAPI
+  - Use glideslope indicator, if available
+- It can be difficult to judge distance and height
+  - Tendency to approach slow and flare high
+  - Practice landings without a landing light
+
+---
+
+## Judging Flare Height
+
+<div class="h-stack">
+
+![h:480](images/image-23.png)
+
+</div>
+
+Round out just when tire marks become visible on the runway.
+
+---
+
+## Emergencies at Night
+
+What is a minor emergency in the day may be a major emergency at night.
+
+- Engine failure:
+  - Same emergency procedure as the day, but landing options will be limited
+- Alternator failure:
+  - Attempt to reset the alternator with circuit breakers and master switch
+  - Otherwise, turn off non-essential equipment and land
+
+---
+
 # Summary
+
+- Dark adaptation: 30 minutes to adjust
+- Night illusions: Good scanning habits
+- Legal definitions of night: Logging vs lights vs currency
+- Night flying equipment: FLAPS
+- Rotation beacons: Airports are green and white
+- Airport lighting: PCL 3, 5, 7 clicks
+- Night takeoffs: Use your instruments
+- Night navigation: Use good pilotage
+- Night approaches: Use glideslope aid
+- Emergencies at night: Land on what you can see, but know the risks
+
+---
+
+## Knowledge Check
+
+You are flying at night and see a white light and a green light ahead of you.
+
+What is the other aircraft's relative position?
+
+---
+
+## Knowledge Check
+
+You see a light on the ground that has two white flashes, then a green flash.
+
+Can you land at that airport?
+
+---
+
+## Knowledge Check
+
+Your engine fails at night. You are flying above and Interstate highway.
+
+Would you land on the highway? What are some of your concerns?
+
+---
+
+## Knowledge Check
+
+You are on a long cross-country flight at night in eastern Washington. You are flying over a large area of unlit terrain. In the distance you see a group of synchronized flashing red lights.
+
+What do you think they are?

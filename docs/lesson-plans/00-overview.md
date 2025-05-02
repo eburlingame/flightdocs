@@ -152,8 +152,8 @@ Lesson plans designed for the Flight Instructor Airplane ACS:
         <tr>
         <!-- 24 -->
             <td>II.M</td>
-            <td>Night Operations</td>
-            <td></td>
+            <td>[Night Operations](/docs/lesson-plans/night-operations)</td>
+            <td>[Slides](/slides/night-operations.pdf)</td>
         </tr>
         <tr>
         <!-- 25 -->

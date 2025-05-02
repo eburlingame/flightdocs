@@ -13,6 +13,17 @@ convert_to_pdf() {
     yarn marp "$file" "--pdf" "--pdf-notes" "--allow-local-files" "-o" "static/slides/$filename.pdf"
 }
 
+
+convert_to_pdf slides/endorsements-logbooks/endorsements-logbooks.md    static/slides/endorsements-logbooks.pdf
+convert_to_pdf slides/pilot-qualifications/pilot-qualifications.md      static/slides/pilot-qualifications.pdf
+convert_to_pdf slides/part-61/c-student.md                              static/slides/c-student.pdf
+convert_to_pdf slides/part-61/d-recreational.md                         static/slides/d-recreational.pdf
+convert_to_pdf slides/part-61/e-private.md                              static/slides/e-private.pdf
+convert_to_pdf slides/part-61/f-commercial.md                           static/slides/f-commercial.pdf
+convert_to_pdf slides/part-61/h-instructors.md                          static/slides/h-instructors.pdf
+convert_to_pdf slides/part-61/j-sport.md                                static/slides/j-sport.pdf
+convert_to_pdf slides/part-61/k-sport-instructors.md                    static/slides/k-sport-instructors.pdf
+
 convert_to_pdf slides/human-factors/human-factors.md                      static/slides/human-factors.pdf
 convert_to_pdf slides/ground-operations/airport-markings.md               static/slides/airport-markings.pdf
 convert_to_pdf slides/ground-operations/runway-incursions.md              static/slides/runway-incursions.pdf
@@ -26,16 +37,7 @@ convert_to_pdf slides/weather/weather-products.md                         static
 convert_to_pdf slides/weather/weather-theory.md                           static/slides/weather-theory.pdf
 convert_to_pdf slides/airworthiness/airworthiness.md                      static/slides/airworthiness.pdf
 convert_to_pdf slides/collision-avoidance/collision-avoidance.md          static/slides/collision-avoidance.pdf
-
-convert_to_pdf slides/endorsements-logbooks/endorsements-logbooks.md    static/slides/endorsements-logbooks.pdf
-convert_to_pdf slides/pilot-qualifications/pilot-qualifications.md      static/slides/pilot-qualifications.pdf
-convert_to_pdf slides/part-61/c-student.md                              static/slides/c-student.pdf
-convert_to_pdf slides/part-61/d-recreational.md                         static/slides/d-recreational.pdf
-convert_to_pdf slides/part-61/e-private.md                              static/slides/e-private.pdf
-convert_to_pdf slides/part-61/f-commercial.md                           static/slides/f-commercial.pdf
-convert_to_pdf slides/part-61/h-instructors.md                          static/slides/h-instructors.pdf
-convert_to_pdf slides/part-61/j-sport.md                                static/slides/j-sport.pdf
-convert_to_pdf slides/part-61/k-sport-instructors.md                    static/slides/k-sport-instructors.pdf
+convert_to_pdf slides/night-operations/night-operations.md          static/slides/night-operations.pdf
 
 # Recursively scan all .md files in the slides directory and convert them to .pdf using marp
 # mkdir -p static/slides
