@@ -8,5 +8,14 @@
     "markdown.copyFiles.destination": {
       "**/*": "${documentDirName}/images/${fileName}",
     },
+    "github.copilot.enable": {
+      "*": true,
+      "plaintext": false,
+      "markdown": true,
+      "scminput": false,
+      "yaml": true,
+      "typescriptreact": true,
+      "rust": "true"
+    },
   },
 }
