@@ -129,7 +129,7 @@ Lesson plans designed for the Flight Instructor Airplane ACS:
         <!-- 20 -->
             <td>II.H</td>
             <td>Navigation Systems and Radar Services</td>
-            <td></td>
+            <td>[Slides](/slides/navigation-systems.pdf)</td>
         </tr>
         <tr>
         <!-- 21 -->
