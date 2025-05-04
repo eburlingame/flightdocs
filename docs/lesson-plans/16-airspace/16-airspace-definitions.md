@@ -1,10 +1,12 @@
 # Airspace: Definitions
 
-## Objectives
+## Objective
 
-Understand the purpose of the national airspace system, the 5 classes of airspace, and how they are shown on a chart.
+Understand the purpose of the National Airspace System, the 5 classes of airspace, and how they are shown on a sectional chart.
 
-## Motivations
+## Motivation
+
+Flying in the National Airspace System is an important component of flight planning and a consideration for almost every flight. A pilot needs to know what airspace they are in and what are the requirements for flying in each of the different kinds of airspace.
 
 ## Timings
 

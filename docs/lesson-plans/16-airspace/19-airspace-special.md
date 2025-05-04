@@ -1,10 +1,12 @@
 # Airspace: Special-Use Airspace
 
-## Objectives
+## Objective
 
-Understand the different types of special use airspace, their entry requirements and restrictions, plus TFRs.
+Identify special airspace other than basic class airspace, and describe their limitations and entry requirements. Also understand chart publication frequency and valid dates.
 
-## Motivations
+## Motivation
+
+There is a large collection of special-use airspace (SUA), which supplements the basic classes of airspace to provide protection around various areas. Pilots need to to know which airspace they can and cannot fly into.
 
 ## Timings
 

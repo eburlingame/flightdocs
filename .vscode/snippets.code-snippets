@@ -86,4 +86,8 @@
     ],
     "description": "Create a slide template",
   },
+  "hslide": {
+    "prefix": "hslide",
+    "body": ["---", "", "## $1", "", "<div class=\"h-stack\">", "", "</div>"],
+  },
 }
