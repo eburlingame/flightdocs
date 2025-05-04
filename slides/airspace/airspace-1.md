@@ -228,9 +228,16 @@ Airspace is divided into 5 class:
 
 <div class="h-stack">
 
+<div>
+
 ![w:400](images/image-13.png)
 
+![w:400](images/image-27.png)
+
+</div>
+
 - Boxed `29` = Surface to 2900' MSL
+- Boxed `-12` = Surface to below 1,200' MSL
 
 </div>
 

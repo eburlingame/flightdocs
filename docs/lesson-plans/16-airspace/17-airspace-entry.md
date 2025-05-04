@@ -22,7 +22,6 @@ Understand the entry requirements for each class of airspace.
   - IFR clearance
   - Separation services provided
 - Class B airspace
-  - IFR flight plan and clearance
   - Explicit ATC clearance
     - "N549SR cleared in the Class B, maintain 3000"
   - Separation services provided
@@ -38,7 +37,7 @@ Understand the entry requirements for each class of airspace.
   - ADS-B Out + Mode C transponder required within and above the airspace
 - Class D airspace
   - Two-way radio required for entry:
-    - Same callsign requirements as Clasc C
+    - Same callsign requirements as Class C
   - Separation and sequencing provided for VFR traffic
   - No ADS-B Out + Mode C transponder required
   - Some ATCTs are part-time
