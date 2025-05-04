@@ -90,4 +90,8 @@
     "prefix": "hslide",
     "body": ["---", "", "## $1", "", "<div class=\"h-stack\">", "", "</div>"],
   },
+  "hstack": {
+    "prefix": "hstack",
+    "body": ["<div class=\"h-stack\">", "", "$1", "", "</div>"],
+  },
 }

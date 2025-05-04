@@ -325,6 +325,19 @@ Airspace is divided into 5 class:
 
 ---
 
+## Class E Airspace: Airways
+
+<div class="h-stack">
+
+![w:600](images/image-34.png)
+
+- Within 4nm of a Federal Airway
+- Class E begins at 1,200 ft. and extends up to but not including 18,000 ft. MSL
+
+</div>
+
+---
+
 ## Class E Airspace: Above 60,000'
 
 ![w:500](images/image-3.png)
