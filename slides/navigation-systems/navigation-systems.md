@@ -409,22 +409,23 @@ Different VORs have different power outputs.
 
 <div class="h-stack">
 
+![w:500](images/image-16.png)
+
 - VFR "flight following"
   - Traffic advisories
   - Airspace alerts
   - Advisory altitudes and headings
 - See and avoid still applies
-- You must maintain VFR and required cloud clearances
+- You must maintain VFR and required cloud clearance
 - You need to maintain a safe altitude
 
 ---
 
 ## Flight Following Radio Calls
 
-- "Portland Approach, Cessna 12382, 3 mi north of the Salem airport, 3000 ft, VFR to to KBFI, request flight following."
-- "Cessna 12382, Portland Approach, radar contact 3 mi north of Salem airport, squawk 4583."
-
-![](images/image-16.png)
+- "Portland Approach, Cessna 12382, with a request"
+- "Portland Approach, Cessna 12382, 3 miles north of the Salem airport, 3000 feet, VFR to to KBFI, request flight following."
+- "Cessna 12382, Portland Approach, radar contact 3 miles north of Salem airport, squawk 4583."
 
 </div>
 
@@ -436,24 +437,23 @@ Different VORs have different power outputs.
 
 <div class="flex-1">
 
-- Radio Navigation
-  - Principle of Operation
-  - Frequency Ranges
-  - Types of Navigation Systems (VOR, NDB, DME)
-- Flying with Radio Navigation
-  - Tuning and IDing Stations
-  - CDIs and HSIs
-  - Intercepting a Course or Radial
+- VORs: Radial or bearing to/from station
+- DME: Measure slant distance
+- NDB: Gives you direction to the station
+- Using VORs
+  - Tune and ID the station with morse code
+  - CDIs and HSI
+  - Intercept and tracking a course
 
 </div>
 
 <div class="flex-1">
 
-- Transponders
-- ADS-B
-- GPS
-- EFB
-- Radar Services
+- Transponders: Give altitude and ID information
+- ADS-B Out: Continual broadcast of position/velocity
+- GPS: Satellite-based navigation
+- EFB: Keep them charged and updated
+- Radar Services: VFR flight following
 
 </div>
 
