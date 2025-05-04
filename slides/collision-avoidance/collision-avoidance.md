@@ -171,6 +171,14 @@ Vision types:
 
 ---
 
+## Wind and Closure Rate
+
+Aircraft may not be pointed at each other if on a collision course, due to wind correction angle
+
+![](images/image-18.png)
+
+---
+
 ## Clearing Procedures for Maneuvers
 
 ![bg right:40% fit](images/image-15.png)

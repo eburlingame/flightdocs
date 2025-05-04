@@ -101,7 +101,7 @@ class:
 
 ---
 
-## Airports with a ATCT
+## Airports with a Control Tower
 
 - Maintain contact with the control tower while you're in the airspace
 - Some airports have a radar display, but not all
@@ -110,7 +110,7 @@ class:
 
 ---
 
-## Runway distances
+## Runway Distances
 
 ![h:300](<images/KVUO Pearson Field.jpeg>)
 

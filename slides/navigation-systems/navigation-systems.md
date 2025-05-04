@@ -215,7 +215,7 @@ Different VORs have different power outputs.
 
 ## Bearing vs Radial
 
-![bg left:40% fit](images/image-16.png)
+![bg left:40% fit](images/image-22.png)
 
 - Bearing is the magnetic course **TO** the station
 - Radial is the magnetic course **FROM** the station
@@ -291,7 +291,7 @@ Different VORs have different power outputs.
   - Needs at least 4 satellites
 - Used for Area Navigation: Allows point-to-point navigation without VORs
 - Can be made more accurate with WAAS: Wide-Area Augmentation System
-  - Uses a series of ground stations to apply corrections to GPS signal
+  - Uses 3 additional satellites which broadcast a correction signal
 
 </div>
 
@@ -316,6 +316,22 @@ Different VORs have different power outputs.
 
 ---
 
+## CDIs and GPS
+
+<div class="h-stack">
+
+![alt text](images/image-24.png)
+
+- With GPS installed, CDI can be in GPS or VLOC (VOR or Localizer) mode
+- Ensure the correct mode is selected
+- In GPS mode
+  - CDI has different "sensitivity"
+  - Needle shows horizontal distance from desired course
+
+</div>
+
+---
+
 ## Transponders
 
 ![bg left:30% contain](images/image-17.png)
@@ -324,12 +340,14 @@ Different VORs have different power outputs.
 - 4-digit code ("squawk code") can be entered
 - Transponder modes
   - Mode A - Location and squawk code
-  - Mode C - Location, squawk code, and barometric altitude
+  - Mode C - Location, squawk code, baro altitude
   - Mode S - Location, squawk code, altitude, callsign
 - Emergency squawk codes
   - 7500: Hijacking
   - 7600: Loss of radio communications
   - 7700: General emergency
+
+<!-- Note the barometric altimeter doesn't use our altimeter's baro setting. The correction is computed on the ATC side so it's the same for all aircraft -->
 
 ---
 
@@ -348,7 +366,7 @@ Different VORs have different power outputs.
 - Continual broadcast of velocity and position information
   - Requires a WAAS-based GPS position source
 - Two flavors
-  - ADS-B Out: Mandated in many areas since 2019
+  - ADS-B Out: Mandated in many areas since 2020
   - ADS-B In: Voluntary, traffic + weather information on cockpit displays
 
 </div>
@@ -366,12 +384,49 @@ Different VORs have different power outputs.
   - Aviation data updated every 28 days
   - Charts updated every 56 days
 - Beware of delays when looking at ADS-B weather information
+- Bring a charger, battery pack, or backup
+
+</div>
+
+---
+
+## Air Traffic Control Radar
+
+<div class="h-stack">
+
+![w:1200](images/image-23.png)
+
+- ATC needs a picture of all the aircraft
+- Two kinds of radar build this picture:
+  - Primary radar: Radar waves bouncing off targets - position only
+  - Secondary radar: Radar signal interrogating aircraft transponder - altitude, callsign
 
 </div>
 
 ---
 
 ## Radar Services
+
+<div class="h-stack">
+
+- VFR "flight following"
+  - Traffic advisories
+  - Airspace alerts
+  - Advisory altitudes and headings
+- See and avoid still applies
+- You must maintain VFR and required cloud clearances
+- You need to maintain a safe altitude
+
+---
+
+## Flight Following Radio Calls
+
+- "Portland Approach, Cessna 12382, 3 mi north of the Salem airport, 3000 ft, VFR to to KBFI, request flight following."
+- "Cessna 12382, Portland Approach, radar contact 3 mi north of Salem airport, squawk 4583."
+
+![](images/image-16.png)
+
+</div>
 
 ---
 
@@ -406,5 +461,24 @@ Different VORs have different power outputs.
 
 ---
 
-- VOR out-of-service
-- How far can use a terminal VOR?
+## Knowledge Check
+
+You tune a VOR and ID the station, only to find there's no morse code being transmitted on the station's frequency.
+
+What does this mean? What would you use instead?
+
+---
+
+## Knowledge Check
+
+The Olympia airport (KOLM) has a High power VOR that you plan to use in your flight plan. Your planning to cruise at 4500'.
+
+Will you be able to reliably use the VOR signal from 100nm away? What about 50nm?
+
+---
+
+## Knowledge Check
+
+You're using VFR flight following, and they asked you to climb to 4500' for traffic. The cloud bases are around 4000'.
+
+What would you do?
