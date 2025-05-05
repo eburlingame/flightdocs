@@ -1,10 +1,12 @@
 # Airspace: Entry Requirements
 
-## Objectives
+## Objective
 
-Understand the entry requirements for each class of airspace.
+Identify airspace on a sectional chart and determine the requirements for entering that given airspace.
 
-## Motivations
+## Motivation
+
+Different classes of airspace have different entry requirements and provide different level of services to aircraft. We need to know the entry requirements for each class before flying into them.
 
 ## Timings
 
@@ -22,7 +24,6 @@ Understand the entry requirements for each class of airspace.
   - IFR clearance
   - Separation services provided
 - Class B airspace
-  - IFR flight plan and clearance
   - Explicit ATC clearance
     - "N549SR cleared in the Class B, maintain 3000"
   - Separation services provided
@@ -38,7 +39,7 @@ Understand the entry requirements for each class of airspace.
   - ADS-B Out + Mode C transponder required within and above the airspace
 - Class D airspace
   - Two-way radio required for entry:
-    - Same callsign requirements as Clasc C
+    - Same callsign requirements as Class C
   - Separation and sequencing provided for VFR traffic
   - No ADS-B Out + Mode C transponder required
   - Some ATCTs are part-time
@@ -52,6 +53,16 @@ Understand the entry requirements for each class of airspace.
   - Flying into Portland Class C airspace, what do we need?
   - Flying into Seattle Class B airspace, what do we need?
   - Flying at 16,000' VFR and we need to climb due to weather, what should we be aware of?
+
+## Questions
+
+- You are looking to transition KPDX's airspace at 3000' MSL. You call Portland Tower and ask for a northbound transition.
+  - They reply "N12382, standby." Are you cleared to enter the airspace?
+  - What if they reply "Aircraft calling, standby?"
+- What's the meaning of the `*L` on a airport block?
+- What about the star symbol next to 124.4?
+- You are flying an airplane with no transponder or ADS-B equipment. You plan to make a flight to the Eugene airport for some repairs.
+  - Are you able to land there? Do you need to make any prior arrangements?
 
 ## References
 

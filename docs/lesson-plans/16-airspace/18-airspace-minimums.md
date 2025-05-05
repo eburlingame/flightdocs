@@ -1,10 +1,12 @@
 # Airspace: Weather Minimums
 
-## Objectives
+## Objective
 
-Understand the entry requirements for each class of airspace.
+Identify class airspace on a sectional chart and describe any weather, equipment, or speed restrictions needed to operate within the airspace. Also determine what pilot qualifications are needed for each class.
 
-## Motivations
+## Motivation
+
+Each class of airspace has different weather minimums for VFR flight, equipment requirements, speed limits, and pilot qualification. A pilot will need to know and apply these rules before flying into any airspace.
 
 ## Timings
 
@@ -191,6 +193,17 @@ Understand the entry requirements for each class of airspace.
   - Student pilots nee a endorsement for the specific airspace (61.95)
   - Recreational and sport pilots need a one-time endorsement for all Class B airspace
   - Some Class B airports (listed in Part 91, Appendix D) will require a PPL minimum
+
+## Questions
+
+- An localized bank of stratus clouds are over your airport at 900 ft. AGL, but there are clear skies to the west. The clouds are forecast to dissipate as the day warms up
+  - Assuming you're departing from an airport with a control tower, is there any way you can depart?
+- You plan to cruise at 4,500 feet to your destination, just below a bank of overcast clouds at 4800 feet.
+  - Is this legal? Is there anything you would be concerned about?
+- You want to practice landings in the traffic pattern at an uncontrolled airport in Class G airspace. The AWOS is reporting 1100 ft. overcast with ground visibility of 1.5 s.m.
+  - Are you legal to fly in the traffic pattern? Is it a good idea?
+- You are approaching to land at an airport AWOS says the surface visibility is 2.5 s.m. 4 miles from the airport you have the runway in sight.
+  - Are you able to land legally?
 
 ## References
 

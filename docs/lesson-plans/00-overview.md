@@ -105,31 +105,31 @@ Lesson plans designed for the Flight Instructor Airplane ACS:
         <!-- 16 -->
             <td>II.G - 1</td>
             <td>[Airspace: Definitions](/docs/lesson-plans/airspace/airspace-definitions)</td>
-            <td></td>
+            <td>[Slides](/slides/airspace-1.pdf)</td>
         </tr>
         <tr>
         <!-- 17 -->
             <td>II.G - 2</td>
             <td>[Airspace: Airspace Entry](/docs/lesson-plans/airspace/airspace-entry)</td>
-            <td></td>
+            <td>[Slides](/slides/airspace-2.pdf)</td>
         </tr>
         <tr>
         <!-- 18 -->
             <td>II.G - 3</td>
             <td>[Airspace: Airspace Minimums](/docs/lesson-plans/airspace/airspace-minimums)</td>
-            <td></td>
+            <td>[Slides](/slides/airspace-3.pdf)</td>
         </tr>
         <tr>
         <!-- 19 -->
             <td>II.G - 4</td>
             <td>[Airspace: Special Airspace](/docs/lesson-plans/airspace/airspace-special)</td>
-            <td></td>
+            <td>[Slides](/slides/airspace-4.pdf)</td>
         </tr>
         <tr>
         <!-- 20 -->
             <td>II.H</td>
             <td>Navigation Systems and Radar Services</td>
-            <td></td>
+            <td>[Slides](/slides/navigation-systems.pdf)</td>
         </tr>
         <tr>
         <!-- 21 -->
@@ -195,7 +195,7 @@ Lesson plans designed for the Flight Instructor Airplane ACS:
         <!-- 31 -->
             <td>VI.A-B</td>
             <td>[Airport Operations / Traffic Patterns](/docs/lesson-plans/airport-operations)</td>
-            <td></td>
+            <td>[Slides](/slides/airport-operations.pdf)</td>
         </tr>
     </tbody>
 </table>

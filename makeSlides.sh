@@ -37,7 +37,12 @@ convert_to_pdf slides/weather/weather-products.md                         static
 convert_to_pdf slides/weather/weather-theory.md                           static/slides/weather-theory.pdf
 convert_to_pdf slides/airworthiness/airworthiness.md                      static/slides/airworthiness.pdf
 convert_to_pdf slides/collision-avoidance/collision-avoidance.md          static/slides/collision-avoidance.pdf
-convert_to_pdf slides/night-operations/night-operations.md          static/slides/night-operations.pdf
+convert_to_pdf slides/night-operations/night-operations.md                static/slides/night-operations.pdf
+convert_to_pdf slides/navigation-systems/navigation-systems.md              static/slides/navigation-systems.pdf
+convert_to_pdf slides/airspace/airspace-1.md                              static/slides/airspace-1.pdf
+convert_to_pdf slides/airspace/airspace-2.md                              static/slides/airspace-2.pdf
+convert_to_pdf slides/airspace/airspace-3.md                              static/slides/airspace-1.pdf
+convert_to_pdf slides/airspace/airspace-4.md                              static/slides/airspace-4.pdf
 
 # Recursively scan all .md files in the slides directory and convert them to .pdf using marp
 # mkdir -p static/slides
