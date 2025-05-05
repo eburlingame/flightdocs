@@ -298,7 +298,7 @@ Aircraft are asked to avoid due to the sensitivity of national security.
 - Aeronautical charts are published every 56 days
 - Effective and expiration days are listed on the chart
 
- </div>
+</div>
 
 ---
 

@@ -2,11 +2,11 @@
 
 ## Objective
 
-Identify special airspace other than basic class airspace, and describe their limitations and entry requirements. Also understand chart publication frequency and valid dates.
+Identify special use airspace on a chart and describe their limitations and entry requirements. Also understand chart publication frequencies and effective dates.
 
 ## Motivation
 
-There is a large collection of special-use airspace (SUA), which supplements the basic classes of airspace to provide protection around various areas. Pilots need to to know which airspace they can and cannot fly into.
+There is a large collection of special-use airspace (SUA), which supplements the basic classes of airspace. This airspace is used to protect special activities on the ground or in the air. Pilots need to to know which airspace they are allowed to operate in or through.
 
 ## Timings
 
@@ -95,6 +95,13 @@ There is a large collection of special-use airspace (SUA), which supplements the
 
 - Aeronautical charts are published every 56 days
 - Effective and expiration days are listed on the chart
+
+## Questions
+
+- Your flight plan will take you over a military operation area (MOA). Where can you find information about whether it's active? If it is active, can you still fly through it?
+- You hear on the news that the president is visiting town on Saturday, the same day you were planning to fly. What would be sure to check before you depart?
+- You're planning a scenic flight over the Grand Canyon. Where would you find information about the flight operations allowed there?
+- Your flight has you cross this military training route VR1084. Where would you expect to find military aircraft along that route?
 
 ## References
 

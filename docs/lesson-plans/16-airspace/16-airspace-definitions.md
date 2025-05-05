@@ -2,7 +2,7 @@
 
 ## Objective
 
-Understand the purpose of the National Airspace System, the 5 classes of airspace, and how they are shown on a sectional chart.
+Understand the purpose of the National Airspace System, the 5 classes of airspace, and how to identify the airspace that you are in.
 
 ## Motivation
 
@@ -58,6 +58,13 @@ Flying in the National Airspace System is an important component of flight plann
     - 2500' to 3000': Class E
     - 3000' to 10,000': Class B
     - 10,000 to 18,000': Class E
+
+## Questions
+
+- What are the layers of airspace above KSBP?
+  - NW of KSBP?
+  - Over Morro Bay?
+- What are the layers of airspace above KRNT?
 
 ## References
 
