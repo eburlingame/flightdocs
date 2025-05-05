@@ -49,6 +49,10 @@ Pilots need to understand the scope and organization of regulatory information t
   - Part 61: Airmen Certification, Pilots and Instructors
   - Part 67: Medical Standards
   - Part 91: General Operating and Flight Rules
+- Where to find the FARs
+  - [eCFR Website](https://www.ecfr.gov/current/title-14/)
+  - ForeFlight documents
+  - ASA FAR/AIM App
 
 ---
 
@@ -289,6 +293,10 @@ Requires _immediate_ notification of accident, or the following serious incident
 ![w:1000](images/image.png)
 
 - Lists changes for the latest edition of the AIM
+- Where to find the AIM
+  - [FAA.gov website](https://www.faa.gov/air_traffic/publications/atpubs/aim_html/chap4_section_3.html#$paragraph4-3-2)
+  - ForeFlight documents
+  - ASA FAR/AIM App
 
 </div>
 
@@ -304,6 +312,8 @@ Requires _immediate_ notification of accident, or the following serious incident
 - Help resolve misunderstandings resulting from the FARs
 - Organized by CFR part (00, 61, 91), given a new letter after each revision
   - E.g. 61-65J
+- Where to find ACs
+  - [FAA.gov AC page](https://www.faa.gov/regulations_policies/advisory_circulars/)
 
 ---
 
@@ -328,6 +338,8 @@ Example:
 - SAFO 25001: Risks Associated with Visual Approaches
 - SAFO 24001: Boeing 737ED Exit door plugs
 
+Find on the [FAA.gov SAFO page](https://www.faa.gov/other_visit/aviation_industry/airline_operators/airline_safety/safo/all_safos)
+
 ---
 
 ## Information For Operators (InFOs)
@@ -338,6 +350,8 @@ InFOs contain information for operators that help them meet certain administrati
 
 Similar to SAFOs, but less urgent and not safety-related.
 
+Find on the [FAA.gov InFOs page](https://www.faa.gov/other_visit/aviation_industry/airline_operators/airline_safety/info/all_infos)
+
 ---
 
 ## Letters of Interpretation
@@ -346,6 +360,8 @@ Similar to SAFOs, but less urgent and not safety-related.
 - Used to define gray-areas in the regulations
 - Examples:
   - Logging vs acting PIC time: Many letters have dealt with this topic in various scenarios
+
+Find with the [FAA Interpretation Search](https://www.faa.gov/about/office_org/headquarters_offices/agc/practice_areas/regulations/interpretations)
 
 ---
 
@@ -360,6 +376,8 @@ Similar to SAFOs, but less urgent and not safety-related.
   - Includes risk management section for each task
   - Also includes knowledge test standards
 - Many PTS have been rewritten into ACS documents
+
+Available on [FAA.gov ACS/PTS pages](https://www.faa.gov/training_testing/testing/acs)
 
 ---
 
