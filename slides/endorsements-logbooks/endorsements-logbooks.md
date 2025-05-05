@@ -43,6 +43,30 @@ To understand and apply the required endorsement for pilot training and currency
 
 ---
 
+## Logging Flight Time
+
+- Acting vs logging pilot-in-command time
+  - To act as PIC: Must be appropriately rated
+    - Including flight reviews, passenger currency
+    - Including IFR currency
+    - Including tailwheel, high-performance, complex endorsements
+    - Include type ratings, if required
+  - To log PIC time: Sole manipulator of the controls
+    - Also, when two pilots are required for the given operation
+    - For example: IFR safety pilot or type rated A/C requiring two crew members
+      - Safety pilot may log any hood time as PIC time
+    -
+
+Letters of Interpretation:
+
+- 1980 Jones Letter: Logging PIC separate from acting PIC
+- 1993 Hicks Letter: Hood flight time is an operation requiring two pilots
+- 2009 Speranza Letter: Without hood time, only one person can log PIC time
+- 2013 Richards Letter: HP/complex endorsements not required to log PIC time
+- 2013 Creech Letter: Safety pilot is a required crew member
+
+---
+
 # 61.56 Flight Reviews
 
 - Minimum of 1 hour of flight training and 1 hour of ground training
@@ -161,7 +185,7 @@ Aircraft Classes
 
 ---
 
-## Student Pilots
+# Student Pilots
 
 ---
 

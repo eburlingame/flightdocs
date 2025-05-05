@@ -141,7 +141,7 @@ Lesson plans designed for the Flight Instructor Airplane ACS:
         <!-- 22 -->
             <td>II.J</td>
             <td>14 CFR and Publications</td>
-            <td></td>
+            <td>[Slides](/slides/regulations.pdf)</td>
         </tr>
         <tr>
         <!-- 23 -->
