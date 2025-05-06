@@ -99,7 +99,7 @@ Lesson plans designed for the Flight Instructor Airplane ACS:
         <!-- 15 -->
             <td>II.F - 2</td>
             <td>[Performance and Limitations: Planning](/docs/lesson-plans/performance)</td>
-            <td></td>
+            <td>[Slides](/slides/performance.pdf)</td>
         </tr>
         <tr>
         <!-- 16 -->

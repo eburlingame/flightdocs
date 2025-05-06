@@ -16,6 +16,59 @@
 
 ### Performance Planning Concepts
 
+- Air and density
+  - Air has mass
+  - As our airplane swims through the air, air molecules bounce off the airplane
+  - As these air molecules are deflected downward, our airplane is forced upward
+  - Same with our propeller, our propeller pushes air backwards which pushes us forwards
+  - Our engine sucks in air from the outside and burns the oxygen with fuel in its cylinders to create power
+- High and low air density
+  - All of this depends on how close the air molecules are together
+  - Tightly space = more mass of air to grab on to
+    - Wings can produce more lift
+    - Propeller can produce more thrust
+    - Engines have more oxygen molecules to burn, just like a campfire
+  - Sparely spaced = less mass of air to grab on to
+    - Wings produce less lift
+    - Propellers can't produce as much thrust
+    - Engines have less oxygen molecules to turn
+- Things that affect density: #1 Altitude
+  - Density decreases as we get farther from the Earth's surface due to gravity
+  - The rate at which this occurs is called the pressure _lapse rate_
+  - The average lapse rate is 1" Hg per 1000 ft.
+- Thing that affect density: #2 Ambient pressure
+  - The pressure outside varies from day to day
+  - High pressure days have more air density
+  - Low pressure days have less air density
+- Things that affect density: #3 Temperature
+  - When air molecules heat up they bounce off each other more energetically
+  - This causes the molecules to spread out and become less dense
+  - Likewise, cold temperatures the air molecules are less excited and get closer together
+- Performance altitudes
+  - That's a lot of variables to consider
+  - What if there was a magic number which could combine all that information and tell us how spread out the air molecules are?
+  - Hint: there is, but a couple more things first
+- International standard atmosphere
+  - A fantasy-land atmosphere with ideal conditions
+  - Never exists in reality
+  - Pressure lapses at a constant 1" Hg per 1000'
+  - Our "magic number" is a height in this fake atmosphere where we would find the actual conditions
+  - The higher the altitude, the lower our airplane's performance
+- How do we compute this magic number?
+  - First we start with the altitude that our altimeter gives us: **Indicated altitude**
+- Next we're going to adjust for any changes in the ambient pressure on the given day:
+  - We get this from the current altimeter setting
+  - $(29.92 - \text{Current altimeter setting}) = \text{Pressure difference}$
+  - Since we know the standard atmosphere lapses at 1" per 1000':
+  - Multiple this by 1000 to get the change in feet: $\text{Pressure difference} * 1000 = \text{altitude different}$
+  - Add this change to our initial altitude
+  - This gives us the altitude in the standard atmosphere where the current _pressure_ is found
+  - This is called **pressure altitude**
+- Pressure altitude another way: Have the altimeter do the map
+  - As you rotate the Kollsman window the altimeter moves up and down at that same rate 1" per 1000'
+  - If we set our altimeter to 29.92" (the pressure of S.L. in the standard atmosphere), it will give us pressure altitude
+- Next, we're going to adjust for temperature
+  - Just like pressure, the temperature in the standard atmosphere decreases 
 - Atmosphere
   - Density decreases as we ascend (18,000', 1/2 as dense as S.L.)
   - The standard atmosphere: ~2&deg; per 1000'
@@ -49,7 +102,7 @@
 ### Performance Charts and Calculations
 
 - Computing pressure altitude
-  - $\text{Current altitude} + (29.92 - \text{Current altimeter setting}) * 1000$
+  - $\text{Indicated altitude} + (29.92 - \text{Current altimeter setting}) * 1000$
   - Example:
     - Field elevation is 720' MSL
     - Current altimeter setting is 29.82" Hg
