@@ -13,7 +13,6 @@ convert_to_pdf() {
     yarn marp "$file" "--pdf" "--pdf-notes" "--allow-local-files" "-o" "static/slides/$filename.pdf"
 }
 
-
 convert_to_pdf slides/endorsements-logbooks/endorsements-logbooks.md    static/slides/endorsements-logbooks.pdf
 convert_to_pdf slides/pilot-qualifications/pilot-qualifications.md      static/slides/pilot-qualifications.pdf
 convert_to_pdf slides/part-61/c-student.md                              static/slides/c-student.pdf
@@ -38,11 +37,12 @@ convert_to_pdf slides/weather/weather-theory.md                           static
 convert_to_pdf slides/airworthiness/airworthiness.md                      static/slides/airworthiness.pdf
 convert_to_pdf slides/collision-avoidance/collision-avoidance.md          static/slides/collision-avoidance.pdf
 convert_to_pdf slides/night-operations/night-operations.md                static/slides/night-operations.pdf
-convert_to_pdf slides/navigation-systems/navigation-systems.md              static/slides/navigation-systems.pdf
+convert_to_pdf slides/navigation-systems/navigation-systems.md            static/slides/navigation-systems.pdf
 convert_to_pdf slides/airspace/airspace-1.md                              static/slides/airspace-1.pdf
 convert_to_pdf slides/airspace/airspace-2.md                              static/slides/airspace-2.pdf
 convert_to_pdf slides/airspace/airspace-3.md                              static/slides/airspace-1.pdf
 convert_to_pdf slides/airspace/airspace-4.md                              static/slides/airspace-4.pdf
+convert_to_pdf slides/regulations/regulations.md                          static/slides/regulations.pdf
 
 # Recursively scan all .md files in the slides directory and convert them to .pdf using marp
 # mkdir -p static/slides
