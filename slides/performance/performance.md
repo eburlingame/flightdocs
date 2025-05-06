@@ -28,9 +28,16 @@ Altitude, temperature, and pressure affect all aspects of our airplane's perform
 ## Overview
 
 - Air and density
-- International Standard Atmosphere
-- Types of Altitude
-- Types of Airspeed
+  - International Standard Atmosphere
+  - Types of Altitude
+  - Types of Airspeed
+  - How density affects performance
+- Airplane performance charts
+  - Computing performance values using Cessna charts
+
+---
+
+# Performance Concepts
 
 ---
 
@@ -153,10 +160,10 @@ First, gather your information:
   - Temperature is 15&deg;C at sea level
   - The temperature lapse rate is 2&deg; per 1000'
   - We care about the different between _actual_ temperature and _standard_ temperature
-- At a field elevation of 4170'
-  - $15\degree C - 2 * (4170 / 1000) = 6.66\degree C$
+- At a pressure altitude of 4210'
+  - $15\degree C - 2 * (4210 / 1000) = 6.58\degree C$
 - If the pressure outside is 29&deg;C
-  - $29 - 6.66 \approx 22\degree C \text{ above standard}$
+  - $29 - 6.58 = 22.4\degree C \text{ above standard}$
 
 ---
 
@@ -165,7 +172,7 @@ First, gather your information:
 - Now need factor this temperature difference into our magic altitude:
 - Apply the formula:
   - $\text{Pressure altitude} + 120 * (\text{Temperature difference from standard})$
-  - $4210\text{ ft} + 120 * 22 \degree C = 6850\text{ ft}$
+  - $4210\text{ ft} + 118.8 * 22.4 \degree C = 6898\text{ ft}$
 - This is our magic number: **density altitude**
   - If our airplane were flying in the standard atmosphere, it would feel like it's flying at **6850** feet
 
@@ -220,12 +227,40 @@ First, gather your information:
 
 ---
 
+### Computing Calibrated Airspeed
+
+<div class="h-stack">
+
+![w:1000](images/image-4.png)
+
+- Examples
+  - Indicated airspeed of 120 means a calibrated airspeed of 118
+  - Indicated airspeed of 60 means a calibrated airspeed of 65
+- Notice how the error increases the slower we are
+
+</div>
+
+---
+
 ## Types of Airspeed: True Airspeed
 
 - Similar to altitude, we can account for non-standard temperature and pressure in airspeed
 - This adjusts the "molecule count" based on the air density
   - Uses the same 3 variables: Altitude, pressure, temperature
 - True airspeed in the speed you're moving through the _air mass_
+
+---
+
+### True Airspeed: Example
+
+- Pressure altitude (PALT): 4210'
+- Outside air temperature (OAT): 29&deg;C
+- Calibrated airspeed (CAS): 118 knots
+
+Using an E6B computer, we compute true airspeed (TAS) as **130.1 knots**
+
+- This means we're flying _faster_ through the air mass than the airspeed indicator would have us believe.
+- With no wind, we'd be moving
 
 ---
 
@@ -254,19 +289,157 @@ First, gather your information:
 
 ---
 
-## Aircraft Performance Charts
+## Knowledge Check
 
-- Used to predict aircraft performance for flight planning
-- Based on a new airplane, engine, propeller
-- May use pressure altitude and temperature, or density altitude
+- Assuming all other variables are the same:
+  - Where will an airplane have a longer takeoff roll, in Denver or in Orlando?
+  - Where will an airplane have a longer landing roll, when the temperature is 2&deg; C or 30&deg; C?
+  - Which aircraft will have a higher ground speed on takeoff, when the pressure is 20.79" or 30.44" Hg?
+  - When will our (normally-aspirate) airplane produce the most power, on the ground or at 8000 feet?
 
 ---
 
-## Pilot Technique
+# Performance Planning
 
-- Correct leaning procedures and mixture setting
-- Correct short-field takeoff technique
+---
+
+# Performance
+
+On a cross-country flight we want to know:
+
+- How long the flight will take
+- How much fuel we will burn
+- How mush landing distance we will use
+- How much runway distance we will use
+
+---
+
+![bg left:50% fit](images/image-5.png)
+
+## Aircraft Performance Charts
+
+- Published in our POH/AFM
+- Based on a new airplane, engine, and propeller
+- Based on a test pilot flying with excellent technique (airspeed control, proper leaning)
+- Formatted in a variety of ways
+  - Some use pressure altitude + temperature (Cessnas)
+  - Some use density altitude only
+
+---
+
+## Performance Scenario
+
+- Depart: Lewiston Municipal (KLWT)
+  - Elevation: 4170'
+  - Altimeter: 29.88" Hg
+  - Temperature: 29&deg;C
+- Cruise at 8500 ft.
+- Arrive: Harve City County (KHVR)
+  - Elevation: 2591'
+  - Altimeter: 29.95" Hg
+  - Temperature: 25&deg; C
+- Aircraft
+  - 50 gallons of fuel aboard
+  - Max gross weight (3100 lbs)
+
+---
+
+## Chart 1: Takeoff Distance
+
+<div class="h-stack">
+
+![w:750](images/image-6.png)
+
+<div>
+
+Headwind: 4 knots
+Pressure altitude: 4210
+Temperature: 29&deg;C
+
+<hr />
+
+30&deg; line, 4000':
+1165' ground roll
+2145 over 50' obstacle
+
+<hr />
+
+4 kts headwind, -5%:
+1165 _ 0.95 = **1107 ft.**
+2145 _ 0.95 = **2137 ft.**
+
+</div>
+
+</div>
+
+---
+
+## Time, Distance, Fuel to Climb (Normal Climb)
+
+<div class="h-stack">
+
+![alt text](images/image-7.png)
+
+</div>
+
+---
+
+## Cruise Performance (8000 ft.)
+
+<div class="h-stack">
+
+![alt text](images/image-8.png)
+
+</div>
+
+---
+
+## Range Profile
+
+<div class="h-stack">
+
+![alt text](images/image-9.png)
+
+</div>
+
+---
+
+## Endurance Profile
+
+<div class="h-stack">
+
+![alt text](images/image-10.png)
+
+</div>
+
+---
+
+## Landing Distance (Short Field)
+
+<div class="h-stack">
+
+![alt text](images/image-11.png)
+
+</div>
+
+---
+
+### Graphical Charts
+
+<div class="h-stack">
+
+![h:600](images/image-12.png)
+
+</div>
 
 ---
 
 # Summary
+
+- Air and density
+  - International Standard Atmosphere
+  - Types of Altitude
+  - Types of Airspeed
+  - How density affects performance
+- Airplane performance charts
+  - Computing performance values using Cessna charts
