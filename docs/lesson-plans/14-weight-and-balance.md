@@ -1,10 +1,16 @@
 # Weight and Balance
 
-## Objectives
+## Objective
 
-## Motivations
+Understand the concept of weight and balance, the relationship of center of gravity on aircraft performance and limitations, and how to compute a weight and balance problem.
+
+## Motivation
+
+The effect of weight and CG location is critical to the safety of flight and an essential part of cross-country flight planning. Pilots should have a clear understand of the limits of their airplane with regards to weight and balance.
 
 ## Timings
+
+45 minutes
 
 ## Format
 
@@ -25,18 +31,20 @@
   - Center of Gravity: Location of new C.G. = Total moments / total weights
   - Loading Envelope: Graph of acceptable weight and CG ranges
 - Types of weights
-  - Basic empty weight
+  - **Basic empty weight**
     - The standard empty weight plus the weight of optional and special equipment that have been installed
     - Includes all oil, fluids, and unusable fuel
-  - Standard empty weight
+  - **Standard empty weight**
     - All oil, fluids, and unusable fuel
     - This is the weight of the aircraft as it comes from the factory, with
       standard equipment installed
     - This is not normally used for weight and balance calculations
-  - Licensed empty weight
+  - **Licensed empty weight**
     - Similar to standard empty weight for aircraft built before GAMA standardization of standard empty weight
-  - Max ramp weight: weight for taxi but not flight
-  - Zero fuel weight: maximum authorized weight minus usable fuel
+    - Older term, does not include full engine oil
+  - **Max ramp weight (MRW)**: The maximum weight for ground operations (no flight)
+  - **Max takeoff weight (MTOW)**: Maximum weight for takeoff
+  - **Max landing weight (MLW)**: Max weight for landing
 - Common fluids
   - Fuel: 6 lbs / gallon
 - Example documents
@@ -84,6 +92,11 @@
     - Slower
     - More elevator
     - Limited after elevator authority, may prevent adequate landing flare
+
+## Questions
+
+- You're planning a cross-country with a passenger who's new to flying. He brings 100lbs of baggage and want to put it in the back, which will put you aft of your CG limits. He says "there's plenty of room!"
+  - How would you respond?
 
 ## References
 
