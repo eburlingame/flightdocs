@@ -3,10 +3,15 @@ theme: default
 ---
 
 <style>
+
 .h-stack {
   display: flex;
   column-gap: 1em;
   justify-content: center;
+}
+
+.canvas {
+  height: 400px;
 }
 
 </style>
@@ -33,7 +38,8 @@ Altitude, temperature, and pressure affect all aspects of our airplane's perform
   - Types of Airspeed
   - How density affects performance
 - Airplane performance charts
-  - Computing performance values using Cessna charts
+  - Performance scenario using Cessna charts
+  - Other chart styles
 
 ---
 
@@ -44,32 +50,42 @@ Altitude, temperature, and pressure affect all aspects of our airplane's perform
 ## Air and Density
 
 - Air has mass
-- As our airplane swims through the air, air molecules bounce off the airplane
-- As these air molecules are deflected downward, our airplane is forced upward
-- Same with our propeller, our propeller pushes air backwards which pushes us forwards
-- Our engine pulls in air from the outside, then combines the oxygen in the air with fuel to produce power
+- Our airplane swims through the air, air molecules bounce off the airplane
+  - As these air molecules are deflected downward, our airplane is forced upward
+  - Our propeller pushes air backwards which pushes us forwards
+  - Our engine "breaths" air from outside, burns that air with fuel to produce power
+
+<div class="canvas" />
 
 ---
 
 ## High and Low Air Density
 
+![bg left:40% fit](images/image-13.png)
+
 - All of this depends on how close the air molecules are together
-- Tightly space = more mass of air to grab on to
+- Tightly spaced = more air to grab on to
   - Wings can produce more lift
   - Propeller can produce more thrust
-  - Engines have more oxygen molecules to burn, just like a campfire
-- Sparely spaced = less mass of air to grab on to
+  - Engines has more air molecules to burn, just like a campfire
+- Sparely spaced = less air to grab on to
   - Wings produce less lift
   - Propellers can't produce as much thrust
-  - Engines have less oxygen molecules to turn
+  - Engine has less air molecules to burn
 
 ---
 
 ## Things That Affect Density: Altitude (Variable #1)
 
+<div class="h-stack">
+
+![alt text](images/image-12.png)
+
 - Density decreases as we get farther from the Earth's surface due to gravity
 - The rate at which this occurs is called the pressure _lapse rate_
 - The average lapse rate is 1" Hg per 1000 ft.
+
+</div>
 
 ---
 
@@ -344,7 +360,7 @@ On a cross-country flight we want to know:
 
 ---
 
-## Chart 1: Takeoff Distance
+## Takeoff Distance
 
 <div class="h-stack">
 
@@ -365,8 +381,8 @@ Temperature: 29&deg;C
 <hr />
 
 4 kts headwind, -5%:
-1165 _ 0.95 = **1107 ft.**
-2145 _ 0.95 = **2137 ft.**
+$1165 * 0.95$ = **1107 ft.**
+$2145 * 0.95$ = **2137 ft.**
 
 </div>
 
@@ -378,7 +394,55 @@ Temperature: 29&deg;C
 
 <div class="h-stack">
 
-![alt text](images/image-7.png)
+![w:500](images/image-7.png)
+
+<div>
+
+Airport: 4170'
+Cruise: 8500'
+Above standard: 22 &deg; C
+
+<hr />
+
+8000' line: 16 minutes, 5.7 gal, 27m
+4000' line: 8 minutes, 2.8 gal, 13nm
+16 - 8 = 8 minutes
+5.7 - 2.8 = 2.9 gallons
+27 - 13 = 14nm
+
+</div>
+
+</div>
+
+---
+
+## Time, Distance, Fuel to Climb (Normal Climb)
+
+<div class="h-stack">
+
+![w:500](images/image-7.png)
+
+<div>
+
+8 minutes, 2.9 gallons, 14nm
+
+<hr />
+
+22 / 7 = 3.14
+3.14 \* 10% = 31% increase
+
+<hr />
+
+8 \* 1.31 = **10.5 minutes**
+2.9 \* 1.31 = 3.8 gallons
+14 \* 1.31 = **18.3nm**
+
+<hr />
+
++2 gal start/taxi/takeoff
+3.8 + 2 = **5.8 gallons**
+
+</div>
 
 </div>
 
@@ -388,29 +452,40 @@ Temperature: 29&deg;C
 
 <div class="h-stack">
 
-![alt text](images/image-8.png)
+![w:600](images/cruise-performance.png)
+
+<div>
+
+13&deg; C above standard
+2200 RPM
+21" manifold pressure
+
+<hr />
+
+KTAS: 126 and 127 = 127 KTAS
+
+<hr />
+
+$(10.8 - 11.3) / (19 - -1) = -0.025$
+$(13 - -1) = 14$
+$11.3 - 0.025 * 14 =$ **11.0 gph**
+
+<hr />
+
+$(56 - 59) / (19 - -1) = -0.15$
+$59 - 0.15 * 14 =$ **58 % bhp**
+
+</div>
 
 </div>
 
 ---
 
-## Range Profile
-
-<div class="h-stack">
-
-![alt text](images/image-9.png)
-
-</div>
+![bg fit](images/range-profile.png)
 
 ---
 
-## Endurance Profile
-
-<div class="h-stack">
-
-![alt text](images/image-10.png)
-
-</div>
+![bg fit](images/endurance-profile.png)
 
 ---
 
@@ -418,19 +493,40 @@ Temperature: 29&deg;C
 
 <div class="h-stack">
 
-![alt text](images/image-11.png)
+![w:600](images/image-11.png)
+
+<div>
+
+Headwind: 4 knots
+Pressure altitude: 2500
+Temperature: 20&deg;C
+
+<hr />
+
+Average 1440 and 1485 = 1462 ft.
+Average 645 and 670 = 658 ft.
+
+<hr />
+
+4&deg; / 9&deg; = 0.44, decrease 4.4%
+
+0.95 \* 1462 = **1389 ft. over 50' obs.**
+0.95 \* 658 = **625 ft. ground roll**
+
+</div>
 
 </div>
 
 ---
 
-### Graphical Charts
+![bg left:68%](images/image-8.png)
 
-<div class="h-stack">
+4100' press. altitude
+22&deg; C
+2300 lbs.
+7 knots headwind
 
-![h:600](images/image-12.png)
-
-</div>
+**~1150 ft.**
 
 ---
 
