@@ -20,15 +20,43 @@ Forms foundational knowledge for more advanced aerodynamic topics and provides a
 
 ### Basics
 
-- Airplane component: Fuselage, wings, control surfaces
-- Newton's laws of motion: Momentum, Fnet = mass \* acceleration, equal and opposite reaction
-- Four forces of flight, equal in unaccelerated flight
-- Theories of lift:
-  - Bernoulli: low pressure above the wing
-  - Newton: angle of attack
-- Airfoil and relative wind
-- Angle of attack
-  - Different between _flight path_ and _relative wind_
+- Airplane components [Airport diagram]
+  - Fuselage
+  - Wings
+  - Ailerons
+  - Elevator
+  - Horizontal stabilizer
+  - Rudder
+  - Vertical stabilizer
+  - Empennage: Entire tail
+- Newton's laws of motion [List]
+  1. Momentum
+  2. Fnet = mass \* acceleration
+  3. Equal and opposite reaction
+- Four forces of flight [Force diagram]
+  - Lift
+  - Weight
+  - Thrust
+  - Drag
+- Lift theories
+  - Newton: Barn door / hand in the wind [Barn door force]
+    - Equal and opposite reaction
+  - Bernoulli [Constricted tube]
+    - Pressure in a tube constricted in the middle
+    - Pressure is lower in the faster air in the middle
+- Basic airfoil [Chord vs camber lines]
+  - Chord line
+  - Mean camber line
+- Lift on an airfoil
+  - Newton [Wing with rear/up force]
+    - Air deflected downward causes for up and back
+  - Bernoulli [Wing with stream tubes]
+    - Stream tubes get condensed on the top of the wing
+    - Lower pressure induces a force
+- Angle of attack [Angle of attack + relative wind]
+  - Chord line vs relative wind
+  - Difference between _flight path_ and _relative wind_
+  - Where momentum wants to take vs where the wing is pointed
 - Lift equation
 
 $$
@@ -43,27 +71,45 @@ S = \text{surface area}\\
 C_l = \text{coefficient of lift}
 $$
 
-- Critical angle of attack, stall
-- Flight at slow airspeeds
+- Critical angle of attack
+  - Coefficient of lift vs angle of attack (Cl vs AoA) [Graph]
+  - Critical angle of attack
+  - Stall, turbulent airflow, detaching of the boundary layer [Stall and wing]
+- Flight at slow airspeeds [Two airplanes, high vs low speed with AoA]
+  - To maintain level flight as we slow: increase AoA
+
+### Pitching Moment
+
 - Basic torque
-- Center of pressure vs center of gravity
+  - See-saw
+  - 1 lbs 2 feet away vs 2 lbs 1 foot away
+- Center of pressure vs center of gravity [Force diagram]
   - Cl should always be behind Cg
+- Elevator downforce
 
 ### Thrust and Drag
 
-- Engine provides thrust
-- Drag works opposite
+- Thrust vs drag [Forces]
+  - Engine provides thrust
+  - Drag works opposite
 - Parasite drag
+  - Difference shapes hit more or less wind
 - Induced drag
+  - Low vs high pressure on the wing
+  - Theses pressures meet on the wing tip
+  - This causes a vortex
+  - This vortex creates a slight downward on the air just ahead of the wing
   - Tilting of the lift vector
   - Wingtip vortices
+- Ground effect
+  - More lift, less drag because vortex is disrupted
+  - "Cushion of air"
 - Parasite drag vs induced drag
 - Best L/D, power required above and below
-- Ground effect
 
 ### Wing Design
 
-- Aspect ratio: Wing span to wing chord
+- Aspect ratio: Ratio of wing span to wing chord
   - Low aspect ratio: Concord, fighter jet
   - High aspect ratio: Glider
 - Wing taper: more lift and less drag
