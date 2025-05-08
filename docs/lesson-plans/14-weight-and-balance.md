@@ -44,7 +44,9 @@ The effect of weight and CG location is critical to the safety of flight and an 
     - Older term, does not include full engine oil
   - **Max ramp weight (MRW)**: The maximum weight for ground operations (no flight)
   - **Max takeoff weight (MTOW)**: Maximum weight for takeoff
+    - Our 182 is 3100 lbs
   - **Max landing weight (MLW)**: Max weight for landing
+    - More common on large airplanes, our 182 has a max landing weight of 2950 lbs
 - Common fluids
   - Fuel: 6 lbs / gallon
 - Example documents
@@ -69,32 +71,43 @@ The effect of weight and CG location is critical to the safety of flight and an 
   - What is the takeoff and landing weight?
   - What happens if we move our 180 passenger to the rear seats?
   - What happens if we add a forth passenger to the copilot seat who weighs 200?
+  - Have students do the math/read numbers while you write
   - Double checking our work in ForeFlight
 
 </div>
 
 ### Effects of CG and Weight
 
-- Over maximum weight
+- Effect of heavy weight
   - Longer takeoff roll
+    - Wings need to produce more lift
+    - Either need higher AoA or more airspeed
+    - To gain that airspeed we'd need longer to accelerate on the runway
+    - It takes us longer to accelerate
   - Longer landing roll
+    - Higher airspeed
+    - More mass to decelerate
   - Slower rate of climb
-  - Structural compromise
+    - Less excess thrust
   - Potential damage on landing
+    - Landing gear takes considerable load on landing
+    - More weight = more load
 - Loading fore/aft CG
-  - Not enough elevator authority in slow or fast flight
-  - CG Aft:
-    - Less stable
-    - Faster cruise speed
-    - Limited forward elevator, may inhibit stall recovery
+  - Loading CG too far aft:
+    - Elevator needs to produce less force
+    - Pros: Faster cruise speed, lower fuel burn
+    - Cons: Less stable, controls more sensitive
+    - Too far aft: May not have enough elevator authority to recovery from a stall condition
   - CG forward:
-    - More stable
-    - Slower
-    - More elevator
-    - Limited after elevator authority, may prevent adequate landing flare
+    - Elevator needs to produce more force
+    - Pros: Stable, less sensitive controls
+    - Cons: Slower cruise speed, higher fuel burn
+    - Too far forward: Limited after elevator authority, may prevent adequate landing flare
 
 ## Questions
 
+- You show up to the plane, ready to take three friends flying. The last pilot topped off the airplane with 88 gallons, which will put you over gross weight.
+  - How would you deal with the situation?
 - You're planning a cross-country with a passenger who's new to flying. He brings 100lbs of baggage and want to put it in the back, which will put you aft of your CG limits. He says "there's plenty of room!"
   - How would you respond?
 

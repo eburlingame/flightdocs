@@ -236,6 +236,14 @@ The effect of weight and CG location is critical to the safety of flight and an 
 
 ## Knowledge Check
 
+You show up to the plane, ready to take three friends flying. The last pilot topped off the airplane with 88 gallons, which will put you over gross weight.
+
+How would you deal with the situation?
+
+---
+
+## Knowledge Check
+
 You're planning a cross-country with a passenger who's new to flying. He brings 100lbs of baggage and want to put it in the back, which will put you aft of your CG limits. He says "there's plenty of room!"
 
 How would you respond?
