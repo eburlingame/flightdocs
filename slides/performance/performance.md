@@ -91,37 +91,58 @@ Altitude, temperature, and pressure affect all aspects of our airplane's perform
 
 ## Thing That Affect Density: Ambient Pressure (Variable #2)
 
+<div class="h-stack">
+
+![w:475](images/image-14.png)
+
 - The pressure outside varies from day to day
-- High pressure days have more air density
-- Low pressure days have less air density
+- On high pressure days, the air is more dense
+- On low pressure days, the air is less dense
+
+</div>
 
 ---
 
 ## Things That Affect Density: Temperature (Variable #3)
 
-- When air molecules heat up they bounce off each other more energetically
+<div class="h-stack">
+
+![w:800](images/image-15.png)
+
+- Hot air molecules bounce off each other more energetically
 - This causes the molecules to spread out and become less dense
-- Likewise, cold temperatures the air molecules are less excited and get closer together
+- Likewise, cold air molecules are less excited become more dense
+
+</div>
 
 ---
 
-## Performance Altitudes
+## Rolling it All Up
 
 - That's a lot of variables to consider
-- What if there was a magic "density" number which could combine all that information and tell us how spread out the air molecules are?
+- What if there was a magic "density" number which could combine:
+  - Altitude
+  - Ambient pressure
+  - Temperature
+- Then give us one number which represents the density of the air
 
 ---
 
 ## International Standard Atmosphere (ISA)
 
-- We want a density number that makes some intuitive sense
-  - A fantasy-land atmosphere with ideal conditions
-  - Never exists in reality
-- Definitions
+<div class="h-stack">
+
+![w:500](images/image-16.png)
+
+- A fake atmosphere with ideal conditions
+  - Our "magic" density number is a height in this atmosphere
+  - This height would have an _equivalent_ density to the real conditions
+- ISA Definitions
   - At sea level, the pressure is 29.92" Hg (1013.2 millibars)
   - Pressure lapses (reduces) at 1" Hg per 1000'
-- Our "magic" density number is a height in this atmosphere where we would find density equivalent to the real conditions
-  - The higher the altitude, the lower our airplane's performance
+- The higher the altitude, the lower our airplane's performance
+
+</div>
 
 ---
 
@@ -150,6 +171,8 @@ First, gather your information:
 
 ## Correct for Variable #2: Ambient Pressure
 
+<div class="h-stack">
+
 1. We get this from the current altimeter setting
    - Subtract the S.L. pressure of 29.92" Hg
    - $(29.92 - 29.88) = 0.04\text{" Hg}$
@@ -161,12 +184,26 @@ First, gather your information:
    - The altitude in the standard atmosphere where the current _pressure_ is found
 4. This is called **pressure altitude**
 
+</div>
+
+---
+
+## Pressure Altitude Chart
+
+![bg right:60% fit](images/image-18.png)
+
 ---
 
 ## Pressure altitude another way: Have the altimeter do the math
 
+<div class="h-stack">
+
+![alt text](images/image-17.png)
+
 - As you rotate the Kollsman window the altimeter moves up and down at that same rate 1" per 1000'
 - If we set our altimeter to 29.92" (the pressure of S.L. in the standard atmosphere), it will give us pressure altitude
+
+</div>
 
 ---
 
@@ -185,12 +222,12 @@ First, gather your information:
 
 ## Correct for Variable #3: Temperature
 
-- Now need factor this temperature difference into our magic altitude:
+- Now need factor this temperature difference into our density altitude
 - Apply the formula:
-  - $\text{Pressure altitude} + 120 * (\text{Temperature difference from standard})$
-  - $4210\text{ ft} + 118.8 * 22.4 \degree C = 6898\text{ ft}$
+  - $\text{Pressure altitude} + 118.8 * (\text{Temperature difference from standard})$
+  - $4210\text{ ft} + 118.8 * 22.4 \degree C = 6871\text{ ft}$
 - This is our magic number: **density altitude**
-  - If our airplane were flying in the standard atmosphere, it would feel like it's flying at **6850** feet
+  - If our airplane were flying in the standard atmosphere, it would feel like it's flying at **6871** feet
 
 ---
 
@@ -208,6 +245,8 @@ First, gather your information:
 - More forward movement: More molecules we hit
 - More air density: Molecules tightly spaced so more to hit
 
+<div class="canvas" />
+
 ---
 
 ## Imagine an Airplane Traveling 100 Feet
@@ -217,6 +256,8 @@ First, gather your information:
   - If the air density is low, it's going to hit 100 molecules - lower airspeed shown
 - Which is going to produce more lift force?
 
+<div class="canvas" />
+
 ---
 
 ## Types of Airspeed: Indicated Airspeed
@@ -224,6 +265,8 @@ First, gather your information:
 - How many molecules are hitting the pitot tube
 - Really a measure of pressure:
   - $\text{Airspeed} = \text{RAM air pressure} - \text{Static air pressure}$
+
+<div class="canvas" />
 
 ---
 
@@ -276,7 +319,7 @@ First, gather your information:
 Using an E6B computer, we compute true airspeed (TAS) as **130.1 knots**
 
 - This means we're flying _faster_ through the air mass than the airspeed indicator would have us believe.
-- With no wind, we'd be moving
+- With no wind, we'd be moving 130 knots over the ground
 
 ---
 
@@ -345,6 +388,10 @@ On a cross-country flight we want to know:
 
 ## Performance Scenario
 
+<div class="h-stack">
+
+<div>
+
 - Depart: Lewiston Municipal (KLWT)
   - Elevation: 4170'
   - Altimeter: 29.88" Hg
@@ -354,9 +401,14 @@ On a cross-country flight we want to know:
   - Elevation: 2591'
   - Altimeter: 29.95" Hg
   - Temperature: 25&deg; C
+
+</div>
+
 - Aircraft
   - 50 gallons of fuel aboard
   - Max gross weight (3100 lbs)
+
+</div>
 
 ---
 
