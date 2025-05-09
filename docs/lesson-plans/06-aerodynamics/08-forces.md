@@ -27,7 +27,7 @@ Helps a student develop an intuitive understanding of the turning forces present
    - With a high AOA, the "bite" of the downward moving blade is greater than the "bite" of the upward moving blade
    - Note this can reverse at low AoA, like in a decent
 
-![alt text](images/image.png)
+![p-factor propeller](images/image.png)
 
 ### Forces
 

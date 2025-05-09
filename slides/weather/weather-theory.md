@@ -274,7 +274,7 @@ In the northern hemisphere:
 
 ![alt text](images/image-69.png)
 
-- Large updrafts on the upwind side of the ride
+- Large updrafts on the upwind side of the ridge
 - Large downdrafts on the leeward side
 - Turbulence can be violent in the rotor
 - Can extend for 100 miles downwind
