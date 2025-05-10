@@ -384,14 +384,304 @@ What heading do we need to fly to get to waypoint B?
 
 ## Navigation Log
 
-![alt text](images/image-18.png)
+![bg left:50% fit](images/image-18.png)
+
+- Fill out left to right
+- Includes preplanned fields
+  - Start with distance and true course
+  - Compute heading to fly
+  - Compute time
+  - Compute fuel burn
 
 ---
 
-## Navlog - Step 1: Distance
+## Navlog - Step 1: Enter our Waypoints
+
+<div class="h-stack">
+
+![w:200](images/image-19.png)
+
+- List our fixes
+- We list our top-of-climb (TOC) after PDX
+
+</div>
+
+---
+
+## Navlog - Step 2: Determine true courses
+
+![bg left:40% fit](images/IMG_3102.JPG)
 
 - Use a plotter
-- Use an EFB
+- Use SkyVector.com
+
+---
+
+## Navlog - Step 2: Determine true courses
+
+<div class="h-stack">
+
+![w:300](images/image-20.png)
+
+- True course for each leg
+- Note (TOC) leg has same course as next leg
+- Also added our altitudes
+
+</div>
+
+---
+
+## Navlog - Step 3: Determine distances
+
+![bg left:40% fit](images/IMG_3104.jpg)
+
+- Use a plotter and a paper chart
+- Use an SkyVector.com
+
+---
+
+## Navlog - Step 4: Compute Climb
+
+<div class="h-stack">
+
+![alt text](images/image-21.png)
+
+- From S.L. to 6000'
+  - Time = 6 - 0 = 6 minutes
+  - 10 - 0 = 10nm
+  - 6 / 60 = 0.1 hours
+  - 10nm / 0.1 hours = **100 knots** groundspeed (no wind)
+- Use this as our TAS for the climb
+
+</div>
+
+---
+
+## Navlog - Step 4: Compute Climb
+
+![alt text](images/image-22.png)
+
+---
+
+## Navlog - Step 4: Determine Cruise, Winds
+
+```
+(Extracted from FBUS31 KWNO 101358)
+FD1US1
+DATA BASED ON 101200Z
+VALID 101800Z   FOR USE 1400-2100Z. TEMPS NEG ABV 24000
+
+FT  3000    6000    9000   12000   18000   24000  30000  34000  39000
+PDX 2306 2318+05 2229+00 2242-06 2164-17 2177-28 218843 218852 228861
+```
+
+- Climb: 230&deg; true @ 6 knots
+- Cruise: 6000 ft: 230&deg; true @ 18 knots, 5&deg; C
+
+---
+
+## ForeFlight Winds
+
+<div class="h-stack">
+
+![w:300](<images/KCVO Corvallis Municipal 4.jpeg>)
+
+- We can also get winds over an airport using ForeFlight
+- Uses weather model to predict winds
+
+</div>
+
+---
+
+## Navlog - Step 4: Determine Cruise, Airspeed
+
+<div class="h-stack">
+
+![alt text](images/cruise-perf.png)
+
+<div>
+
+Pressure altitude, 6000' chart
+
+- Use standard temperature (3&deg; vs 5&deg; C)
+- 61% BHP
+- 127 knots true airspeed (TAS)
+- 11.7 gph fuel burn, with proper leaning
+
+</div>
+
+</div>
+
+---
+
+## Airspeed Calibration
+
+![alt text](images/image-23.png)
+
+- 127 knots indicated airspeed (IAS)
+- ~125 knots calibrated airspeed (CAS)
+
+---
+
+## Navlog - Step 4: Determine Cruise, Airspeed
+
+<div class="h-stack">
+
+![w:500](images/image-24.png)
+
+</div>
+
+---
+
+## Navlog - Step 4: Determine Cruise, Add Winds
+
+<div class="h-stack">
+
+![w:500](images/image-26.png)
+
+</div>
+
+---
+
+## Navlog - Step 5: Course and Headings
+
+- We need to convert the true course we got from the chart into a heading we can follow in the airplane
+- We need to correct for
+  - Wind
+  - Magnetic variation (magnetic vs true heading)
+  - Compass deviation (interference with our airplane's compass)
+
+---
+
+## Navlog - Step 5: Course and Headings
+
+1. Compute true heading (TH) = True course (TC) + wind correction angle (WCA)
+2. Compute magnetic heading (MH) = True heading + magnetic variation
+3. Compute compass heading (CH) = Magnetic heading (MH) + compass deviation
+
+---
+
+## Navlog - Step 5: Course and Headings, True Heading
+
+![alt text](images/image-25.png)
+
+<div>
+
+Using an E6B, compute heading/groundspeed:
+
+- Climb leg winds (3000'): 230&deg; true @ 6 knots
+- Course: 127 &deg; True
+- True airspeed: 100 knots
+
+Result: Heading **130 &deg; True**, Wind correction angle (WCA): **+3&deg;**, Groundspeed: **101 knots**
+
+</div>
+
+---
+
+## Navlog - Step 5: Course and Headings, True Heading
+
+![alt text](images/image-27.png)
+
+Result: Heading **130 &deg; True**, Wind correction angle (WCA): **+3&deg;**, Groundspeed: **101 knots**
+
+---
+
+## Navlog - Step 5: Course and Headings, Magnetic Heading
+
+<div class="h-stack">
+
+![w:600](images/isogonic.png)
+
+- On the section find an "isogonic line"
+- "East is least"
+  - Subtract easterly variation
+  - Add westerly variation
+- We have 15&deg; E, so we'll subtract 15&deg;
+
+</div>
+
+---
+
+## Navlog - Step 5: Course and Headings, Magnetic Heading
+
+<div class="h-stack">
+
+![alt text](images/image-28.png)
+
+</div>
+
+---
+
+## Navlog - Step 5: Course and Headings, Compass Heading
+
+![alt text](images/compass-card.png)
+
+- Compasses installed in airplanes are subject to magnetic interference due to
+  - Skin and surface of the aircraft
+  - Electrical components in the airplane
+- This error is called **compass deviation**
+  - A compass deviation card will be in your airplane
+  - This card shows corrections for this error
+
+---
+
+## Navlog - Step 5: Course and Headings, Compass Heading
+
+<div class="h-stack">
+
+![alt text](images/compass-card.png)
+
+- For our magnetic heading of 115&deg;
+  - Use the 120&deg;. Error is -1&deg;
+- 115&deg; - 4 = 111 &deg; Magnetic
+- This is our **compass heading**
+
+</div>
+
+---
+
+## Navlog - Step 5: Course and Headings, EFIS Heading
+
+<div class="h-stack">
+
+![alt text](images/image-29.png)
+
+<div>
+
+Note that an airplane with an EFIS (like the Garmin G5), are calibrated for deviation error during installation
+
+- We will fly **magnetic heading** when navigating with the G5
+- We will fly with **compass heading** when navigating with our magnetic compass
+
+</div>
+
+</div>
+
+---
+
+## Navlog - Step 5: Course and Headings, Compass Heading
+
+<div class="h-stack">
+
+![w:1000](images/image-30.png)
+
+</div>
+
+---
+
+## Navlog - Step 6: ETE and Fuel
+
+Now that we know our groundspeed we can compute:
+- Estimated time enroute (ETE): Time between waypoints
+- Estimate fuel burn 
+
+
+---
+
+## Flight Planning with ForeFlight
+
+![alt text](images/foreflight.png)
 
 ---
 
@@ -408,3 +698,7 @@ Descent planning
 ## Knowledge Check
 
 120 knots grounds speed and you have 50nm. How long will it take you get there?
+
+---
+
+How do you convert calibrated airspeed into indicated airspeed?
