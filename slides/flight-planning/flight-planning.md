@@ -449,8 +449,11 @@ What heading do we need to fly to get to waypoint B?
 - From S.L. to 6000'
   - Time = 6 - 0 = 6 minutes
   - 10 - 0 = 10nm
+  - 2.6 - 0 = 2.6 gallons
   - 6 / 60 = 0.1 hours
+- Compute rates:
   - 10nm / 0.1 hours = **100 knots** groundspeed (no wind)
+  - 2.6 gallons / 0.1 hour = **26 gallons per hour**
 - Use this as our TAS for the climb
 
 </div>
@@ -673,15 +676,47 @@ Note that an airplane with an EFIS (like the Garmin G5), are calibrated for devi
 ## Navlog - Step 6: ETE and Fuel
 
 Now that we know our groundspeed we can compute:
-- Estimated time enroute (ETE): Time between waypoints
-- Estimate fuel burn 
 
+- Estimated time enroute (ETE): Time between waypoints
+  - 3.2nm / 101 knots GS = **2 minutes**
+  - Climb fuel: 26 gallons / hour \* (2 minutes) = **0.9 gallons**
+- Estimate fuel burn: How much fuel we will burn each leg
+
+---
+
+## Navlog - Step 6: ETE and Fuel
+
+<div class="h-stack">
+
+![alt text](images/image-31.png)
+
+</div>
+
+---
+
+## Navlog - Step 7: Computing Top of Climb
+
+---
+
+## Navlog - Rest of Legs
+
+---
+
+## Foreflight
 
 ---
 
 ## Flight Planning with ForeFlight
 
-![alt text](images/foreflight.png)
+![alt text](images/foreflight-3.jpeg)
+
+---
+
+![alt text](images/foreflight-2.jpeg)
+
+---
+
+![alt text](images/foreflight-1.jpeg)
 
 ---
 
