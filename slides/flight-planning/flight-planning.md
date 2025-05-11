@@ -11,6 +11,10 @@ class:
   justify-content: center;
 }
 
+.flex-1 {
+    flex: 1;
+}
+
 </style>
 
 # Flight Planning
@@ -673,7 +677,37 @@ Note that an airplane with an EFIS (like the Garmin G5), are calibrated for devi
 
 ---
 
-## Navlog - Step 6: ETE and Fuel
+## Navlog - Step 5: Course and Headings, Compass Heading
+
+![alt text](images/image-32.png)
+
+---
+
+## Navlog - Step 6: Computing Top of Climb
+
+- Compute climb distance
+  - 6 minutes = 0.1 hours
+  - 3.2nm / 101 knots \* 60 = 2 minutes
+- Second leg
+  - 6 - 2 minutes = 4 minutes
+  - (4 / 60) \* 128 knots = **8.5nm**
+- Computing leg distances
+  - PDX to Lake Oswego: 12nm
+  - Third leg: (TOC) to Lake Oswego: 12 - 8.5nm = **3.5nm**
+
+---
+
+## Navlog - Step 6: Computing Top of Climb
+
+<div class="h-stack">
+
+![alt text](images/image-33.png)
+
+</div>
+
+---
+
+## Navlog - Step 7: ETE and Fuel
 
 Now that we know our groundspeed we can compute:
 
@@ -684,7 +718,7 @@ Now that we know our groundspeed we can compute:
 
 ---
 
-## Navlog - Step 6: ETE and Fuel
+## Navlog - Step 7: ETE and Fuel
 
 <div class="h-stack">
 
@@ -694,11 +728,13 @@ Now that we know our groundspeed we can compute:
 
 ---
 
-## Navlog - Step 7: Computing Top of Climb
+## Navlog - Final Navlog
 
----
+<div class="h-stack">
 
-## Navlog - Rest of Legs
+![w:740](images/image-34.png)
+
+</div>
 
 ---
 
@@ -712,11 +748,48 @@ Now that we know our groundspeed we can compute:
 
 ---
 
+## ForeFlight Profiles
+
+<div class="h-stack">
+
+<div class="flex-1">
+
+"Advanced Profiles": ForeFlight-made
+
+![w:250](<images/KCVO Corvallis Municipal 7.jpeg>)
+
+</div>
+
+<div class="flex-1">
+
+Basic profiles: User-entered
+
+![w:350](<images/KCVO Corvallis Municipal 8.jpeg>)
+
+</div>
+
+</div>
+
+---
+
 ![alt text](images/foreflight-2.jpeg)
 
 ---
 
 ![alt text](images/foreflight-1.jpeg)
+
+---
+
+## Manual Navlog vs ForeFlight
+
+- Why are they different?
+  - ForeFlight can compute changing winds as the route progresses
+  - ForeFlight can calculate winds as we climb
+  - ForeFlight performance
+  - Rounding on manual navlog
+- Sanity-check any ForeFlight output
+
+---
 
 ---
 
