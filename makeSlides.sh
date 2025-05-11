@@ -45,6 +45,7 @@ convert_to_pdf slides/airspace/airspace-4.md                              static
 convert_to_pdf slides/regulations/regulations.md                          static/slides/regulations.pdf
 convert_to_pdf slides/performance/performance.md                          static/slides/performance.pdf
 convert_to_pdf slides/weight-and-balance/weight-and-balance.md            static/slides/weight-and-balance.pdf
+convert_to_pdf slides/flight-planning/flight-planning.md                  static/slides/flight-planning.pdf
 
 # Recursively scan all .md files in the slides directory and convert them to .pdf using marp
 # mkdir -p static/slides

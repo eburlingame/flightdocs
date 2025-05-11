@@ -135,7 +135,7 @@ Lesson plans designed for the Flight Instructor Airplane ACS:
         <!-- 21 -->
             <td>II.I</td>
             <td>[Navigation and Cross-Country Flight Planning](/docs/lesson-plans/flight-planning)</td>
-            <td></td>
+            <td>[Slides](/slides/flight-planning.pdf)</td>
         </tr>
         <tr>
         <!-- 22 -->
