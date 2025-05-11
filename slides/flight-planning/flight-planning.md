@@ -502,7 +502,7 @@ What heading do we need to fly to get to waypoint B?
 
 ---
 
-## Navlog - Step 4: Determine Cruise, Winds
+## Navlog - Step 5: Determine Cruise, Winds
 
 Winds Aloft forecast from [aviationweather.gov](https://aviationweather.gov/data/windtemp/?region=sfo&fcst=06&level=low)
 
@@ -534,7 +534,7 @@ PDX 2306 2318+05 2229+00 2242-06 2164-17 2177-28 218843 218852 228861
 
 ---
 
-## Navlog - Step 4: Determine Cruise, Airspeed
+## Navlog - Step 5: Determine Cruise, Airspeed
 
 <div class="h-stack">
 
@@ -564,7 +564,7 @@ Pressure altitude, 6000' chart
 
 ---
 
-## Navlog - Step 4: Determine Cruise, Airspeed
+## Navlog - Step 5: Determine Cruise, Airspeed
 
 <div class="h-stack">
 
@@ -574,7 +574,7 @@ Pressure altitude, 6000' chart
 
 ---
 
-## Navlog - Step 4: Determine Cruise, Add Winds
+## Navlog - Step 5: Determine Cruise, Add Winds
 
 <div class="h-stack">
 
@@ -584,7 +584,7 @@ Pressure altitude, 6000' chart
 
 ---
 
-## Navlog - Step 5: Course and Headings
+## Navlog - Step 6: Course and Headings
 
 - We need to convert the true course we got from the chart into a heading we can follow in the airplane
 - We need to correct for
@@ -594,7 +594,7 @@ Pressure altitude, 6000' chart
 
 ---
 
-## Navlog - Step 5: Course and Headings
+## Navlog - Step 6: Course and Headings
 
 1. Compute true heading (TH) = True course (TC) + wind correction angle (WCA)
 2. Compute magnetic heading (MH) = True heading + magnetic variation
@@ -602,7 +602,7 @@ Pressure altitude, 6000' chart
 
 ---
 
-## Navlog - Step 5: Course and Headings, True Heading
+## Navlog - Step 6: Course and Headings, True Heading
 
 ![alt text](images/image-25.png)
 
@@ -620,7 +620,7 @@ Result: Heading **130 &deg; True**, Wind correction angle (WCA): **+3&deg;**, Gr
 
 ---
 
-## Navlog - Step 5: Course and Headings, True Heading
+## Navlog - Step 6: Course and Headings, True Heading
 
 ![alt text](images/image-27.png)
 
@@ -628,7 +628,7 @@ Result: Heading **130 &deg; True**, Wind correction angle (WCA): **+3&deg;**, Gr
 
 ---
 
-## Navlog - Step 5: Course and Headings, Magnetic Heading
+## Navlog - Step 6: Course and Headings, Magnetic Heading
 
 <div class="h-stack">
 
@@ -644,7 +644,7 @@ Result: Heading **130 &deg; True**, Wind correction angle (WCA): **+3&deg;**, Gr
 
 ---
 
-## Navlog - Step 5: Course and Headings, Magnetic Heading
+## Navlog - Step 6: Course and Headings, Magnetic Heading
 
 <div class="h-stack">
 
@@ -654,7 +654,7 @@ Result: Heading **130 &deg; True**, Wind correction angle (WCA): **+3&deg;**, Gr
 
 ---
 
-## Navlog - Step 5: Course and Headings, Compass Heading
+## Navlog - Step 6: Course and Headings, Compass Heading
 
 ![alt text](images/compass-card.png)
 
@@ -667,7 +667,7 @@ Result: Heading **130 &deg; True**, Wind correction angle (WCA): **+3&deg;**, Gr
 
 ---
 
-## Navlog - Step 5: Course and Headings, Compass Heading
+## Navlog - Step 6: Course and Headings, Compass Heading
 
 <div class="h-stack">
 
@@ -682,7 +682,7 @@ Result: Heading **130 &deg; True**, Wind correction angle (WCA): **+3&deg;**, Gr
 
 ---
 
-## Navlog - Step 5: Course and Headings, EFIS Heading
+## Navlog - Step 6: Course and Headings, EFIS Heading
 
 <div class="h-stack">
 
@@ -701,7 +701,7 @@ Note that an airplane with an EFIS (like the Garmin G5), are calibrated for devi
 
 ---
 
-## Navlog - Step 5: Course and Headings, Compass Heading
+## Navlog - Step 6: Course and Headings, Compass Heading
 
 <div class="h-stack">
 
@@ -711,13 +711,13 @@ Note that an airplane with an EFIS (like the Garmin G5), are calibrated for devi
 
 ---
 
-## Navlog - Step 5: Course and Headings, Compass Heading
+## Navlog - Step 6: Course and Headings, Compass Heading
 
 ![alt text](images/image-32.png)
 
 ---
 
-## Navlog - Step 6: Computing Top of Climb
+## Navlog - Step 7: Computing Top of Climb
 
 - Compute climb distance
   - 6 minutes = 0.1 hours
@@ -731,7 +731,7 @@ Note that an airplane with an EFIS (like the Garmin G5), are calibrated for devi
 
 ---
 
-## Navlog - Step 6: Computing Top of Climb
+## Navlog - Step 7: Computing Top of Climb
 
 <div class="h-stack">
 
@@ -741,7 +741,7 @@ Note that an airplane with an EFIS (like the Garmin G5), are calibrated for devi
 
 ---
 
-## Navlog - Step 7: ETE and Fuel
+## Navlog - Step 8: ETE and Fuel
 
 Now that we know our groundspeed we can compute:
 
@@ -752,7 +752,7 @@ Now that we know our groundspeed we can compute:
 
 ---
 
-## Navlog - Step 7: ETE and Fuel
+## Navlog - Step 8: ETE and Fuel
 
 <div class="h-stack">
 
