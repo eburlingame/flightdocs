@@ -37,9 +37,28 @@ Flying to another airport requires additional planning and multiple forms of nav
 
 <div>
 
+- Picking Destinations
+- Picking Waypoints
+- VFR Cruising Altitudes (91.159)
+- Cruising Altitudes
+- Dead Reckoning
+- Navigation Log
+  - Steps to manually complete a navlog
+- Flight Planning with ForeFlight
+
 </div>
 
 <div>
+
+- Preflight Information Requirements (91.103)
+- Weather Briefings
+- Flight Plans
+- UTC Time Conversion
+- Flying our Flight Plan
+- VOR and DME navigation
+- GPS Navigation
+- Lost Procedures
+- Diverting to an Alternate
 
 </div>
 
@@ -336,9 +355,21 @@ Above 3000' AGL, VFR traffic in level cruising flight shall fly:
 
 ---
 
+## Preflight Information Requirements ([91.103](https://www.ecfr.gov/current/title-14/section-91.103))
+
+- "NWKRAFT"
+  - **N**OTAMs
+  - **W**eather
+  - **K**nown ATC delays: For bigger airports
+  - **R**unway lengths: For our intended airports
+  - **A**lternates available: Other airports we can go to
+  - **T**akeoff and landing distances: Performance charts
+
+---
+
 ## How are we going to get there?
 
-![bg left:50% fit](images/image-14.png)
+![bg left:35% fit](images/image-14.png)
 
 - Pilotage: Look out the window
   - See our waypoints
@@ -390,12 +421,12 @@ What heading do we need to fly to get to waypoint B?
 
 ![bg left:50% fit](images/image-18.png)
 
-- Fill out left to right
 - Includes preplanned fields
   - Start with distance and true course
   - Compute heading to fly
   - Compute time
   - Compute fuel burn
+- Fill out left to right
 
 ---
 
@@ -406,7 +437,8 @@ What heading do we need to fly to get to waypoint B?
 ![w:200](images/image-19.png)
 
 - List our fixes
-- We list our top-of-climb (TOC) after PDX
+- List our top-of-climb (TOC) after PDX
+- Add any VOR identifiers with their frequencies / morse identifiers
 
 </div>
 
@@ -471,6 +503,8 @@ What heading do we need to fly to get to waypoint B?
 ---
 
 ## Navlog - Step 4: Determine Cruise, Winds
+
+Winds Aloft forecast from [aviationweather.gov](https://aviationweather.gov/data/windtemp/?region=sfo&fcst=06&level=low)
 
 ```
 (Extracted from FBUS31 KWNO 101358)
@@ -738,11 +772,11 @@ Now that we know our groundspeed we can compute:
 
 ---
 
-## Foreflight
+# Flight Planning with ForeFlight
 
 ---
 
-## Flight Planning with ForeFlight
+## Entering a Flight Plan
 
 ![alt text](images/foreflight-3.jpeg)
 
@@ -791,6 +825,133 @@ Basic profiles: User-entered
 
 ---
 
+# Flying our Flight Plan
+
+---
+
+## Getting A Weather Briefing
+
+![bg left:40% fit](<images/KCVO Corvallis Municipal 9.jpeg>)
+
+- What is a weather briefing?
+  - Includes NOTAMs, METARs, TAFs, AIRMETS/SIGMETs for a route of flight
+- Where can we get one?
+  - ForeFlight
+  - [1800wxbrief.com](https://www.1800wxbrief.com/Website/#!/)
+  - Calling 1800-WX-BRIEF or a Flight Service Station
+- A record of the briefing is kept
+
+---
+
+## Flight Plan
+
+- Activating a flight plan
+- Closing a flight plan
+- Search and rescue
+
+---
+
+## Flight Plan: Activating
+
+![alt text](images/image-37.png)
+
+- Ways to Activate a Flight Plan
+  - Calling an FSS: 1800-WX-BRIEF
+  - Contacting FSS in the air
+
+---
+
+## Flight Plan: Closing a Flight Plan
+
+---
+
+## UTC time Conversion
+
+---
+
+## Flying our Flight Plan
+
+Going to use all the tools at our disposal:
+
+- Pilotage: Look out the window
+- Dead reckoning:
+  - Using our navlog, flying headings
+  - Note the time of each waypoint
+- Radio navigation
+- GPS navigation
+- VFR flight following
+
+---
+
+## VOR and DME navigation
+
+<div class="h-stack">
+
+![alt text](images/image-35.png)
+
+- Limited by line-of-sight, works better the higher you go
+- Flying to a VOR:
+  1. Ensure CDI is in VLOC mode (not GPS mode)
+  2. Tune the station
+  3. Identify the station: Listen for morse code
+     - No morse code means station is out of service
+  4. Center the CDI with a TO indication
+  5. Turn to the course shown, bracketing for wind
+
+</div>
+
+---
+
+## GPS Navigation
+
+<div class="h-stack">
+
+![alt text](images/image-36.png)
+
+- Ensure CDI is in GPS mode
+- Guidance towards the purple line on the map
+- Direct-To: Course from your current position to another waypoint
+
+</div>
+
+---
+
+## Lost Procedures
+
+4 C's
+
+- **C**limb
+  - Better see landmarks, get
+  - Get adequate radio or nav signal reception
+- **C**ommunicate:
+  - Talk to ATC
+  - Ask for vector to a know location (airport, VFR point)
+- **C**onfess
+  - Say that you're lost
+- **C**omply
+  - Follow what ATC says
+
+---
+
+## Diverting to an Alternate: Picking an Alternate
+
+- Use information available in the cockpit to decide on a good alternate
+  - GPS Navigators
+  - FIS-B Weather
+  - ATC
+
+---
+
+## Diverting to an Alternate: Navigating to an Alternate
+
+- Use pilotage
+- Use a GPS direct
+- Use radio navigation
+- Apply rule-of-thumb calculations:
+  - ~60 knots of groundspeed: 1nm per minute
+  - ~90 knots of groundspeed: 1.5nm per minute
+  - ~120 knots of groundspeed: 2nm per minute
+
 ---
 
 # Summary
@@ -799,14 +960,41 @@ Basic profiles: User-entered
 
 ## Knowledge Check
 
-Descent planning
+How do you convert calibrated airspeed into indicated airspeed?
 
 ---
 
 ## Knowledge Check
 
-120 knots grounds speed and you have 50nm. How long will it take you get there?
+You're traveling at 120 knots grounds speed and you have 50nm left to your destination. If we maintain our speed, how long will us take you get there?
 
 ---
 
-How do you convert calibrated airspeed into indicated airspeed?
+## Knowledge Check
+
+You're traveling at 120 knots grounds speed and you have 50nm left to your destination. If we maintain our speed, how long will us take you get there?
+
+```
+50 / 2nm / minute = 25 minutes
+```
+
+---
+
+## Knowledge Check
+
+We're planning to divert to an airport with an elevation of 3500'. We're currently cruising at 8500' and our ground speed is approximately 120 knots.
+
+When should we start to descending to enter the traffic pattern 3nm from the airport?
+
+---
+
+## Knowledge Check
+
+We're planning to divert to an airport with an elevation of 3500'. We're currently cruising at 8500' and our ground speed is approximately 120 knots.
+
+```
+8500 - 4500 = 4000'
+5000' / 500 fpm = 8 minutes
+8 minutes * 2 nm / min = 16nm
+16nm - 3nm = 13nm
+```
