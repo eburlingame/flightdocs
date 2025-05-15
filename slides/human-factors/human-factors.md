@@ -4,17 +4,60 @@ class:
   - invert
 ---
 
+<style>
+.h-stack {
+  display: flex;
+  column-gap: 1em;
+  justify-content: center;
+}
+
+</style>
+
 # Human Factors
 
 ---
 
 ## Objective
 
-To become familiar with and apply the knowledge related to aeromedical and human factors.
+To become familiar with human and aeromedical factors that can affect flight safety, and apply corrective actions to mitigate them.
 
 ## Motivation
 
 Understand the risks and mitigations for aeromedical factors that can effect flight safety, as they may happen to you, another pilot, or your passengers.
+
+---
+
+## Overview
+
+<div class="h-stack">
+
+<div>
+
+- Aeromedical Factors
+  - Hypoxia
+  - Hyperventilation
+  - Middle Ear/Sinuses
+  - Motion Sickness
+  - Carbon Monoxide
+  - Stress and Fatigue
+  - Dehydration
+  - Hypothermia
+  - Alcohol and Drugs
+  - SCUBA diving
+
+</div>
+
+<div>
+
+- IMSAFE Checklist
+- Illusions in Flight
+- Psychological Hazards
+  - Hazardous Attitudes
+  - Get-There-itis
+
+</div>
+
+</div>
 
 ---
 
@@ -54,7 +97,9 @@ Cyanosis, headache, dizziness, euphoria, impaired vision, drowsiness
 
 # Hyperventilation
 
-Excessive rate and depth of respiration, leading to a condition where the body eliminates more carbon dioxide than the body can produce.
+![bg left:35% fit](images/image-7.png)
+
+Excessive rate and depth of respiration, body expels more carbon dioxide than the body can produce.
 
 <!-- This leads to a low level of CO2 in your blood, which can cause breathlessness. -->
 
@@ -102,9 +147,9 @@ Disagreement or confusion between your sensory systems about the aircraft's posi
 
 ---
 
-## Illusions that contribute to spatial disorientation
+### Illusions and Spatial Disorientation
 
-# "The Leans"
+## "The Leans"
 
 - After a long gradual turn, the airplane is returned to level
 - The plane may feel as though it's banking in the opposite direction
@@ -117,14 +162,16 @@ Disagreement or confusion between your sensory systems about the aircraft's posi
 
 ---
 
-## Illusions that contribute to spatial disorientation
+### Illusions and Spatial Disorientation
 
-# Coriolis illusion
+## Coriolis illusion
 
 - Rapid head movement during a turn
 - The plane may feel as though it's banking in the opposite direction
 
-# Somatogravic Illusion
+---
+
+## Somatogravic Illusion
 
 - Acceleration may feel like a pitching-up movement
 - Especially true with limited visual reference, like at night
@@ -133,14 +180,18 @@ Disagreement or confusion between your sensory systems about the aircraft's posi
 
 ---
 
-## Illusions that contribute to spatial disorientation
+### Illusions and Spatial Disorientation
 
-# Inversion illusion
+## Inversion illusion
 
 - Abrupt change from climbing to straight-and-level flight can create the illusion of tumbling backwards
 - Pilots may then push the aircraft into a nose-low attitude
 
-# Elevator Illusion
+---
+
+### Illusions and Spatial Disorientation
+
+## Elevator Illusion
 
 - Upward vertical acceleration like an updraft can create the illusion of being in a climb
 - Pilots may push the aircraft into a nose-low attitude
@@ -148,7 +199,7 @@ Disagreement or confusion between your sensory systems about the aircraft's posi
 
 ---
 
-# Overcoming Disorienting Illusions
+## Overcoming Disorienting Illusions
 
 - Trust flight instruments
 - Limit maneuvering, especially high-load factor maneuvers
@@ -157,7 +208,7 @@ Disagreement or confusion between your sensory systems about the aircraft's posi
 
 ---
 
-# Motion Sickness
+## Motion Sickness
 
 Discomfort caused by the brain receiving conflicting messages about the state of the body's position in space.
 
@@ -316,17 +367,6 @@ Dissolved nitrogen in the blood being forced out of the body's tissues.
 
 ---
 
-## Knowledge Check
-
-> You are flying at 7,500 feet and your passenger complains of fatigue and a headache.
-
-- Suspect some form of hypoxia
-- Check CO detector, if installed
-- Use a pulse-oximeter if you have one
-- Descend if possible
-
----
-
 # IMSAFE Checklist
 
 Preflight self-evaluation:
@@ -340,13 +380,15 @@ Preflight self-evaluation:
 
 ---
 
+## Illusions in Flight
+
+---
+
 <style scoped>
 p { text-align: center; }
 </style>
 
-## Illusion
-
-# False Horizon
+### False Horizon
 
 ![h:525](images/image-4.png)
 
@@ -356,9 +398,7 @@ p { text-align: center; }
 p { text-align: center; }
 </style>
 
-## Illusion
-
-# Runway Width Illusion
+## Runway Width Illusion
 
 ![h:525](images/image-5.png)
 
@@ -368,24 +408,123 @@ p { text-align: center; }
 p { text-align: center; }
 </style>
 
-## Illusion
-
-# Sloping Runway Illusion
+## Sloping Runway Illusion
 
 ![h:525](images/image-6.png)
 
 ---
 
-# Other Illusions
+## Other Illusions
+
+![bg left:35%](images/image-10.png)
 
 - Featureless terrain
   - Over water at night
   - Aircraft may appear higher than it actually is
-  - "Black hole" approach
+  - "Black hole" approaches
 - Water on windscreen
-  - The aircraft may seem higher than it actually is
+  - The aircraft seems higher than it actually is
 - Haze
   - Aircraft may appear to be further away
 - Fog
   - Flying into fog: Illusion of pitching up
 - Mistaking city lights for runway lights
+
+---
+
+# Psychological Hazards
+
+---
+
+## Hazardous Attitudes
+
+- **Anti-authority**: "Don't tell me what to do"
+- **Impulsivity**: "I can do it quickly"
+- **Invulnerability**: "It won't happen to me"
+- **Macho**: "I can do it"
+- **Resignation**: "What's the use?"
+
+---
+
+## Hazardous Attitudes - Antidotes
+
+Learn to recognize these attitudes when they occur. Slow down and state the antidote to yourself:
+
+- **Anti-authority**: Follow the rules, they are usually right.
+- **Impulsivity**: Not so fast, think first.
+- **Invulnerability**: It could happen to me.
+- **Macho**: Taking chances is foolish.
+- **Resignation**: I am not helpless, I can make a difference.
+- **Stress**: I can manage stress.
+
+---
+
+## Get-There-itis
+
+![bg left:40% fit](images/image-8.png)
+
+- The desire to get to a destination, complete the mission, or meet a schedule
+- Pilots can feel pressured to continue, even when conditions are unsafe
+- Consequences of not getting there are _immediate_ and _specific_
+- Consequences of an accident are _vague_ and _hypothetical_
+
+---
+
+## Combatting Get-There-itis
+
+![bg left:40%](images/image-9.png)
+
+- Recognize the symptoms
+- Avoid situations where you feel pressured to continue
+- Avoid situations where peer pressure would be strong
+
+---
+
+## Summary
+
+---
+
+## Knowledge Check
+
+You are flying at 7,500 feet and your passenger complains of fatigue and a headache.
+
+What might you suspect?
+
+---
+
+## Knowledge Check
+
+You are flying at 7,500 feet and your passenger complains of fatigue and a headache.
+
+- Suspect some form of hypoxia
+- Check CO detector, if installed
+- Use a pulse-oximeter if you have one
+- Descend if possible
+
+---
+
+## Knowledge Check
+
+You are flying at 9,500 feet and your passenger is become abnormally euphoric and giddy.
+
+What might you suspect?
+
+---
+
+## Knowledge Check
+
+You are flying at 9,500 feet and your passenger is become abnormally euphoric and giddy.
+
+- Suspect hypoxia
+- Use a pulse-oximeter if you have one
+- Descend if possible
+- Use supplemental oxygen if available
+- Suspect that **you may also be hypoxic**
+
+---
+
+## Knowledge Check
+
+You want to take your three friends flying shortly after you receive your private pilot certificate. You're flying a Cessna 172, and from your weight and balance calculations, you know that the aircraft will be above gross weight with the four of them.
+
+You'd still like to take your friends flying. What should you do?

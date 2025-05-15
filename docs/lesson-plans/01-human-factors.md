@@ -2,7 +2,7 @@
 
 ## Objective
 
-To become familiar with and apply the knowledge related to aeromedical factors.
+To become familiar with human and aeromedical factors that can affect flight safety, and apply corrective actions to mitigate them.
 
 ## Motivation
 
@@ -149,6 +149,12 @@ Understand the risks and mitigations for aeromedical factors that can effect fli
   - Water Refraction
   - Haze
   - Fog
+
+## Questions
+
+- You are flying at 7,500 feet and your passenger complains of fatigue and a headache.
+- You are flying at 9,500 feet and your passenger is become abnormally euphoric and giddy.
+- You want to take your three friends flying shortly after you receive your private pilot certificate. You're flying a Cessna 172, and from your weight and balance calculations, you know that the aircraft will be above gross weight with the four of them.
 
 ## References
 

@@ -1,16 +1,16 @@
 # Airport Operations
 
-## Objectives
+## Objective
 
-To understand the required and recommended operations of operating near controlled and uncontrolled airports.
+Identify airport operations and procedures, including traffic patterns, runway identifiers, and light gun signals. Understand the role of ATC and the importance of communication with them.
 
-## Motivations
+## Motivation
 
-It is important for a pilot to know and understand the standard procedures for operating in an airport environment, and how to mitigate the risks of operating in close proximity with other traffic.
+Understanding airport operations is critical for safe flight operations. Pilots need to be familiar with traffic patterns and the role of ATC in managing air traffic. This knowledge will help pilots navigate airports safely and efficiently.
 
 ## Timings
 
-- 30 minutes
+- 45 minutes
 
 ## Format
 
