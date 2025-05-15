@@ -1,0 +1,103 @@
+# Flight Instructor Airplane ACS Tasks
+
+- Area of Operation I. Fundamentals of Instructing **(Task, E, F, + 1 additional)**
+  - A. Effects of Human Behavior and Communication on the Learning Process
+  - B. Learning Process
+  - C. Course Development, Lesson Plans, and Classroom Training Techniques
+  - D. Student Evaluation, Assessment, and Testing
+  - E. **Elements of Effective Teaching in a Professional Environment**
+  - F. **Elements of Effective Teaching that Include Risk Management and Accident Prevention**
+- Area of Operation II. Technical Subject Areas **(Task C, K, + 1 additional)**
+  - A. Human Factors
+  - B. Visual Scanning and Collision Avoidance
+  - C. **Runway Incursion Avoidance**
+  - D. Principles of Flight
+  - E. Aircraft Flight Controls and Operation of Systems
+  - F. Performance and Limitations
+  - G. National Airspace System
+  - H. Navigation Systems and Radar Services
+  - I. Navigation and Cross-Country Flight Planning
+  - J. 14 CFR and Publications
+  - K. **Endorsements and Logbook Entries**
+  - L. Water and Seaplane Characteristics, Seaplane Bases, Maritime Rules, and Aids to Marine Navigation (ASES, AMES)
+  - M. Night Operations
+  - N. High Altitude Operations - Supplemental Oxygen
+  - O. High Altitude Operations - Pressurization
+  - P. One Engine Inoperative (OEI) Performance (AMEL, AMES)
+- Area of Operation III. Preflight Preparation **(At least one task)**
+  - A. Pilot Qualifications
+  - B. Airworthiness Requirements
+  - C. Weather Information
+- Area of Operation IV. Preflight Lesson on a Maneuver to be Performed in Flight **(One lesson)**
+  Task A. Maneuver Lesson
+- Area of Operation V. Preflight Procedures **(At least one task)**
+  - A. Preflight Assessment
+  - B. Flight Deck Management
+  - C. Engine Starting
+  - D. Taxiing, Airport Signs, and Lighting (ASEL, AMEL)
+  - E. Taxiing and Sailing (ASES, AMES)
+  - F. Before Takeoff Check
+- Area of Operation VI. Airport and Seaplane Base Operations **(At least one task)**
+  - A. Communications, Light Signals, and Runway Lighting Systems
+  - B. Traffic Patterns
+- Area of Operation VII. Takeoffs, Landings, and Go-Arounds **(Two takeoffs and two landings)**
+  - A. Normal Takeoff and Climb
+  - B. Normal Approach and Landing
+  - C. Soft-Field Takeoff and Climb (ASEL)
+  - D. Soft-Field Approach and Landing (ASEL)
+  - E. Short-Field Takeoff and Maximum Performance Climb (ASEL, AMEL)
+  - F. Short-Field Approach and Landing (ASEL, AMEL)
+  - G. Confined Area Takeoff and Maximum Performance Climb (ASES, AMES)
+  - H. Confined Area Approach and Landing (ASES, AMES)
+  - I. Glassy Water Takeoff and Climb (ASES, AMES)
+  - J. Glassy Water Approach and Landing (ASES, AMES)
+  - K. Rough Water Takeoff and Climb (ASES, AMES)
+  - L. Rough Water Approach and Landing (ASES, AMES)
+  - M. Slip to a Landing (ASEL, ASES)
+  - N. Go-Around/Rejected Landing
+  - O. Power-Off 180° Accuracy Approach and Landing (ASEL, ASES)
+- Area of Operation VIII. Fundamentals of Flight **(At least one task)**
+  - A. Straight-and-Level Flight
+  - B. Level Turns
+  - C. Straight Climbs and Climbing Turns
+  - D. Straight Descents and Descending Turns
+- Area of Operation IX. Performance and Ground Reference Maneuvers **(At least 4 tasks, including A or B, C or D, E or F)**
+  - One of
+    - A. Steep Turns
+    - B. Steep Spiral (ASEL, ASES)
+  - One of
+    - C. Chandelles (ASEL, ASES)
+    - D. Lazy Eights (ASEL, ASES)
+  - One of
+    - E. Ground Reference Maneuvers
+    - F. Eights on Pylons (ASEL, ASES)
+- Area of Operation X. Slow flight, Stalls, and Spins **(Must select A or B; C, D, or E; F, G, or H; and I)**
+  - One of
+    - A. Maneuvering During Slow Flight
+    - B. Demonstration of Flight Characteristics at Various Configurations and Airspeeds (ASEL and ASES)
+  - One of
+    - C. Power-Off Stalls
+    - D. Power-On Stalls
+    - E. Accelerated Stalls
+  - One of
+    - F. Cross-Controlled Stall Demonstration (ASEL, ASES)
+    - G. Elevator Trim Stall Demonstration (ASEL, ASES)
+    - H. Secondary Stall Demonstration (ASEL, ASES)
+  - I. **Spin Awareness and Spins**
+- Area of Operation XI. Basic Instrument Maneuvers **(At least one task)**
+  - A. Straight-and-Level Flight
+  - B. Constant Airspeed Climbs
+  - C. Constant Airspeed Descents
+  - D. Turns to Headings
+  - E. Recovery from Unusual Flight Attitudes
+- Area of Operation XII. Emergency Operations **(Must select B and C)**
+  - A. Emergency Descent
+  - B. **Emergency Approach and Landing (Simulated) (ASEL, ASES)**
+  - C. **Systems and Equipment Malfunctions**
+  - D. Emergency Equipment and Survival Gear
+  - E. Engine Failure During Takeoff Before VMC (Simulated) (AMEL, AMES)
+  - F. Engine Failure After Liftoff (Simulated) (AMEL, AMES)
+  - G. Approach and Landing with an Inoperative Engine (Simulated)(AMEL, AMES)
+- Area of Operation XIV. Postflight Procedures **(Must select A)**
+  - A. **After Landing, Parking, and Securing (ASEL, AMEL)**
+  - B. Seaplane Post-Landing Procedures (ASES, AMES)
