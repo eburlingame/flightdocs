@@ -40,7 +40,7 @@ convert_to_pdf slides/night-operations/night-operations.md                static
 convert_to_pdf slides/navigation-systems/navigation-systems.md            static/slides/navigation-systems.pdf
 convert_to_pdf slides/airspace/airspace-1.md                              static/slides/airspace-1.pdf
 convert_to_pdf slides/airspace/airspace-2.md                              static/slides/airspace-2.pdf
-convert_to_pdf slides/airspace/airspace-3.md                              static/slides/airspace-1.pdf
+convert_to_pdf slides/airspace/airspace-3.md                              static/slides/airspace-3.pdf
 convert_to_pdf slides/airspace/airspace-4.md                              static/slides/airspace-4.pdf
 convert_to_pdf slides/regulations/regulations.md                          static/slides/regulations.pdf
 convert_to_pdf slides/performance/performance.md                          static/slides/performance.pdf
