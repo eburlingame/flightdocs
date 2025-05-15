@@ -4,15 +4,59 @@ class:
   - invert
 ---
 
+<style>
+.h-stack {
+  display: flex;
+  column-gap: 1em;
+  justify-content: center;
+}
+
+</style>
+
 # Airport Operations
 
 ---
 
-## Hazards Operating Near An Airport
+## Objective
+
+Identify airport operations and procedures, including traffic patterns, runway identifiers, and light gun signals. Understand the role of ATC and the importance of communication with them.
+
+## Motivation
+
+Understanding airport operations is critical for safe flight operations. Pilots need to be familiar with traffic patterns and the role of ATC in managing air traffic. This knowledge will help pilots navigate airports safely and efficiently.
+
+---
+
+## What are some hazards when flying near an airport?
+
+<div class="h-stack">
+
+![w:400](images/image-8.png)
 
 - Traffic congestion
 - Climbing/descending aircraft
+- Different aircraft at different speeds
 - Pilot preoccupation
+- Mix of IFR and VFR traffic
+
+</div>
+
+---
+
+## Overview of Airport Operations
+
+![bg left:35%](images/image-9.png)
+
+Airport procedures are standardized to minimize risk of collision and promote efficient flow of aircraft.
+
+- Runway Identifiers
+- Traffic Patterns
+- Right-of-way Rules
+- Airports with a Control Tower
+- Runway Distances
+- Wake Turbulence
+- Aircraft Lights
+- ASOS/AWOS
 
 ---
 
@@ -85,10 +129,11 @@ class:
 
 ---
 
-## Visual indicators
+## Visual Wind Indicators
 
 ![h:350](images/image.png)
 
+- Show which direction to fly a traffic pattern
 - Segmented circle/traffic pattern indicator: Shows traffic pattern direction
 - Tetrahedron: Land in the direction that it's pointed
 
@@ -127,8 +172,13 @@ These may be less than physical distances to account for runway safety area buff
 
 ## Intersection Takeoffs
 
+![bg left:50% fit](images/image-10.png)
+
 - Controller will give you take off distance available from intersection
 - Pilots need to accept or decline
+- Risks of intersection takeoffs:
+  - Reduced takeoff distance
+  - Less runway in case of an engine failure
 
 ---
 
@@ -142,7 +192,7 @@ These may be less than physical distances to account for runway safety area buff
 
 ---
 
-## LAHSO: Land and hold short operations
+## Land And Hold Short Operations (LAHSO)
 
 - Land before an intersecting runway or taxiway
 - PIC needs to accept or decline
@@ -171,7 +221,7 @@ These may be less than physical distances to account for runway safety area buff
 
 ---
 
-## Aircraft lights
+## Aircraft Lights ([91.209](https://www.ecfr.gov/current/title-14/section-91.209))
 
 - Beacon/anti-collision lights on when aircraft is in motion
 - Position/nav lights are required to be on sunset to sunrise
@@ -188,3 +238,38 @@ These may be less than physical distances to account for runway safety area buff
 
 - Should be available &lt; 10,000 ft within 25nm
 - "I have the one-minute weather for Salem"
+
+---
+
+# Summary
+
+- Runway Identifiers: Magnetic heading / 10
+- Traffic Patterns: Left pattern at 1000' AGL, unless otherwise indicated
+- Right-of-way Rules: Lower aircraft has right-of-way
+- Airports with a Control Tower: Initial call 10 miles out, follow ATC instructions
+- Runway Distances: TORA vs LDA
+- Wake Turbulence: Visualize drift of vorticies, ATC will hold for 3 minutes
+- Aircraft Lights: Beacon on all the time, nav/position sunset to sunrise
+- ASOS/AWOS:
+
+---
+
+## Knowledge Check
+
+Preparing to land at an untowered airport, you listen to the AWOS and hear the wind is 270&deg; at 10 knots. Looking at the wind sock though, you see it's point towards a heading of 180&deg;
+
+Which direction should you fly the traffic pattern and land?
+
+---
+
+## Knowledge Check
+
+You're on final to runway 36 at a towered airport. The controller tells you to "cleared for the option". What does that mean?
+
+---
+
+## Knowledge Check
+
+You're on final to runway 18 at a towered airport with crossing runways. The controller tells you to "cleared to land runway 18, hold short of runway 36 for crossing traffic".
+
+What does that mean? Do you have to comply?
