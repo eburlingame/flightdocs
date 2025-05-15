@@ -8,7 +8,7 @@ class:
 
 ---
 
-## Hazards operating near an airport
+## Hazards Operating Near An Airport
 
 - Traffic congestion
 - Climbing/descending aircraft
@@ -125,14 +125,14 @@ These may be less than physical distances to account for runway safety area buff
 
 ---
 
-## Intersection takeoffs
+## Intersection Takeoffs
 
 - Controller will give you take off distance available from intersection
 - Pilots need to accept or decline
 
 ---
 
-## Wake turbulence holds
+## Wake Turbulence Holds
 
 ![bg left:35% fit](images/image-5.png)
 
