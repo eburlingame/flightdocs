@@ -32,11 +32,12 @@ To understand the concepts behind pilotage, dead reckoning, radio, and GPS navig
   - Altitudes
   - Courses: True course, magnetic course
 - NWKRAFT - ([91.103](/_references/14-CFR/91.103))
-  - Notams
+  - NOTAMs
   - Weather
   - Known ATC delays
   - Runway lengths
-  - Alternate available
+  - Fuel requirements
+  - Alternates available
   - Takeoff and landing distances
 - Navigation
   - Pilotage: Waypoints

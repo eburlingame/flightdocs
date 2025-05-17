@@ -27,7 +27,7 @@
     - runway lengths, takeoff and landing distances, weather reports and forecasts, and fuel requirements
     - Alternatives if the planned flight cannot be completed or delays are encountered.
 
-## Flight proficiency requirements ([61.107](/_references/14-CFR/61.107))
+## Flight Proficiency Requirements ([61.107](/_references/14-CFR/61.107))
 
 - Need ground and flight around these areas:
   - Preflight preparation
@@ -43,19 +43,20 @@
   - Basic instrument maneuvers
   - Night operations
 
-## Aeronautical experience ([61.109](/_references/14-CFR/61.109))
+## Aeronautical Experience ([61.109](/_references/14-CFR/61.109))
 
 - 40 hours total flight time
 - 20 hours of flight training, including
   - 3 hours XC flight training
-  - 3 hours night flight training , including
-    - 1 XC over 100nm
+  - 3 hours night flight training, including
+    - 1 cross-country flight over 100nm
     - 10 takeoffs and landings at night
-  - 3 hours controller solely by reference to instruments
+  - 3 hours of flight solely by reference to instruments
   - 3 hours of flight training within 2 calendar month of the practical test
 - 10 hours of solo flight time, including
   - 5 hours solo XC flight
     - One solo XC flight over 150nm, with landings at 3 points, with one leg being >50nm between takeoff and landing
+  - 3 takeoffs and 3 landings to a full stop (with a flight in the traffic pattern) at an airport with an operating control tower
 
 ## Privileges and Limitations ([61.113](/_references/14-CFR/61.113))
 

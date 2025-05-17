@@ -363,6 +363,7 @@ Above 3000' AGL, VFR traffic in level cruising flight shall fly:
   - **K**nown ATC delays: For bigger airports
   - **R**unway lengths: For our intended airports
   - **A**lternates available: Other airports we can go to
+  - **F**uel requirements
   - **T**akeoff and landing distances: Performance charts
 
 ---

@@ -118,7 +118,7 @@ Airport procedures are standardized to minimize risk of collision and promote ef
 
 - Enter in level flight abeam the midpoint of the runway
 - If remaining in the pattern, start crosswind leg within 300' of pattern altitude
-- When departing the pattern, depart straight-out or 34&deg; in the direction of the pattern
+- When departing the pattern, depart straight-out or 45&deg; in the direction of the pattern
 - When operating with parallel runways, don't overshoot the final turn
 
 ---
@@ -149,6 +149,7 @@ Airport procedures are standardized to minimize risk of collision and promote ef
 ## Airports with a Control Tower
 
 - Maintain contact with the control tower while you're in the airspace
+- Make initial call-up 15 miles out
 - Some airports have a radar display, but not all
   - Traffic advisories
   - Recommended headings

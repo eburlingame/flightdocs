@@ -107,6 +107,7 @@ Airspace is divided into 5 class:
 - Not charted
 - FL = Flight levels, thousands of feet
   - Used for altitude above 18,000' MSL
+  - Once passing through 18,000 ft., altimeter is set to 29.92"
   - FL240 = 24,000' MSL
 
 </div>
@@ -203,6 +204,19 @@ Airspace is divided into 5 class:
 
 - `69 / SFC` = Surface to 6900' MSL
 - `46 / 69` = 4600' MSL to 6900' MSL
+
+</div>
+
+---
+
+## Class C Airspace: Vertical Extents
+
+<div class="h-stack">
+
+![alt text](images/image-60.png)
+
+- `T` means top of the overlying airspace
+- In this case it's surface to 2100' where Class B begins
 
 </div>
 

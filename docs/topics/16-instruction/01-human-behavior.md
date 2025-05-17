@@ -106,7 +106,7 @@ Any physical discomfort greatly affects the ability of a student to learn.
 #### Apathy due to inadequate instruction
 
 - Learners can be come disengaged when
-  - the instructor inadequately prepared
+  - The instructor inadequately prepared
   - Instruction is deficient, contradictory, or insincere
 - Teach at an appropriate level
 - Don't talk down to a learner

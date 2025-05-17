@@ -1,5 +1,5 @@
 import { useMemo, useState } from "react";
-import { Endorsement, endorsementFor, endorsements } from "./endorsements";
+import { Endorsement } from "./endorsements";
 import { studentPrivileges } from "./student";
 
 export type EndorsementCalculatorProps = {};
@@ -85,7 +85,7 @@ const PrivilegeDescription = ({ privilege }: { privilege: Privilege }) => {
 
 const StudentEndorsementViewer = ({}: EndorsementCalculatorProps) => {
   const [selectedPrivilegeName, setSelectedPrivilegeName] = useState(
-    studentPrivileges[studentPrivileges.length - 1].name
+    studentPrivileges[0].name
   );
 
   const selectedPrivilege = useMemo(() => {
