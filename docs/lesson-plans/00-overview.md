@@ -26,19 +26,19 @@ Lesson plans designed for the Flight Instructor Airplane ACS:
         <tr>
         <!-- 3 -->
             <td>II.C - 1</td>
-            <td>Ground Operations: Airport Markings and Lighting</td>
+            <td>[Ground Operations: Airport Markings and Lighting](/docs/lesson-plans/ground-markings)</td>
             <td>[Slides](/slides/airport-markings.pdf)</td>
         </tr>
         <tr>
         <!-- 4 -->
             <td>II.C - 2</td>
-            <td>Ground Operations: Taxi Operations</td>
+            <td>[Ground Operations: Taxi Operations](/docs/lesson-plans/ground-taxi)</td>
             <td>[Slides](/slides/taxi-operations.pdf)</td>
         </tr>
         <tr>
         <!-- 5 -->
             <td>II.C - 3</td>
-            <td>Ground Operations: Runway Incursion Avoidance</td>
+            <td>[Ground Operations: Runway Incursion Avoidance](/docs/lesson-plans/ground-runway-incursions)</td>
             <td>[Slides](/slides/runway-incursions.pdf)</td>
         </tr>
         <tr>
@@ -128,7 +128,7 @@ Lesson plans designed for the Flight Instructor Airplane ACS:
         <tr>
         <!-- 20 -->
             <td>II.H</td>
-            <td>Navigation Systems and Radar Services</td>
+            <td>[Navigation Systems and Radar Services](/docs/lesson-plans/navigation-systems)</td>
             <td>[Slides](/slides/navigation-systems.pdf)</td>
         </tr>
         <tr>
@@ -158,19 +158,13 @@ Lesson plans designed for the Flight Instructor Airplane ACS:
         <tr>
         <!-- 25 -->
             <td>II.N</td>
-            <td>High Altitude Operations: Supplemental Oxygen</td>
-            <td>[Slides](/slides/high-altitude-flight.pdf)</td>
-        </tr>
-        <tr>
-        <!-- 26 -->
-            <td>II.O</td>
-            <td>High Altitude Operations: Pressurization</td>
+            <td>[High Altitude Operations](/docs/lesson-plans/high-altitude)</td>
             <td>[Slides](/slides/high-altitude-flight.pdf)</td>
         </tr>
         <tr>
         <!-- 27 -->
             <td>III.A</td>
-            <td>Pilot Qualifications</td>
+            <td>[Pilot Qualifications](/docs/lesson-plans/pilot-qualifications)</td>
             <td>[Slides](/slides/pilot-qualifications.pdf)</td>
         </tr>
         <tr>
