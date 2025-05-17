@@ -4,7 +4,30 @@ class:
   - invert
 ---
 
-# Endorsements and Logbook Entries
+<style>
+.h-stack {
+  display: flex;
+  column-gap: 1em;
+  justify-content: center;
+}
+
+</style>
+
+# Endorsements, Logbook Entries, and Flight Reviews
+
+---
+
+## Objective
+
+## Motivation
+
+---
+
+## Overview
+
+---
+
+# Summary Endorsements and Logbook Entries
 
 ---
 
@@ -43,21 +66,21 @@ To understand and apply the required endorsement for pilot training and currency
 
 ---
 
-## Logging Flight Time
+## Acting vs Logging Pilot-in-command time
 
-- Acting vs logging pilot-in-command time
-  - To act as PIC: Must be appropriately rated
-    - Including flight reviews, passenger currency
-    - Including IFR currency
-    - Including tailwheel, high-performance, complex endorsements
-    - Include type ratings, if required
-  - To log PIC time: Sole manipulator of the controls
-    - Also, when two pilots are required for the given operation
-    - For example: IFR safety pilot or type rated A/C requiring two crew members
-      - Safety pilot may log any hood time as PIC time
-    -
+- To act as PIC: Must be appropriately rated
+  - Including flight reviews, passenger currency
+  - Including IFR currency
+  - Including tailwheel, high-performance, complex endorsements
+  - Include type ratings, if required
+- To log PIC time: Sole manipulator of the controls
+  - Also, when two pilots are required for the given operation
+  - For example: IFR safety pilot or type rated A/C requiring two crew members
+    - Safety pilot may log any hood time as PIC time
 
-Letters of Interpretation:
+---
+
+### Letters of Interpretation
 
 - 1980 Jones Letter: Logging PIC separate from acting PIC
 - 1993 Hicks Letter: Hood flight time is an operation requiring two pilots
@@ -138,19 +161,34 @@ subject areas in which they were deficient on the [applicable] airman knowledge 
 - Glider
 - Lighter-than-air
 
-### Classes are breakdown a category
+---
+
+### Classes Breakdown A Category
+
+<div class="h-stack">
+
+<div>
 
 - Airplane
   - Single-engine
   - Multi-engine
   - Land
   - Sea
+
+</div>
+
+<div>
+
 - Rotorcraft
   - Gyroplane
   - Helicopter
 - Lighter-than-air
   - Airship
   - Free balloon
+
+</div>
+
+</div>
 
 ---
 
@@ -281,11 +319,36 @@ flown.
 - Good for 90 days, limited to a single make + model
 - Instructor can add any limitation they desire to the endorsement
 
+---
+
+### Student Pilots (61 Subpart C)
+
+# 61.87 Solo Endorsement
+
 ```
-A6. I certify that [First name, MI, Last name] has received the required training to qualify for
+A6. I certify that <student first + last name> has received the required training to qualify for
 solo flying. I have determined they meet the applicable requirements of § 61.87(n) and
-are proficient to make solo flights in [M/M].
+are proficient to make solo flights in T182.
+
+Limitations:
+Total wind < 15 knots, ceiling > 3000 ft., < 5 knots crosswind.
+Must text or email instructor prior to flight.
 ```
+
+---
+
+## Pre-Solo Student Checklist
+
+1. PAVE
+2. Aircraft airworthy: AV1ATED
+3. Aircraft documents: ARROW
+4. NWKRAFT
+   1. NOTAMs
+   2. Weather
+   3. Runway lengths
+   4. Fuel requirements
+   5. Takeoff/landing distances
+5. Call or text
 
 ---
 
