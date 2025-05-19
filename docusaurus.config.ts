@@ -88,6 +88,12 @@ const config: Config = {
           position: "left",
           label: "Lesson Plans",
         },
+        {
+          type: "docSidebar",
+          sidebarId: "widgetSidebar",
+          position: "left",
+          label: "Widgets",
+        },
       ],
     },
     footer: {
