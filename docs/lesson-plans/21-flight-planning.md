@@ -4,13 +4,21 @@
 
 To understand the concepts behind pilotage, dead reckoning, radio, and GPS navigation, and effectively apply that knowledge on a cross-county flight.
 
-## Motivations
+## Objective
+
+Safely plan a VFR cross-country flight, use various types of navigation to get there, and use a navigation log to compute expected distances, times, and fuel requirements. Also use ForeFlight to plan a flight and interpret its output.
+
+## Motivation
+
+Flying to another airport requires additional planning and multiple forms of navigation. A pilot needs to understand the information needed to accurately plan a flight and have the skills to execute that flight plan.
 
 ## Timings
 
 - 2 hours
 
 ## Format
+
+- [Slides](/slides/flight-planning.pdf)
 
 ## Elements
 

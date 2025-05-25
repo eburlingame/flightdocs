@@ -354,7 +354,7 @@ Using an E6B computer, we compute true airspeed (TAS) as **130.1 knots**
   - Where will an airplane have a longer takeoff roll, in Denver or in Orlando?
   - Where will an airplane have a longer landing roll, when the temperature is 2&deg; C or 30&deg; C?
   - Which aircraft will have a higher ground speed on takeoff, when the pressure is 20.79" or 30.44" Hg?
-  - When will our (normally-aspirate) airplane produce the most power, on the ground or at 8000 feet?
+  - When will our (normally-aspirated) airplane produce the most power, on the ground or at 8000 feet?
 
 ---
 

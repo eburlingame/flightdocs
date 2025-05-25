@@ -1,8 +1,12 @@
 # Performance Planning
 
-## Objectives
+## Objective
 
-## Motivations
+Gain an intuitive understanding of how atmospheric conditions affect aircraft performance, and how to use our airplane's performance charts to compute specific performance numbers.
+
+## Motivation
+
+Altitude, temperature, and pressure affect all aspects of our airplane's performance. All pilots need to understand how these factors affect the capabilities of the airplane and how that affects the safety of flight.
 
 ## Timings
 
@@ -10,7 +14,7 @@
 
 ## Format
 
-- Slides
+- [Slides](/slides/performance.pdf)
 
 ## Elements
 
@@ -68,7 +72,7 @@
   - As you rotate the Kollsman window the altimeter moves up and down at that same rate 1" per 1000'
   - If we set our altimeter to 29.92" (the pressure of S.L. in the standard atmosphere), it will give us pressure altitude
 - Next, we're going to adjust for temperature
-  - Just like pressure, the temperature in the standard atmosphere decreases 
+  - Just like pressure, the temperature in the standard atmosphere decreases
 - Atmosphere
   - Density decreases as we ascend (18,000', 1/2 as dense as S.L.)
   - The standard atmosphere: ~2&deg; per 1000'

@@ -1,0 +1,59 @@
+import WeightAndBalanceTable from "@site/src/components/WeightAndBalanceTable";
+
+# Weight and Balance
+
+<WeightAndBalanceTable
+config={{
+    stations: [
+      {
+        label: "Aircraft Empty Weight",
+        weightLbsDefault: 1396.5,
+        defaultArmInches: 40.0821,
+        units: "lbs",
+      },
+      {
+        label: "Oil",
+        weightLbsDefault: 15,
+        defaultArmInches: -13.3,
+        units: "lbs",
+      },
+      {
+        label: "Fuel (at 6 lbs/gal)",
+        weightLbsDefault: 38,
+        defaultArmInches: 48,
+        unitsScalar: 6,
+        units: "gallons",
+      },
+      {
+        label: "Pilot",
+        weightLbsDefault: 150,
+        defaultArmInches: 37,
+        units: "lbs",
+      },
+      {
+        label: "Copilot",
+        weightLbsDefault: 150,
+        defaultArmInches: 37,
+        units: "lbs",
+      },
+      {
+        label: "Rear Passenger 1",
+        weightLbsDefault: 150,
+        defaultArmInches: 73,
+        units: "lbs",
+      },
+      {
+        label: "Rear Passenger 2",
+        weightLbsDefault: 150,
+        defaultArmInches: 73,
+        units: "lbs",
+      },
+      {
+        label: "Rear Baggage",
+        weightLbsDefault: 150,
+        defaultArmInches: 95,
+        units: "lbs",
+      },
+    ],
+  }}
+/>

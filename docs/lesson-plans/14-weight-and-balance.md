@@ -14,6 +14,7 @@ The effect of weight and CG location is critical to the safety of flight and an 
 
 ## Format
 
+- [Reference Slides](/slides/weight-and-balance.pdf)
 - [Whiteboard](/slides/weight-and-balance.pdf)
 
 ## Elements
