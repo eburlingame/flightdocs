@@ -107,7 +107,7 @@ $$
 - Parasite drag vs induced drag
 - Best L/D, power required above and below
 
-### Wing Design
+### Wing Design [Commercial]
 
 - Aspect ratio: Ratio of wing span to wing chord
   - Low aspect ratio: Concord, fighter jet

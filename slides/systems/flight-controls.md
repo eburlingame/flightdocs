@@ -2,6 +2,15 @@
 theme: default
 ---
 
+<style>
+.h-stack {
+  display: flex;
+  column-gap: 1em;
+  justify-content: center;
+}
+
+</style>
+
 # Flight Controls
 
 ---
@@ -25,6 +34,12 @@ Knowledge of the flight controls is important so you can gain an intuitive under
   - Flaps
   - Trim tabs
   - Leading edge devices
+
+---
+
+## Primary Flight Controls
+
+The main way we control the airplanes movement
 
 ---
 
@@ -58,47 +73,61 @@ Knowledge of the flight controls is important so you can gain an intuitive under
 
 ## Adverse Yaw
 
-![h:500](images/image-95.png)
+<div class="h-stack">
+
+![w:800](images/image-95.png)
+
+- Down aileron produces more lift, thus more drag
+- Up aileron produces less lift, thus less drag
+- This causes a yaw in the opposite direction of the intended turn
+
+</div>
 
 ---
 
 ### Differential Ailerons
 
-![h:450](images/image-18.png)
+<div class="h-stack">
 
-- Up aileron deceases drag less more than the down aileron increases it
-- So, we raise the up aileron slightly more than we lower the down aileron
+![w:1000](images/image-18.png)
 
-<!--
-
-The effect of adverse yaw isn't symmetrical:
+- Adverse yaw isn't symmetrical:
   - The up aileron (lower AoA) decreases drag a relatively small amount
   - The down aileron (higher AoA) increase drag a relatively large amount
+- We can raise the up aileron slightly more than we lower the down aileron
+  - This compensates for difference in yaw
 
-So adding more drag to up the up aileron, evening out the drag
-
--->
+</div>
 
 ---
 
 ## Frise Ailerons
 
+<div class="h-stack">
+
 ![h:500](images/image-4.png)
+
+</div>
 
 ---
 
-## Elevator: Control wheel, pitch up or down
+## Elevator: Yoke forward/back, pitch up or down
 
-- Airplanes can also have a stabilator, where the entire surface moves
-- Elevator induces additional drag
+<div class="h-stack">
 
 ![h:300](images/image-5.png)
+
+</div>
 
 ---
 
 ## Elevator Operation
 
-## ![h:500](images/image-17.png)
+<div class="h-stack">
+
+![h:500](images/image-17.png)
+
+</div>
 
 ---
 
@@ -110,11 +139,15 @@ So adding more drag to up the up aileron, evening out the drag
 
 ---
 
-## Rudder: Yaw Left or Right
+## Rudder: Yaws airplane right/left
 
-- Connected to the rudder pedals
+Controlled with rudder pedals
+
+<div class="h-stack">
 
 ![h:350](images/image-6.png)
+
+</div>
 
 ---
 
@@ -129,23 +162,39 @@ So adding more drag to up the up aileron, evening out the drag
 - Most flight controls are cable driven
 - Flaps are often driven by an electronic motor, or a manual rod
 
+<div class="h-stack">
+
 ![alt text](images/image-103.png)
+
+</div>
+
+---
+
+## Secondary Flight Controls
 
 ---
 
 ## Flaps
 
+<div class="h-stack">
+
 ![h:300](images/image-19.png)
+
+</div>
 
 ---
 
 ## Effect of Flaps
 
-![h:350](images/image-9.png)
+<div class="h-stack">
+
+![w:1000](images/image-9.png)
 
 - Increase chord of the wing, which increases angle of attack
 - Increases lift and increases drag
 - Useful when you want to descend without gaining airspeed, like during landing
+
+</div>
 
 ---
 
@@ -212,31 +261,47 @@ So adding more drag to up the up aileron, evening out the drag
 
 ### Leading Edge Slots
 
+<div class="h-stack">
+
 ![h:500](images/image-11.png)
+
+</div>
 
 ---
 
 ### Moveable Slats
 
+<div class="h-stack">
+
 ![h:400](images/image-20.png)
+
+</div>
 
 ---
 
 ### Leading Edge Flap
 
+<div class="h-stack">
+
 ![h:500](images/image-99.png)
+
+</div>
 
 ---
 
 ## Leading Edge Cuff
 
+<div class="h-stack">
+
 ![h:500](images/image-100.png)
+
+</div>
 
 ---
 
 ## Trim
 
-### Elevator trim
+### Elevator Trim
 
 ![bg left:30%](images/image-13.png)
 
@@ -249,31 +314,67 @@ So adding more drag to up the up aileron, evening out the drag
 
 ### Trim Tab Movement
 
+<div class="h-stack">
+
 ![h:500](images/image-14.png)
+
+</div>
+
+---
+
+## Elevator Alternative: Stabilators
+
+<div class="h-stack">
+
+![w:1000](images/image-120.png)
+
+- Entire horizontal stabilizer moves instead of just an elevator
+- Common on Piper aircraft
+
+</div>
 
 ---
 
 ### Anti-servo Tab - Stabilators
 
+<div class="h-stack">
+
+![w:1000](images/image-15.png)
+
 - Stabilators can produce a lot of force, so the antiservo tab counteracts the motion, making the controls less sensitive
 - They are still adjusted up/down with the trim control in the cockpit
 
-![h:400](images/image-15.png)
+</div>
 
 ---
 
 ### Rudder Trim
 
-- May be flight or ground adjustable
+<div class="h-stack">
 
 ![h:500](images/image-16.png)
+
+- Help hold coordinated flight in a given flight attitude
+- May be flight or ground adjustable
+
+</div>
 
 ---
 
 ## Summary
 
-- Primary fight controls: Rudder (yaw), aileron (roll), elevator (pitch)
-- Secondary flight controls: Flaps, trim tabs, lead edge devices
+<div class="h-stack">
+
+![w:650](images/image-1.png)
+
+- Primary fight controls:
+  - Rudder (yaw), aileron (roll), elevator (pitch)
+- Secondary flight controls
+  - Flaps
+  - Trim tabs
+  - Leading edge devices
+
+</div>
 
 ---
 

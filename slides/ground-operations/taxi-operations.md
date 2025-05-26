@@ -59,22 +59,27 @@ Taxiing is a critical phase of flight that requires careful attention to detail 
 
 ## Taxi Speed
 
+<div class="h-stack">
+
+![w:900](images/T182-23.jpg)
+
 - Taxi slow enough that you can stop quickly
 - Don't ride the brakes
 - Turn with rudder/nosewheel first, then use differental braking
-- Position controls into the wind
+
+</div>
 
 ---
 
-## Wind
+## Wind Controls Position
 
 <div class="h-stack">
 
 ![w:600](images/image-31.png)
 
-- Turn into the wind
-- Dive away from the wind
-- Helps keep the wind from lifting the wing
+- Keep the wind from lifting the wing
+  - "Turn into the wind"
+  - "Dive away from the wind"
 - If taxiing in wind difficult, flying will be even more difficult
 
 </div>
@@ -156,20 +161,54 @@ Taxiing is a critical phase of flight that requires careful attention to detail 
 
 ---
 
-## Example Taxi Clearance
+## General ATC Phraseology
 
-- You: `Salem Ground, Cessna N12345 with information Papa, ready to taxi for VFR departure to the north.`
-- Ground: `Cessna N12345, Salem Ground, taxi runway 13 via Alpha.`
-- You: `Taxi runway 13 via Alpha, Cessna N12345.`
+1. Who are you calling
+2. Who you are - your type and callsign (Cessna N12345)
+3. What information do you have?
+4. What do you want to do?
+
+`Salem Ground, Cessna N13212 with information Papa, ready to taxi for VFR departure.`
+
+---
+
+## Types of Departures
+
+1. "Closed traffic" - remain the traffic pattern
+2. North/south/west/east bound departure
+3. VFR arrival/departure procedures: Ask if not familiar
+
+---
+
+## Progressive Taxi
+
+<div class="h-stack">
+
+![alt text](images/image-44.png)
+
+- At an unfamiliar airport you can ask ATC for progressive taxi
+- They will give you turn-by-turn directions as you taxi to your destination
+
+</div>
 
 ---
 
 ## Copying Taxi Instructions
 
+![bg left:50% fit](<images/KSEA Seattle-Tacoma International 11.jpeg>)
+
 1. Anticipate the expected clearance
 2. Write down taxi instruction and cross reference with airport diagram
 3. Call out any taxi hotspots
 4. Monitor progress on airport diagram
+
+---
+
+## Example Taxi Clearance
+
+- You: `Salem Ground, Cessna N12345 with information Papa, ready to taxi for VFR departure to the north.`
+- Ground: `Cessna N12345, Salem Ground, taxi runway 13 via Alpha.`
+- You: `Taxi runway 13 via Alpha, Cessna N12345.`
 
 ---
 
@@ -248,44 +287,6 @@ Taxiing is a critical phase of flight that requires careful attention to detail 
 
 ---
 
-## General ATC Phraseology
-
-1. Who are you calling
-2. Who you are - your type and callsign (Cessna N12345)
-3. What information do you have?
-4. What do you want to do?
-
-`Salem Ground, Cessna N13212 with information Papa, ready to taxi for VFR departure.`
-
----
-
-## Departure
-
-1. "Closed traffic" - remain the traffic pattern
-2. North/south/west/east bound departure
-3. VFR arrival/departure procedures: Ask if not familiar
-
----
-
-## Example Taxi Clearance
-
-`Cessna N12312, Salem Ground, taxi runway 13 via Alpha.`
-
----
-
-## Progressive Taxi
-
-<div class="h-stack">
-
-![alt text](images/image-44.png)
-
-- At an unfamiliar airport you can ask ATC for progressive taxi
-- They will give you turn-by-turn directions as you taxi to your destination
-
-</div>
-
----
-
 ## Summary
 
 - Taxi Procedures: Checklist, ATIS, airport diagram, clearance
@@ -312,7 +313,7 @@ ATC gives you instructions to taxi to runway 36 via B, but B will cross runway 3
 
 ## Knowledge Check
 
-You're taxiing for takeoff when you notice large gusts of headwind. 
+You're taxiing for takeoff when you notice large gusts of headwind.
 
 How should you position your controls?
 Anything else on your mind?

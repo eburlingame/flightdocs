@@ -26,19 +26,19 @@ Lesson plans designed for the Flight Instructor Airplane ACS:
         <tr>
         <!-- 3 -->
             <td>II.C - 1</td>
-            <td>[Ground Operations: Airport Markings and Lighting](/docs/lesson-plans/ground-markings)</td>
+            <td>[Ground Operations: Airport Markings and Lighting](/docs/lesson-plans/ground-operations/ground-markings)</td>
             <td>[Slides](/slides/airport-markings.pdf)</td>
         </tr>
         <tr>
         <!-- 4 -->
             <td>II.C - 2</td>
-            <td>[Ground Operations: Taxi Operations](/docs/lesson-plans/ground-taxi)</td>
+            <td>[Ground Operations: Taxi Operations](/docs/lesson-plans/ground-operations/ground-taxi)</td>
             <td>[Slides](/slides/taxi-operations.pdf)</td>
         </tr>
         <tr>
         <!-- 5 -->
             <td>II.C - 3</td>
-            <td>[Ground Operations: Runway Incursion Avoidance](/docs/lesson-plans/ground-runway-incursions)</td>
+            <td>[Ground Operations: Runway Incursion Avoidance](/docs/lesson-plans/ground-operations/ground-runway-incursions)</td>
             <td>[Slides](/slides/runway-incursions.pdf)</td>
         </tr>
         <tr>
