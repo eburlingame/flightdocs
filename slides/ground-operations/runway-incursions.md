@@ -230,6 +230,33 @@ Where the clearance limit of 4L at Echo is circled.
 
 ---
 
+## Case Study: Chicago Midway Near-Miss
+
+![w:700](images/image-52.png)
+
+[VASAviation Video](https://www.youtube.com/watch?v=c6Mp9aUJaTY)
+
+---
+
+## Case Study: Chicago Midway Near-Miss
+
+<div class="h-stack">
+
+![w:750](<images/KMDW Chicago Midway International.jpeg>)
+
+- FlexJet obvious had some confusion from the start
+- Crossing runways don't always have hold-short markings
+- 31L is narrow, may have looked like a taxiway
+- Other things we might not know:
+  - Pilot's familiarly with the airport?
+  - Distractions?
+  - Expectation bias?
+  - Time pressure?
+
+</div>
+
+---
+
 # Summary
 
 - Ground Operations: Presents unique challenges
@@ -251,3 +278,11 @@ What are some examples of runway incursions?
 ## Knowledge Check
 
 You've just landed and are taxiing off the runway. Where should you stop and do your after-landing checklist?
+
+---
+
+## Knowledge Check
+
+You are approaching a runway that you will need to cross to get to your destination. You can't remember if ATC cleared you to cross.
+
+What should you do?

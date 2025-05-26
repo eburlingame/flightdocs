@@ -39,7 +39,7 @@ Gives students an intuitive understand of the causes that induce load factor on 
 - Design maneuvering speed: V<sub>a</sub>
   - The speed at which the airplane will exceed the critical AoA (and stall) before than AoA can induce a destructive load factor
   - This is good for a full deflection of an _single_ control surface
-  - Flight in rough should be done at or below V<sub>a</sub>
+  - Flight in rough air should be done at or below V<sub>a</sub>
 - VG diagram
   - Remember, force from lift increases with the square of the airspeed
   - The is why the accelerate stall line is curved
@@ -49,6 +49,11 @@ Gives students an intuitive understand of the causes that induce load factor on 
     - A lighter airplane will require less AoA in S&L flight
     - A heavier airplane will require more AoA in S&L flight
   - This means the heavier airplane is closer to the critical angle of attack, and has less room to increase
+- V<sub>NO</sub> vs V<sub>a</sub> [Commerical]
+  - V<sub>NO</sub> is the bottom of the yellow arc, maximum structural cruising speed
+  - It is also called "smooth air penetration speed"
+  - Aircraft should be able to withstand FAA-define 500fpm gust
+  - No protection against full control travel
 
 ### Wingtip Vortices
 

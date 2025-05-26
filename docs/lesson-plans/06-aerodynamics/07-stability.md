@@ -48,27 +48,30 @@ Helps a student develop an intuitive understanding of stability and controllabil
   - If a wind gust lowers a wing, the lift vector tilts
     - This isn't a nice coordinated turn, no rudder input
     - A sideslip occurs
-  - Dihedral effect: [2D drawing from front of plane, wind coming up from lowered wing]
-    - Wing bends around the fuselage
-    - Lower wing has lower angle of attack
-    - High wing has higher angle of attack
-  - Dihedral angle
-    - [2D low-wing with dihedral]
-    - Gust of wind raises a wing, airplane sideslips slightly into the wind
-    - Because of the dihedral, low wing makes large AoA than up wing
-    - Larger AoA means more lift = raise the lowered wing
-  - High wing airplanes and dihedral
-    - [2D high-wing without dihedral]
-    - Wind has to "bend" over the top of the fuselage
-  - What if we have too much roll stability?
-    - Anhedral
-  - Wing sweep
-    - Airplane yaws into the wind
-    - Lowered wing makes more perpendicular angle with the wind = more lift
+  - Dihedral wing
+    - Slightly larger AoA on down wing: Raises the lowered wing
+  - Deeper explanation [Commercial]
+    - Dihedral effect: [2D drawing `from front of plane, wind coming up from lowered wing]
+      - Wing bends around the fuselage
+      - Lower wing has lower angle of attack
+      - High wing has higher angle of attack
+    - Dihedral angle
+      - [2D low-wing with dihedral]
+      - Gust of wind raises a wing, airplane sideslips slightly into the wind
+      - Because of the dihedral, low wing makes large AoA than up wing
+      - Larger AoA means more lift = raise the lowered wing
+    - High wing airplanes and dihedral
+      - [2D high-wing without dihedral]
+      - Wind has to "bend" over the top of the fuselage
+    - What if we have too much roll stability?
+      - Anhedral
+    - Wing sweep
+      - Airplane yaws into the wind
+      - Lowered wing make`s more perpendicular angle with the wind = more lift
 - **Vertical, yaw stability**:
   - Wind striking fuselage aft of CG
   - Rudder has it's own angle of attack
-- **Lateral stability vs vertical stability**
+- **Lateral stability vs vertical stability** [Commercial]
   - Strong directional (yaw) stability and weak lateral (roll) stability
     - Wing drops due to wing and a yaw is introduced
     - The airplane weathervanes into the wind, making the outboard wing fly faster

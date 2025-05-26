@@ -44,14 +44,16 @@ Airport markings, signage, and lighting are critical for safe ground operations.
 
 ## Parts of an Airport
 
-![Airport](images/image.png)
+<div class="h-stack">
 
-<!--
-- Ramp
+![w:1200](images/image.png)
+
+- Ramp, apron
 - Taxiway
 - Runway
-- "Movement area" - runways, taxiways, and other areas that are used for taxiing, takeoff, and landing of aircraft
--->
+- "Movement area": runways, taxiways
+
+</div>
 
 ---
 
@@ -59,7 +61,7 @@ Airport markings, signage, and lighting are critical for safe ground operations.
 
 <div class="h-stack">
 
-![alt text](images/image-2.png)
+![h:500](images/image-2.png)
 
 </div>
 
@@ -109,7 +111,11 @@ Airport markings, signage, and lighting are critical for safe ground operations.
 
 ## Runway Safety Area
 
+<div class="h-stack">
+
 ![h:350](images/image-18.png)
+
+</div>
 
 - Buffer zone which reduces the risk of damage to airplanes in the event of an undershoot overshoot, or excursion from the runway
 
@@ -117,7 +123,11 @@ Airport markings, signage, and lighting are critical for safe ground operations.
 
 ## Crossing a Runway
 
+<div class="h-stack">
+
 ![h:380](images/image-6.png)
+
+</div>
 
 <!--
 Sign: Runway holding position sign
@@ -131,7 +141,11 @@ Sign: Runway holding position sign
 
 ## Crossing a Runway
 
+<div class="h-stack">
+
 ![](images/image-7.png)
+
+</div>
 
 - Dashed to solid, crossing ok
 - Solid to dashed, need a clearance
@@ -141,7 +155,11 @@ Sign: Runway holding position sign
 
 ## Crossing a Runway
 
+<div class="h-stack">
+
 ![alt text](images/image-9.png)
+
+</div>
 
 - Runway identifiers also painted on the ground
 - See red, think STOP
@@ -310,38 +328,53 @@ Used to indicate hold short bars
 
 ## VASI and PAPI
 
-- Visual approach slope indicator (VASI)
-- Precision approach path indicator (PAPI)
+<div class="h-stack">
 
 ![h:400](images/image-26.png)
 
+- Visual approach slope indicator (VASI): 2 dots
+- Precision approach path indicator (PAPI): 4 dots in a row
+- Two white/two red means:
+  - Usually 3-degree glideslope
+  - Approach path is clear of obstructions
+
+</div>
+
 ---
 
-## Two-Bar VASI
+## PAPI and VASI Indications
 
-![alt text](images/image-28.png)
+<div class="h-stack">
 
----
+![h:500](images/image-50.png)
 
-## PAPI
-
-![alt text](images/image-29.png)
+</div>
 
 ---
 
 ## Runway Centerline Lighting
 
-- Precision approach runways
+<div class="h-stack">
+
+![w:900](images/image-30.png)
+
+- Large runways with precision instrument approaches
 - Spaced at 50' intervals
 
-![h:350](images/image-30.png)
+</div>
 
 ---
 
-## REIL
+## Runway end identifier lights: REIL
 
-- Runway end identifier lights
-- Two flashing strobes
+<div class="h-stack">
+
+![w:900](images/image-51.png)
+
+- Two flashing strobes which indicate end of a runway
+- Helpful to distinguishing runways from other
+
+</div>
 
 ---
 
