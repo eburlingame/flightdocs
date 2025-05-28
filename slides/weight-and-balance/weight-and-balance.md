@@ -119,35 +119,141 @@ The effect of weight and CG location is critical to the safety of flight and an 
 
 ---
 
-![bg fit](images/empty-w-and-b.png)
+<div class="h-stack">
+
+![h:500](images/loading-graph.png)
+
+![h:625](images/empty-w-and-b.png)
+
+</div>
 
 ---
-
-## What is the takeoff and landing weight?
-
-<div  class="block" />
-
----
-
-## What happens if we move our 180 passenger to the rear seats?
-
-<div  class="block" />
-
----
-
-## What happens if we add a forth passenger to the copilot seat who weighs 200?
-
-<div  class="block" />
-
----
-
-## Loading Graph
 
 <div class="h-stack">
 
-![h:550](images/image-4.png)
+![h:500](images/filled-loading-graph.png)
+
+![h:625](images/filled-w-and-b.png)
 
 </div>
+
+---
+
+## Alternate Method: Weight \* Arm = Moment
+
+<table>
+<tbody>
+
+<tr>
+  <th>
+    Station
+  </th>
+  <th>
+    Weight
+  </th>
+  <th>
+    Arm
+  </th>
+  <th>
+    Moment
+  </th>
+  <th>
+    Moment / 1000
+  </th>
+</tr>
+
+<tr>
+  <td>
+    Basic Empty Weight
+  </td>
+  <td>
+    1907
+  </td>
+  <td>
+    36.68
+  </td>
+  <td>
+    69,910
+  </td>
+  <td>
+    69.91
+  </td>
+</tr>
+
+<tr>
+  <td>
+    Usable Fuel
+  </td>
+  <td>
+    300
+  </td>
+  <td>
+    46.66
+  </td>
+  <td>
+    14,000
+  </td>
+  <td>
+    14
+  </td>
+</tr>
+
+<tr>
+  <td>
+    Pilot and Front Passenger
+  </td>
+  <td>
+    340
+  </td>
+  <td>
+    37
+  </td>
+  <td>
+    12,600
+  </td>
+  <td>
+    12.6
+  </td>
+</tr>
+
+<tr>
+  <td>
+    Second Row Passenger
+  </td>
+  <td>
+    120
+  </td>
+  <td>
+    74
+  </td>
+  <td>
+    8,880
+  </td>
+  <td>
+    8.8
+  </td>
+</tr>
+
+<tr>
+  <td>
+    <strong>Ramp Weight</strong>
+  </td>
+  <td>
+    2667
+  </td>
+  <td>
+    39.51
+  </td>
+  <td>
+    105,390
+  </td>
+  <td>
+    105.39
+  </td>
+</tr>
+
+</tbody>
+</table>
 
 ---
 
@@ -168,6 +274,45 @@ The effect of weight and CG location is critical to the safety of flight and an 
 ![h:550](images/image-6.png)
 
 </div>
+
+---
+
+## What is our landing weight?
+
+<div  class="block" />
+
+---
+
+## What is our landing weight and moment?
+
+- $2655 - 40\text{ gal} * 6\text{ lbs/gal} = 2415\text{ lbs}$
+- $104700 - 46.66 * 40\text{ gal} * 6\text{ lbs/gal} = 93501\text{ in-lbs}$
+
+---
+
+## What happens if we move our 180 passenger to the rear seats?
+
+<div  class="block" />
+
+---
+
+## What happens if we move our 180 passenger to the rear seats?
+
+- Weight doesn't change = 2655 lbs
+- $104700 - 180\text{ lbs} * 37\text{ in} + 180\text{ lbs} * 74\text{ in} = 111360\text{ in-lbs}$
+
+---
+
+## What happens if we add a forth passenger to the copilot seat who weighs 200?
+
+<div  class="block" />
+
+---
+
+## What happens if we add a forth passenger to the copilot seat who weighs 200?
+
+- $2655 + 200 = 2855$
+- $111360 + 200\text{ lbs} * 37\text{ in} = 118760\text{ in-lbs}$
 
 ---
 

@@ -281,6 +281,7 @@ Also called "wig-wag" lights
   - Move past the hold short line, getting out of the runway safety area
   - Run any checklists, then contact ATC
 - Be careful rolling out onto a taxiway near another runway
+- Never exit onto another runway without ATC authorization
 
 ---
 

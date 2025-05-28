@@ -26,7 +26,7 @@ Taxiing is a critical phase of flight that requires careful attention to detail 
 - Airport Diagrams
 - Airport Hotspots
 - Hotspot Information
-- Notice to Air Missions - NOTAMS
+- Notice to Airmen - NOTAMS
 - Example Taxi Clearance
 - Copying Taxi Instructions
 - Taxi Clearance

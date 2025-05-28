@@ -138,7 +138,7 @@ Taxiing is a critical phase of flight that requires careful attention to detail 
 
 ---
 
-## Notice to Air Missions - NOTAMS
+## Notice to Airmen - NOTAMS
 
 <div class="h-stack">
 
