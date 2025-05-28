@@ -19,21 +19,11 @@ class:
 
 ## Objective
 
+To understand and apply the required endorsement for pilot training and currency when providing instruction.
+
 ## Motivation
 
----
-
-## Overview
-
----
-
-# Summary Endorsements and Logbook Entries
-
----
-
-## Objectives
-
-To understand and apply the required endorsement for pilot training and currency when providing instruction.
+Giving endorsements is a large part of a CFI's roles, so it is important to know when endorsements are required and how to properly apply them.
 
 ---
 

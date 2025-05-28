@@ -240,7 +240,7 @@ Taxiing is a critical phase of flight that requires careful attention to detail 
 
 ---
 
-## Low visibility operations
+## Low Visibility Operations
 
 <div class="h-stack">
 
@@ -255,7 +255,7 @@ Taxiing is a critical phase of flight that requires careful attention to detail 
 
 ---
 
-## Night taxi operations
+## Night Taxi Operations
 
 <div class="h-stack">
 

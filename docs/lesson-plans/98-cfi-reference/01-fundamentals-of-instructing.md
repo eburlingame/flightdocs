@@ -2,6 +2,19 @@
 
 ## Human Behavior
 
+### Behaviorism vs Cognitive Theory
+
+- Behaviorism explains animal and human behavior entirely in terms of observable and measurable responses to stimuli
+  - Classic "carrot and stick" approach
+  - This is primarily used to break bad habits, but not used as much for teaching
+- Cognitive theory: Process of thinking, decision-making, awareness, intellect
+  - Thinking behaviors are important for the concept of learning
+
+### Limbic System and Prefontal Coretex
+
+- Limbic system: Emotions, stress, fight-or-flight response
+- Prefrontal cortex: Rational, decision-making, language, long-term memory
+
 ### Maslow's Hierarchy of Needs
 
 - Abraham Maslow studied human needs and motivation
@@ -35,6 +48,8 @@
   - "Escaping" into a fantasy of being a great pilot
 - **Displacement**: Redirecting anger or frustration to someone or something else
   - A student who isn't angry with their instructor, but takes it out on their spouse or family
+- **Reaction formation**: Exhibiting a fake belief opposite of a true belief, because the true belief causes anxiety
+  - A student may develop a "I don't care what others think" attitude to cover up feelings of loneliness
 
 ### Learner Reactions to Stress
 
@@ -63,6 +78,41 @@ Stress will cause a flight or fight response in the body
 - The process of learning involved mapping new sensory input into useful information
 - Learning can be better accomplished by utilizing more than one sense (e.g. sight, sound, touch)
 - An instructor should guide a learner's perception onto the most important things
+- **Insight** is the process of grouping perceptions into meaningful wholes
+
+### Acquiring Knowledge
+
+- Memorization: Rote, first attempt at learning information
+- Understanding
+- Concept learning
+  - Organizing information into schemas, or generalizations
+
+#### Stages of Skill Acquisition
+
+1. Cognitive stage: Based in factual knowledge, memorization, fixations
+2. Associate stage: Practice mode, associate task elements together, make assessments of their own progress
+3. Automatic response stage: Perform skills automatically and can multi-task, skill is rapid and smooth
+
+### Facilitating Skill Acquisition
+
+- Give feedback early and often, whether the learner's performance is good or bad
+- The student should be learning how to judge their own performance
+- Transition skills from effortful to automatic requires repeated practice
+- The first few attempts will be awkward and slow
+
+#### Learning Plateaus
+
+- Plateaus can be caused by
+  - consolidation of other skills
+  - waning interest
+  - reaching of cognitive capability limits
+  - the need for a more efficient method of practice
+
+### Domains of Learning
+
+- Cognitive (thinking): Thinking, recall, application, synthesis, evaluation
+- Affective (feeling):
+- Psychomotor (doing):
 
 ### Levels of Learning
 
@@ -136,3 +186,12 @@ Stress will cause a flight or fight response in the body
   - Busy professionals tend to be more self-directed, but have limited time
   - May have limited time to study and practice outside of lesson times
   - Can tolerate longer blocks of instruction
+
+### Evaluation vs Critique
+
+- Critique is immediate feedback to the learning so they can correct mistakes and make progress
+  - This can be positive and negative feedback
+  - Useful early in the learning process
+- Evaluation
+  - A more holistic test where a skill is evaluated from start-to-finish, and completion standards are used
+  - This is useful to an instructor to evaluate progress, especially later in the training

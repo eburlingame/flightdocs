@@ -41,14 +41,36 @@ Runway incursions are a significant safety concern in aviation. Understanding th
 
 ## Overview
 
-- Ground Operation Challenges
-- NOTAMS, Hotspots, Complex Intersections
-- Taxi Clearances
-- Example Clearance
-- Hold Short Lines
-- Distractions and Workload
-- Specific Scenarios
-- Uncontrolled Airfields
+<div class="h-stack">
+
+<div>
+
+### Tools in Our Toolbox
+
+- NOTAMs
+- Airport diagrams and EFBs
+- Hotspots
+- Progressive taxi
+- Writing down taxi instructions
+- Confirmation of instructions
+- Distractions and a sterile cockpit
+
+</div>
+
+<div>
+
+### Situations Needing Extra Care
+
+- Complex intersections
+- Parallel runways
+- Intersecting runways
+- LAHSO
+- ILS critical areas
+- Night and low-visibility
+
+</div>
+
+</div>
 
 ---
 
@@ -66,19 +88,11 @@ Runway incursions are a significant safety concern in aviation. Understanding th
 
 ---
 
-## Extra Care
-
-![bg left:30%](images/image-39.png)
-
-- NOTAMs
-- Hot spots
-- Intersecting runways
-- Complex intersections
-- ILS critical areas
+# Tools for Runway Incursion Avoidance
 
 ---
 
-## Notice to Air Missions - NOTAMS
+## Notice to Airmen - NOTAMS
 
 <div class="h-stack">
 
@@ -98,6 +112,21 @@ Runway incursions are a significant safety concern in aviation. Understanding th
 
 ---
 
+## Airport Diagrams
+
+<div class="h-stack">
+
+![h:450](images/image-34.png)
+
+- Included in Chart Supplements
+- GTN also includes SafeTaxi
+- ForeFlight also includes airport diagrams
+- Make a habit of displaying the diagram before taxi
+
+</div>
+
+---
+
 ## Airport Hotspots
 
 <div class="h-stack">
@@ -112,31 +141,13 @@ Runway incursions are a significant safety concern in aviation. Understanding th
 
 ---
 
-## Intersecting Runways
+## Hotspot Information
 
-<div class="h-stack">
+![bg left:40% fit](images/ksea-hotspot.jpeg)
 
-![alt text](images/image-49.png)
+![alt text](images/image-36.png)
 
-- Don't confuse intersecting run way with a taxiway
-- Aircraft may be operating from the other runway
-
-</div>
-
----
-
-## Complex Intersections
-
-<div class="h-stack">
-
-![w:900](images/image-5.png)
-
-- Multi-taxiway intersections can be very confusing
-- Be sure to read the signage carefully and cross-check with the airport diagram
-- Use progressive taxi instructions if unsure
-- Take extra care at night
-
-</div>
+- Hotspot information is included in the "back pages" of the Chart Supplement (along with the airport diagrams)
 
 ---
 
@@ -166,7 +177,9 @@ Where the clearance limit of 4L at Echo is circled.
 
 ---
 
-## Hold Short Lines
+## Stop and Confirm at Hold Short Lines
+
+<div class="h-stack">
 
 ![h:300](images/image-37.png)
 
@@ -175,9 +188,23 @@ Where the clearance limit of 4L at Echo is circled.
 - Notice enhanced centerline stripes prior to the hold short line
 - When in doubt, stop and ask ATC if you're cleared to cross
 
+</div>
+
 ---
 
-## Distractions and Workload
+### Runway Guard Lights - Hold short bars
+
+Also called "wig-wag" lights
+
+<div class="h-stack">
+
+![](images/guard-lights.png)
+
+</div>
+
+---
+
+## Avoiding Distractions and Managing Workload
 
 <div class="h-stack">
 
@@ -195,7 +222,54 @@ Where the clearance limit of 4L at Echo is circled.
 
 ---
 
-## Specific Scenarios
+## Aircraft Lighting (91.209)
+
+<div class="h-stack">
+
+![w:600](images/image-43.png)
+
+- Anti-collision/beacon: On all the time
+- Position lights (red/green): Sunset to sunrise
+- Taxi light used for taxi
+- Taxi + landing lights should be used for takeoff
+- All lights on when crossing runways
+
+---
+
+# Scenarios Requiring Extra Diligence
+
+---
+
+## Intersecting Runways
+
+<div class="h-stack">
+
+![w:1000](images/image-49.png)
+
+- Don't confuse intersecting run way with a taxiway
+- Aircraft may be operating from the other runway
+- Runway/runway crossing will not have the same signage and markings as a taxiway/runway crossing
+
+</div>
+
+---
+
+## Complex Intersections
+
+<div class="h-stack">
+
+![w:900](images/image-5.png)
+
+- Multi-taxiway intersections can be very confusing
+- Be sure to read the signage carefully and cross-check with the airport diagram
+- Use progressive taxi instructions if unsure
+- Take extra care at night
+
+</div>
+
+---
+
+## Departing the Runway After Landing
 
 <div class="h-stack">
 
@@ -204,12 +278,23 @@ Where the clearance limit of 4L at Echo is circled.
 </div>
 
 - Departing the runway after landing
-  - Move past the hold short line, run any checklists, then contact ATC
-- Rolling out onto a taxiway near another runway
+  - Move past the hold short line, getting out of the runway safety area
+  - Run any checklists, then contact ATC
+- Be careful rolling out onto a taxiway near another runway
+
+---
+
+## Taxiing Between Parallel Runways
+
+<div class="h-stack">
+
+![h:300](images/image-38.png)
+
+</div>
+
 - Taxiing between parallel runways
   - Exercise increased awareness when taxing in between active parallel runways
-
-<!-- Remember the runway safety area extends to the hold short line -->
+  - Ensure you're out of both runway's safety area
 
 ---
 
@@ -225,6 +310,66 @@ Where the clearance limit of 4L at Echo is circled.
   - Announce before taking a runway for takeoff
   - Announce when clear of runway after landing
 - Remember not all airplanes have radios
+
+</div>
+
+---
+
+## Low Visibility Operations
+
+<div class="h-stack">
+
+![alt text](images/image-41.png)
+
+- Harder to see signs, other aircraft, and tell direction
+- Taxi speed should be slower
+- ATC may not be able to see you visually from the tower
+- Take care to read lights and signs
+
+</div>
+
+---
+
+## Night Taxi Operations
+
+<div class="h-stack">
+
+![w:700](images/image-42.png)
+
+- Easy to get confused about position or direction
+- Not all airport signs are illuminated
+- Taxi speed should be slower
+- Taxi lights should be used
+  - But avoid shining into another airplane's cockpit
+- Don't use strobe lights when taxiing
+
+</div>
+
+---
+
+## Local Examples: KUAO
+
+<div class="h-stack">
+
+![w:500](images/image-53.png)
+
+- Aurora wasn't originally designed as a tower-controlled airport initially
+- There have been historically been issues with pilots entering the runway from the ramp
+
+</div>
+
+---
+
+## Local Examples: KVUO
+
+<div class="h-stack">
+
+![w:500](images/image-54.png)
+
+- SFRA rules apply
+- We don't need a clearance to enter the runway, however
+  - We _do_ need to contact Pearson Advisory
+  - We also need to announce our intentions like any other non-towered airport
 
 </div>
 
@@ -271,7 +416,9 @@ Where the clearance limit of 4L at Echo is circled.
 
 ## Knowledge Check
 
-What are some examples of runway incursions?
+Taxiing at a towered airport, you realized after passing a complicated intersection you that you've made a wrong turn. You're now on taxiway Juliet instead, when you were cleared via taxiway Bravo.
+
+What should you do?
 
 ---
 

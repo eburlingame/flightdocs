@@ -83,3 +83,14 @@ The risk mitigation process contains four elements:
 2. *Eliminate*
 3. *Accept* 
 4. *Mitigate*
+---
+Common defense mechanism are:
+[
+- *Denial*
+- *Repression*
+- *Fantasy*
+- *Displacement*
+- *Compensation*
+- *Projection*
+- *Rationalization*
+]
