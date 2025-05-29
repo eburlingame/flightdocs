@@ -21,7 +21,7 @@ Runway incursions are a significant safety concern in aviation. Understanding th
 - What is a runway incursion?
 - Ground Operation Challenges
 - Situations that require extra caution
-  - Notice to Air Missions - NOTAMS
+  - Notice to Airmen - NOTAMS
   - Airport Hotspots
   - Intersecting Runways
   - Complex Intersections
