@@ -498,7 +498,7 @@ Based on the [Sporty's Private Pilot Training Syllabus](https://courses.sportys.
         <td>0.2</td>
         <td>1.5</td>
         <td>
-        - Emergency descent
+        - Emergency Descent
         </td>
         <td>Dual XC to airport &gt;25nm away, pilotage, emergency descent, alternates</td>
     </tr>
@@ -604,8 +604,8 @@ Based on the [Sporty's Private Pilot Training Syllabus](https://courses.sportys.
         <td>1.2</td>
         <td></td>
         <td>
-        - Basic instrument maneuvers
-        - Recovery from unusual attitudes
+        - Basic Instrument Maneuvers
+        - Recovery From Unusual Attitudes
         </td>
         <td></td>
     </tr>
@@ -819,21 +819,21 @@ Based on the [Sporty's Private Pilot Training Syllabus](https://courses.sportys.
 - Constant Airspeed Climbs
 - Constant Airspeed Descents
 - Steep Turns
-- Constant-rate climbs
-- Constant-rate descents
-- Ground reference maneuvers
-- S-turns across a road
-- Turns around a point
-- Rectangular course
+- Constant Rate Climbs
+- Constant Rate Descents
+- Ground Reference Maneuvers
+- S Turns Across A Road
+- Turns Around A Point
+- Rectangular Course
 - Go-Arounds
 - Equipment malfunctions
 - Emergency approach and landing
-- Slip to a landing
-- Crosswind landing
+- Slip To A Landing
+- Crosswind Landing
 - Short Field Takeoff and Climb
 - Short Field Approach and Landing
 - Soft Field Takeoff and Climb
 - Soft Field Approach and Landing
-- Emergency descent
-- Basic instrument maneuvers
-- Recovery from unusual attitudes
+- Emergency Descent
+- Basic Instrument Maneuvers
+- Recovery From Unusual Attitudes
