@@ -162,7 +162,7 @@ To understand the standard aviation weather products, and apply them in a flight
 
 ### ForeFlight Flight Planning Walk-Thru
 
-- See [Sample ForeFlight Weather Planning](/docs/lesson-plans/problems/foreflight-wx-flt-plan)
+- See [Sample ForeFlight Weather Planning](/docs/lesson-plans/technical/problems/foreflight-wx-flt-plan)
 
 ## References
 
