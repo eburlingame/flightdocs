@@ -61,7 +61,7 @@
 - No flight above 10,000' MSL or 2000' AGL, which ever is higher
 - Can't fly outside the US
 - Can't fly beyond 50nm without
-  - Completing the [private pilot XC requirements](/docs/topics/regulations/part-61/part-61-c-student#solo-cross-country-xc)
+  - Completing the [private pilot XC requirements](/docs/topics/regulations/part-61/part-61-c-student#solo-cross-country-xc-6193)
   - Getting the [AC 61-65 A.28](/_references/AC-61-65/A.28) endorsement
 - Require an endorsement for flying in Class B, C, or D airspace
   - The ["dirty dozen"](<https://www.ecfr.gov/current/title-14/part-91#p-Appendix-D-to-Part-91(Section 1.)(Section%204)>) Class B airports which require a private pilot certificate
