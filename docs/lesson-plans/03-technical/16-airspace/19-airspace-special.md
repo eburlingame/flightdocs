@@ -14,7 +14,7 @@ There is a large collection of special-use airspace (SUA), which supplements the
 
 ## Format
 
-- Whiteboard / EFB
+- [Slides](/slides/airspace-4.pdf)
 
 ## Elements
 

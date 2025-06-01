@@ -14,7 +14,7 @@ Different classes of airspace have different entry requirements and provide diff
 
 ## Format
 
-- Whiteboard / EFB
+- [Slides](/slides/airspace-2.pdf)
 
 ## Elements
 

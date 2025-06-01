@@ -39,11 +39,24 @@ Each class of airspace has different weather minimums for VFR flight, equipment 
 
 ## Overview
 
+- Aircraft Speed Limits
 - Required VFR Cloud Clearance and Visibility
 - Special VFR
-- Aircraft Speed Limits
 - Transponder and ADS-B
 - Pilot Qualifications
+
+---
+
+## Aircraft Speed Limits
+
+![bg left:40% fit](images/image-39.png)
+
+- Above 10,000 ft: **Mach 1** ([91.817](/_references/14-CFR/91.817))
+- Below 10,000 ft: **250 KIAS** ([91.117](/_references/14-CFR/91.117))
+- Class B Airspace
+  - Within Class B: **250 KIAS** ([91.117](/_references/14-CFR/91.117))
+  - Under Class B or within VFR corridor: **200 KIAS** ([91.117](/_references/14-CFR/91.117))
+- Within 4nm of primary Class C or D airport, up to 2500 AGL: **200 KIAS** ([91.117](/_references/14-CFR/91.117))
 
 ---
 
@@ -72,14 +85,23 @@ Each class of airspace has different weather minimums for VFR flight, equipment 
 - These are defined as:
   - Minimum _flight_ visibility in statue miles
   - Distance above, below, or horizontally from clouds
-- Distances support see-and-avoid aircraft separation
+- Distances support see-and-avoid aircraft separation, depends on aircraft speed
 
 ---
 
 ## VFR Weather Minimums: Class B Airspace
 
+<div class="h-stack">
+
+![w:600](images/image-61.png)
+
 - 3 s.m. flight visibility
 - Clear of clouds
+- Class B provides separation services
+  - Class B will have radar coverage
+  - You are under "positive control"
+
+</div>
 
 ---
 
@@ -103,7 +125,7 @@ Each class of airspace has different weather minimums for VFR flight, equipment 
 
 <div class="h-stack">
 
-![w:600](images/image-32.png)
+![w:900](images/image-32.png)
 
 - Below 10,000 ft. MSL
   - 3 s.m. visibility
@@ -114,6 +136,7 @@ Each class of airspace has different weather minimums for VFR flight, equipment 
     - 1000 feet below
     - 1000 feet above
     - 1 s.m. horizontally
+  - Note the 250 knot speed limit disappears at 10,000'
 
 </div>
 
@@ -179,19 +202,6 @@ Each class of airspace has different weather minimums for VFR flight, equipment 
 
 ---
 
-## Aircraft Speed Limits
-
-![bg left:40% fit](images/image-39.png)
-
-- Above 10,000 ft: **Mach 1** ([91.817](/_references/14-CFR/91.817))
-- Below 10,000 ft: **250 KIAS** ([91.117](/_references/14-CFR/91.117))
-- Class B Airspace
-  - Within Class B: **250 KIAS** ([91.117](/_references/14-CFR/91.117))
-  - Under Class B or within VFR corridor: **200 KIAS** ([91.117](/_references/14-CFR/91.117))
-- Within 4nm of primary Class C or D airport, up to 2500 AGL: **200 KIAS** ([91.117](/_references/14-CFR/91.117))
-
----
-
 ## Transponder and ADS-B Requirements
 
 - ADS-B and Mode C Transponders are required
@@ -200,6 +210,7 @@ Each class of airspace has different weather minimums for VFR flight, equipment 
   - Above and below Class B airspace
   - Within and above Class C airspace
   - In Class E airspace at and above 10,000 MSL
+  - Note, not required in Class D airspace
 - ADS-B is specifically required:
   - Within 12 NM of the US coastline in the Gulf of Mexico, in Class E airspace at and above 3,000 MSL
 
