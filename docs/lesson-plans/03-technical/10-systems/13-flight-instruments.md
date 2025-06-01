@@ -2,7 +2,7 @@
 
 ## Objective
 
-To understand the basic flight instruments used for flight and their common failure modes.
+To understand the basic flight instruments used for flight, their limitations and biases, plus common failure modes.
 
 ## Motivation
 
