@@ -86,7 +86,7 @@ Flying to another airport requires additional planning and multiple forms of nav
 
 ---
 
-## Going to the Coast
+## Going to Corvalis
 
 <div class="h-stack">
 
@@ -844,29 +844,71 @@ Basic profiles: User-entered
 
 ---
 
-## Flight Plan
+## Filing a Flight Plan
 
-- Activating a flight plan
-- Closing a flight plan
-- Search and rescue
+<div class="h-stack">
+
+![w:900](images/image-38.png)
+
+- What is a flight plan?
+  - Details about your flight that you file with flight service
+  - Includes your route, ETD, ETA, passengers
+  - A flight plan that has not been closed <u>30 minutes</u> after the ETA will initiate search and rescue
+- Why use a flight plan?
+  - It's not required, but it's a good idea
+  - We want someone looking for us
+
+</div>
 
 ---
 
 ## Flight Plan: Activating
 
-![alt text](images/image-37.png)
+<div class="h-stack">
 
-- Ways to Activate a Flight Plan
+![w:600](images/image-39.png)
+
+- Before takeoff, file your flight plan, use your best estimate for ETD and ETE
+- Shortly before or after departure, open the flight plan
+- If your ETA is going to change significantly, contact FSS or amend your flight plan
+- After landing, close your flight plan
+- Ways to activate or close a flight plan
+  - Via ForeFlight
   - Calling an FSS: 1800-WX-BRIEF
   - Contacting FSS in the air
 
----
-
-## Flight Plan: Closing a Flight Plan
+</div>
 
 ---
 
-## UTC time Conversion
+## Flight Service Stations (FSS)
+
+<div class="h-stack">
+
+![w:800](<images/KVUO Pearson Field 3.jpeg>)
+
+![w:800](<images/KVUO Pearson Field 4.jpeg>)
+
+- FSS frequencies
+  - List on the sectional chart above airport datablock
+  - Also listed in ForeFlight
+- Example radio call
+  - `"McMinnville radio, Cessna 2017E on 122.6"`
+  - `"McMinnville radio, Cessna 2017, I'd like to open my VFR flight plan to Renton, K-R-N-T"`
+
+</div>
+
+---
+
+## UTC Time Conversion
+
+<div class="h-stack">
+
+![w:375](images/image-40.png)
+
+![w:375](images/image-41.png)
+
+</div>
 
 ---
 
@@ -956,6 +998,37 @@ Going to use all the tools at our disposal:
 ---
 
 # Summary
+
+<div class="h-stack">
+
+<div>
+
+- Picking Destinations
+- Picking Waypoints
+- VFR Cruising Altitudes (91.159)
+- Cruising Altitudes
+- Dead Reckoning
+- Navigation Log
+  - Steps to manually complete a navlog
+- Flight Planning with ForeFlight
+
+</div>
+
+<div>
+
+- Preflight Information Requirements (91.103)
+- Weather Briefings
+- Flight Plans
+- UTC Time Conversion
+- Flying our Flight Plan
+- VOR and DME navigation
+- GPS Navigation
+- Lost Procedures
+- Diverting to an Alternate
+
+</div>
+
+</div>
 
 ---
 
