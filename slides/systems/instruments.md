@@ -1,16 +1,70 @@
 ---
 theme: default
+class:
+  - invert
 ---
+
+<style>
+.h-stack {
+  display: flex;
+  column-gap: 1em;
+  justify-content: center;
+}
+
+</style>
 
 # Flight Instruments and Avionics
 
 ---
 
-![alt text](images/image-70.png)
+## Objective
+
+To understand the basic flight instruments used for flight, their limitations and biases, plus common failure modes.
+
+## Motivation
+
+To a give a student an intuitive understanding of the operation of the flight instruments, and a sense of how they will behave if they malfunction.
 
 ---
 
-### Pitot-static instruments
+## Overview
+
+<div class="h-stack">
+
+<div>
+
+- Pitot-Static instruments
+  - Altimeter
+  - Vertical Speed Indicator
+  - Vertical Speed Indicator
+  - Airspeed indicator
+- Pitot-static port blockages
+- Inclinometer
+
+</div>
+
+<div>
+
+- Gyroscopic and vacuum Instruments
+  - Attitude Indicator
+  - Directional Gyro/Heading Indicator
+  - Horizontal Situation Indicator (HSI)
+- AHRS and EFIS Systems
+- Vacuum System Failures
+- Magnetic Compass
+  - Compass errors
+
+</div>
+
+</div>
+
+---
+
+![bg fit](images/t182-panel.jpg)
+
+---
+
+## Pitot-Static instruments
 
 ![bg left:60% contain](images/image-71.png)
 
@@ -259,7 +313,7 @@ theme: default
 
 ## Magnetic Deviation
 
-![bg left:50% contain](images/image-92.png)
+![bg left:35% contain](images/image-92.png)
 
 - The magnetic field for various electronic/magnetic/metallic components in the airplane can skew the direction of the compass
 - The compass correction card gives you calibration to account for this
@@ -308,3 +362,56 @@ theme: default
 - Account for deviation using the compass correction card
 - Know when to use true headings vs magnetic headings
 - Magnetometer-based (electronic flight displays) systems won't have these errors
+
+---
+
+## Summary
+
+<div class="h-stack">
+
+<div>
+
+- Pitot-Static instruments
+  - Altimeter
+  - Vertical Speed Indicator
+  - Vertical Speed Indicator
+  - Airspeed indicator
+- Pitot-static port blockages
+- Inclinometer
+
+</div>
+
+<div>
+
+- Gyroscopic and vacuum Instruments
+  - Attitude Indicator
+  - Directional Gyro/Heading Indicator
+  - Horizontal Situation Indicator (HSI)
+- AHRS and EFIS Systems
+- Vacuum System Failures
+- Magnetic Compass
+  - Compass errors
+
+</div>
+
+</div>
+
+---
+
+## Knowledge Check
+
+If you were to lose electrical power to the avionics bus in your airplane, which instruments would stop working?
+
+![bg left:60% fit](images/t182-panel.jpg)
+
+---
+
+## Knowledge Check
+
+Flying in an airplane with a vacuum system, you notice that you heading indicator is starting to drift and the attitude indicator is leaning to the left. What might this indicate?
+
+---
+
+## Knowledge Check
+
+You're turning to a heading a 360&deg; N using the magnetic compass. How would you ensure you roll out right on your heading?

@@ -14,7 +14,7 @@ Flying in the National Airspace System is an important component of flight plann
 
 ## Format
 
-- Whiteboard / EFB
+- [Slides](/slides/airspace-1.pdf)
 
 ## Elements
 

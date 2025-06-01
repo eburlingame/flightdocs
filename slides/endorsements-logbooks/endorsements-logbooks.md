@@ -520,3 +520,15 @@ presented, such as a U.S. birth certificate or U.S. passport, and the relevant c
 sequential number on the document, if any] establishing that they are a U.S. citizen or
 national in accordance with 49 CFR § 1552.15(c).
 ```
+
+---
+
+## Summary
+
+- Logbook requirements: Required to log for ratings and currency
+- Flight reviews: Every two years, 1 hour flight and 1 hour ground
+- Endorsements: Complex, high performance, tailwheel
+- Aircraft Category / Class Ratings
+- Pre-solo checklist
+- Student pilot privileges and limitations
+- Flight instructor currency requirements

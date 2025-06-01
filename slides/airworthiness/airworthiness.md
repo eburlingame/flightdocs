@@ -147,10 +147,16 @@ ARROW:
 
 ## W - Weight and Balance
 
+<div class="h-stack">
+
+![w:500](images/17e-weight-and-balance.png)
+
 - Current weight and balance information including:
   - Latest empty weight
   - Latest empty moment
   - Latest empty CG location (inches aft of datum)
+
+</div>
 
 ---
 
@@ -176,14 +182,20 @@ ARROW:
 
 ## A - Annual Inspection - Every 12 months
 
+<div class="h-stack">
+
+![w:1000](images/image-18.png)
+
 - Required per [91.409](https://www.ecfr.gov/current/title-14/section-91.409)
 - Check of the aircraft systems by an authorized mechanic
 - Details of work in [Part 43 Appendix D](<https://www.ecfr.gov/current/title-14/part-43/appendix-Appendix D to Part 43>)
 - Airframe, propeller, and engine have separate annuals (usually done at the same time)
 
+</div>
+
 ---
 
-## V - VOR test - IFR flight only - Every 30 days
+## V - VOR test - Every 30 days (IFR flight only)
 
 - [91.171](https://www.ecfr.gov/current/title-14/section-91.171)
 - Only required for IFR flight
@@ -192,7 +204,7 @@ ARROW:
 
 ---
 
-## 1 - 100-hour inspection - Compensation or hire - Every 100 hours
+## 1 - 100-hour inspection (Compensation/hire only)
 
 - [91.409(b)](<https://www.ecfr.gov/current/title-14/part-91/section-91.409#p-91.409(b)>)
 - Required for airplanes flying for hire, or for flight instruction if the instructor is providing the aircraft
@@ -203,9 +215,7 @@ ARROW:
 
 ---
 
-## A - Altimeter/Pitot-Static
-
-### IFR flight only - 24 months
+## A - Altimeter/Pitot-Static - 24 months (IFR flight only)
 
 ![bg right:40% contain](images/image-16.png)
 
@@ -351,6 +361,7 @@ The battery for an ELT must be replaced (or recharged) after:
 - **T**achometer
 - **O**il pressure gauge
 - **M**anifold pressure gauge
+  - For each altitude engine (turbocharged)
 - **A**irspeed indicator
 - **T**emperature gauge
   - For each liquid-cooled engine
@@ -364,7 +375,7 @@ The battery for an ELT must be replaced (or recharged) after:
 - **A**nti-collision lights
 - **M**agnetic compass
 - **E**LT
-- **S**eat belts
+- **S**eat belts with shoulder restraint system
 
 </div>
 
@@ -374,10 +385,12 @@ The battery for an ELT must be replaced (or recharged) after:
 
 ## Required Equipment - Night VFR
 
+![bg left:30% fit](images/image-19.png)
+
 - All the day VFR required equipment (ATOMATOFLAMES), plus
 - [91.205(c)](<https://www.ecfr.gov/current/title-14/part-91/section-91.205#p-91.205(b)>) - FLAPS
   - **F**uses
-  - **L**anding light (if flown for hire)
+  - **L**anding light - if the aircraft is operated for hire
   - **A**nti-collision lights - beacon or strobes
   - **P**osition lights / nav lights - red and green
   - **S**ource of power

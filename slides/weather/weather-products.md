@@ -4,13 +4,36 @@ class:
   - invert
 ---
 
+<style>
+.h-stack {
+  display: flex;
+  column-gap: 1em;
+  justify-content: center;
+}
+
+</style>
+
 # Weather Products
+
+---
+
+## Objective
+
+To understand the standard aviation weather products, and apply them in a flight planning scenarios.
+
+## Motivation
+
+Checking weather is a part of every flight and there is a large variety of weather information available to pilots. Pilots need to parse weather information, determine what information is pertinent to their flight, and what limitations the weather products contain.
 
 ---
 
 ## Overview
 
-- Talk about standard weather products (METARs, TAFs, Winds Aloft, Prog Charts)
+- Talk about standard weather products
+  - METARs
+  - TAFs
+  - Winds Aloft
+  - Prog Charts
 - Flight planning exercise in ForeFlight
 - In-airplane weather products
 
@@ -109,10 +132,32 @@ PRESFR
 
 ---
 
+## METAR LIFR / IFR / MVFR / VFR
+
+<div class="h-stack">
+
+![alt text](images/image-74.png)
+
+</div>
+
+---
+
 ## Pilot Report (PIREPS)
 
+<div class="h-stack">
+
+![alt text](<images/KVUO Pearson Field 5.jpeg>)
+
 - Reports from other airplanes aloft
+- Can report
+  - Cloud ceilings
+  - Turbulence
+  - Icing
+  - Precipitation
 - If ceiling is below 5,000', ATC will solicit PIREPs from pilots
+- Take note of the aircraft type making the report
+
+</div>
 
 ---
 
@@ -146,6 +191,10 @@ UA/OV GGG 090025/TM 1450/FL 060/TP C182/SK
 LGT/RM HVY RAIN
 ```
 
+<div class="h-stack">
+
+<div>
+
 - Routine report (UA)
 - Location 25nm on the Greg County (GGG) VOR
 - Time 1450Z
@@ -154,20 +203,18 @@ LGT/RM HVY RAIN
 - Sky condition 8000' overcast
 - Flight visibility 4s.m. in rain
 
----
+</div>
 
-## Pilot Report (PIREPS): Sample (cont.)
-
-```
-UA/OV GGG 090025/TM 1450/FL 060/TP C182/SK
-080 OVC/WX FV04SM RA/TA 05/WV 270030KT/TB
-LGT/RM HVY RAIN
-```
+<div>
 
 - Temperature 5&deg;C
 - Wind 270&deg;T at 30 knots
 - Light turbulence
 - Remarks: Heavy rain
+
+</div>
+
+</div>
 
 ---
 
@@ -272,11 +319,11 @@ YKM 2807 2607-01 2509-07 2817-13 2825-25 2735-37 275151 275353 274554
 ![bg left:40% contain](images/image-5.png)
 
 - In-flight weather advisories for these conditions:
-- Moderate icing
-- Moderate turbulence
-- Sustained surface winds &#8805;30 knots
-- Widespread areas where conditions are less than basic VFR
-- Extensive mountain obscuration
+  - Airmet **Zulu**: Moderate icing
+  - Airmet **Tango**: Moderate turbulence
+    - Also sustained surface winds &#8805;30 knots
+  - Airmet **Sierra**: Widespread areas where conditions are less than basic VFR
+    - Extensive mountain obscuration
 
 ---
 
@@ -385,3 +432,21 @@ YKM 2807 2607-01 2509-07 2817-13 2825-25 2735-37 275151 275353 274554
 - Several fatal accidents have occurred where pilot attempt to fly around severe weather using NEXRAD displays
 - Always reference the publish date of the imagery
 - Know whether your system is regularly receiving updates
+
+---
+
+## Summary
+
+- Aviation Routine Weather Report (METAR)
+- Pilot Report (PIREPS)
+- Terminal Aerodrome Forecasts (TAF)
+- Winds and Temperature Aloft Forecast (FB)
+- AIRMETs and Graphical AIRMETs: IFR, turbulence, icing
+- SIGMETs and Convective SIGMETs: Thunderstorms, severe turbulence, severe icing
+- Surface Analysis and Weather Depiction Charts: Fronts, Highs/Lows
+- Convective Outlook
+- Graphical Forecast for Aviation
+- GFA: Ceiling and Visibility Chart
+- In-Cockpit Weather Systems
+- Flight Information Service (FIS-B)
+- NEXRAD always has a delay

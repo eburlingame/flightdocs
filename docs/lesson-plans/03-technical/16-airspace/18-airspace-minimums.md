@@ -14,7 +14,7 @@ Each class of airspace has different weather minimums for VFR flight, equipment 
 
 ## Format
 
-- Whiteboard / EFB
+- [Slides](/slides/airspace-3.pdf)
 
 ## Elements
 
