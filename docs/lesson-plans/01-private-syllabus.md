@@ -44,6 +44,7 @@ Based on the [Sporty's Private Pilot Training Syllabus](https://courses.sportys.
         <td>
         - Engine Starting
         - Before Takeoff Check
+        - [Basic Attitude Flying](/docs/lesson-plans/maneuvers/basic-attiude-flying)
         - Straight and Level Flight
         - Level Turns
         - After Landing, Parking, and Securing
@@ -131,7 +132,7 @@ Based on the [Sporty's Private Pilot Training Syllabus](https://courses.sportys.
         <td>0.2</td>
         <td>1.2</td>
         <td>
-        - Stability Demonstration
+        - [Stability Demonstration](/docs/lesson-plans/maneuvers/stability-demo)
         - Trim Demonstration
         - Constant Airspeed Climbs
         - Constant Airspeed Descents
