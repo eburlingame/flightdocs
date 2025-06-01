@@ -32,3 +32,40 @@
   padding: 1em;
   border-radius: 0.5em;
 }
+
+.maneuver-whiteboard {
+  width: 1200px;
+  height: 900px;
+}
+
+.maneuver-whiteboard tr {
+  width: 100%;
+}
+
+.col-1 {
+  vertical-align: top;
+  width: 20%;
+}
+
+.col-2 {
+  vertical-align: top;
+  width: 50%;
+}
+
+.col-3 {
+  vertical-align: top;
+  width: 30%;
+}
+
+.maneuver-whiteboard label {
+  color: #6b6b6b;
+}
+
+.maneuver-whiteboard .maneuver-title {
+  text-align: center;
+}
+
+.maneuver-whiteboard .maneuver-label {
+  font-size: 2em;
+  color: #e6e6e6;
+}
