@@ -6,6 +6,8 @@ To understand the standard aviation weather products, and apply them in a flight
 
 ## Motivation
 
+Checking weather is a part of every flight and there is a large variety of weather information available to pilots. Pilots need to parse weather information, determine what information is pertinent to their flight, and what limitations the weather products contain.
+
 ## Timings
 
 - 1 hour
