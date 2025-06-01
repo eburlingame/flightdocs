@@ -442,6 +442,30 @@ $2145 * 0.95$ = **2137 ft.**
 
 ---
 
+## Takeoff Distance - Safety Factor
+
+<div class="h-stack">
+
+![w:720](images/image-19.png)
+
+<div>
+
+Ground roll = **1107 ft.**
+Over 50' obstacle = **2137 ft.**
+
+<hr />
+
+With 50% safety factor:
+
+$1107 * 1.5$ = **1660 ft.**
+$2137 * 1.5$ = **3205 ft.**
+
+</div>
+
+</div>
+
+---
+
 ## Time, Distance, Fuel to Climb (Normal Climb)
 
 <div class="h-stack">
@@ -504,7 +528,7 @@ Above standard: 22 &deg; C
 
 <div class="h-stack">
 
-![w:600](images/cruise-performance.png)
+![w:700](images/cruise-performance.png)
 
 <div>
 
@@ -518,11 +542,35 @@ KTAS: 126 and 127 = 127 KTAS
 
 <hr />
 
+% BHP: Interpolate 59% and 56%, or take higher value.
+
+<hr />
+
+Fuel flow: Interpolate 11.3 and 10.8 BHP, or take higher value.
+
+</div>
+
+</div>
+
+---
+
+## Cruise Performance - Interpolation
+
+<div class="h-stack">
+
+![w:600](images/cruise-performance.png)
+
+<div>
+
+Interpolate between 11.3 and 10.8 GPH
+
 $(10.8 - 11.3) / (19 - -1) = -0.025$
 $(13 - -1) = 14$
 $11.3 - 0.025 * 14 =$ **11.0 gph**
 
 <hr />
+
+Interpolate between 59% and 56% BHP
 
 $(56 - 59) / (19 - -1) = -0.15$
 $59 - 0.15 * 14 =$ **58 % bhp**
@@ -564,6 +612,30 @@ Average 645 and 670 = 658 ft.
 
 0.95 \* 1462 = **1389 ft. over 50' obs.**
 0.95 \* 658 = **625 ft. ground roll**
+
+</div>
+
+</div>
+
+---
+
+## Landing Distance (Short Field) - Safety Factor
+
+<div class="h-stack">
+
+![w:600](images/image-20.png)
+
+<div>
+
+1389 ft. over 50' obs.
+625 ft. ground roll
+
+<hr />
+
+Over 50' obstacle:
+$1389 * 1.5 = 2084\text{ ft}$
+Ground roll:
+$625 * 1.5 = 938\text{ ft}$
 
 </div>
 
