@@ -10,7 +10,7 @@
 - Cognitive theory: Process of thinking, decision-making, awareness, intellect
   - Thinking behaviors are important for the concept of learning
 
-### Limbic System and Prefontal Coretex
+### Limbic System and Prefrontal Cortex
 
 - Limbic system: Emotions, stress, fight-or-flight response
 - Prefrontal cortex: Rational, decision-making, language, long-term memory
@@ -65,6 +65,26 @@ Stress will cause a flight or fight response in the body
   - Big changes in mood from lesson-to-lesson
   - Severe anger towards an instructor
 
+## Effective Communication
+
+### Basic Elements of Communication
+
+- Source: Speaker, writer, or instructor
+- Symbols: Words or signs used
+- Receivers: Listener, reader, or student
+
+### Barriers to Effective Communication
+
+- **C**: Confusion between the symbol and the symbolized object
+  - Word used is confused with what it is meant to represent
+  - E.g. Confusion between an aerodynamic stall and an engine stall
+- **O**: Overuse of abstractions
+  - Abstract words may conger different images in the student's mind than you intended
+- **I**: Interference
+  - Physical injury, hearing loss, psychological issue, noise, or fear
+- **L**: Lack of common experience
+  - Since greatest barrier to communication since a student may have very different experiences than the instructor
+
 ## Learning Process
 
 ### Definition of Learning
@@ -79,6 +99,14 @@ Stress will cause a flight or fight response in the body
 - Learning can be better accomplished by utilizing more than one sense (e.g. sight, sound, touch)
 - An instructor should guide a learner's perception onto the most important things
 - **Insight** is the process of grouping perceptions into meaningful wholes
+
+### Factors that Affect Perception
+
+- **S**: Self-concept -- Positive self-image greatly influences total perceptions
+- **T**: Time and opportunity -- student need the chance and time to related new perceptions to previous ones
+- **E**: Element of threat -- Students tend to limit their attention to the threatening item
+- **P**: Physical organism -- Humans need a working senses
+- **G**: Goals and values -- Every experience is filtered and colored by an individuals beliefs and value system
 
 ### Acquiring Knowledge
 
@@ -100,19 +128,32 @@ Stress will cause a flight or fight response in the body
 - Transition skills from effortful to automatic requires repeated practice
 - The first few attempts will be awkward and slow
 
+### Types of Practice
+
+1. Deliberate practice: Clear outcome and immediate and specific feedback
+2. Block practice: Practicing until a skill becomes automatic, may lead to over-learning and poor long-term outcomes
+3. Random practice: Mixing skills, which results in better retention
+
 #### Learning Plateaus
 
 - Plateaus can be caused by
-  - consolidation of other skills
-  - waning interest
-  - reaching of cognitive capability limits
-  - the need for a more efficient method of practice
+  - Consolidation of other skills
+  - Waning interest
+  - Reaching of cognitive capability limits
+  - The need for a more efficient method of practice
 
 ### Domains of Learning
 
 - Cognitive (thinking): Thinking, recall, application, synthesis, evaluation
-- Affective (feeling):
-- Psychomotor (doing):
+- Affective (feeling): Attitudes, personal beliefs, and values
+- Psychomotor (doing): Physical and mechanical skill, which may become increasingly automatic over time
+
+#### Instructional Levels of the Psychomotor Domain
+
+1. Observation
+2. Imitations
+3. Practice
+4. Habit
 
 ### Levels of Learning
 
@@ -186,6 +227,68 @@ Stress will cause a flight or fight response in the body
   - Busy professionals tend to be more self-directed, but have limited time
   - May have limited time to study and practice outside of lesson times
   - Can tolerate longer blocks of instruction
+
+### Slips vs Errors
+
+- A slip: Honest mistake where a person plans to do one thing but does something else without intention
+- A mistake: Person plans to do the wrong thing and succeeds
+
+### Types of Memory
+
+1. Sensory memory: Receives and processing input from environment, filtering out things based on the person's pre-conceived notion of what is important
+2. Short-term memory: Information stored briefly (~30 seconds), after which it will fade or be transferred to long-term memory
+3. Long-term memory: Permanent storage of information, subject to fading and interference
+
+### Forgetting
+
+1. Fading: Information which is not used will be lost over time
+2. Interference: Newer experiences have overshadowed old one, or learning of similar things has confused the previous memory
+3. Repression or suppression: Memory pushed out of reach because recalling it causes discomfort
+4. Retrieval failure: Tip-of-the-tongue forgetting where a person cannot recall information in the moment
+
+## The Teaching Process
+
+### Steps of the Teaching Process
+
+1. Preparation: Prepares scope of lessons, objectives, supplies
+2. Presentation: Delivery information, can be done in different methods
+3. Application: Have student perform or apply information which has been learned
+4. Review and Evaluation: Evaluate student on their learning
+
+### Types of Training Objectives
+
+- Performance objectives: Particular skill, knowledge, or behavior to be learned
+- Decision objectives: Decision-making, higher-order thinking skills
+
+### Demonstration-Performance Method
+
+1. Instructor introduces skill
+2. Instructor demonstrations skill
+3. Student tries to reproduce the skill
+4. Instructor critiques student
+
+### Telling-and-Doing Technique
+
+1. Instructor tells, instructor does
+2. Student tells, instructor does
+3. Student tells, student does
+4. Instructor evaluates, student does
+
+### Obstacles to Learning During Flight Instruction
+
+1. Feeling of unfair treatment
+2. Impatience to proceed to more interesting operations
+3. Worry or lack of interest
+4. Physical discomfort
+5. Apathy due to inadequate instruction
+6. Anxiety
+
+## Assessment and Critique
+
+### Types of Assessments
+
+- Traditional assessment: Written testing
+- Authentic assessment: Tries to emulate real-world tasks and scenarios
 
 ### Evaluation vs Critique
 
