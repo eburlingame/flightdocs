@@ -17,7 +17,7 @@ Fly a constant-airspeed climb while staying coordinated.
 <td className="wb-col-2 maneuver-title">
 
 <label className="maneuver-label">Climbs and Climbing Turns</label>
-            
+
 </td>
 
 <td className="wb-col-3">
@@ -36,7 +36,7 @@ Every flight needs a climb.
 
 <label>Elements</label>
 
-1. VX vs VY
+1. V<sub>X</sub> vs V<sub>Y</sub>
 2. Pitch attitudes
 3. Starting a climb
    1. Power
@@ -46,7 +46,7 @@ Every flight needs a climb.
 5. Look outside
 6. Level-off: Pitch/power
    1. 500 fpm means 50' lead-off
-7. Turns, coordinatio   n
+7. Turns, coordination
 
 </td>
 
@@ -63,7 +63,7 @@ Every flight needs a climb.
 3. Trim out pressure
 4. Level off at 50' below for 500 fpm
 5. Accelerate to cruise speed
-6. Set cruise power 
+6. Set cruise power
 
 </td>
 
@@ -75,7 +75,7 @@ Every flight needs a climb.
 
 <label>Risk Management</label>
 
-- Fixation 
+- Fixation
 - Distractions
 - Collisions
 
@@ -95,8 +95,6 @@ Every flight needs a climb.
 <td className="wb-col-3">
 
 <label>Completion Standards</label>
-
-
 
 </td>
 
