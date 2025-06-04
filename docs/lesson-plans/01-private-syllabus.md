@@ -96,10 +96,10 @@ Based on the [Sporty's Private Pilot Training Syllabus](https://courses.sportys.
         <td>0.2</td>
         <td>1.5</td>
         <td>
-        - [Slow Flight](docs/lesson-plans/maneuvers/slow-flight)
-        - [Power-Off Stalls](docs/lesson-plans/maneuvers/power-off-stalls)
-        - [Power-On Stalls](docs/lesson-plans/maneuvers/power-on-stalls)
-        - [Spin Awareness](docs/lesson-plans/maneuvers/stall-spin-awareness)
+        - [Slow Flight](/docs/lesson-plans/maneuvers/slow-flight)
+        - [Power-Off Stalls](/docs/lesson-plans/maneuvers/power-off-stalls)
+        - [Power-On Stalls](/docs/lesson-plans/maneuvers/power-on-stalls)
+        - [Spin Awareness](/docs/lesson-plans/maneuvers/stall-spin-awareness)
         </td>
         <td></td>
     </tr>
