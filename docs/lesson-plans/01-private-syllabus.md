@@ -45,8 +45,8 @@ Based on the [Sporty's Private Pilot Training Syllabus](https://courses.sportys.
         - Engine Starting
         - Before Takeoff Check
         - [Basic Attitude Flying](/docs/lesson-plans/maneuvers/basic-attiude-flying)
-        - Straight and Level Flight
-        - Level Turns
+        - [Straight and Level Flight](/docs/lesson-plans/maneuvers/straight-and-level)
+        - [Level Turns](/docs/lesson-plans/maneuvers/level-turns)
         - After Landing, Parking, and Securing
         </td>
         <td>
@@ -96,10 +96,10 @@ Based on the [Sporty's Private Pilot Training Syllabus](https://courses.sportys.
         <td>0.2</td>
         <td>1.5</td>
         <td>
-        - Slow Flight
-        - Power-Off Stalls
-        - Power-On Stalls
-        - Spin Awareness
+        - [Slow Flight](docs/lesson-plans/maneuvers/slow-flight)
+        - [Power-Off Stalls](docs/lesson-plans/maneuvers/power-off-stalls)
+        - [Power-On Stalls](docs/lesson-plans/maneuvers/power-on-stalls)
+        - [Spin Awareness](docs/lesson-plans/maneuvers/stall-spin-awareness)
         </td>
         <td></td>
     </tr>
@@ -134,8 +134,8 @@ Based on the [Sporty's Private Pilot Training Syllabus](https://courses.sportys.
         <td>
         - [Stability Demonstration](/docs/lesson-plans/maneuvers/stability-demo)
         - Trim Demonstration
-        - Constant Airspeed Climbs
-        - Constant Airspeed Descents
+        - [Constant Airspeed Climbs](/docs/lesson-plans/maneuvers/climbs)
+        - [Constant Airspeed Descents](/docs/lesson-plans/maneuvers/descents)
         </td>
         <td>
         Demonstrate how airplane is stable in yaw, roll, and pitch. Demonstrate how trim holds airspeed, regardless of power setting. Introduce constant airspeed climbs/descents.
@@ -170,7 +170,7 @@ Based on the [Sporty's Private Pilot Training Syllabus](https://courses.sportys.
         <td>0.2</td>
         <td>1.2</td>
         <td>
-        - Steep Turns
+        - [Steep Turns](/docs/lesson-plans/maneuvers/steep-turns)
         </td>
         <td>Power-On Stalls, power-off stalls, steep turns</td>
     </tr>
@@ -216,8 +216,8 @@ Based on the [Sporty's Private Pilot Training Syllabus](https://courses.sportys.
         <td>1.2</td>
         <td>
         - Ground Reference Maneuvers
-        - S-turns Across A Road
-        - Turns Around A Point
+        - [S-turns Across A Road](/docs/lesson-plans/maneuvers/s-turns)
+        - [Turns Around A Point](/docs/lesson-plans/maneuvers/turns-around-a-point)
         - Rectangular Course
         </td>
         <td></td>
@@ -260,7 +260,7 @@ Based on the [Sporty's Private Pilot Training Syllabus](https://courses.sportys.
         <td>0.2</td>
         <td>1.2</td>
         <td>
-        - Normal Landings
+        - [Normal Landings](/docs/lesson-plans/maneuvers/normal-landing)
         </td>
         <td></td>
     </tr>
@@ -271,9 +271,9 @@ Based on the [Sporty's Private Pilot Training Syllabus](https://courses.sportys.
         <td>0.2</td>
         <td>1.2</td>
         <td>
-        - Go-Arounds
+        - [Go-Arounds](/docs/lesson-plans/maneuvers/go-arounds)
         - Equipment Malfunctions
-        - Emergency Approach And Landing
+        - [Emergency Approach And Landing](/docs/lesson-plans/maneuvers/emergency-approach)
         </td>
         <td></td>
     </tr>
@@ -307,8 +307,8 @@ Based on the [Sporty's Private Pilot Training Syllabus](https://courses.sportys.
         <td>0.2</td>
         <td>1.2</td>
         <td>
-        - Slip To A Landing
-        - Crosswind Landing
+        - [Slip To A Landing](/docs/lesson-plans/maneuvers/slip-to-a-landing)
+        - [Crosswind Landing](/docs/lesson-plans/maneuvers/crosswind-landing)
         </td>
         <td></td>
     </tr>
@@ -560,10 +560,10 @@ Based on the [Sporty's Private Pilot Training Syllabus](https://courses.sportys.
         <td>0.2</td>
         <td>1.2</td>
         <td>
-        - Short Field Takeoff and Climb
-        - Short Field Approach and Landing
-        - Soft Field Takeoff and Climb
-        - Soft Field Approach and Landing
+        - [Short Field Takeoff and Climb](/docs/lesson-plans/maneuvers/short-field-takeoff)
+        - [Short Field Approach and Landing](/docs/lesson-plans/maneuvers/short-field-landing)
+        - [Soft Field Takeoff and Climb](/docs/lesson-plans/maneuvers/soft-field-takeoff)
+        - [Soft Field Approach and Landing](/docs/lesson-plans/maneuvers/soft-field-landing)
         </td>
         <td></td>
     </tr>
@@ -643,7 +643,7 @@ Based on the [Sporty's Private Pilot Training Syllabus](https://courses.sportys.
         <td>0.2</td>
         <td>1.5</td>
         <td>
-        - Emergency Descent
+        - [Emergency Descent](/docs/lesson-plans/maneuvers/emergency-descent)
         </td>
         <td>Dual XC to airport &gt;25nm away, pilotage, emergency descent, alternates</td>
     </tr>
@@ -755,8 +755,8 @@ Based on the [Sporty's Private Pilot Training Syllabus](https://courses.sportys.
         <td>1.2</td>
         <td></td>
         <td>
-        - Basic Instrument Maneuvers
-        - Recovery From Unusual Attitudes
+        - [Basic Instrument Maneuvers](/docs/lesson-plans/maneuvers/basic-instrument-maneuvers)
+        - [Recovery From Unusual Attitudes](/docs/lesson-plans/maneuvers/unusual-attitude-recovery)
         </td>
         <td></td>
     </tr>
