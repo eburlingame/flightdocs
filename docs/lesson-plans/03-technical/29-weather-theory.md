@@ -14,7 +14,7 @@ It is important for a pilot to have an intuitive understand of basic weather phe
 
 ## Format
 
-- Slides
+- [Slides](/slides/weather-theory.pdf)
 
 ## Elements
 
@@ -135,4 +135,4 @@ It is important for a pilot to have an intuitive understand of basic weather phe
 
 - [Pilot's Handbook of Aeronautical Knowledge pg. 12-1](/_references/PHAK/12-1)
 - [Aviation Weather Handbook](https://www.faa.gov/regulationspolicies/handbooksmanuals/aviation/faa-h-8083-28a-aviation-weather-handbook)
-- [AC 00-24C Thunderstorm](https://www.faa.gov/documentlibrary/media/advisory_circular/ac%2000-24c.pdf)
+- [AC 00-24C Thunderstorms](https://www.faa.gov/documentlibrary/media/advisory_circular/ac%2000-24c.pdf)
