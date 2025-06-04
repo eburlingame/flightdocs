@@ -1,10 +1,12 @@
 # Normal Takeoffs
 
-<table className="maneuver-whiteboard">
+## Whiteboard
+
+<table className="maneuver-wb">
 
 <tr>
 
-<td className="col-1">
+<td className="wb-col-1">
 
 <label>Objective</label>
 
@@ -12,7 +14,7 @@ Safe transition from ground to flight.
 
 </td>
 
-<td className="col-2 maneuver-title">
+<td className="wb-col-2 maneuver-title">
 
 <label className="maneuver-label">Normal Takeoffs</label>
 
@@ -20,7 +22,7 @@ Safe transition from ground to flight.
 
 </td>
 
-<td className="col-3">
+<td className="wb-col-3">
 
 <label>Motivation</label>
 
@@ -32,7 +34,7 @@ Needed on every flight.
 
 <tr>
 
-<td className="col-1">
+<td className="wb-col-1">
 
 <label>Elements</label>
 
@@ -47,11 +49,26 @@ Needed on every flight.
 
 </td>
 
-<td className="col-2">
+<td className="wb-col-2">
+
+Transition from "driving" to "swimming" through the air
+
+![alt text](images/image.png)
+
+V<sub>X</sub>: Best angle of climb, reach a given altitude in the shortest horizontal distance
+
+V<sub>Y</sub>: Best rate of climb, reach a given altitude in the shortest amount of time
+
+Takeoff distance:
+
+- Increase with weight
+- Increase with temperature
+- Increase with altitude
+- Decreases with headwind / Increases with tailwind
 
 </td>
 
-<td className="col-3">
+<td className="wb-col-3">
 
 <label>Procedure</label>
 
@@ -62,7 +79,7 @@ Needed on every flight.
 5. Hold brakes
 6. Smoothly apply full power, 29-29"
 7. Release brakes
-8. Right rudder, accelerate
+8. Right rudder, accelerate, airspeed alive
 9. Let airplane fly off the ground
 10. Smoothly pitch for VX pitch attitude
 11. Once clear of any obstacles, pitch for VY
@@ -74,7 +91,7 @@ Needed on every flight.
 
 <tr>
 
-<td className="col-1">
+<td className="wb-col-1">
 
 <label>Risk Management</label>
 
@@ -87,7 +104,7 @@ Needed on every flight.
 
 </td>
 
-<td className="col-2">
+<td className="wb-col-2">
 
 <label>Common Errors</label>
 
@@ -99,12 +116,20 @@ Needed on every flight.
 
 </td>
 
-<td className="col-3">
+<td className="wb-col-3">
 
 <label>Completion Standards</label>
+
+- Maintain V<sub>Y</sub> &pm;5 knots
+- Position flight controls into the wind
 
 </td>
 
 </tr>
 
 </table>
+
+## References
+
+- [Airplane Flying Handbook pg. 6-3](/_references/AFH/6-3)
+- [ThrustFlight Video](https://www.youtube.com/watch?v=PITGxMbsGZM)
