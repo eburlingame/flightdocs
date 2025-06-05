@@ -134,6 +134,8 @@ Altitude, temperature, and pressure affect all aspects of our airplane's perform
 
 - Water vapor in the air also takes up space
 - The higher the humidity, the lower the air density
+- Effect of density is small relative to pressure and temperature
+  - Usually omitted from performance chats and calculations
 
 </div>
 
@@ -521,6 +523,26 @@ Sea level, 20&deg;C
 
 ---
 
+## Realistic Performance
+
+<div class="h-stack">
+
+![bg left:30% ](images/image-34.png)
+
+- Takeoff performance
+  - New engine, new propeller
+  - Test pilot with excellent technique
+- Landing performance
+  - Excellent technique, energy management
+  - No gusty winds, or gust factor
+  - Maximum braking
+- A safety factor helps in managing this discrepancy
+  - We'll use a safety factor of **+50%** for takeoff and landing
+
+</div>
+
+---
+
 ## Takeoff Distance - Safety Factor
 
 <div class="h-stack">
@@ -685,7 +707,32 @@ Over 50' obstacle:
 
 ---
 
+## Differences between Actual and Estimated Performance
+
+- Conditions are different from forecast
+- Pilot technique
+  - Takeoff
+  - Landing
+  - Leaning
+- Age of engine, propeller, airframe
+
+---
+
 # Limitations
+
+---
+
+## Where do we find limitations?
+
+<div class="h-stack">
+
+![w:500](images/image-35.png)
+
+- POH limitations section
+- Placards and markings
+- Performance charts
+
+</div>
 
 ---
 
@@ -718,10 +765,6 @@ Over 50' obstacle:
 ## Operating Limits
 
 ![alt text](images/image-30.png)
-
----
-
-## Max Demonstrated Crosswind Component
 
 ![alt text](images/image-31.png)
 

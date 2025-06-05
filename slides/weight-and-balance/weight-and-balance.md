@@ -64,7 +64,6 @@ The effect of weight and CG location is critical to the safety of flight and an 
   - Point at which weight appears to be concentrated
   - Location of C.G. = Total moments / total weights
 - Loading Envelope: Graph of acceptable weight and CG ranges
-
 </div>
 
 ---
@@ -91,6 +90,7 @@ The effect of weight and CG location is critical to the safety of flight and an 
 - **Max ramp weight (MRW)**: The maximum weight for ground operations (no flight)
 - **Max takeoff weight (MTOW)**: Maximum weight for takeoff
 - **Max landing weight (MLW)**: Max weight for landing
+- **Useful load**: Max ramp weight - Basic empty weight
 - Fuel: 100LL is 6 lbs / gal.
 
 ---
