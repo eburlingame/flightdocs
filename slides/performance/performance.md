@@ -618,6 +618,15 @@ Fuel flow: Interpolate 11.3 and 10.8 BHP, or take higher value.
 
 Interpolate between 11.3 and 10.8 GPH
 
+$y = y_0 + (x - x_0) \frac{y_1 - y_0}{x_1 - x_0}$
+
+<hr />
+
+Temperature (x): -1 ..... 13 ..... 19
+Fuel flow (y): 11.3 .... (y) .... 10.8
+
+<hr />
+
 $(10.8 - 11.3) / (19 - -1) = -0.025$
 $(13 - -1) = 14$
 $11.3 - 0.025 * 14 =$ **11.0 gph**
