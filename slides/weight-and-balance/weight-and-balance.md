@@ -316,6 +316,12 @@ The effect of weight and CG location is critical to the safety of flight and an 
 
 ---
 
+## Other Limitations
+
+![alt text](images/image-4.png)
+
+---
+
 # How W&B Affects Performance
 
 ---
@@ -332,7 +338,7 @@ The effect of weight and CG location is critical to the safety of flight and an 
 
 ---
 
-## CG and Cruise Performance: Elevator Downwash
+## CG and Cruise Performance: Rearward CG
 
 <div class="small-block">&nbsp;</div>
 
@@ -345,6 +351,18 @@ The effect of weight and CG location is critical to the safety of flight and an 
 ---
 
 ## CG Aft of Limits
+
+<div class="small-block">&nbsp;</div>
+
+<div class="h-stack">
+
+![w:500](images/image-7.png)
+
+</div>
+
+---
+
+## CG and Cruise Performance: Forward CG
 
 <div class="small-block">&nbsp;</div>
 
