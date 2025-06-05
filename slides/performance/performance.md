@@ -709,12 +709,20 @@ Over 50' obstacle:
 
 ## Differences between Actual and Estimated Performance
 
+<div class="h-stack">
+
+![w:500](images/image-36.png)
+
 - Conditions are different from forecast
 - Pilot technique
   - Takeoff
   - Landing
-  - Leaning
+  - Engine leaning
 - Age of engine, propeller, airframe
+- Runway slope: Up or down
+- Wet runway: Braking action
+
+</div>
 
 ---
 
