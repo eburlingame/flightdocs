@@ -32,6 +32,7 @@ Altitude, temperature, and pressure affect all aspects of our airplane's perform
 
 ## Overview
 
+- Airplane and performance
 - Air and density
   - Density altitude
   - International Standard Atmosphere
@@ -48,9 +49,26 @@ Altitude, temperature, and pressure affect all aspects of our airplane's perform
 
 ---
 
+## Airplane Weight
+
+<div class="h-stack">
+
+![alt text](images/image-32.png)
+
+- The greater the weight, the greater the lift provided
+- The greater the lift, more induced drag
+- Thus more **weight = less airplane performance**
+  - Slower cruise speed
+  - Higher takeoff speed, longer takeoff roll
+  - Slower climb performance
+  - Higher landing speed, longer landing roll
+
+</div>
+
+---
+
 ## Air and Density
 
-- Air has mass
 - Our airplane swims through the air, air molecules bounce off the airplane
   - As these air molecules are deflected downward, our airplane is forced upward
   - Our propeller pushes air backwards which pushes us forwards
@@ -70,43 +88,31 @@ Altitude, temperature, and pressure affect all aspects of our airplane's perform
   - Propeller can produce more thrust
   - Engines can produce more power
 - Density constantly changes with
-  1. Altitude
-  2. Pressure
-  3. Temperature
+  1. Pressure
+  2. Temperature
+  3. Humidity
 
 ---
 
-## Things That Affect Density: Altitude (Variable #1)
+## Thing That Affect Density: Ambient Pressure (Variable #1)
 
 <div class="h-stack">
 
-![w:700](images/image-12.png)
+![w:650](images/image-12.png)
 
-- Density decreases as we get farther from the Earth's surface due to gravity
-- The rate at which this occurs is called the pressure _lapse rate_
-- The average lapse rate is 1" Hg per 1000 ft.
-
-</div>
-
----
-
-## Thing That Affect Density: Ambient Pressure (Variable #2)
-
-<div class="h-stack">
-
-![w:475](images/image-14.png)
-
+- As we climb
+  - Ambient pressure decreases
+  - Air density decreases
+  - Pressure decreases on average 1" Hg per 1000' (_pressure lapse rate_)
 - The pressure outside varies from day to day
-- On high pressure days, the air is more dense
-  - e.g. Altimeter 30.29"
-- On low pressure days, the air is less dense
-  - e.g. Altimeter 29.32"
+  - On high pressure days, air is more dense
+  - On low pressure days, air is less dense
 
 </div>
 
 ---
 
-## Things That Affect Density: Temperature (Variable #3)
+## Things That Affect Density: Temperature (Variable #2)
 
 <div class="h-stack">
 
@@ -120,14 +126,26 @@ Altitude, temperature, and pressure affect all aspects of our airplane's perform
 
 ---
 
+## Humidity: Temperature (Variable #3)
+
+<div class="h-stack">
+
+![w:400](images/image-33.png)
+
+- Water vapor in the air also takes up space
+- The higher the humidity, the lower the air density
+
+</div>
+
+---
+
 ## Rolling it All Up
 
 - That's a lot of variables to consider
-- What if there was a magic "density" number which could combine:
+- What if there was one number that would combine the effects of:
   - Altitude
   - Ambient pressure
   - Temperature
-- Then give us one number which represents the density of the air
 
 ---
 
@@ -139,12 +157,14 @@ Altitude, temperature, and pressure affect all aspects of our airplane's perform
 
 - What if we made a fake atmosphere with known conditions?
   - Density can defined as an altitude in this atmosphere
-  - Altitude is a tangible number to understand
 - The higher the altitude, the lower our airplane's performance
 - ISA Definitions
   - At sea level, the pressure is 29.92" Hg
   - Pressure lapses (reduces) at 1" Hg per 1000'
-  </div>
+  - Temperature: 15&deg; C at S.L.
+  - Temperature lapse rate: 2&deg;C per 1000' (to 24,000)
+
+</div>
 
 ---
 
@@ -439,58 +459,63 @@ On a real flight we want to know:
 
 ---
 
-## Performance Scenario
+## Takeoff Distance - Temperature
 
 <div class="h-stack">
 
-![w:250](images/image-26.png)
-
 <div>
 
-- Depart Lewiston Muni - KLWT
-  - Elevation: 4170'
-  - Altimeter: 29.88"
-  - Temperature: 29&deg;C
-- Cruise at 8500 ft.
-- Arrive Harve Co - KHVR
-  - Elevation: 2591'
-  - Altimeter: 29.95"
-  - Temperature: 25&deg; C
+![w:1200](images/image-6.png)
 
 </div>
 
-- 50 gallons of fuel aboard
-- Max gross weight (3100 lbs)
+<div>
+
+Ground Roll
+
+- S.L. at 0&deg; C: 700'
+- S.L. at 40&deg; C: 960'
+- **260** ft. increase from temperature alone
 
 </div>
 
 ---
 
-## Takeoff Distance
+## Takeoff Distance - Ground Roll vs Obstacle Clearance
 
 <div class="h-stack">
 
-![w:750](images/image-6.png)
+![w:720](images/image-19.png)
+
+</div>
+
+---
+
+## Takeoff Distance - Wind
+
+<div class="h-stack">
 
 <div>
 
-Headwind: 4 knots
-Pressure altitude: 4210
-Temperature: 29&deg;C
-
-<hr />
-
-30&deg; line, 4000':
-1165' ground roll
-2145 over 50' obstacle
-
-<hr />
-
-4 kts headwind, -5%:
-$1165 * 0.95$ = **1107 ft.**
-$2145 * 0.95$ = **2137 ft.**
+![w:800](images/image-6.png)
 
 </div>
+
+<div>
+
+Sea level, 20&deg;C
+
+<hr />
+
+18 knot headwind:
+20% decrease
+820 \* 0.8 = **656 ft.**
+
+<hr />
+
+4 knot tailwind:
+20% increase
+820 \* 1.2 = **984 ft.**
 
 </div>
 
@@ -504,15 +529,15 @@ $2145 * 0.95$ = **2137 ft.**
 
 <div>
 
-Ground roll = **1107 ft.**
-Over 50' obstacle = **2137 ft.**
+Ground roll = **820 ft.**
+Over 50' obstacle = **1535 ft.**
 
 <hr />
 
 With 50% safety factor:
 
-$1107 * 1.5$ = **1660 ft.**
-$2137 * 1.5$ = **3205 ft.**
+820 \* 1.5 = **1230 ft.**
+1535 \* 1.5 = **2302 ft.**
 
 </div>
 
@@ -520,33 +545,32 @@ $2137 * 1.5$ = **3205 ft.**
 
 ---
 
-## Time, Distance, Fuel to Climb (Normal Climb)
+## Time, Distance, Fuel to Climb (Normal Climb) - Altitude
 
 <div class="h-stack">
 
-![w:500](images/image-7.png)
+![w:550](images/image-7.png)
 
 <div>
 
-Airport: 4170'
-Cruise: 8500'
-Above standard: 22 &deg; C
+Airport: 4000'
+Cruise: 8000'
 
 <hr />
 
-8000' line: 16 minutes, 5.7 gal, 27m
-4000' line: 8 minutes, 2.8 gal, 13nm
 16 - 8 = 8 minutes
 5.7 - 2.8 = 2.9 gallons
 27 - 13 = 14nm
 
+Climb rate decreases as we ascend
+
 </div>
 
 </div>
 
 ---
 
-## Time, Distance, Fuel to Climb (Normal Climb)
+## Time, Distance, Fuel to Climb (Normal Climb) - Temperature
 
 <div class="h-stack">
 
@@ -558,19 +582,19 @@ Above standard: 22 &deg; C
 
 <hr />
 
-22 / 7 = 3.14
-3.14 \* 10% = 31% increase
+14&deg;C above standard
+20% increase
 
 <hr />
 
-8 \* 1.31 = **10.5 minutes**
-2.9 \* 1.31 = 3.8 gallons
-14 \* 1.31 = **18.3nm**
+8 \* 1.2 = **9.6 minutes**
+2.9 \* 1.2 = 3.5 gallons
+14 \* 1.2 = **16.8nm**
 
 <hr />
 
 +2 gal start/taxi/takeoff
-3.8 + 2 = **5.8 gallons**
+3.5 + 2 = **5.5 gallons**
 
 </div>
 
@@ -578,60 +602,13 @@ Above standard: 22 &deg; C
 
 ---
 
-## Cruise Performance (8000 ft.)
+## Cruise Performance - Altitude and Temperature
 
 <div class="h-stack">
 
-![w:700](images/cruise-performance.png)
+![w:700](images/cruise-2000.png)
 
-<div>
-
-13&deg; C above standard
-2200 RPM
-21" manifold pressure
-
-<hr />
-
-KTAS: 126 and 127 = 126 KTAS
-
-<hr />
-
-% BHP: Interpolate 59% and 56%, or take lower value.
-
-<hr />
-
-Fuel flow: Interpolate 11.3 and 10.8 BHP, or take higher value.
-
-</div>
-
-</div>
-
----
-
-## Cruise Performance - Interpolation Example
-
-<div class="h-stack">
-
-![w:600](images/cruise-performance.png)
-
-<div>
-
-Interpolate between 11.3 and 10.8 GPH
-
-$y = y_0 + (x - x_0) \frac{y_1 - y_0}{x_1 - x_0}$
-
-<hr />
-
-Temperature (x): -1 ..... 13 ..... 19
-Fuel flow (y): 11.3 .... (y) .... 10.8
-
-<hr />
-
-$(10.8 - 11.3) / (19 - -1) = -0.025$
-$(13 - -1) = 14$
-$11.3 - 0.025 * 14 =$ **11.0 gph**
-
-</div>
+![w:710](images/cruise-10000.png)
 
 </div>
 
@@ -655,21 +632,16 @@ $11.3 - 0.025 * 14 =$ **11.0 gph**
 
 <div>
 
-Headwind: 4 knots
-Pressure altitude: 2500
+Headwind: 9 knots
+Pressure altitude: S.L.
 Temperature: 20&deg;C
 
 <hr />
 
-Average 1440 and 1485 = 1462 ft.
-Average 645 and 670 = 658 ft.
+Decrease distances 10%
 
-<hr />
-
-4&deg; / 9&deg; = 0.44, decrease 4.4%
-
-0.95 \* 1462 = **1389 ft. over 50' obs.**
-0.95 \* 658 = **625 ft. ground roll**
+0.9 \* 600 = **540 ft. ground roll**
+0.9 \* 1365 = **1231 ft. over 50' obs.**
 
 </div>
 
@@ -685,15 +657,16 @@ Average 645 and 670 = 658 ft.
 
 <div>
 
-1389 ft. over 50' obs.
-625 ft. ground roll
+540 ft. ground roll
+1231 ft. over 50' obs.
 
 <hr />
 
-Over 50' obstacle:
-$1389 * 1.5 = 2084\text{ ft}$
 Ground roll:
-$625 * 1.5 = 938\text{ ft}$
+540 \* 1.5 = **810 ft**
+
+Over 50' obstacle:
+1231 \* 1.5 = **1846 ft**
 
 </div>
 

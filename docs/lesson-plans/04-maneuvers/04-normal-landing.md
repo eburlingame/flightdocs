@@ -10,7 +10,7 @@
 
 <label>Objective</label>
 
-Safely transition from the air to the ground.
+Transition safely from air to ground.
 
 </td>
 
@@ -36,15 +36,15 @@ Every takeoff requires a landing.
 
 <label>Elements</label>
 
-1. Weight to wheels
-2. Touchdown, energy
-3. Approach, glideslope
+1. Weight on wheels
+2. Touchdown energy
+3. Approach and glideslope
 4. Aiming point
-5. Power = Altitude / Pitch = Airspeed
+5. Power controls altitude, pitch controls airspeed
 6. Ground effect
-7. Flare, trading A/S for altitude
+7. Flare: trade airspeed for altitude
 8. Rollout and braking
-9. Wind
+9. Wind correction
 
 </td>
 
@@ -61,13 +61,13 @@ Every takeoff requires a landing.
 <label>Procedure</label>
 
 1. Pre-landing checklist (GUMPS)
-2. Abeam touchdown: 12" MP, 90 knots, 10&deg; flaps
-3. Base: 20&deg; flaps 75 knots
-4. Final: 40&deg; flaps, 70 knots, stable approach
-5. 10-20' above runway: Flare, reduce power smoothly
-6. Watch runway end: Peripherals, judge touchdown
-7. Touchdown: Elevator back pressure
-8. Sufficient braking, centerline with feet
+2. Abeam touchdown: 12" MP, 90 knots, 10° flaps
+3. Base: 20° flaps, 75 knots
+4. Final: 40° flaps, 70 knots, stable approach
+5. At 10–20' above runway: Flare, reduce power smoothly
+6. Watch runway end with peripheral vision, judge touchdown
+7. Touchdown: Hold elevator back pressure
+8. Apply brakes as needed, maintain centerline
 
 </td>
 
@@ -96,15 +96,15 @@ Every takeoff requires a landing.
 <label>Common Errors</label>
 
 - Not correcting for wind drift
-- Undershooting/overshooting final
-- Steep banks in the traffic pattern
+- Undershooting or overshooting final
+- Steep banks in the pattern
 - Poor coordination
-- Stretching glide
+- Stretching the glide
 - Excess airspeed in flare
-- Insufficent airspeed in flare
-- Flaring to early, too late, too fast, too slow
-- Focusing too close in flare
-- No aerodynamic braking
+- Insufficient airspeed in flare
+- Flaring too early, too late, too fast, or too slow
+- Focusing too close during flare
+- Not using aerodynamic braking
 - Excessive wheel braking
 
 </td>
@@ -113,8 +113,8 @@ Every takeoff requires a landing.
 
 <label>Completion Standards</label>
 
-- Approach +10/-5 knots
-- Touchdown +400'/-0ft (private)
+- Approach speed: +10/-5 knots
+- Touchdown: +400'/–0 ft (private)
 
 </td>
 
