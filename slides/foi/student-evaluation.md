@@ -1,10 +1,17 @@
 ---
-marp: true
-title: Student Evaluation and Assessment
-description: FOI - Student Evaluation and Assessment
+theme: default
+class:
+  - invert
 ---
 
-<!-- _class: lead -->
+<style>
+.h-stack {
+  display: flex;
+  column-gap: 1em;
+  justify-content: center;
+}
+
+</style>
 
 ### Fundamentals of Instruction
 
@@ -12,7 +19,7 @@ description: FOI - Student Evaluation and Assessment
 
 ---
 
-# Overview
+## Overview
 
 - Purpose and characteristics of effective assessment
 - Traditional assessments
@@ -23,52 +30,53 @@ description: FOI - Student Evaluation and Assessment
 - Choosing an effective assessment method
 - Purposes and types of critiques
 - Oral assessment
-  - Characteristics of effective questions
-  - Types of questions to avoid
-  - Answering learner questions
 - Assessment of piloting ability
 
 ---
 
-# Motivation & Objective
+## Motivation
 
-**Motivation:**  
 Assessment is an integral component of student instruction.
 
-**Objective:**  
+## Objective
+
 Understand and apply the strategies for effective student evaluation and assessment.
 
 ---
 
-# Purpose and Characteristics of Effective Assessment
+## Why do we use assessments?
 
-- **Purpose:**
-  Assess learning progress and provide feedback to both learner and instructor.
-
-- **Characteristics:**
-  - Objective: Free from bias, honest
-  - Flexible: Adapted to the situation
-  - Acceptable: Learner understands the reason for assessment
-  - Comprehensive: Covers all necessary areas
-  - Constructive: Includes praise where appropriate
-  - Thoughtful: Respects learner's feelings
-  - Specific: Provides actionable feedback
+- We want to assess learning progress and provide feedback to both learner and instructor
+- Identify strong and weak areas of learning
+- Determine whether a student is ready for the next phase of training
 
 ---
 
-## Example: Effective Assessment
+## What makes a good assessment?
 
-- An instructor observes a student performing a preflight inspection.
-- The instructor provides specific feedback:
-  "You checked the fuel visually and by draining the sumps—great job being thorough. Next time, also check the fuel cap is secure before moving on."
-- The feedback is objective, specific, and constructive.
+- Objective: Free from bias, honest
+- Flexible: Adapted to the situation
+- Acceptable: Learner understands the reason for assessment
+- Comprehensive: Covers all necessary areas
+- Constructive: Includes praise where appropriate
+- Thoughtful: Respects learner's feelings
+- Specific: Provides actionable feedback
 
 ---
 
-# Traditional Assessments
+## Traditional Assessments
+
+![bg left:30% fit](images/image-44.png)
 
 - Generally written tests (multiple choice, true/false, fill-in-the-blank)
 - Usually time-limited
+- Example: FAA Written Exams, pre-solo knowledge test
+
+---
+
+## Traditional Assessments
+
+![bg right:40% fit](images/image-45.png)
 
 **Good written tests should be:**
 
@@ -81,25 +89,20 @@ Understand and apply the strategies for effective student evaluation and assessm
 
 ---
 
-## Example: Traditional Assessment
+## Authentic Assessments
 
-- **Multiple Choice:**
-  "What is the minimum safe altitude over a congested area?"
-- **True/False:**
-  "The pitot tube is used to measure static pressure. (False)"
-- **Fill-in-the-blank:**
-  "The four forces of flight are lift, **\_**, thrust, and drag."
-
----
-
-# Authentic Assessments
+![bg left:40% fit](images/image-47.png)
 
 - Involves real-world tasks and demonstration of skills
-- Focuses on application, not just recall
+- Focuses on higher levels of learning: Understand, Application, Correlation
+- May incorporate higher-order thinking skills, scenario-based questions
+- Example: Practical test or stage check for student pilot
 
 ---
 
 ## Learner-Centered Assessment
+
+![bg right:40% fit](images/image-48.png)
 
 A four-step self-assessment process:
 
@@ -112,13 +115,22 @@ A four-step self-assessment process:
 
 ## Example: Learner-Centered Assessment
 
-- **Scenario:** After a crosswind landing, the instructor asks:
-  - "Walk me through your approach and landing. What went well? What would you do differently next time?"
-  - The student reflects: "I flared a bit high. Next time, I'll focus on my sight picture and use more right rudder."
+![bg left:40% fit](images/image-49.png)
+
+**Scenario:** After a crosswind landing, the instructor asks:
+
+- "Walk me through your approach and landing. What went well? What would you do differently next time?"
+- The student reflects: "I flared a bit high and landed with a bit of side-load. Next time I'll correct for drift using a forward slip."
 
 ---
 
 ## Maneuver or Procedure Grades
+
+<div class="h-stack">
+
+<div>
+
+Can be used as part of a training syllabus rubric to measure progress.
 
 Levels of performance:
 
@@ -127,19 +139,28 @@ Levels of performance:
 3. **Practice:** Can execute with some coaching/correction
 4. **Perform:** Can perform independently
 
+</div>
+
+![bg right:45% fit](images/image-50.png)
+
+</div>
+
 ---
 
-## Example: Maneuver Grade
+## Maneuver Grade - Steep Turns
 
-- **Steep Turns:**
-  - **Describe:** "I know I need to bank 45°, but I'm not sure how to maintain altitude."
-  - **Explain:** "I understand I need to add back pressure and adjust power, but I need reminders."
-  - **Practice:** "I can do the turn, but sometimes lose altitude—occasional coaching helps."
-  - **Perform:** "I consistently maintain altitude and bank angle without help."
+![bg left:40% fit](images/image-17.png)
+
+- **Describe:** Student knows they need back pressure, understands over-banking tendency
+- **Explain:** Student can explain entry, exit, and correction procedures
+- **Practice:** Student can do the turn, with critique from the instructor
+- **Perform:** Automatic response stages, student can perform without instructor
 
 ---
 
 ## Assessing Risk Management Skills
+
+Used for measuring decision-based objectives related to risk management.
 
 Levels of risk management:
 
@@ -149,31 +170,38 @@ Levels of risk management:
 
 ---
 
-## Example: Risk Management Assessment
+## Risk Management Assessment - Weather Assessment
 
-- **Weather Decision:**
-  - **Explain:** "I know thunderstorms are forecast, but I'm not sure if we should go."
-  - **Practice:** "I check radar and suggest a delay, but ask the instructor for confirmation."
-  - **Manage/Decide:** "I review weather, decide to delay departure, and brief the instructor on my decision."
+<div class="h-stack">
+
+![w:800](images/image-51.png)
+
+- **Explain:** Student can read weather forecasts, understands the risk of thunderstorms
+- **Practice:** Student works with instructor through several go/no-go decision, learning what the instructor decides
+- **Manage/Decide:** Student can effectively understand forecasts and make their own decision
+
+</div>
 
 ---
 
-# Choosing an Effective Assessment Method
+## Choosing an Effective Assessment Method
 
-1. Determine the level of learning to be assessed
+1. Determine the level of learning - Rote, Understanding, Application, Correlation
 2. List indicators of desired behaviors
 3. Establish performance-based objectives
 4. Develop test items or activities targeting those objectives
 
 ---
 
-# Purposes and Types of Critiques
+## Critiques
 
-- **Purpose:** Provide feedback and promote learning through evaluation
+- Critiques are immediate and actionable feedback to a student about their performance
+  - They can be positive or negative
+  - They should occur soon after performance
 
 **Types:**
 
-- Instructor/learner critique
+- Instructor/learner critique - Typical 1-1 flight instruction
 - Learner-led critique
 - Small group critique
 - Self-critique
@@ -181,20 +209,19 @@ Levels of risk management:
 
 ---
 
-# Oral Assessment
+## Oral Assessment
 
-- Direct questioning by the instructor
+<div class="h-stack">
 
----
+![w:900](images/image-52.png)
 
-## Example: Oral Assessment
+- Direct questioning of a student by the instructor
+- Kinds of questions
+  - **Fact Question:**: "What does the mixture control do?"
+  - **HOTS Question:**: "The weather is deteriorating at our destination but we still have two hours to go. What are our options?"
+  - **Follow-up:**: Instructor adapts questions to the student's experience and responses.
 
-- **Fact Question:**
-  "What is the purpose of the mixture control?"
-- **HOTS Question:**
-  "How would you handle an engine failure after takeoff?"
-- **Follow-up:**
-  Instructor adapts questions to the student's experience and responses.
+</div>
 
 ---
 
@@ -219,25 +246,30 @@ Levels of risk management:
 - Trick questions
 - Irrelevant questions
 
+Remember the law of effective and the affective domain. Instructors should provide fail, accurate, and managable assessments.
+
 ---
 
 ## Answering Learner Questions
 
-- Think before answering
-- Avoid introducing unnecessary complexity
+- Encourage students to ask questions
+- Avoid introducing unnecessary complexity when answering
 - After answering, check learner's understanding
+- Student questions give a great insight into their knowledge and decision-making
 
 ---
 
-# Assessment of Piloting Ability
+## Assessment of Piloting Ability
 
-- Evaluate both technical and decision-making skills
-- Use a combination of traditional and authentic assessments
+![bg right:40% fit](images/image-53.png)
+
+- Utilize post-flight debrief and evaluation
 - Provide specific, actionable feedback for improvement
+- Evaluate both technical and decision-making skills
 
 ---
 
-# Summary
+## Summary
 
 - Assessment is essential for learning and instruction
 - Use both traditional and authentic methods

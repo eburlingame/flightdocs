@@ -48,6 +48,6 @@ Building upon the learning process to develop effective lesson objectives, lesso
   - Training syllabus
   - Lesson plans
 
-## Elements
-
 ## References
+
+- [Aviation Instructor's Handbook pg. 7-1](/_references/AIH/7-1)
