@@ -14,6 +14,12 @@ theme: default
   height: 400px;
 }
 
+.comment {
+  margin-top: 4em;
+  color:rgb(122, 122, 122);
+  font-size: 0.75em;
+}
+
 </style>
 
 # Performance and Limitations
@@ -27,6 +33,12 @@ Gain an intuitive understanding of how atmospheric conditions affect aircraft pe
 ## Motivation
 
 Altitude, temperature, and pressure affect all aspects of our airplane's performance. All pilots need to understand how these factors affect the airplane, and what limitations are present in its design.
+
+<div class="comment">
+
+Instruction: Known to unknown, building on aerodynamics
+
+</div>
 
 ---
 

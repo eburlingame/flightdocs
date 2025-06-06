@@ -97,13 +97,13 @@ The effect of weight and CG location is critical to the safety of flight and an 
   - Loading CG too far aft:
     - Elevator needs to produce less force
     - Pros: Faster cruise speed, lower fuel burn
-    - Cons: Less stable, controls more sensitive
+    - Cons: Less stable, controls more sensitive, easy to overstress
     - Too far aft: May not have enough elevator authority to recovery from a stall condition
   - CG forward:
     - Elevator needs to produce more force
     - Pros: Stable, less sensitive controls
     - Cons: Slower cruise speed, higher fuel burn
-    - Too far forward: Limited after elevator authority, may prevent adequate landing flare
+    - Too far forward: Limited aft elevator authority, may prevent adequate landing flare
 
 ## Questions
 
