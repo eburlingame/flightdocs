@@ -5,6 +5,8 @@ description: FOI - The Learning Process
 paginate: true
 ---
 
+### Fundamentals of Instruction
+
 # The Learning Process
 
 --
@@ -34,14 +36,14 @@ An effective instructor uses knowledge of the learning process to structure trai
 
 ---
 
-# Definitions of Learning
+## Definitions of Learning
 
 - A process resulting in a change in behavior.
 - Gaining knowledge or skills through study, instruction, or experience.
 
 ---
 
-# Learning Theory in Instruction
+## Learning Theory in Instruction
 
 ## Behaviorism
 
@@ -58,7 +60,7 @@ An effective instructor uses knowledge of the learning process to structure trai
 
 ---
 
-# Perceptions and Insight
+## Perceptions and Insight
 
 - Perceptions are the basis for learning.
 - Learning maps new sensory input into useful information.
@@ -67,7 +69,7 @@ An effective instructor uses knowledge of the learning process to structure trai
 
 ---
 
-# Acquiring Knowledge
+## Acquiring Knowledge
 
 ## Levels of Learning
 
@@ -78,7 +80,7 @@ An effective instructor uses knowledge of the learning process to structure trai
 
 ---
 
-# Laws of Learning
+## Laws of Learning
 
 - **Readiness:** Student must be motivated and ready.
 - **Exercise:** Practice is essential.
@@ -89,7 +91,7 @@ An effective instructor uses knowledge of the learning process to structure trai
 
 ---
 
-# Laws of Learning – Example
+## Laws of Learning – Example
 
 **Intensity:**
 A flight instructor random simulates an engine failure during a training flight when the student is not expecting it. The vivid, realistic scenario helps the student remember emergency procedures better than a simple lecture.
@@ -99,7 +101,7 @@ Reviewing short-field landing procedures right before a flight increases the cha
 
 ---
 
-# Domains of Learning
+## Domains of Learning
 
 - **Cognitive:** Recall, understanding, application.
 - **Affective:** Attitudes, emotions, values.
@@ -107,7 +109,7 @@ Reviewing short-field landing procedures right before a flight increases the cha
 
 ---
 
-# Domains of Learning – Example
+## Domains of Learning – Example
 
 **Cognitive:**
 A student recalls the steps for a preflight inspection.
@@ -120,7 +122,7 @@ A student practices and refines the physical skill of holding a steady heading d
 
 ---
 
-# Characteristics of Learning
+## Characteristics of Learning
 
 - **Purposeful:** Learners seek relevance.
 - **Result of Experience:** Built from prior experiences.
@@ -129,14 +131,14 @@ A student practices and refines the physical skill of holding a steady heading d
 
 ---
 
-# Scenario-Based Training (SBT)
+## Scenario-Based Training (SBT)
 
 - Uses real-world scenarios to meet training objectives.
 - Helps students apply past experiences and strengthen decision-making.
 
 ---
 
-# Acquiring Skill Knowledge
+## Acquiring Skill Knowledge
 
 ## Stages
 
@@ -167,7 +169,7 @@ A student practices and refines the physical skill of holding a steady heading d
 
 ---
 
-# Types of Practice
+## Types of Practice
 
 - **Deliberate:** Goal-oriented, with feedback.
 - **Blocked:** Repetitive, short-term memory.
@@ -175,7 +177,7 @@ A student practices and refines the physical skill of holding a steady heading d
 
 ---
 
-# Types of Practice – Example
+## Types of Practice – Example
 
 **Deliberate Practice:**
 A student practices crosswind landings with the instructor providing immediate feedback on each approach.
@@ -188,7 +190,7 @@ A student alternates between steep turns, slow flight, and stalls in a random or
 
 ---
 
-# Evaluation vs Critique
+## Evaluation vs Critique
 
 - Critique provides suggestions early in training.
 - Over-learning: Continued study after proficiency.
@@ -196,7 +198,7 @@ A student alternates between steep turns, slow flight, and stalls in a random or
 
 ---
 
-# Distractions, Interruptions, Fixation, Inattention
+## Distractions, Interruptions, Fixation, Inattention
 
 - Minimize distractions early; introduce as students progress.
 - Fixation: Over/under-focusing on information.
@@ -204,7 +206,7 @@ A student alternates between steep turns, slow flight, and stalls in a random or
 
 ---
 
-# Errors
+## Errors
 
 - **Slip:** Right intention, wrong action.
 - **Mistake:** Wrong intention.
@@ -213,7 +215,7 @@ A student alternates between steep turns, slow flight, and stalls in a random or
 
 ---
 
-# Errors – Example
+## Errors – Example
 
 **Slip:**
 A student intends to lower the landing gear but accidentally retracts the flaps.
@@ -226,7 +228,7 @@ The instructor encourages the use of checklists and routines, and discusses comm
 
 ---
 
-# Memory
+## Memory
 
 ## Sensory Memory
 
@@ -260,7 +262,7 @@ The instructor encourages the use of checklists and routines, and discusses comm
 
 ---
 
-# Retention of Learning
+## Retention of Learning
 
 - Praise and positive attitudes aid memory.
 - Association and repetition help recall.
@@ -269,7 +271,7 @@ The instructor encourages the use of checklists and routines, and discusses comm
 
 ---
 
-# Transfer of Learning – Example
+## Transfer of Learning – Example
 
 **Near Transfer:**
 A student who has learned to land a Cessna 172 applies the same landing technique to a Cessna 182.
@@ -285,7 +287,7 @@ A student accustomed to pushing a throttle forward for more power in one aircraf
 
 ---
 
-# Transfer of Learning
+## Transfer of Learning
 
 - Applying knowledge to new situations.
 - **Near Transfer:** Similar contexts.
@@ -296,7 +298,7 @@ A student accustomed to pushing a throttle forward for more power in one aircraf
 
 ---
 
-# Summary
+## Summary
 
 - Definitions of learning
 - Learning theories (Behaviorism, Cognitive)

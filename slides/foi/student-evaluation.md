@@ -6,6 +6,8 @@ description: FOI - Student Evaluation and Assessment
 
 <!-- _class: lead -->
 
+### Fundamentals of Instruction
+
 # Student Evaluation and Assessment
 
 ---

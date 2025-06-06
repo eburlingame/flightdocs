@@ -6,6 +6,8 @@ description: Slides covering risk management instruction for flight instructors
 
 <!-- _class: lead -->
 
+### Fundamentals of Instruction
+
 # Teaching Practical Risk Management
 
 ---

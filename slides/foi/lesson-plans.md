@@ -3,7 +3,7 @@ marp: true
 title: Course Development and Lesson Planning
 ---
 
-<!-- _class: lead -->
+### Fundamentals of Instruction
 
 # Course Development and Lesson Planning
 

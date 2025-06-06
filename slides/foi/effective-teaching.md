@@ -3,9 +3,7 @@ marp: true
 title: Effective Teaching in a Professional Environment
 ---
 
-<!--
-CLASS: Effective Teaching in a Professional Environment
--->
+### Fundamentals of Instruction
 
 # Effective Teaching in a Professional Environment
 
