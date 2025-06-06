@@ -18,7 +18,7 @@ An effective instructor will use their knowledge of the learning process to effe
 
 ## Elements
 
-- Definitions of learning.
+- Definitions of learning
 - Learning theory as it applies to ground and flight instruction, including:
   - Behaviorism
   - Cognitive Theory
@@ -29,8 +29,8 @@ An effective instructor will use their knowledge of the learning process to effe
   - Cognitive
   - Affective
   - Psychomotor
-- Characteristics of learning.
-- Scenario-based training (SBT).
+- Characteristics of learning
+- Scenario-based training (SBT)
 - Acquiring skill knowledge, including:
   - Stages
   - Knowledge of results
