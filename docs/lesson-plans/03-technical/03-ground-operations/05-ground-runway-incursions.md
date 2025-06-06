@@ -2,11 +2,11 @@
 
 ## Objective
 
-Understand the causes of runway incursions and how to avoid them.
+Understand the causes of runway incursions and how to prevent them.
 
 ## Motivation
 
-Runway incursions are a significant safety concern in aviation. Understanding the causes and prevention strategies is essential for maintaining safety on the ground.
+Runway incursions are a significant safety concern in aviation. Understanding their causes and prevention strategies is essential for maintaining safety on the ground.
 
 ## Timing
 
@@ -18,10 +18,10 @@ Runway incursions are a significant safety concern in aviation. Understanding th
 
 ## Elements
 
-- What is a runway incursion?
+- What is a Runway Incursion?
 - Ground Operation Challenges
-- Situations that require extra caution
-  - Notice to Airmen - NOTAMS
+- Situations Requiring Extra Caution
+  - Notices to Airmen (NOTAMs)
   - Airport Hotspots
   - Intersecting Runways
   - Complex Intersections
@@ -30,7 +30,7 @@ Runway incursions are a significant safety concern in aviation. Understanding th
 - Hold Short Lines
 - Distractions and Workload
 - Specific Scenarios
-  - Departing runway after landing
+  - Departing a runway after landing
   - Rolling out near another runway
   - Taxiing between parallel runways
 - Uncontrolled Airfields
@@ -38,7 +38,7 @@ Runway incursions are a significant safety concern in aviation. Understanding th
 ## Questions
 
 - What are some examples of runway incursions?
-- You've just landed and are taxiing off the runway. Where should you stop and do your after-landing checklist?
+- You have just landed and are taxiing off the runway. Where should you stop to perform your after-landing checklist?
 
 ## References
 

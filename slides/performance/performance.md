@@ -14,6 +14,12 @@ theme: default
   height: 400px;
 }
 
+.comment {
+  margin-top: 4em;
+  color:rgb(122, 122, 122);
+  font-size: 0.75em;
+}
+
 </style>
 
 # Performance and Limitations
@@ -26,16 +32,24 @@ Gain an intuitive understanding of how atmospheric conditions affect aircraft pe
 
 ## Motivation
 
-Altitude, temperature, and pressure affect all aspects of our airplane's performance. All pilots need to understand how these factors affect the capabilities of the airplane and how that affects the safety of flight.
+Altitude, temperature, and pressure affect all aspects of our airplane's performance. All pilots need to understand how these factors affect the airplane, and what limitations are present in its design.
+
+<div class="comment">
+
+Instruction: Known to unknown, building on aerodynamics
+
+</div>
 
 ---
 
 ## Overview
 
+- Airplane and performance
 - Air and density
+  - Density altitude
   - International Standard Atmosphere
-  - Types of Altitude
-  - Types of Airspeed
+  - Types of altitude
+  - Types of airspeed
   - How density affects performance
 - Airplane performance charts
   - Performance scenario using Cessna charts
@@ -47,9 +61,26 @@ Altitude, temperature, and pressure affect all aspects of our airplane's perform
 
 ---
 
+## Airplane Weight
+
+<div class="h-stack">
+
+![alt text](images/image-32.png)
+
+- The greater the weight, the greater the lift provided
+- The greater the lift, more induced drag
+- Thus more **weight = less airplane performance**
+  - Slower cruise speed
+  - Higher takeoff speed, longer takeoff roll
+  - Slower climb performance
+  - Higher landing speed, longer landing roll
+
+</div>
+
+---
+
 ## Air and Density
 
-- Air has mass
 - Our airplane swims through the air, air molecules bounce off the airplane
   - As these air molecules are deflected downward, our airplane is forced upward
   - Our propeller pushes air backwards which pushes us forwards
@@ -67,43 +98,33 @@ Altitude, temperature, and pressure affect all aspects of our airplane's perform
 - Tightly spaced = more air to grab on to
   - Wings can produce more lift
   - Propeller can produce more thrust
-  - Engines has more air molecules to burn, just like a campfire
-- Sparely spaced = less air to grab on to
-  - Wings produce less lift
-  - Propellers can't produce as much thrust
-  - Engine has less air molecules to burn
+  - Engines can produce more power
+- Density constantly changes with
+  1. Pressure
+  2. Temperature
+  3. Humidity
 
 ---
 
-## Things That Affect Density: Altitude (Variable #1)
+## Thing That Affect Density: Ambient Pressure (Variable #1)
 
 <div class="h-stack">
 
-![alt text](images/image-12.png)
+![w:650](images/image-12.png)
 
-- Density decreases as we get farther from the Earth's surface due to gravity
-- The rate at which this occurs is called the pressure _lapse rate_
-- The average lapse rate is 1" Hg per 1000 ft.
-
-</div>
-
----
-
-## Thing That Affect Density: Ambient Pressure (Variable #2)
-
-<div class="h-stack">
-
-![w:475](images/image-14.png)
-
+- As we climb
+  - Ambient pressure decreases
+  - Air density decreases
+  - Pressure decreases on average 1" Hg per 1000' (_pressure lapse rate_)
 - The pressure outside varies from day to day
-- On high pressure days, the air is more dense
-- On low pressure days, the air is less dense
+  - On high pressure days, air is more dense
+  - On low pressure days, air is less dense
 
 </div>
 
 ---
 
-## Things That Affect Density: Temperature (Variable #3)
+## Things That Affect Density: Temperature (Variable #2)
 
 <div class="h-stack">
 
@@ -117,14 +138,28 @@ Altitude, temperature, and pressure affect all aspects of our airplane's perform
 
 ---
 
+## Humidity: Temperature (Variable #3)
+
+<div class="h-stack">
+
+![w:400](images/image-33.png)
+
+- Water vapor in the air also takes up space
+- The higher the humidity, the lower the air density
+- Effect of density is small relative to pressure and temperature
+  - Usually omitted from performance chats and calculations
+
+</div>
+
+---
+
 ## Rolling it All Up
 
 - That's a lot of variables to consider
-- What if there was a magic "density" number which could combine:
+- What if there was one number that would combine the effects of:
   - Altitude
   - Ambient pressure
   - Temperature
-- Then give us one number which represents the density of the air
 
 ---
 
@@ -134,13 +169,14 @@ Altitude, temperature, and pressure affect all aspects of our airplane's perform
 
 ![w:500](images/image-16.png)
 
-- A fake atmosphere with ideal conditions
-  - Our "magic" density number is a height in this atmosphere
-  - This height would have an _equivalent_ density to the real conditions
-- ISA Definitions
-  - At sea level, the pressure is 29.92" Hg (1013.2 millibars)
-  - Pressure lapses (reduces) at 1" Hg per 1000'
+- What if we made a fake atmosphere with known conditions?
+  - Density can defined as an altitude in this atmosphere
 - The higher the altitude, the lower our airplane's performance
+- ISA Definitions
+  - At sea level, the pressure is 29.92" Hg
+  - Pressure lapses (reduces) at 1" Hg per 1000'
+  - Temperature: 15&deg; C at S.L.
+  - Temperature lapse rate: 2&deg;C per 1000' (to 24,000)
 
 </div>
 
@@ -188,12 +224,6 @@ First, gather your information:
 
 ---
 
-## Pressure Altitude Chart
-
-![bg right:60% fit](images/image-18.png)
-
----
-
 ## Pressure altitude another way: Have the altimeter do the math
 
 <div class="h-stack">
@@ -231,42 +261,63 @@ First, gather your information:
 
 ---
 
+## Density Altitude with an Electronic 56-B
+
+<div class="h-stack">
+
+![w:350](images/IMG_3249.jpg)
+
+- `P-D/ALT` mode
+- Set Indicated altitude - IALT
+- Altimeter setting - BARO
+- Outside temperature - T&deg;C
+- Gives
+  - Pressure altitude PALT
+  - Density altitude DALT
+
+</div>
+
+---
+
 ## Review of Altitude Types
 
 - Ambient pressure/Altimeter setting: Set in the Kollsman window
-- Indicated altitude: Read directly off the altimeter
-- Pressure altitude: Height in the ISA where current pressure is found
-- Density altitude: Height in the ISA where the current pressure is found, plus any correction for temperature
+- **Indicated** altitude: Read directly off the altimeter
+- **Pressure** altitude: Height in the ISA where current pressure is found
+- **Density** altitude: Height in the ISA where the current pressure is found, plus any correction for temperature
 
 ---
 
-## Pitot Tube As A Molecule Counter
-
-- More forward movement: More molecules we hit
-- More air density: Molecules tightly spaced so more to hit
-
-<div class="canvas" />
+## Airspeed
 
 ---
 
-## Imagine an Airplane Traveling 100 Feet
-
-- Plane travels 100 feet at the same speed:
-  - If the air density is high, it's going to hit 200 molecules - higher airspeed shown
-  - If the air density is low, it's going to hit 100 molecules - lower airspeed shown
-- Which is going to produce more lift force?
-
-<div class="canvas" />
-
----
-
-## Types of Airspeed: Indicated Airspeed
+## Pitot Tube and Indicated Airspeed
 
 - How many molecules are hitting the pitot tube
 - Really a measure of pressure:
   - $\text{Airspeed} = \text{RAM air pressure} - \text{Static air pressure}$
 
-<div class="canvas" />
+<div class="h-stack">
+
+![w:450](images/image-21.png)
+
+</div>
+
+---
+
+## Pitot Tube As A Molecule Counter
+
+<div class="h-stack">
+
+![alt text](images/image-22.png)
+
+- More forward movement: More molecules we hit
+- More air density: Molecules tightly spaced so more to hit
+- Less air density: Molecules less tightly spaced, less to hit
+- Tells us how many air molecules is moving over the wings
+
+</div>
 
 ---
 
@@ -303,23 +354,42 @@ First, gather your information:
 
 ## Types of Airspeed: True Airspeed
 
-- Similar to altitude, we can account for non-standard temperature and pressure in airspeed
-- This adjusts the "molecule count" based on the air density
+<div class="h-stack">
+
+![w:700](images/image-23.png)
+
+- Adjusts the "molecule count" based on the air density
   - Uses the same 3 variables: Altitude, pressure, temperature
 - True airspeed in the speed you're moving through the _air mass_
+- For a given indicated airspeed:
+  - Higher air density: Slower the TAS
+  - Lower air density: Fast the TAS
+
+</div>
 
 ---
 
-### True Airspeed: Example
+### True Airspeed with an Electronic E6B
 
-- Pressure altitude (PALT): 4210'
-- Outside air temperature (OAT): 29&deg;C
-- Calibrated airspeed (CAS): 118 knots
+<div class="h-stack">
 
-Using an E6B computer, we compute true airspeed (TAS) as **130.1 knots**
+![w:400](images/IMG_3250.jpg)
+
+<div>
+
+`ACT TAS` Mode
+Pressure altitude (PALT): 4210'
+Outside air temperature (OAT): 29&deg;C
+Calibrated airspeed (CAS): 118 knots
+
+Result TAS is **130.1 knots**
 
 - This means we're flying _faster_ through the air mass than the airspeed indicator would have us believe.
 - With no wind, we'd be moving 130 knots over the ground
+
+</div>
+
+</div>
 
 ---
 
@@ -339,22 +409,29 @@ Using an E6B computer, we compute true airspeed (TAS) as **130.1 knots**
 
 ## Types Of Airspeeds
 
-- Indicated airspeed (IAS): Read from altimeter
-- Calibrated airspeed (CAS): Calibrated for position/instrument errors
+<div class="h-stack">
+
+![w:500](images/image-24.png)
+
+- **Indicated** airspeed (IAS): Read from altimeter
+- **Calibrated** airspeed (CAS): Calibrated for position/instrument errors
   - At slow airspeeds this may be several knots off
-- True airspeed (TAS): CAS corrected for altitude and nonstandard temperature
-- Ground speed (GS): Actual speed over the ground
+- **True** airspeed (TAS): CAS corrected for altitude and nonstandard temperature
+- **Ground** speed (GS): Actual speed over the ground
   - TAS adjusted for wind
+
+</div>
 
 ---
 
 ## Knowledge Check
 
-- Assuming all other variables are the same:
-  - Where will an airplane have a longer takeoff roll, in Denver or in Orlando?
-  - Where will an airplane have a longer landing roll, when the temperature is 2&deg; C or 30&deg; C?
-  - Which aircraft will have a higher ground speed on takeoff, when the pressure is 20.79" or 30.44" Hg?
-  - When will our (normally-aspirated) airplane produce the most power, on the ground or at 8000 feet?
+Assuming all other variables are the same:
+
+- Where will an airplane have a longer takeoff roll, in Denver or in Orlando?
+- Where will an airplane have a longer landing roll, when the temperature is 2&deg; C or 30&deg; C?
+- Which aircraft will have a higher ground speed on takeoff, when the pressure is 20.79" or 30.44" Hg?
+- When will our (normally-aspirated) airplane produce the most power, on the ground or at 8000 feet?
 
 ---
 
@@ -364,12 +441,22 @@ Using an E6B computer, we compute true airspeed (TAS) as **130.1 knots**
 
 # Performance
 
-On a cross-country flight we want to know:
+<div class="h-stack">
 
+![alt text](images/image-25.png)
+
+<div>
+
+On a real flight we want to know:
+
+- How much runway distance we will use for takeoff
 - How long the flight will take
 - How much fuel we will burn
 - How mush landing distance we will use
-- How much runway distance we will use
+
+</div>
+
+</div>
 
 ---
 
@@ -386,57 +473,83 @@ On a cross-country flight we want to know:
 
 ---
 
-## Performance Scenario
+## Takeoff Distance - Temperature
 
 <div class="h-stack">
 
 <div>
 
-- Depart: Lewiston Municipal (KLWT)
-  - Elevation: 4170'
-  - Altimeter: 29.88" Hg
-  - Temperature: 29&deg;C
-- Cruise at 8500 ft.
-- Arrive: Harve City County (KHVR)
-  - Elevation: 2591'
-  - Altimeter: 29.95" Hg
-  - Temperature: 25&deg; C
+![w:1200](images/image-6.png)
 
 </div>
 
-- Aircraft
-  - 50 gallons of fuel aboard
-  - Max gross weight (3100 lbs)
+<div>
+
+Ground Roll
+
+- S.L. at 0&deg; C: 700'
+- S.L. at 40&deg; C: 960'
+- **260** ft. increase from temperature alone
 
 </div>
 
 ---
 
-## Takeoff Distance
+## Takeoff Distance - Ground Roll vs Obstacle Clearance
 
 <div class="h-stack">
 
-![w:750](images/image-6.png)
+![w:720](images/image-19.png)
+
+</div>
+
+---
+
+## Takeoff Distance - Wind
+
+<div class="h-stack">
 
 <div>
 
-Headwind: 4 knots
-Pressure altitude: 4210
-Temperature: 29&deg;C
-
-<hr />
-
-30&deg; line, 4000':
-1165' ground roll
-2145 over 50' obstacle
-
-<hr />
-
-4 kts headwind, -5%:
-$1165 * 0.95$ = **1107 ft.**
-$2145 * 0.95$ = **2137 ft.**
+![w:800](images/image-6.png)
 
 </div>
+
+<div>
+
+Sea level, 20&deg;C
+
+<hr />
+
+18 knot headwind:
+20% decrease
+820 \* 0.8 = **656 ft.**
+
+<hr />
+
+4 knot tailwind:
+20% increase
+820 \* 1.2 = **984 ft.**
+
+</div>
+
+---
+
+## Realistic Performance
+
+<div class="h-stack">
+
+![bg left:30% ](images/image-34.png)
+
+- Takeoff performance
+  - New engine, new propeller
+  - Test pilot with excellent technique
+- Landing performance
+  - Excellent technique, energy management
+  - No gusty winds, or gust factor
+  - Maximum braking
+- A safety factor helps in managing this discrepancy
+  - We'll use a safety factor of **+50%** for takeoff and landing
 
 </div>
 
@@ -450,15 +563,15 @@ $2145 * 0.95$ = **2137 ft.**
 
 <div>
 
-Ground roll = **1107 ft.**
-Over 50' obstacle = **2137 ft.**
+Ground roll = **820 ft.**
+Over 50' obstacle = **1535 ft.**
 
 <hr />
 
 With 50% safety factor:
 
-$1107 * 1.5$ = **1660 ft.**
-$2137 * 1.5$ = **3205 ft.**
+820 \* 1.5 = **1230 ft.**
+1535 \* 1.5 = **2302 ft.**
 
 </div>
 
@@ -466,33 +579,32 @@ $2137 * 1.5$ = **3205 ft.**
 
 ---
 
-## Time, Distance, Fuel to Climb (Normal Climb)
+## Time, Distance, Fuel to Climb (Normal Climb) - Altitude
 
 <div class="h-stack">
 
-![w:500](images/image-7.png)
+![w:550](images/image-7.png)
 
 <div>
 
-Airport: 4170'
-Cruise: 8500'
-Above standard: 22 &deg; C
+Airport: 4000'
+Cruise: 8000'
 
 <hr />
 
-8000' line: 16 minutes, 5.7 gal, 27m
-4000' line: 8 minutes, 2.8 gal, 13nm
 16 - 8 = 8 minutes
 5.7 - 2.8 = 2.9 gallons
 27 - 13 = 14nm
 
+Climb rate decreases as we ascend
+
 </div>
 
 </div>
 
 ---
 
-## Time, Distance, Fuel to Climb (Normal Climb)
+## Time, Distance, Fuel to Climb (Normal Climb) - Temperature
 
 <div class="h-stack">
 
@@ -504,19 +616,19 @@ Above standard: 22 &deg; C
 
 <hr />
 
-22 / 7 = 3.14
-3.14 \* 10% = 31% increase
+14&deg;C above standard
+20% increase
 
 <hr />
 
-8 \* 1.31 = **10.5 minutes**
-2.9 \* 1.31 = 3.8 gallons
-14 \* 1.31 = **18.3nm**
+8 \* 1.2 = **9.6 minutes**
+2.9 \* 1.2 = 3.5 gallons
+14 \* 1.2 = **16.8nm**
 
 <hr />
 
 +2 gal start/taxi/takeoff
-3.8 + 2 = **5.8 gallons**
+3.5 + 2 = **5.5 gallons**
 
 </div>
 
@@ -524,68 +636,25 @@ Above standard: 22 &deg; C
 
 ---
 
-## Cruise Performance (8000 ft.)
+## Cruise Performance - Altitude and Temperature
 
 <div class="h-stack">
 
-![w:700](images/cruise-performance.png)
+![w:700](images/cruise-2000.png)
 
-<div>
-
-13&deg; C above standard
-2200 RPM
-21" manifold pressure
-
-<hr />
-
-KTAS: 126 and 127 = 127 KTAS
-
-<hr />
-
-% BHP: Interpolate 59% and 56%, or take higher value.
-
-<hr />
-
-Fuel flow: Interpolate 11.3 and 10.8 BHP, or take higher value.
-
-</div>
+![w:710](images/cruise-10000.png)
 
 </div>
 
 ---
-
-## Cruise Performance - Interpolation
 
 <div class="h-stack">
-
-![w:600](images/cruise-performance.png)
-
-<div>
-
-Interpolate between 11.3 and 10.8 GPH
-
-$(10.8 - 11.3) / (19 - -1) = -0.025$
-$(13 - -1) = 14$
-$11.3 - 0.025 * 14 =$ **11.0 gph**
-
-<hr />
-
-Interpolate between 59% and 56% BHP
-
-$(56 - 59) / (19 - -1) = -0.15$
-$59 - 0.15 * 14 =$ **58 % bhp**
-
-</div>
-
-</div>
-
----
 
 ![bg fit](images/range-profile.png)
 
----
-
 ![bg fit](images/endurance-profile.png)
+
+</div>
 
 ---
 
@@ -597,21 +666,16 @@ $59 - 0.15 * 14 =$ **58 % bhp**
 
 <div>
 
-Headwind: 4 knots
-Pressure altitude: 2500
+Headwind: 9 knots
+Pressure altitude: S.L.
 Temperature: 20&deg;C
 
 <hr />
 
-Average 1440 and 1485 = 1462 ft.
-Average 645 and 670 = 658 ft.
+Decrease distances 10%
 
-<hr />
-
-4&deg; / 9&deg; = 0.44, decrease 4.4%
-
-0.95 \* 1462 = **1389 ft. over 50' obs.**
-0.95 \* 658 = **625 ft. ground roll**
+0.9 \* 600 = **540 ft. ground roll**
+0.9 \* 1365 = **1231 ft. over 50' obs.**
 
 </div>
 
@@ -627,15 +691,16 @@ Average 645 and 670 = 658 ft.
 
 <div>
 
-1389 ft. over 50' obs.
-625 ft. ground roll
+540 ft. ground roll
+1231 ft. over 50' obs.
 
 <hr />
 
-Over 50' obstacle:
-$1389 * 1.5 = 2084\text{ ft}$
 Ground roll:
-$625 * 1.5 = 938\text{ ft}$
+540 \* 1.5 = **810 ft**
+
+Over 50' obstacle:
+1231 \* 1.5 = **1846 ft**
 
 </div>
 
@@ -654,12 +719,97 @@ $625 * 1.5 = 938\text{ ft}$
 
 ---
 
+## Differences between Actual and Estimated Performance
+
+<div class="h-stack">
+
+![w:500](images/image-36.png)
+
+- Conditions are different from forecast
+- Pilot technique
+  - Takeoff
+  - Landing
+  - Engine leaning
+- Age of engine, propeller, airframe
+- Runway slope: Up or down
+- Wet runway: Braking action
+
+</div>
+
+---
+
+# Limitations
+
+---
+
+## Where do we find limitations?
+
+<div class="h-stack">
+
+![w:500](images/image-35.png)
+
+- POH limitations section
+- Placards and markings
+- Performance charts
+
+</div>
+
+---
+
+## Engine Limitations
+
+<div class="h-stack">
+
+![alt text](images/image-28.png)
+
+</div>
+
+---
+
+## Airspeed Limitations
+
+<div class="h-stack">
+
+![alt text](images/image-27.png)
+
+</div>
+
+---
+
+## Load Factor Limits
+
+![alt text](images/image-29.png)
+
+---
+
+## Operating Limits
+
+![alt text](images/image-30.png)
+
+![alt text](images/image-31.png)
+
+---
+
+## High Temperatures
+
+Is it advisable to fly when it's > 40&deg;C?
+
+<div class="h-stack">
+
+![w:700](images/image-6.png)
+
+</div>
+
+---
+
 # Summary
 
-- Air and density
+- Performance concepts
+  - Air and density
   - International Standard Atmosphere
   - Types of Altitude
   - Types of Airspeed
   - How density affects performance
 - Airplane performance charts
   - Computing performance values using Cessna charts
+- Airplane limitations

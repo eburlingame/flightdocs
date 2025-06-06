@@ -16,6 +16,11 @@ theme: default
 .small-block {
     height: 100px;
 }
+.comment {
+  margin-top: 4em;
+  color:rgb(122, 122, 122);
+  font-size: 0.75em;
+}
 
 </style>
 
@@ -30,6 +35,12 @@ Understand the concept of weight and balance, the relationship of center of grav
 ## Motivation
 
 The effect of weight and CG location is critical to the safety of flight and an essential part of cross-country flight planning. Pilots should have a clear understand of the limits of their airplane with regards to weight and balance.
+
+<div class="comment">
+
+Instruction: Known to unknown, simple to complex
+
+</div>
 
 ---
 
@@ -64,7 +75,6 @@ The effect of weight and CG location is critical to the safety of flight and an 
   - Point at which weight appears to be concentrated
   - Location of C.G. = Total moments / total weights
 - Loading Envelope: Graph of acceptable weight and CG ranges
-
 </div>
 
 ---
@@ -91,7 +101,7 @@ The effect of weight and CG location is critical to the safety of flight and an 
 - **Max ramp weight (MRW)**: The maximum weight for ground operations (no flight)
 - **Max takeoff weight (MTOW)**: Maximum weight for takeoff
 - **Max landing weight (MLW)**: Max weight for landing
-- Fuel: 100LL is 6 lbs / gal.
+- **Useful load**: Max ramp weight - Basic empty weight
 
 ---
 
@@ -111,7 +121,7 @@ The effect of weight and CG location is critical to the safety of flight and an 
 ## W&B Problem
 
 - Fuel: 50 gallons of 100LL
-  - @ 6lbs / gallon
+  - 100LL is 6 lbs / gal.
 - Pilot: 160lbs
 - Co-pilot: 180lbs
 - Rear passenger: 120lbs
@@ -279,6 +289,8 @@ The effect of weight and CG location is critical to the safety of flight and an 
 
 ## What is our landing weight?
 
+2655 lbs, 104.7 in-lbs / 1000, 40 gallon fuel burn, fuel arm 46.66
+
 <div  class="block" />
 
 ---
@@ -292,6 +304,8 @@ The effect of weight and CG location is critical to the safety of flight and an 
 
 ## What happens if we move our 180 passenger to the rear seats?
 
+2655 lbs, 104.7 in-lbs / 1000, front seat arm 37, rear seat arm 74
+
 <div  class="block" />
 
 ---
@@ -303,16 +317,44 @@ The effect of weight and CG location is critical to the safety of flight and an 
 
 ---
 
-## What happens if we add a forth passenger to the copilot seat who weighs 200?
+## CG Moment Envelope
+
+<div class="h-stack">
+
+![h:550](images/image-5.png)
+
+</div>
+
+---
+
+## What happens if we add a forth passenger to the copilot seat who weighs 200, and we fill the fuel tanks?
+
+2655 lbs, 111.36 in-lbs / 1000, front seat arm 37, fuel arm 46.66
 
 <div  class="block" />
 
 ---
 
-## What happens if we add a forth passenger to the copilot seat who weighs 200?
+## What happens if we add a forth passenger to the copilot seat who weighs 200, and we fill the fuel tanks?
 
-- $2655 + 200 = 2855$
-- $111360 + 200\text{ lbs} * 37\text{ in} = 118760\text{ in-lbs}$
+- $2655 + 200 + 38 * 6 = 3083$
+- $111360 + 200\text{ lbs} * 37\text{ in} + 38 * 6 * 46.66\text{ in} = 129398\text{ in-lbs}$
+
+---
+
+## CG Moment Envelope
+
+<div class="h-stack">
+
+![h:550](images/image-5.png)
+
+</div>
+
+---
+
+## Other Limitations
+
+![alt text](images/image-4.png)
 
 ---
 
@@ -332,7 +374,7 @@ The effect of weight and CG location is critical to the safety of flight and an 
 
 ---
 
-## CG and Cruise Performance: Elevator Downwash
+## CG and Cruise Performance: Rearward CG
 
 <div class="small-block">&nbsp;</div>
 
@@ -345,6 +387,18 @@ The effect of weight and CG location is critical to the safety of flight and an 
 ---
 
 ## CG Aft of Limits
+
+<div class="small-block">&nbsp;</div>
+
+<div class="h-stack">
+
+![w:500](images/image-7.png)
+
+</div>
+
+---
+
+## CG and Cruise Performance: Forward CG
 
 <div class="small-block">&nbsp;</div>
 
@@ -392,3 +446,11 @@ How would you deal with the situation?
 You're planning a cross-country with a passenger who's new to flying. He brings 100lbs of baggage and want to put it in the back, which will put you aft of your CG limits. He says "there's plenty of room!"
 
 How would you respond?
+
+---
+
+## Knowledge Check
+
+You depart in a T182 a gross weight of 3010 pounds with several passengers. One of you passengers immediately starts feeling ill and asks if you can turn back.
+
+What would you say?
