@@ -23,6 +23,12 @@
   --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.3);
 }
 
+.h-stack {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+}
+
 .center {
   text-align: center;
 }
