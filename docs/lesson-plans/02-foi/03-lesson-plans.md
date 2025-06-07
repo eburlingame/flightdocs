@@ -14,7 +14,7 @@ Building upon the learning process to develop effective lesson objectives, lesso
 
 ## Format
 
-- Slides
+- [Slides](/slides/lesson-plans.pdf)
 
 ## Elements
 

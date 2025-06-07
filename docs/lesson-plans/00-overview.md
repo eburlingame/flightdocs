@@ -1,5 +1,57 @@
 # Lessons
 
+## Fundamentals of Instructing
+
+<table>
+    <thead>
+        <tr>
+            <td>ACS Task</td>
+            <td>Lesson Plan</td>
+            <td>Slides</td>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+        <!-- 1 -->
+            <td>I.A</td>
+            <td>[Human Behavior and Communication](/docs/lesson-plans/foi/human-behavior)</td>
+            <td>[Slides](/slides/human-behavior.pdf)</td>
+        </tr>
+        <tr>
+        <!-- 2 -->
+            <td>I.B</td>
+            <td>[The Learning Process](/docs/lesson-plans/foi/learning-process)</td>
+            <td>[Slides](/slides/learning-process.pdf)</td>
+        </tr>
+        <tr>
+        <!-- 3 -->
+            <td>I.C</td>
+            <td>[Course Development and Lesson Plans](/docs/lesson-plans/foi/lesson-plans)</td>
+            <td>[Slides](/slides/lesson-plans.pdf)</td>
+        </tr>
+        <tr>
+        <!-- 4 -->
+            <td>I.D</td>
+            <td>[Student Evaluation and Testing](/docs/lesson-plans/foi/student-evaluation)</td>
+            <td>[Slides](/slides/student-evaluation.pdf)</td>
+        </tr>
+        <tr>
+        <!-- 5 -->
+            <td>I.E</td>
+            <td>[Teaching in a Professional Environment](/docs/lesson-plans/foi/effective-teaching)</td>
+            <td>[Slides](/slides/effective-teaching.pdf)</td>
+        </tr>
+        <tr>
+        <!-- 6 -->
+            <td>I.F</td>
+            <td>[Teaching Risk Management](/docs/lesson-plans/foi/teaching-risk-management)</td>
+            <td>[Slides](/slides/teaching-risk-management.pdf)</td>
+        </tr>
+    </tbody>
+</table>
+
+## Technical Subject Areas
+
 Lesson plans designed for the Flight Instructor Airplane ACS:
 
 <table>

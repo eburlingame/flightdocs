@@ -14,7 +14,7 @@ An effective instructor will use their knowledge of the learning process to effe
 
 ## Format
 
-- Slides
+- [Slides](/slides/learning-process.pdf)
 
 ## Elements
 

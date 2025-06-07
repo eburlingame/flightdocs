@@ -15,7 +15,7 @@ project a knowledgeable and professional image.
 
 ## Format
 
-- Slides
+- [Slides](/slides/effective-teaching.pdf)
 
 ## Elements
 
@@ -33,3 +33,5 @@ project a knowledgeable and professional image.
 - Exhibiting professionalism.
 
 ## References
+
+- [Aviation Instructor's Handbook pg. 8-1](/_references/AIH/8-1)

@@ -14,7 +14,7 @@ Effective risk management is one of the most important skills a pilot needs to l
 
 ## Format
 
-- Slides
+- [Slides](/slides/teaching-risk-management.pdf)
 
 ## Elements
 

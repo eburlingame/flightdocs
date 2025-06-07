@@ -14,7 +14,7 @@ The tendencies and habits of human behavior have a significant impact on the eff
 
 ## Format
 
-- Slides
+- [Slides](/slides/human-behavior.pdf)
 
 ## Elements
 

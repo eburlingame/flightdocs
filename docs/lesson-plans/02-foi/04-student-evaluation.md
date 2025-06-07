@@ -14,7 +14,7 @@ Assessment is an integral component of student instruction.
 
 ## Format
 
-- Slides
+- [Slides](/slides/student-evaluation.pdf)
 
 ## Elements
 
@@ -33,3 +33,5 @@ Assessment is an integral component of student instruction.
 - Assessment of piloting ability.
 
 ## References
+
+- [Aviation Instructor's Handbook pg. 6-1](/_references/AIH/6-1)
