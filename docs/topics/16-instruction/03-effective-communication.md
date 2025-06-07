@@ -34,7 +34,7 @@
   - Practice instruction communication with someone other than a student
 - Listening
   - Do not interrupt
-  - DO not judge
+  - Do not judge
   - Think before answering
   - Be close enough to hear
   - Watch nonverbal cues
