@@ -46,12 +46,31 @@ Instruction: Known to unknown, simple to complex
 
 ## Overview
 
+- Weight and performance
 - Weight and balance concepts
   - Torque
   - Moments
 - Terms and Definitions
 - Sample weight and balance problem
 - Weight and balance and performance
+
+---
+
+## Airplane Weight
+
+<div class="h-stack">
+
+![alt text](images/image-32.png)
+
+- The greater the weight, the greater the lift provided
+- The greater the lift, more induced drag
+- Thus more **weight = less airplane performance**
+  - Slower cruise speed
+  - Higher takeoff speed, longer takeoff roll
+  - Slower climb performance
+  - Higher landing speed, longer landing roll
+
+</div>
 
 ---
 
@@ -98,9 +117,9 @@ Instruction: Known to unknown, simple to complex
   - What we'll start with for W&B calculations
 - **Licensed empty weight**:
   - Older term, does not include full engine oil
-- **Max ramp weight (MRW)**: The maximum weight for ground operations (no flight)
-- **Max takeoff weight (MTOW)**: Maximum weight for takeoff
-- **Max landing weight (MLW)**: Max weight for landing
+- **Max ramp weight (MRW)**: The maximum weight for ground operations (3112 lbs)
+- **Max takeoff weight (MTOW)**: Maximum weight for takeoff (3100 lbs)
+- **Max landing weight (MLW)**: Max weight for landing (2950 lbs)
 - **Useful load**: Max ramp weight - Basic empty weight
 
 ---
@@ -372,6 +391,8 @@ Instruction: Known to unknown, simple to complex
 
 </div>
 
+Reduced climb performance
+
 ---
 
 ## CG and Cruise Performance: Rearward CG
@@ -383,6 +404,8 @@ Instruction: Known to unknown, simple to complex
 ![w:500](images/image-7.png)
 
 </div>
+
+Less drag, faster cruise speed, sensitive controls, less stable
 
 ---
 
@@ -396,6 +419,8 @@ Instruction: Known to unknown, simple to complex
 
 </div>
 
+Stall recovery may be inhibited
+
 ---
 
 ## CG and Cruise Performance: Forward CG
@@ -407,6 +432,8 @@ Instruction: Known to unknown, simple to complex
 ![w:500](images/image-7.png)
 
 </div>
+
+Slower cruise speed, less sensitive controls, more stable
 
 ---
 

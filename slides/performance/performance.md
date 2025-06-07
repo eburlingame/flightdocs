@@ -61,24 +61,6 @@ Instruction: Known to unknown, building on aerodynamics
 
 ---
 
-## Airplane Weight
-
-<div class="h-stack">
-
-![alt text](images/image-32.png)
-
-- The greater the weight, the greater the lift provided
-- The greater the lift, more induced drag
-- Thus more **weight = less airplane performance**
-  - Slower cruise speed
-  - Higher takeoff speed, longer takeoff roll
-  - Slower climb performance
-  - Higher landing speed, longer landing roll
-
-</div>
-
----
-
 ## Air and Density
 
 - Our airplane swims through the air, air molecules bounce off the airplane

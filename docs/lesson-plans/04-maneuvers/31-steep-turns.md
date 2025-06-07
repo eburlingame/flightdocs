@@ -49,6 +49,10 @@ Performance maneuver for steeply turning, develops sense of turning characterist
 
 <td className="wb-col-2">
 
+![alt text](images/image-9.png)
+
+Roll scale: 10, 20, 30, 45, and 60&deg;
+
 </td>
 
 <td className="wb-col-3">
@@ -122,3 +126,5 @@ Performance maneuver for steeply turning, develops sense of turning characterist
 </table>
 
 ## References
+
+- 
