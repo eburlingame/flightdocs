@@ -211,7 +211,7 @@ Lesson plans designed for the Flight Instructor Airplane ACS:
         <!-- 25 -->
             <td>II.N</td>
             <td>[High Altitude Operations](/docs/lesson-plans/technical/high-altitude)</td>
-            <td>[Slides](/slides/high-altitude-flight.pdf)</td>
+            <td>[Slides](/slides/high-altitude.pdf)</td>
         </tr>
         <tr>
         <!-- 27 -->

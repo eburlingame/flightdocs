@@ -14,7 +14,7 @@ High altitude flight presents unique risks and challenges that must be mitigated
 
 ## Format
 
-- [Slides](/slides/high-altitude-flight.pdf)
+- [Slides](/slides/high-altitude.pdf)
 
 ## Elements
 
@@ -66,3 +66,4 @@ High altitude flight presents unique risks and challenges that must be mitigated
 ## References
 
 - [Pilot's Handbook of Aeronautical Knowledge pg. 7-34](/_references/PHAK/7-34)
+- [Sporty's Video](https://www.youtube.com/watch?v=ZdY4WV8w5JY)

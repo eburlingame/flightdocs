@@ -46,6 +46,7 @@ convert_to_pdf slides/regulations/regulations.md                          static
 convert_to_pdf slides/performance/performance.md                          static/slides/performance.pdf
 convert_to_pdf slides/weight-and-balance/weight-and-balance.md            static/slides/weight-and-balance.pdf
 convert_to_pdf slides/flight-planning/flight-planning.md                  static/slides/flight-planning.pdf
+convert_to_pdf slides/high-altitude/high-altitude.md                      static/slides/high-altitude.pdf
 
 convert_to_pdf slides/foi/effective-teaching.md                           static/slides/effective-teaching.pdf
 convert_to_pdf slides/foi/human-behavior.md                               static/slides/human-behavior.pdf
