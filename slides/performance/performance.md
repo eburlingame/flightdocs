@@ -44,7 +44,6 @@ Instruction: Known to unknown, building on aerodynamics
 
 ## Overview
 
-- Airplane and performance
 - Air and density
   - Density altitude
   - International Standard Atmosphere
@@ -54,6 +53,7 @@ Instruction: Known to unknown, building on aerodynamics
 - Airplane performance charts
   - Performance scenario using Cessna charts
   - Other chart styles
+- Additional aircraft limitations
 
 ---
 
@@ -164,43 +164,27 @@ Instruction: Known to unknown, building on aerodynamics
 
 ---
 
-## How do we compute this magic density number?
-
-First, gather your information:
+## Computing Density Altitude
 
 <div class="h-stack">
 
-![w:700](images/image-1.png)
+![w:780](images/image-18.png)
 
-- Field elevation **4170 ft.**
-- Temperature **84&deg; F, 29&deg; C**
-- Pressure **29.88" Hg**
+<div>
+
+**4000 ft.** / **84&deg; F, 29&deg; C** / **29.80" Hg**
+
+1. Start with field elevation: **4000 ft.**
+2. Correct for Variable Ambient Pressure
+   - 4000 + 112' = **4112**
+   - _Pressure altitude_
+3. Correct for Variable Temperature:
+   - 4000' line & **29&deg; F**
+   - ~6700' _density altitude_
+
+Notice higher temperature = Higher density altitude
 
 </div>
-
----
-
-## Start with variable #1: Altitude
-
-- Start with the field elevation
-- If we were in the airplane we'd read this directly off the altimeter, what we call _indicated altitude_
-
----
-
-## Correct for Variable #2: Ambient Pressure
-
-<div class="h-stack">
-
-1. We get this from the current altimeter setting
-   - Subtract the S.L. pressure of 29.92" Hg
-   - $(29.92 - 29.88) = 0.04\text{" Hg}$
-2. Since we know the standard atmosphere lapses at 1" per 1000':
-   - Multiple this by 1000 to get the change in feet
-   - $0.04 * 1000 = 40$
-3. Add this difference to our field elevation:
-   - $4170 + 40 = 4210$
-   - The altitude in the standard atmosphere where the current _pressure_ is found
-4. This is called **pressure altitude**
 
 </div>
 
@@ -216,30 +200,6 @@ First, gather your information:
 - If we set our altimeter to 29.92" (the pressure of S.L. in the standard atmosphere), it will give us pressure altitude
 
 </div>
-
----
-
-## Correct for Variable #3: Temperature
-
-- The temperature in the standard atmosphere decreases as we ascend:
-  - Temperature is 15&deg;C at sea level
-  - The temperature lapse rate is 2&deg; per 1000'
-  - We care about the different between _actual_ temperature and _standard_ temperature
-- At a pressure altitude of 4210'
-  - $15\degree C - 2 * (4210 / 1000) = 6.58\degree C$
-- If the pressure outside is 29&deg;C
-  - $29 - 6.58 = 22.4\degree C \text{ above standard}$
-
----
-
-## Correct for Variable #3: Temperature
-
-- Now need factor this temperature difference into our density altitude
-- Apply the formula:
-  - $\text{Pressure altitude} + 118.8 * (\text{Temperature difference from standard})$
-  - $4210\text{ ft} + 118.8 * 22.4 \degree C = 6871\text{ ft}$
-- This is our magic number: **density altitude**
-  - If our airplane were flying in the standard atmosphere, it would feel like it's flying at **6871** feet
 
 ---
 
@@ -274,20 +234,6 @@ First, gather your information:
 
 ---
 
-## Pitot Tube and Indicated Airspeed
-
-- How many molecules are hitting the pitot tube
-- Really a measure of pressure:
-  - $\text{Airspeed} = \text{RAM air pressure} - \text{Static air pressure}$
-
-<div class="h-stack">
-
-![w:450](images/image-21.png)
-
-</div>
-
----
-
 ## Pitot Tube As A Molecule Counter
 
 <div class="h-stack">
@@ -319,21 +265,6 @@ First, gather your information:
 
 ---
 
-### Computing Calibrated Airspeed
-
-<div class="h-stack">
-
-![w:1000](images/image-4.png)
-
-- Examples
-  - Indicated airspeed of 120 means a calibrated airspeed of 118
-  - Indicated airspeed of 60 means a calibrated airspeed of 65
-- Notice how the error increases the slower we are
-
-</div>
-
----
-
 ## Types of Airspeed: True Airspeed
 
 <div class="h-stack">
@@ -343,9 +274,6 @@ First, gather your information:
 - Adjusts the "molecule count" based on the air density
   - Uses the same 3 variables: Altitude, pressure, temperature
 - True airspeed in the speed you're moving through the _air mass_
-- For a given indicated airspeed:
-  - Higher air density: Slower the TAS
-  - Lower air density: Fast the TAS
 
 </div>
 
@@ -370,20 +298,6 @@ Result TAS is **130.1 knots**
 - With no wind, we'd be moving 130 knots over the ground
 
 </div>
-
-</div>
-
----
-
-## Types of Airspeed: Ground Speed
-
-<div class="h-stack">
-
-![w:500](images/image-3.png)
-
-- The air mass itself might be moving due to wind
-- We add wind velocity to our true airspeed to get our speed over the ground
-- With zero wind: Ground speed = true airspeed
 
 </div>
 
@@ -752,7 +666,9 @@ Over 50' obstacle:
 
 <div class="h-stack">
 
-![alt text](images/image-27.png)
+![w:600](images/image-27.png)
+
+![w:500](images/IMG_3253.JPG)
 
 </div>
 
