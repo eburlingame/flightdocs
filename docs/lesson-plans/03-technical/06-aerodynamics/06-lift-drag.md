@@ -20,7 +20,7 @@ Forms foundational knowledge for more advanced aerodynamic topics and provides a
 
 ### Basics
 
-- Airplane components [Airport diagram]
+- Airplane components [Airplane diagram]
   - Fuselage
   - Wings
   - Ailerons

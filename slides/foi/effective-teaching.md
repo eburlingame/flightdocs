@@ -134,7 +134,7 @@ Aviation instructors have a broad set of responsibilities, including:
 - Showcase expertise in flying and theory
 - Stay current with training techniques and certification requirements
   - Subscribe to publications to get notified of changes
-  - Be extra alert for changes to regulation and training standards
+  - Be extra alert for changes to regulations and training standards
 
 ---
 

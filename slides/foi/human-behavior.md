@@ -283,7 +283,7 @@ Adults have certain expectations about what it takes to learn and succeed:
 
 - If you suspect a serious psychological abnormality, you have a responsibility to discontinue instruction
 - Ask another instructor for an evaluation lesson, either on the ground or in flight
-- Withhold instructor-grated privileges as needed (solo, endorsement for practical test)
+- Withhold instructor-gated privileges as needed (solo, endorsement for practical test)
 
 ---
 

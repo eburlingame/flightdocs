@@ -19,6 +19,16 @@ class:
 
 ---
 
+## Motivation
+
+Assessment is an integral component of student instruction.
+
+## Objective
+
+Understand and apply the strategies for effective student evaluation and assessment.
+
+---
+
 ## Overview
 
 - Purpose and characteristics of effective assessment
@@ -31,16 +41,6 @@ class:
 - Purposes and types of critiques
 - Oral assessment
 - Assessment of piloting ability
-
----
-
-## Motivation
-
-Assessment is an integral component of student instruction.
-
-## Objective
-
-Understand and apply the strategies for effective student evaluation and assessment.
 
 ---
 
@@ -217,9 +217,9 @@ Levels of risk management:
 
 - Direct questioning of a student by the instructor
 - Kinds of questions
-  - **Fact Question:**: "What does the mixture control do?"
-  - **HOTS Question:**: "The weather is deteriorating at our destination but we still have two hours to go. What are our options?"
-  - **Follow-up:**: Instructor adapts questions to the student's experience and responses.
+  - **Fact Question:** "What does the mixture control do?"
+  - **HOTS Question:** "The weather is deteriorating at our destination but we still have two hours to go. What are our options?"
+  - **Follow-up:** Instructor adapts questions to the student's experience and responses.
 
 </div>
 

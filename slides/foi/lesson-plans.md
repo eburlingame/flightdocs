@@ -19,21 +19,6 @@ class:
 
 ---
 
-## Overview
-
-- Teaching: Process and Essential Skills
-- Course of Training
-- Preparation of a Lesson
-- Organization of Material
-- Training Delivery Methods
-- Electronic Learning (e-Learning)
-- Instructional Aids & Training Technologies
-- Integrated Flight Instruction
-- Problem-Based Instruction
-- Planning Instructional Activity
-
----
-
 ## Motivation:
 
 Building upon the learning process to develop effective lesson objectives, lesson plans, and curriculum.
@@ -41,6 +26,21 @@ Building upon the learning process to develop effective lesson objectives, lesso
 ## Objective:
 
 Understand appropriate and effective techniques for teaching and planning instructional sessions.
+
+---
+
+## Overview
+
+- Teaching: Process and Essential Skills
+- Course of Training
+- Planning Instructional Activity
+- Preparation of a Lesson
+- Organization of Material
+- Training Delivery Methods
+- Electronic Learning (e-Learning)
+- Instructional Aids & Training Technologies
+- Integrated Flight Instruction
+- Problem-Based Instruction
 
 ---
 

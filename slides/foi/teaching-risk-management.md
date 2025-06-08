@@ -19,9 +19,18 @@ class:
 
 ---
 
+## Objective
+
+Understand the responsibility of the instructor to mitigate risks associated with teaching, and teach students to evaluate risk systematically.
+
+## Motivation
+
+Effective risk management is one of the most important skills a pilot needs to learn, understand, and practice as a habit.
+
+---
+
 ## Overview
 
-- Motivation & Objective
 - Teaching risk identification, assessment, and mitigation
 - Risk management tools (PAVE, FRAT)
 - When and how to introduce risk management
@@ -34,16 +43,6 @@ class:
 - Maintaining awareness and oversight
 - Modeling and teaching safety practices
 - Summary
-
----
-
-## Motivation
-
-Effective risk management is one of the most important skills a pilot needs to learn, understand, and practice as a habit.
-
-## Objective
-
-Understand the responsibility of the instructor to mitigate risks associated with teaching, and teach students to evaluate risk systematically.
 
 ---
 
