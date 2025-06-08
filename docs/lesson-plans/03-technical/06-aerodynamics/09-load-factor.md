@@ -14,7 +14,8 @@ Gives students an intuitive understand of the causes that induce load factor on 
 
 ## Format
 
-- [Slides](/slides/load-factor-vorticies.pdf)
+- [Whiteboard](/slides/load-factor-vorticies.pdf)
+- [Blank whiteboard slides](/slides/load-factor-blank.pdf)
 
 ## Elements
 
@@ -65,7 +66,7 @@ Gives students an intuitive understand of the causes that induce load factor on 
 
 - When you fly into another airplanes vortices it's called **wake turbulence**
 - Visualize the vortices about 500' below the airplane and behind it
-- Vortices tend to stay on the ground and move with the wing
+- Vortices tend to stay on the ground and move with the wind
 - Light quartering tailwinds cause the greatest threat
 - Large aircraft departs from parallel runway: delay departure
 - Large aircraft departs from the same runway: wait at least 2 minutes
@@ -73,6 +74,8 @@ Gives students an intuitive understand of the causes that induce load factor on 
   - Note the aircraft's rotation point
   - Rotate prior and climb away from the flight path, turning into the wind if needed
   - ATC will provide a minimum of 3 minutes of delay when departing behind a large airplane
+- Arriving after large aircraft's departure
+  - Land well prior to their touchdown point
 - Keep at least 1000' below another large airplane in flight
 
 ## References

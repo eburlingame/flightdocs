@@ -55,6 +55,11 @@ convert_to_pdf slides/foi/lesson-plans.md                                 static
 convert_to_pdf slides/foi/student-evaluation.md                           static/slides/student-evaluation.pdf
 convert_to_pdf slides/foi/teaching-risk-management.md                     static/slides/teaching-risk-management.pdf
 
+convert_to_pdf slides/aerodynamics/forces.md                              static/slides/forces-blank.pdf
+convert_to_pdf slides/aerodynamics/lift-drag.md                           static/slides/lift-drag-blank.pdf
+convert_to_pdf slides/aerodynamics/load-factor.md                         static/slides/load-factor-blank.pdf
+convert_to_pdf slides/aerodynamics/stability.md                           static/slides/stability-blank.pdf
+
 # Recursively scan all .md files in the slides directory and convert them to .pdf using marp
 # mkdir -p static/slides
 # find slides -type f -name '*.md' | while read -r file; do

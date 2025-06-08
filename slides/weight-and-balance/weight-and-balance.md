@@ -74,7 +74,7 @@ Instruction: Known to unknown, simple to complex
 
 ---
 
-## Torque: See-Saw, Moments
+## Torque: See-Saw, Moments, Datum, CG
 
 <div class="block" />
 

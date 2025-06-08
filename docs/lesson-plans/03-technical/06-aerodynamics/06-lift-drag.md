@@ -14,7 +14,8 @@ Forms foundational knowledge for more advanced aerodynamic topics and provides a
 
 ## Format
 
-- [White board](/slides/lift-and-drag.pdf)
+- [Whiteboard](/slides/lift-and-drag.pdf)
+- [Blank whiteboard slides](/slides/lift-drag-blank.pdf)
 
 ## Elements
 
@@ -80,9 +81,6 @@ $$
 
 ### Pitching Moment
 
-- Basic torque
-  - See-saw
-  - 1 lbs 2 feet away vs 2 lbs 1 foot away
 - Center of pressure vs center of gravity [Force diagram]
   - Cl should always be behind Cg
 - Elevator downforce
