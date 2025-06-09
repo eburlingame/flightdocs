@@ -45,18 +45,6 @@ We want an intuitive understanding of how an engine operates to use the engine c
 
 ---
 
-![bg fit](images/image-105.png)
-
-<!-- Camshaft is responsible for opening/closing the intake/exhaust values in the correct sequence on the cylinder -->
-
----
-
-![bg fit](images/image-119.png)
-
-<!-- Camshaft is responsible for opening/closing the intake/exhaust values in the correct sequence on the cylinder -->
-
----
-
 ## The Power Cycle (4-stroke engine)
 
 ![bg left:40%](images/image-24.png)
@@ -68,6 +56,18 @@ We want an intuitive understanding of how an engine operates to use the engine c
   - Exhaust: Exhaust gasses are expelled
 - Each cylinder makes two up/down movements for a power cycle
 - Each cylinder is a different part of this cycle at any point
+
+---
+
+![bg fit](images/image-105.png)
+
+<!-- Camshaft is responsible for opening/closing the intake/exhaust values in the correct sequence on the cylinder -->
+
+---
+
+![bg fit](images/image-119.png)
+
+<!-- Camshaft is responsible for opening/closing the intake/exhaust values in the correct sequence on the cylinder -->
 
 ---
 
@@ -189,10 +189,11 @@ We want an intuitive understanding of how an engine operates to use the engine c
 
 ![bg left:55% fit](images/image-34.png)
 
-- Alternative to carburetor
+- Alternative to a carburetor
+- Found on newer engines
 - Fuel is mixed in a manifold just before entering the cylinder
 - Relies on a fuel pump for continuous fuel pressure
-- Produces more even cylinder temperatures
+- Produces more even cylinder temperatures, since each cylinder gets the same fuel
 
 <!-- - Cylinder temperatures tend to be more even -->
 
@@ -379,7 +380,7 @@ We want an intuitive understanding of how an engine operates to use the engine c
 - Failure of the wastegate
   - May fail open, closed, or partially open
   - Need to modulate throttle to prevent over boosting
-- Turbo cooldown
+- Turbo cool-down
   - Allow for the RPM bearing temperature to equalize
 
 ---

@@ -96,7 +96,7 @@ Vision types:
 
 ## Limitations of the Human Eye
 
-![bg left:25%](images/image-13.png)
+![bg left:20%](images/image-13.png)
 
 - Accommodation and Refocusing
   - It can take 1-2 seconds for you eye to refocus

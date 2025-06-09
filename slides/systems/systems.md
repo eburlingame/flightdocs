@@ -2,7 +2,41 @@
 theme: default
 ---
 
+<style>
+.h-stack {
+  display: flex;
+  column-gap: 1em;
+  justify-content: center;
+}
+
+</style>
+
 # Aircraft Systems
+
+---
+
+## Objective
+
+To understand the basics electrical, environmental, and deicing systems of a trainer aircraft.
+
+## Motivation
+
+It is important to have an intuitive understanding of how the electrical system of airplane works to troubleshoot issues, and to understand common failure modes of the flight instruments.
+
+---
+
+## Overview
+
+- Hydraulic brakes
+- Brake system
+- Landing gear
+- Electrical system
+- Circuit vs Water
+- Light Aircraft Electrical Systems
+- Alternators
+- Environmental Systems
+- Deice and Anti-ice system
+- Deicing Systems
 
 ---
 
@@ -24,14 +58,47 @@ theme: default
 
 ---
 
-## Landing gear
+## Landing Gear
 
 ![bg left:50% fit](images/image-55.png)
 
 - Tricycle landing gear common on trainers
-- Nosewheels can be steerable or free-catering
+- Nosewheels can be steerable or free-castering
 - Retractable landing gear
   - Electronic or hydraulically actuated
+
+---
+
+## Tricycle Landing Gear
+
+<div class="h-stack">
+
+![alt text](images/image-121.png)
+
+- Supports stability on landing since CG is forward of main landing gear
+- Less susceptible to ground-looping
+- Good visibility on the ground
+
+</div>
+
+---
+
+## Taildragger or Conventional Landing Gear
+
+<div class="h-stack">
+
+![alt text](images/image-122.png)
+
+- More propeller clearance
+- Less visibility when taxiing
+- Since C.G. is behind the main gear it they are susceptible to ground-looping
+  - If airplane were to swerve, pilot may not have enough rudder authority to prevent tail from swinging around
+
+</div>
+
+---
+
+# Electrical System
 
 ---
 
@@ -79,10 +146,11 @@ theme: default
 
 ## Generating Electricity: Alternators
 
-![bg left:35% contain](images/image-64.png)
+![bg left:32% contain](images/image-64.png)
 
-- A generator that produces AC, a conversion is then done to DC using a rectifier
-- Has more consistent current output at low RPMs
+- Instead of spinning a magnet, we spin an electromagnet
+- This produces AC current, which we convert to DC using a rectifier
+- Gives more consistent current output at low RPMs than a generator
 - Voltage must be higher than the battery to charge it
   - At 24V battery with a 28V alternator is common
 
@@ -98,10 +166,20 @@ theme: default
 - Master switch
   - Left half for alternator master
   - Right half for battery master
+
+---
+
+### Electrical Components: Circuit Breakers
+
+![bg left:45% contain](images/image-66.png)
+
 - Bus bars: efficient way of connecting may components to power
-- Overcurrent protection
-  - Circuit breakers can be reset
-  - Fuses are consumable
+- Overcurrent protection for individual circuits
+  - Circuit breakers: Push/pull devices which can be reset
+  - Fuses: Need to be replaces
+- If a circuit breaker pops, it could be a sign of a short circuit or overcurrent
+  - Try resetting it once
+  - If it pops again, leave it popped
 
 ---
 
@@ -121,6 +199,11 @@ theme: default
 - Alternator failure
   - Discharge on the ammeter, meaning we're drawing from the battery
   - Eventually a LOW VOLTS illumination
+- Stuck starter
+  - Starter solenoid remains engaged after engine start
+  - Draws enormous load from the battery, alternator begins charging at a fast rate
+  - Ammeter will show high positive charge
+- "Load shedding" - Turning off unnecessary equipment to conserve battery
 
 ---
 
@@ -129,7 +212,10 @@ theme: default
 ![bg left:40% contain](images/image-67.png)
 
 - Fresh air vents
-- Heated air vents, potential source of CO
+- Heated air vents
+  - Usually ducted over the hot exhaust manifold to heat the air
+  - If the manifold has any leaks, this pumps exhaust directly into the cockpits
+  - Potential source of CO in the cockpit
 
 ---
 
@@ -145,11 +231,62 @@ theme: default
 
 ---
 
-## Deicing Systems
+## Deicing Systems: Wet Wings
 
 ![bg right:50% fit](images/image-69.png)
 
-- Deicing "boots": pneumatic boots used to break off ice
-- Cirrus aircraft use a "weeping wing"
+- Some aircraft use a "weeping wing"
   - TKS fluid (a ethylene-glycol liquid) is force out of a porous membrane on the leading edge
-- Ground-based deicing
+  - Cirrus aircraft use this
+
+---
+
+## Deicing Systems: Pneumatic Boots
+
+<div class="h-stack">
+
+![alt text](images/image-123.png)
+
+- Boots are inflated with air break off accumulated ice
+- Can only be used once some ice has formed on the wing
+- Can be cycled as many times as needed
+  - Unlike a wet wing system, which has a certain capacity
+
+</div>
+
+---
+
+## Summary
+
+- Hydraulic brakes
+- Brake system
+- Landing gear
+- Electrical system
+- Circuit vs Water
+- Light Aircraft Electrical Systems
+- Alternators
+- Environmental Systems
+- Deice and Anti-ice system
+- Deicing Systems
+
+---
+
+## Knowledge Check
+
+As you're flying you notice that the volt meter on your engine monitor is reading 25 volts, and the ammeter is showing a discharge.
+
+What could this mean? What would you do?
+
+---
+
+## Knowledge Check
+
+True or false: All of the current for the primary and avionics bus are flowing through the master switch when you turn it on.
+
+---
+
+## Knowledge Check
+
+Flying home from a business meeting on the coast the circuit breaker for your second COM radio pops.
+
+What should you do?

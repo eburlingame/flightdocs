@@ -54,3 +54,6 @@ Airport markings, signage, and lighting are critical for safe ground operations.
 - [AIM 2-1-1](/_references/AIM/2-1-1)
 - [Pilot's Handbook of Aeronautical Knowledge pg. 14-5](/_references/PHAK/14-5): Airport signs and markings
 - [Pilot's Handbook of Aeronautical Knowledge pg. 14-15](/_references/PHAK/14-15): Airport Lighting
+- [AC 150/5300-13B](https://www.faa.gov/airports/resources/advisory_circulars/index.cfm/go/document.current/documentnumber/150_5300-13)
+- [AC 150/5300-30J](https://www.faa.gov/airports/resources/advisory_circulars/index.cfm/go/document.current/documentNumber/150_5340-30)
+- [AC 150/4340-1M](https://www.faa.gov/airports/resources/advisory_circulars/index.cfm/go/document.current/documentNumber/150_5340-1)

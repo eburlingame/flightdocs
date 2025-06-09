@@ -45,13 +45,21 @@ The main way we control the airplanes movement
 
 ## Three basic flight control: Elevator, aileron, and rudder
 
+<div class="h-stack">
+
 ![h:500](images/image-1.png)
+
+</div>
 
 ---
 
 ## Airplane rotates about its center of gravity
 
+<div class="h-stack">
+
 ![h:500](images/image.png)
+
+</div>
 
 ---
 
@@ -67,7 +75,11 @@ The main way we control the airplanes movement
 
 ## Ailerons: Control wheel, bank left or right
 
+<div class="h-stack">
+
 ![h:500](images/image-3.png)
+
+</div>
 
 ---
 

@@ -166,12 +166,16 @@ Disagreement or confusion between your sensory systems about the aircraft's posi
 
 ## Coriolis illusion
 
+![bg left:40% fit](images/image-11.png)
+
 - Rapid head movement during a turn
 - The plane may feel as though it's banking in the opposite direction
 
 ---
 
 ## Somatogravic Illusion
+
+![bg left:40% fit](images/image-12.png)
 
 - Acceleration may feel like a pitching-up movement
 - Especially true with limited visual reference, like at night
@@ -184,6 +188,8 @@ Disagreement or confusion between your sensory systems about the aircraft's posi
 
 ## Inversion illusion
 
+![bg left:40% fit](images/image-13.png)
+
 - Abrupt change from climbing to straight-and-level flight can create the illusion of tumbling backwards
 - Pilots may then push the aircraft into a nose-low attitude
 
@@ -193,6 +199,8 @@ Disagreement or confusion between your sensory systems about the aircraft's posi
 
 ## Elevator Illusion
 
+![bg left:40% fit](images/image-14.png)
+
 - Upward vertical acceleration like an updraft can create the illusion of being in a climb
 - Pilots may push the aircraft into a nose-low attitude
 - Likewise a downward acceleration can create the illusion of being in a descent
@@ -201,7 +209,10 @@ Disagreement or confusion between your sensory systems about the aircraft's posi
 
 ## Overcoming Disorienting Illusions
 
+![bg right:35% fit](images/image-15.png)
+
 - Trust flight instruments
+- Instrument training and proficiency
 - Limit maneuvering, especially high-load factor maneuvers
 - Limit rapid head movements
 - Use autopilot if needed
@@ -209,6 +220,8 @@ Disagreement or confusion between your sensory systems about the aircraft's posi
 ---
 
 ## Motion Sickness
+
+![bg left:30% fit](images/image-16.png)
 
 Discomfort caused by the brain receiving conflicting messages about the state of the body's position in space.
 
@@ -224,6 +237,8 @@ Discomfort caused by the brain receiving conflicting messages about the state of
 ---
 
 # Carbon monoxide poisoning
+
+![bg right:35% fit](images/image-17.png)
 
 Hypemic hypoxia caused by the presence of CO in the air, which attaches to hemoglobin in the blood.
 
@@ -256,6 +271,8 @@ The body’s response to physical and psychological demands placed upon it. Stre
 
 # Fatigue
 
+![bg left:25% fit](images/image-18.png)
+
 - Acute fatigue is caused by lack of sleep
 - Chronic fatigue usually has medical underpinnings
 
@@ -273,6 +290,8 @@ The body’s response to physical and psychological demands placed upon it. Stre
 ---
 
 # Dehydration
+
+![bg left:40% fit](images/image-19.png)
 
 A critical loss of water or electrolytes from the body.
 
@@ -314,15 +333,13 @@ A critical loss of water or electrolytes from the body.
 
 Part [91.17](/_references/14-CFR/91.17):
 
-- 8 hours "bottle to throttle"
+- 8 hours single last alcoholic drink before acting a crew member ("bottle to throttle")
 - 0.04% BAC limit
-- Cannot carry drunk passengers, except in an emergency
+- Cannot carry drunk passengers, except in an emergency or under the supervision of a doctor
 
 ---
 
-# Drugs
-
-### Regulations
+## Drugs - Regulations
 
 Part [61.53](/_references/14-CFR/61.53):
 
@@ -335,11 +352,15 @@ A pilot cannot act as PIC if:
 
 https://www.aopa.org/go-fly/medical-resources/medications-database
 
+FAA Over-the-Counter (OTC) Drug List: https://www.faa.gov/sites/faa.gov/files/licenses_certificates/medical_certification/medications/OTCMedicationsforPilots.pdf
+
 - Check the half-life of any drug you intend to take
 
 ---
 
 # Drugs
+
+![bg left:20% fit](images/image-20.png)
 
 ## Substances to Avoid
 
@@ -356,6 +377,12 @@ https://www.aopa.org/go-fly/medical-resources/medications-database
 
 # Dissolved Nitrogen After SCUBA dives
 
+<div class="h-stack">
+
+![w:500](images/image-21.png)
+
+<div>
+
 Dissolved nitrogen in the blood being forced out of the body's tissues.
 
 ## Guidance
@@ -364,6 +391,9 @@ Dissolved nitrogen in the blood being forced out of the body's tissues.
   - Dive does _not_ require a controlled ascent: Wait at least **12 hours**
   - Dive require controlled ascent: Wait at least **24 hours**
 - Flights above 8,000' MSL: At least **24 hours**
+
+</div>
+</div>
 
 ---
 
@@ -438,6 +468,8 @@ p { text-align: center; }
 
 ## Hazardous Attitudes
 
+![bg left:40% fit](images/image-22.png)
+
 - **Anti-authority**: "Don't tell me what to do"
 - **Impulsivity**: "I can do it quickly"
 - **Invulnerability**: "It won't happen to me"
@@ -481,6 +513,36 @@ Learn to recognize these attitudes when they occur. Slow down and state the anti
 ---
 
 ## Summary
+
+<div class="h-stack">
+
+<div>
+
+- Aeromedical Factors
+  - Hypoxia: Lack of oxygen
+  - Hyperventilation: Rapid breathing
+  - Middle Ear/Sinuses: "Plugged" ears
+  - Motion Sickness: Airsickness
+  - Carbon Monoxide: Binds to blood
+  - Stress and Fatigue
+  - Dehydration
+  - Hypothermia
+  - Alcohol and Drugs
+  - SCUBA diving: 12 or 24 hours
+
+</div>
+
+<div>
+
+- IMSAFE Checklist: Before every flight
+- Illusions in Flight: Runway width, slope
+- Psychological Hazards
+  - Hazardous Attitudes
+  - Get-There-itis
+
+</div>
+
+</div>
 
 ---
 
