@@ -153,7 +153,7 @@ subject areas in which they were deficient on the [applicable] airman knowledge 
 
 ---
 
-### Classes Breakdown A Category
+### Class are within a category
 
 <div class="h-stack">
 
@@ -182,34 +182,46 @@ subject areas in which they were deficient on the [applicable] airman knowledge 
 
 ---
 
-# 61.63 Adding a Class Rating
+# 61.63 Adding an Aircraft Class Rating
 
-- [61.63(c)](<https://www.ecfr.gov/current/title-14/part-61/section-61.63#p-61.63(c)>) A pilot looking to add an additional aircraft class rating:
+Example: Private Airplane SEL to Private Airplane MEL
+
+- [61.63(b)](<https://www.ecfr.gov/current/title-14/part-61/section-61.63#p-61.63(b)>) Pilot will ned:
+  - Needs to be proficient in aeronautical knowledge and areas of operation
   - Does _not_ need the specified aeronautical experience
   - Does _not_ need to a take a written test, provided the pilot holds a powered aircraft rating rating
-    - Powered to unpowered: No knowledge test
-    - Unpowered to power: Knowledge test required
 - 61.31(d) To fly solo in an aircraft class which they are not rated:
   - They training and the the **A.72 endorsement**
   - Note that this endorsement does not have an expiration, unless one is added by the instructor
 
-<!--
+---
 
-Aircraft Classes
-  Single-engine
-  Multi-engine
-  Land
-  Sea
+# 61.63 Adding an Aircraft Category Rating
 
- -->
+Example: Commercial Private Helicopter to Commercial Airplane SEL
+
+- [61.63(c)](<https://www.ecfr.gov/current/title-14/part-61/section-61.63#p-61.63(c)>) A pilot looking to add an additional aircraft class rating:
+  - Needs to be proficient in aeronautical knowledge and areas of operation
+  - Needs to meet the aeronautical experience requirements of the certificate
+  - Does _not_ need to a take a written test, provided the pilot holds a powered aircraft rating rating
+- 61.31(d) To fly solo in an aircraft class which they are not rated:
+  - They training and the the **A.72 endorsement**
+  - Note that this endorsement does not have an expiration, unless one is added by the instructor
 
 ---
 
 ## Additional Category or Class Rating Practical Test
 
-- Need A.1 endorsement
-- Need A.2 endorsement, if there was a knowledge test required
+- Need A.1 endorsement - Training within previous 2 months
+- Need A.2 endorsement - Deficiencies on written exam, if knowledge test is required
 - Need A.74 endorsement, stating the applicant is ready for the practical test
+
+```
+I certify that [First name, MI, Last name], [grade of pilot certificate], [certificate number],
+has received the required training for an additional [aircraft category/class rating]. I have
+determined that they are prepared for the [name of] practical test for the addition of a
+[name of specific aircraft category/class/type] type rating.
+```
 
 ---
 
@@ -520,6 +532,8 @@ presented, such as a U.S. birth certificate or U.S. passport, and the relevant c
 sequential number on the document, if any] establishing that they are a U.S. citizen or
 national in accordance with 49 CFR § 1552.15(c).
 ```
+
+More information on the [AOPA NTSP page](https://www.aopa.org/advocacy/pilots/alien-flight-training-program/aopas-guide-to-tsas-alien-flight-training-citizenship-validation-rule)
 
 ---
 
