@@ -96,14 +96,14 @@ Lesson plans designed for the Flight Instructor Airplane ACS:
         <tr>
         <!-- 6 -->
             <td>II.D - 1</td>
-            <td>[Principles of Flight: Lift, Drag, Airfoils](/docs/lesson-plans/technical/aerodynamics/lift-drag)</td>
-            <td>[Slides](/slides/lift-and-drag.pdf)</td>
+            <td>[Principles of Flight: Stability, Controllability](/docs/lesson-plans/technical/aerodynamics/stability)</td>
+            <td>[Slides](/slides/stability.pdf)</td>
         </tr>
         <tr>
         <!-- 7 -->
             <td>II.D - 2</td>
-            <td>[Principles of Flight: Stability, Controllability](/docs/lesson-plans/technical/aerodynamics/stability)</td>
-            <td>[Slides](/slides/stability.pdf)</td>
+            <td>[Principles of Flight: Lift, Drag, Airfoils](/docs/lesson-plans/technical/aerodynamics/lift-drag)</td>
+            <td>[Slides](/slides/lift-and-drag.pdf)</td>
         </tr>
         <tr>
         <!-- 8 -->

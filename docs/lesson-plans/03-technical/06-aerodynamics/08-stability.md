@@ -14,7 +14,9 @@ Helps a student develop an intuitive understanding of stability and controllabil
 
 ## Format
 
-- [White board](/slides/stability.pdf)
+- [Whiteboard](/slides/stability.pdf)
+- [Blank whiteboard slides](/slides/stability-template.pdf)
+
 
 ## Elements
 
@@ -31,6 +33,9 @@ Helps a student develop an intuitive understanding of stability and controllabil
 - Dynamic stability (positive, negative, neutral)
   - After the system course-corrects, does it overshoot and continue to oscillate
   - Or, do the osculations dampen naturally
+- **Vertical, yaw stability**:
+  - Wind striking fuselage aft of CG
+  - Rudder has it's own angle of attack
 - **Longitudinal, pitch stability**:
   - CG, CL, Tail
   - [Elevator downforce in slow, level, and high speeds]
@@ -51,7 +56,7 @@ Helps a student develop an intuitive understanding of stability and controllabil
   - Dihedral wing
     - Slightly larger AoA on down wing: Raises the lowered wing
   - Deeper explanation [Commercial]
-    - Dihedral effect: [2D drawing `from front of plane, wind coming up from lowered wing]
+    - Dihedral effect: [2D drawing from front of plane, wind coming up from lowered wing]
       - Wing bends around the fuselage
       - Lower wing has lower angle of attack
       - High wing has higher angle of attack
@@ -68,15 +73,12 @@ Helps a student develop an intuitive understanding of stability and controllabil
     - Wing sweep
       - Airplane yaws into the wind
       - Lowered wing make`s more perpendicular angle with the wind = more lift
-- **Vertical, yaw stability**:
-  - Wind striking fuselage aft of CG
-  - Rudder has it's own angle of attack
 - **Lateral stability vs vertical stability** [Commercial]
   - Strong directional (yaw) stability and weak lateral (roll) stability
     - Wing drops due to wing and a yaw is introduced
     - The airplane weathervanes into the wind, making the outboard wing fly faster
     - This is all before the lateral stability (dihedral effect) can raise the wing
-    - This exhibits the overbanking tendency, causing the airplane to roll further into the turn
+    - This exhibits the over-banking tendency, causing the airplane to roll further into the turn
     - This gradually becomes a steep _spiral dive_
     - We call this _spiral instability_
   - Strong lateral (roll) stability and weak directional stability
