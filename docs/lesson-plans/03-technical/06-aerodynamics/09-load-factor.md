@@ -15,7 +15,7 @@ Gives students an intuitive understand of the causes that induce load factor on 
 ## Format
 
 - [Whiteboard](/slides/load-factor-vorticies.pdf)
-- [Blank whiteboard slides](/slides/load-factor-blank.pdf)
+- [Blank whiteboard slides](/slides/load-factor-template.pdf)
 
 ## Elements
 
