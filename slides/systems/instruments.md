@@ -1,7 +1,5 @@
 ---
 theme: default
-class:
-  - invert
 ---
 
 <style>
@@ -60,7 +58,7 @@ To a give a student an intuitive understanding of the operation of the flight in
 
 ---
 
-![bg fit](images/t182-panel.jpg)
+![bg fit](images/image-70.png)
 
 ---
 
@@ -96,12 +94,12 @@ To a give a student an intuitive understanding of the operation of the flight in
 
 ## Types of Altitude
 
-- Indicated altitude: Read from the altimeter
-- True altitude: Vertical distance from mean sea level
-- Absolute altitude: Vertical distance above terrain (AGL)
-- Pressure altitude: Read from altimeter when set to 29.92"
+- **Indicated** altitude: Read from the altimeter
+- **True** altitude: Vertical distance from mean sea level
+- **Absolute** altitude: Vertical distance above terrain (AGL)
+- **Pressure** altitude: Read from altimeter when set to 29.92"
   - Height in the standard atmosphere where the ambient pressure is found
-- Density altitude: Pressure altitude corrected for nonstandard temperature
+- **Density** altitude: Pressure altitude corrected for nonstandard temperature
 
 ---
 
@@ -157,7 +155,7 @@ To a give a student an intuitive understanding of the operation of the flight in
 - V<sub>FE</sub>: Flap extension speed (full flaps)
 - V<sub>N0</sub>: Maximum structural cruising speed (smooth air only)
 - V<sub>NE</sub>: Never exceed speed
-- Notice V<sub>A</sub> is not marked
+- Note V<sub>A</sub> is not marked
 
 ---
 
@@ -174,11 +172,20 @@ To a give a student an intuitive understanding of the operation of the flight in
 
 ## Static Port Blockages
 
-- Alternate static source vents into the cockpit
-- Pressure is **higher**, since there is usually a venturi effect around the static port
-  - Altimeter reads slightly high
-  - Airspeed will read slightly higher (RAM - static = airspeed)
-  - VSI will momentarily indicate a climb, then settle
+<div class="h-stack">
+
+![alt text](images/image-124.png)
+
+- Most airplanes have an alternate static course
+  - This will vent into the cockpit, which may have slightly lower pressure
+- VSI will show no climb or descent
+- A blocked static port will cause errors in the airspeed indicator
+  - Recall Airspeed = RAM pressure - static pressure
+  - Airspeed is accurate at altitude where blockage occurred
+  - Above the altitude, airspeed reads low
+  - Below the altitude, airspeed reads high
+
+</div>
 
 ---
 
@@ -222,7 +229,8 @@ To a give a student an intuitive understanding of the operation of the flight in
 
 ![bg left:40% contain](images/image-82.png)
 
-- Not a gyro instrument
+- Indicates coordination of flight
+- Not gyro or electrically operated
 - Ball with mass in a fluid, like a level
 
 ---
@@ -273,9 +281,15 @@ To a give a student an intuitive understanding of the operation of the flight in
 
 ## Vacuum System Failures
 
+<div class="h-stack">
+
+![alt text](images/image-125.png)
+
 - A loss of vacuum pressure will result in a slow spin-down of gyros
 - An attitude indicator will show a slow lean/dive
 - Utilize a cross-checking scan
+
+</div>
 
 ---
 
@@ -299,7 +313,7 @@ To a give a student an intuitive understanding of the operation of the flight in
 ## Compass Errors and Variation
 
 - Magnetic variation: Magnetic north vs true north
-- Magnetic deviation: Magnetic field in an aircraft can
+- Magnetic deviation: Magnetic fields from electrical equipment in an aircraft can cause errors
 - Magnetic dip errors: North and south turning errors
 - Acceleration errors: Accelerating on an east/west heading
 
@@ -307,7 +321,23 @@ To a give a student an intuitive understanding of the operation of the flight in
 
 ## Magnetic Variation
 
-![h:550](images/image-91.png)
+<div class="h-stack">
+
+![w:400](images/image-126.png)
+
+![w:500](images/image-127.png)
+
+- True North and Magnetic north are not in the same spot
+- The difference between true and magnetic is called variation
+- This varies depending on your location on Earth
+
+</div>
+
+---
+
+## Isogonic Lines - Tells us Magnetic Variation
+
+![alt text](images/image-128.png)
 
 ---
 
@@ -335,7 +365,7 @@ To a give a student an intuitive understanding of the operation of the flight in
 
 ![bg left:60% contain](images/image-89.png)
 
-- When in a turning through a N or S heading
+- When turning through a N or S heading
 - North: compass card leads actual heading
 - South: compass card lags actual heading
 - "UNOS"
