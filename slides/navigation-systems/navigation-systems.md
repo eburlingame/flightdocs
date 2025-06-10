@@ -228,6 +228,17 @@ Different VORs have different power outputs.
 
 ---
 
+## Intercepting a Radial
+
+![bg left:45% fit](images/image-15.png)
+
+- Tune the VOR station
+- Determine your current position relative to that NAVAID
+- Establish an intercept angle (&lt; 90&deg;) and hold that heading
+- As the needle centers on the new radial, turn to the new course
+
+---
+
 ## Tracking a Radial
 
 ![bg left:25% fit](images/image-11.png)
@@ -240,17 +251,6 @@ Different VORs have different power outputs.
   - This takes you back over the CDI radial, but the correction is too great
   - Turn 5&deg; left (355 &deg; heading)
   - Make small adjustments to keep the needle centered
-
----
-
-## Intercepting a Radial
-
-![bg left:45% fit](images/image-15.png)
-
-- Tune the VOR station
-- Determine your current position relative to that NAVAID
-- Establish an intercept angle (&lt; 90&deg;) and hold that heading
-- As the needle centers on the new radial, turn to the new course
 
 ---
 
@@ -385,6 +385,7 @@ Different VORs have different power outputs.
   - Charts updated every 56 days
 - Beware of delays when looking at ADS-B weather information
 - Bring a charger, battery pack, or backup
+- More information in AC 120-76E
 
 </div>
 

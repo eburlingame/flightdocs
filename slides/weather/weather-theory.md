@@ -5,10 +5,10 @@ class:
 ---
 
 <style>
-
 .h-stack {
   display: flex;
   column-gap: 1em;
+  justify-content: center;
 }
 
 </style>
@@ -446,6 +446,20 @@ Cold, dry air moves over water, causing evaporation from the water
 
 - Often associated with a warm front
 - Rain falls into air mass below it, raising it's humidity
+
+---
+
+## Virga
+
+<div class="h-stack">
+
+![w:1200](images/image-75.png)
+
+- Precipitation that evaporates or sublimates before reaching the ground
+- Can be associated with thunderstorms (sometimes called a "dry thunderstorm")
+- Is visible on radar return (NEXRAD), even though no rain is falling at the surface
+
+</div>
 
 ---
 
