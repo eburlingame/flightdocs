@@ -4,6 +4,15 @@ class:
   - invert
 ---
 
+<style>
+.h-stack {
+  display: flex;
+  column-gap: 1em;
+  justify-content: center;
+}
+
+</style>
+
 # Endorsements and Pilot Qualifications
 
 ## Commercial Pilots, 61 Subpart F
@@ -127,29 +136,23 @@ https://www.faa.gov/about/office_org/headquarters_offices/agc/practice_areas/reg
 
 # 119.1 Common Carriage
 
-- Common carriage requires a propensity to "hold out" to the public (or a segment)
+- 4 requirements for common carriage:
+  1. Holding out a willingness to
+  2. Transport persons or property
+  3. From place to place
+  4. For compensation
 - Any operations of a "common carrier" requires an operator certificate
-- This is a matter of degree and subject to interpretation
-- Advertising to the general public is an unambiguous sign of holding out
-
-<!-- Or a segment of the public -->
+- "Holding" out could be many things
+  - Advertising to the general public is an unambiguous sign of holding out
+  - This is a matter of degree and subject to interpretation
 
 ---
 
-### 61 Subpart F: Commercial Pilots
+<div class="h-stack">
 
-# 119.1 Applicable Parts
+![w:600](images/commercial-flowchart.png)
 
-For carrying passengers/cargo for hire:
-
-- Common carriage:
-  - Scheduled airlines: Part 121
-  - Nonscheduled operations (air taxi): Part 135
-- Private carriage:
-  - For airplanes with >20 seats, or a payload capacity of >6000 lbs.
-    - Private carriage operating certificate required per Part 125
-  - Otherwise,
-    - Operate under Part 91, no operating certificate required
+</div>
 
 ---
 

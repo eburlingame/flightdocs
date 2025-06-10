@@ -16,6 +16,33 @@
   - [A.6](/_references/AC-61-65/A.6) - Solo flight (first 90-calendar-day period): § 61.87(n)
   - [A.7](/_references/AC-61-65/A.7) - Solo flight (each additional 90-calendar-day period): § 61.87(p)
 
+#### Student Pilot Endorsement, Limitations, Checklist
+
+Example A.6 Endorsement:
+
+```
+I certify that <student first + last name> has received the required training to qualify for
+solo flying. I have determined they meet the applicable requirements of § 61.87(n) and
+are proficient to make solo flights in T182.
+
+Limitations:
+Total wind < 15 knots, ceiling > 3000 ft., < 5 knots crosswind.
+Must text or email instructor prior to flight.
+
+3/3/2025 <signature> <Instructor printed name> 987654321CFI RE 12-31-2026
+```
+
+1. PAVE
+2. Aircraft airworthy: AV1ATED
+3. Aircraft documents: ARROW
+4. NWKRAFT
+   1. NOTAMs
+   2. Weather
+   3. Runway lengths
+   4. Fuel requirements
+   5. Takeoff/landing distances
+5. Call or text
+
 ### Solo Requirements - Flights to Airport within 25nm
 
 Student pilots must stay within 25nm of their home airport.

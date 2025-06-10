@@ -181,7 +181,7 @@ Sign: Runway holding position sign
 ![w:700](images/image-10.png)
 
 - ILSs have critical areas that must be kept clear of all obstacles
-- To use, ATC will say `HOLD SHORT OF RUNWAY 36 ILS CRITICAL AREA.`
+- When in use, ATC will say `HOLD SHORT OF RUNWAY 36 ILS CRITICAL AREA.`
 
 </div>
 
@@ -190,22 +190,17 @@ Sign: Runway holding position sign
 ## Runway Approach Area Holding
 
 <div class="h-stack">
+
+<div>
 
 ![w:400](images/image-12.png)
 
-- ATC: `Hold short of Runway XX approach or Runway XX departure area`
+![alt text](images/image-13.png)
 
 </div>
 
----
-
-## Runway Approach Area Holding
-
-<div class="h-stack">
-
-![alt text](images/image-13.png)
-
-- ATC: `Hold short of Runway XX approach or Runway XX approach area`
+- Similar to an ILS critical area, but used to protect approach/departure areas at the end of runways
+- ATC: `Hold short of Runway XX approach or Runway XX departure area`
 
 </div>
 
@@ -271,6 +266,9 @@ Sign: Runway holding position sign
 
 - Can be used for takeoff, but not for landing
 - Ok to rollout when landing from opposite direction
+- Used to alter approach path of arriving aircraft
+  - Ensures approach is above obstacles
+  - Noise abatement
 
 ---
 
@@ -284,23 +282,44 @@ Sign: Runway holding position sign
 
 ## Blastpad or Stopway
 
-![h:450](images/image-17.png)
+<div class="h-stack">
+
+![w:400](images/image-17.png)
 
 - Cannot be used for taxi, takeoff, or landing
+- Blastpad: Paved area which keeps debris from being flown in a jet blast
+  - Not designed to support aircraft weight
+- Stopway: Paved area which can be used in the event on an overrun
+  - Included in landing deceleration distances
+
+</div>
 
 ---
 
 ## EMAS
 
-- Engineered materials arresting system
+<div class="h-stack">
 
-![h:450](images/image-27.png)
+![w:400](images/image-27.png)
+
+![w:400](images/image-55.png)
+
+</div>
+
+- Engineered materials arresting system
+- Dissipates energy in the case of an aircraft overrun
 
 ---
 
 ## Closed Runway "X"
 
+<div class="h-stack">
+
 ![alt text](images/image-23.png)
+
+![alt text](images/image-56.png)
+
+</div>
 
 ---
 

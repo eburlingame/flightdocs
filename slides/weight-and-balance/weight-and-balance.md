@@ -373,7 +373,7 @@ Instruction: Known to unknown, simple to complex
 
 ## Other Limitations
 
-![alt text](images/image-4.png)
+![alt text](images/image-8.png)
 
 ---
 
@@ -391,7 +391,11 @@ Instruction: Known to unknown, simple to complex
 
 </div>
 
-Reduced climb performance
+<div class="comment">
+
+Reduced climb performance, longer takeoff/landing roll, slower cruise speed
+
+</div>
 
 ---
 
@@ -405,7 +409,11 @@ Reduced climb performance
 
 </div>
 
+<div class="comment">
+
 Less drag, faster cruise speed, sensitive controls, less stable
+
+</div>
 
 ---
 
@@ -419,7 +427,11 @@ Less drag, faster cruise speed, sensitive controls, less stable
 
 </div>
 
+<div class="comment">
+
 Stall recovery may be inhibited
+
+</div>
 
 ---
 
@@ -433,7 +445,11 @@ Stall recovery may be inhibited
 
 </div>
 
+<div class="comment">
+
 Slower cruise speed, less sensitive controls, more stable
+
+</div>
 
 ---
 
