@@ -10,6 +10,10 @@ class:
   column-gap: 1em;
   justify-content: center;
 }
+.references {
+  font-size: 0.75em;
+  color:rgb(108, 106, 112);
+}
 
 </style>
 
@@ -69,6 +73,8 @@ How do we get from the enroute phase to the final approach phase?
   - ATC-assigned headings, intercept to the final approach course
   - Entry behind the FAF
 
+<div class="references">AIM 5-4-6, IFH Ch 10</div>
+
 </div>
 
 ![w:1000](images/image.png)
@@ -99,6 +105,9 @@ A published 180-degree turn to align you with the final approach course.
   - Teardrop
   - Racetrack
 - Defined protected turn area, usually says "Remain within 10NM" on profile view
+
+<div class="references">AIM 5-4-9, IFH Ch 10</div>
+
 </div>
 
 </div>
@@ -111,10 +120,16 @@ A published 180-degree turn to align you with the final approach course.
 
 ![w:1000](images/image-3.png)
 
+<div>
+
 - Published hold used for getting you aligned with final approach course (e.g. PITER transition)
 - Fly standard hold entry and begin the approach
 - ATC will not expect you to make additional turns in the hold
 - These are become more common than barbed PTs
+
+<div class="references">AIM 5-4-9, IFH Ch 10</div>
+
+</div>
 
 </div>
 
@@ -124,12 +139,18 @@ A published 180-degree turn to align you with the final approach course.
 
 <div class="h-stack">
 
+<div>
+
 - **S:** "Straight-in approach" from ATC
   - "Cross COVHO at 2000, cleared straight-in RNAV runway 15 approach Scappoose airport"
 - **No:** NoPT on approach chart
 - **R:** Radar vectored
   - "Turn right heading 100, vectors for final approach course"
 - **T:** Timed approach from a fix
+
+<div class="references">AIM 5-4-9, IFH Ch 10</div>
+
+</div>
 
 ![w:800](images/image-3.png)
 
@@ -159,6 +180,8 @@ Type of precision approaches:
 
 **ILS typically have minimums of 200 feet above TDZE**
 
+<div class="references">AIM 5-4-5, IFH Ch 10</div>
+
 ---
 
 ## Components of an ILS
@@ -175,6 +198,8 @@ Type of precision approaches:
 - Angular width is 700' wide at the threshold
 - Gives precise angular guidance aligned with the runway
 - Sensitivity depends on runway length
+
+<div class="references">AIM 1-1-9, IFH Ch 10</div>
 
 </div>
 
@@ -196,9 +221,12 @@ Type of precision approaches:
 - Gives vertical guidance, usually for a 3° glideslope
 - **Beware of false glideslopes**
 
+<div class="references">AIM 1-1-9</div>
+
 </div>
 
 </div>
+
 
 ---
 
@@ -236,6 +264,8 @@ We now use DME or a secondary VOR to identify these points.
 - As we approach the GS intercept (lightning bolt), glideslope needle will come down
 - One dot below glideslope: Reconfigure for your approach
 
+<div class="references">IFH Ch 9</div>
+
 ---
 
 ## Flying an ILS
@@ -259,6 +289,8 @@ Both needles get more sensitive as we get closer to the runway.
 
 </div>
 
+<div class="references">IFH Ch 8</div>
+
 ---
 
 ## Precision Approaches Minimums
@@ -272,6 +304,8 @@ Both needles get more sensitive as we get closer to the runway.
 
 </div>
 
+<div class="references">AIM 5-4-7, 14 CFR 91.175</div>
+
 ---
 
 ## When Can We Land? - FAR 91.175
@@ -283,6 +317,8 @@ An aircraft may not descend from the DA/MDA unless:
 3. For 121/135 ops: A descent that allows for touchdown in the touchdown zone
 4. The **flight visibility** must be greater than prescribed on the chart
 5. At least one of the following visual references for the intended runway is visible
+
+<div class="references">14 CFR 91.175, AIM 5-4-5</div>
 
 ---
 
@@ -318,6 +354,8 @@ An aircraft may not descend from the DA/MDA unless:
 
 </div>
 
+<div class="references">14 CFR 91.175, AIM 5-4-5</div>
+
 ---
 
 ## Non-Precision Approaches
@@ -332,6 +370,8 @@ Non-precision approaches are characterized by **step-down fixes** and a **minimu
 - **LDA** - Localizer directional aid
 - **LOC BC** - Localizer back course approach
 - **ASR** - Approach surveillance radar
+
+<div class="references">AIM 5-4-5, IFH Ch 10</div>
 
 ---
 
@@ -354,6 +394,8 @@ Non-precision approaches are characterized by **step-down fixes** and a **minimu
 
 </div>
 
+<div class="references">IFH Ch 10, 14 CFR 91.175</div>
+
 ---
 
 ## Flying VOR Approaches with RNAV
@@ -366,6 +408,8 @@ Non-precision approaches are characterized by **step-down fixes** and a **minimu
 - The NAVAID must be monitored for the final approach course alignment
 - Secondary CDI or bearing pointer should monitor the underlying NAVAID
 - Guidance can be used from the GPS
+
+<div class="references">AIM 1-2-3, IFH Ch 10</div>
 
 ---
 
@@ -404,6 +448,8 @@ Non-precision approaches are characterized by **step-down fixes** and a **minimu
 
 </div>
 
+<div class="references">AIM 5-4-5, IFH Ch 10</div>
+
 ---
 
 ## LPV Approaches: Localizer Performance with Vertical Guidance
@@ -421,6 +467,8 @@ Non-precision approaches are characterized by **step-down fixes** and a **minimu
 
 </div>
 
+<div class="references">AIM 5-4-5, IFH Ch 10</div>
+
 ---
 
 ## LPV Approach CDI Sensitivity
@@ -433,6 +481,8 @@ Non-precision approaches are characterized by **step-down fixes** and a **minimu
 
 - CDI sensitivity becomes more accurate as you get closer to the runway
 - Final segment has angular guidance
+
+<div class="references">IFH Ch 10</div>
 
 ---
 
@@ -448,6 +498,8 @@ Non-precision approaches are characterized by **step-down fixes** and a **minimu
 - Garmin annunciation: Garmin L/VNAV
 
 </div>
+
+<div class="references">AIM 5-4-5, IFH Ch 10</div>
 
 ---
 
@@ -466,6 +518,8 @@ Non-precision approaches are characterized by **step-down fixes** and a **minimu
 
 </div>
 
+<div class="references">IFH Ch 10</div>
+
 ---
 
 ## Advisory Vertical Guidance
@@ -477,6 +531,8 @@ Non-precision approaches are characterized by **step-down fixes** and a **minimu
 A glideslope generated the navigator which meets the crossing requirements of the step-down fixes of a non-precision approach.
 
 Follow the guidance to the **MDA** (not a DA).
+
+<div class="references">IFH Ch 10</div>
 
 ---
 
@@ -496,6 +552,8 @@ Allow you to fly an approach to one runway, but "circle" to land on a different 
 
 </div>
 
+<div class="references">AIM 5-4-20, IFH Ch 10</div>
+
 ---
 
 ## Circling Approach Minimums
@@ -514,6 +572,8 @@ Allow you to fly an approach to one runway, but "circle" to land on a different 
 
 </div>
 
+<div class="references">AIM 5-4-20, IFH Ch 10</div>
+
 ---
 
 ## Sidestep Maneuver
@@ -527,6 +587,8 @@ Allow you to fly an approach to one runway, but "circle" to land on a different 
 - **Commence the side-step maneuver as soon as possible** after the runway or runway environment is in sight
 
 </div>
+
+<div class="references">AIM 5-4-20, IFH Ch 10</div>
 
 ---
 
@@ -542,6 +604,8 @@ Allow you to fly an approach to one runway, but "circle" to land on a different 
 - **S-LDA minimums are treated as an MDA**
 
 </div>
+
+<div class="references">AIM 5-4-5, IFH Ch 10</div>
 
 ---
 
@@ -565,6 +629,8 @@ The signal from a localizer also extends behind the primary runway, and can be u
 </div>
 
 </div>
+
+<div class="references">AIM 5-4-5, IFH Ch 10</div>
 
 ---
 
@@ -591,6 +657,8 @@ The signal from a localizer also extends behind the primary runway, and can be u
 
 </div>
 
+<div class="references">AIM 4-4-11, IFH Ch 10</div>
+
 ---
 
 ## Contact Approaches
@@ -606,6 +674,8 @@ The signal from a localizer also extends behind the primary runway, and can be u
 </div>
 
 Note that these would only be used if the conditions are less than VFR at the airport, so we'd be maneuver at low altitude for the airport in &lt;3 s.m. conditions
+
+<div class="references">AIM 4-4-12, IFH Ch 10</div>
 
 ---
 
@@ -631,6 +701,8 @@ Note that these would only be used if the conditions are less than VFR at the ai
 
 </div>
 
+<div class="references">AIM 1-1-9, IFH Ch 10</div>
+
 ---
 
 ## Inoperative Equipment - Visual Aids
@@ -651,6 +723,8 @@ Note that these would only be used if the conditions are less than VFR at the ai
 
 </div>
 
+<div class="references">AIM 5-4-5, IFH Ch 10</div>
+
 ---
 
 ## Cold Weather Operations
@@ -669,6 +743,8 @@ Note that these would only be used if the conditions are less than VFR at the ai
 ![alt text](images/image-29.png)
 
 </div>
+
+<div class="references">AIM 5-4-5, IFH Ch 10</div>
 
 ---
 

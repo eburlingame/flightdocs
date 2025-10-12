@@ -60,6 +60,8 @@ convert_to_pdf slides/aerodynamics/lift-drag-template.md
 convert_to_pdf slides/aerodynamics/load-factor-template.md
 convert_to_pdf slides/aerodynamics/stability-template.md
 
+convert_to_pdf slides/ifr/approaches-2.md
+
 # Recursively scan all .md files in the slides directory and convert them to .pdf using marp
 # mkdir -p static/slides
 # find slides -type f -name '*.md' | while read -r file; do
