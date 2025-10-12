@@ -85,7 +85,7 @@ How do we get from the enroute phase to the final approach phase?
 
 ![w:600](images/image-1.png)
 
-![alt text](images/image-2.png)
+![w:600](images/image-2.png)
 
 </div>
 
@@ -411,8 +411,10 @@ Non-precision approaches are characterized by **step-down fixes** and a **minimu
 <div class="h-stack">
 
 - **ILS-like minimums** (200' minima)
-- Flown similar to an ILS
-- Gives L/R angular guidance, similar to an ILS
+- Flown just like an ILS:
+  - Intercept the "localizer"
+  - Capture the glideslope from below
+- Gives angular L/R guidance which gets more sensitive as you descend
 - **Not technically a "precision approach"** (for the purposes of alternate planning)
 
 ![w:800](images/image-14.png)
@@ -516,116 +518,202 @@ Allow you to fly an approach to one runway, but "circle" to land on a different 
 
 ## Sidestep Maneuver
 
-**Sidestep Maneuver:**
+<div class="h-stack">
+
+![w:900](images/image-30.png)
 
 - Parallel runways less than 1200 ft. apart
-- ATC can say "cleared ILS runway 7 left approach, side-step to runway 7 right"
+- ATC can say "cleared ILS runway 20R approach, side-step runway 20L"
 - **Commence the side-step maneuver as soon as possible** after the runway or runway environment is in sight
+
+</div>
 
 ---
 
-## LDA Approaches
+## LDA - Localizer Directional Aid Approaches
 
-**Localizer Directional Aid Approaches**
+<div class="h-stack">
+
+![alt text](<images/lda approach.png>)
 
 - Localizer (and sometimes glideslope) which provide approach guidance **not aligned with a runway**
 - Example: KDLS LDA/DME RWY 25
-- Think of them as **non-precision approaches** (even if they had a glideslope)
+- They are **non-precision approaches**, even if they had a glideslope
 - **S-LDA minimums are treated as an MDA**
+
+</div>
 
 ---
 
-## Backcourse Approaches
+## Localizer Backcourse Approaches - LOC BC
 
-**Backcourse Approaches:**
+<div class="h-stack">
 
-- The signal from a localizer also extends beyond the runway
-- **Disregard any glideslope indication**
-- You'll have to read a CDI backwards
+![w:500](images/image-23.png)
 
-**Important:** When flying with an HSI, set the **inbound/front course** into your OBS
+<div>
 
-- Then the green needles will read correctly (since the needles are flipped upside down)
+The signal from a localizer also extends behind the primary runway, and can be used to guidance to the opposing runway.
+
+- Disregard any glideslope indication
+- A standard CDI will be read L/R backwards
+  - Fly away from the needle instead of towards it
+  - "You are the needle"
+- With an HSI, set the **inbound/front course** into your OBS
+  - Then the green needles will read correctly (since the needles are flipped upside down)
+
+</div>
+
+</div>
 
 ---
 
 ## Visual and Contact Approaches
 
+<div class="h-stack">
+
+![alt text](images/image-24.png)
+
+<div>
+
 **Visual Approaches:**
 
 - If the airport has VFR weather, controllers can assign a visual approach
-- We're still IFR, so VFR cloud clearance (91.255) don't apply
+- We're still IFR, so VFR cloud clearance rules (91.255) don't apply
 - We need visual separation from other aircraft
 
 **Charted Visual Procedures:**
 
+- These are uncommon
 - Often used for noise-abatement
-- Example: KPIE North Bay Visual
+
+</div>
+
+</div>
 
 ---
 
 ## Contact Approaches
 
-**Contact Approaches:**
+<div class="h-stack">
 
-- Gives us permission to descend to and land
-- Need ground-visibility >1 s.m.
+![alt text](images/image-25.png)
+
+- Gives us permission to descend to and land visually
+- Need flight visibility of >1 s.m. and need to remain clear of clouds
 - **Pilot needs to ask for a contact approach**
+
+</div>
+
+Note that these would only be used if the conditions are less than VFR at the airport, so we'd be maneuver at low altitude for the airport in &lt;3 s.m. conditions
 
 ---
 
 ## Inoperative Equipment - Navigation
 
-**Failure of navigation component:**
+<div class="h-stack">
+
+<div>
 
 **Primary navaid failure (VOR, LOC):**
 
-- Execute missed approach procedure
+- Before the FAF: Notify ATC and choose a different approach, or divert
+- After the FAF: Execute missed approach procedure
 
 **Glideslope failure:**
 
 - **Outside the FAF:** Inform ATC, ask for the localizer approach
-- **Inside the FAF:** "Fail-down" to the LOC approach, follow LOC guidance and climb/descend to the MDA per the LOC minimums, inform ATC
+- **Inside the FAF:** "Fail-down" to the LOC approach, follow LOC guidance and climb/descend to the MDA
+
+</div>
+
+![w:1200](images/image-26.png)
+
+</div>
 
 ---
 
 ## Inoperative Equipment - Visual Aids
 
+<div class="h-stack">
+
+![w:1000](images/image-27.png)
+
+<div>
+
 **Approach lighting system inoperative:**
 
-- Published minimums are based on full operation of all associated components and visual aids
-- **Higher minimums are required** with inoperative equipment
+- **Higher minimums are required** with inoperative ALS
 - If more than one component is inoperative, each minimum is raised to the **highest minimum** required by any single inoperative component
 - See **Inoperative Components or Visual Aids Table**
+
+</div>
+
+</div>
 
 ---
 
 ## Cold Weather Operations
 
-**Important considerations for cold weather:**
+<div class="h-stack">
 
-- See Backseat Pilot Lesson Plans pg. 279
-- Altimeter corrections may be required
-- Performance calculations affected by temperature
-- Engine and system performance considerations
+![alt text](images/image-28.png)
+
+</div>
+
+- The snowflake symbol on an approach indicates cold-weather corrections are required when the reported temperature is at or below the given value
+- Raise any cross-altitude restrictions and minimum altitude by the amount in the cold-weather correction chart in the TPP
+
+<div class="h-stack">
+
+![alt text](images/image-29.png)
+
+</div>
 
 ---
 
 # Summary
 
-**Key Points:**
+<div class="h-stack">
 
-- Multiple ways to get established on approaches
-- Precision vs. non-precision vs. GPS approaches
-- 91.175 landing requirements
-- Special procedures: circling, sidestep, backcourse
-- Equipment failures and procedures
-- Cold weather considerations
+<div>
+
+**Approach Types:**
+
+- **Precision:** ILS (200' minimums, DA)
+- **Non-Precision:** VOR, LOC, LDA (step-down fixes, MDA)
+- **GPS:**
+  - LPV, LNAV/VNAV (vertical guidance)
+  - LP, LNAV (no vertical guidance)
+
+**Entry Methods:**
+
+- IAF, transitions, vectors to final
+- Procedure turns, HILPT, SNoRT exceptions
+
+</div>
+
+<div>
+
+**Special Procedures:**
+
+- Circling approaches, sidestep maneuvers
+- LDA, LOC BC, visual/contact approaches
+
+**Operational:**
+
+- Equipment failures
+- Cold weather corrections
+- Visual references (91.175)
+
+</div>
+
+</div>
 
 ---
 
 ## References
 
-- https://planeandpilotmag.com/looking-for-the-lights/
-- https://www.ecfr.gov/current/title-14/chapter-I/subchapter-F/part-91/subpart-B/subject-group-ECFRef6e8c57f580cfd/section-91.175
+- [Looking for the Lights](https://planeandpilotmag.com/looking-for-the-lights/)
+- [14 CFR 91.175](https://www.ecfr.gov/current/title-14/chapter-I/subchapter-F/part-91/subpart-B/subject-group-ECFRef6e8c57f580cfd/section-91.175)
 - [Sporty's RNAV/GPS Approach Video](https://courses.sportys.com/training/portal/course/INSTRUMENT/volumes/VIDEO_TRAINING/1aa2e10e-8d56-4525-b222-49e9113499bc/e9499203-6826-484a-9eeb-6be7bb808daa)
