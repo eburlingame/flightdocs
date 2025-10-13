@@ -68,7 +68,7 @@ Introduce basic approach concepts for precision, non-precision, GPS, and other t
 How do we get from the enroute phase to the final approach phase?
 
 - **Direct to an IAF** (e.g. LOATH)
-- **Published transition routes** (e.g. COUGA)
+- **Published feeder routes** (e.g. COUGA)
 - **Vectors to final**
   - ATC-assigned headings, intercept to the final approach course
   - Entry behind the FAF
@@ -104,7 +104,8 @@ A published 180-degree turn to align you with the final approach course.
   - 80/260
   - Teardrop
   - Racetrack
-- Defined protected turn area, usually says "Remain within 10NM" on profile view
+- Protected turn area, "Remain within 10NM"
+- Descend to lower altitude after established inbound
 
 <div class="references">AIM 5-4-9, IFH Ch 10</div>
 
@@ -148,7 +149,7 @@ A published 180-degree turn to align you with the final approach course.
   - "Turn right heading 100, vectors for final approach course"
 - **T:** Timed approach from a fix
 
-<div class="references">AIM 5-4-9, IFH Ch 10</div>
+<div class="references">AIM 5-4-9, IFH 10-13</div>
 
 </div>
 
@@ -180,7 +181,7 @@ Type of precision approaches:
 
 **ILS typically have minimums of 200 feet above TDZE**
 
-<div class="references">AIM 5-4-5, IFH Ch 10</div>
+<div class="references">AIM 5-4-5, 5-4-11, IFH Ch 10</div>
 
 ---
 
@@ -196,8 +197,8 @@ Type of precision approaches:
 
 - Positioned at the end of the runway
 - Angular width is 700' wide at the threshold
-- Gives precise angular guidance aligned with the runway
-- Sensitivity depends on runway length
+- Gives precise L/R angular guidance aligned with the runway
+- Note: Sensitivity depends on runway length
 
 <div class="references">AIM 1-1-9, IFH Ch 10</div>
 
@@ -211,22 +212,22 @@ Type of precision approaches:
 
 <div class="h-stack">
 
-![w:850](images/image-6.png)
+![w:900](images/image-31.png)
 
 <div>
 
 **Glideslope:**
 
 - Positioned to the side of the runway
-- Gives vertical guidance, usually for a 3° glideslope
-- **Beware of false glideslopes**
+- Gives angular vertical guidance, usually a 3° glideslope
+- Gets more sensitive as we get closer to the runway
+- Note: There can be interference on the glideslope signal which can cause "false" glideslopes
 
 <div class="references">AIM 1-1-9</div>
 
 </div>
 
 </div>
-
 
 ---
 
@@ -236,17 +237,23 @@ Type of precision approaches:
 
 <div>
 
-Marker becaons used to be standard on an ILS. They were identified with a tone and light on the audio panel.
+Used to be standard on an ILS. They were identified with a tone and light on the audio panel.
 
-- **Outer marker:** FAF
-- **Middle marker:** Standard minimums
-- **Inner marker:** Used to identify lower minimums of CAT II or III ILS
+- **Outer marker:** FAF ([tone](https://www.youtube.com/watch?v=AW8IF9WdoD0))
+- **Middle marker:** Standard minimums ([tone](https://www.youtube.com/watch?v=sSdlsB5NSsw))
+- **Inner marker:** Used to identify lower minimums of CAT II or III ILS ([tone](https://www.youtube.com/watch?v=xYit3zKbZkw))
 
-We now use DME or a secondary VOR to identify these points.
+We now use DME, 2nd VOR, or GPS to identify these points
 
 </div>
 
-![w:2000](images/image-7.png)
+<div>
+
+![w:1500](images/image-7.png)
+
+<div class="references">AIM 1-1-9</div>
+
+</div>
 
 </div>
 
@@ -299,12 +306,15 @@ Both needles get more sensitive as we get closer to the runway.
 
 ![w:2000](images/image-10.png)
 
-- We fly until reaching our decision altitude (DA)
-- If we have the runway environment in sight and are able to make a safe landing, we can continue our descent and land
+- We fly our glideslope and localizer until the **Decision Altitude**
+- DA is listed in MSL altitude., along with required flight visibility
+  - E.g. 398 ft MSL, 1/2 s.m. vis.
+- At the D.A. we can continue our descent if we have the required visibility and have the runway envionment in sight
+  - More on this
 
 </div>
 
-<div class="references">AIM 5-4-7, 14 CFR 91.175</div>
+<div class="references">AIM 5-4-20, 14 CFR 91.175</div>
 
 ---
 
@@ -409,16 +419,16 @@ Non-precision approaches are characterized by **step-down fixes** and a **minimu
 - Secondary CDI or bearing pointer should monitor the underlying NAVAID
 - Guidance can be used from the GPS
 
-<div class="references">AIM 1-2-3, IFH Ch 10</div>
+<div class="references">AIM 1-2-3</div>
 
 ---
 
 <style>
 .flex-1 {
-  flex: 2;
+  flex: 3;
 }
 .flex-2 {
-  flex: 3;
+  flex: 5;
 }
 </style>
 
@@ -475,12 +485,12 @@ Non-precision approaches are characterized by **step-down fixes** and a **minimu
 
 <div class="h-stack">
 
-![w:800](images/image-15.png)
+![w:750](images/image-15.png)
 
 </div>
 
 - CDI sensitivity becomes more accurate as you get closer to the runway
-- Final segment has angular guidance
+- Final segment has angular guidance like an ILS
 
 <div class="references">IFH Ch 10</div>
 
@@ -548,11 +558,9 @@ Allow you to fly an approach to one runway, but "circle" to land on a different 
 - Should maneuver to the "shortest path to the base or downwind leg"
 - **Missed approach procedure:**
   - Climbing turn towards the runway, the execute missed turn procedure
-- **Expanded circling protections:** Introduced in 2012, indicated by negative C on minima line
+  - Additional turns in the protected area may be required
 
 </div>
-
-<div class="references">AIM 5-4-20, IFH Ch 10</div>
 
 ---
 
@@ -568,11 +576,11 @@ Allow you to fly an approach to one runway, but "circle" to land on a different 
 
 ![alt text](images/image-22.png)
 
-</div>
+**Expanded circling protections:** Introduced in 2012, indicated by negative C on minima line
 
 </div>
 
-<div class="references">AIM 5-4-20, IFH Ch 10</div>
+</div>
 
 ---
 
@@ -582,13 +590,17 @@ Allow you to fly an approach to one runway, but "circle" to land on a different 
 
 ![w:900](images/image-30.png)
 
+<div>
+
 - Parallel runways less than 1200 ft. apart
 - ATC can say "cleared ILS runway 20R approach, side-step runway 20L"
 - **Commence the side-step maneuver as soon as possible** after the runway or runway environment is in sight
 
+<div class="references">AIM 5-4-19</div>
+
 </div>
 
-<div class="references">AIM 5-4-20, IFH Ch 10</div>
+</div>
 
 ---
 
@@ -634,30 +646,36 @@ The signal from a localizer also extends behind the primary runway, and can be u
 
 ---
 
+## Example LOC BC Approach - KSLE LOC BC RWY 13
+
+![bg right:50% fit](images/image-32.png)
+
+---
+
 ## Visual and Contact Approaches
 
 <div class="h-stack">
 
-![alt text](images/image-24.png)
+![w:800](images/image-24.png)
 
 <div>
 
 **Visual Approaches:**
 
-- If the airport has VFR weather, controllers can assign a visual approach
+- If the airport has VFR weather (1000 + 3), controllers can assign a visual approach
 - We're still IFR, so VFR cloud clearance rules (91.255) don't apply
-- We need visual separation from other aircraft
+- Expectation that we land visually, traffic + terrain clearance is our responsbility
 
 **Charted Visual Procedures:**
 
 - These are uncommon
 - Often used for noise-abatement
 
-</div>
+<div class="references">AIM 5-5-11, 5-4-23</div>
 
 </div>
 
-<div class="references">AIM 4-4-11, IFH Ch 10</div>
+</div>
 
 ---
 
@@ -697,11 +715,15 @@ Note that these would only be used if the conditions are less than VFR at the ai
 
 </div>
 
+<div>
+
 ![w:1200](images/image-26.png)
+
+<div class="references">AIM 1-1-9</div>
 
 </div>
 
-<div class="references">AIM 1-1-9, IFH Ch 10</div>
+</div>
 
 ---
 
@@ -788,8 +810,22 @@ Note that these would only be used if the conditions are less than VFR at the ai
 
 ---
 
+## Knowledge Check
+
+While breifing an approach chart you come across a symbol on the airport sketch that you don't recognize. Where can you find its meaning?
+
+---
+
+## Knowledge Check
+
+When flying a localizer back-course approach you notice the glideslope needle falling. What should you do?
+
+---
+
 ## References
 
+- [AIM Chapter 1](https://www.faa.gov/air_traffic/publications/atpubs/aim_html/chap1_section_1.html)
+- [AIM Chapter 5](https://www.faa.gov/air_traffic/publications/atpubs/aim_html/chap5_section_1.html)
 - [Looking for the Lights](https://planeandpilotmag.com/looking-for-the-lights/)
 - [14 CFR 91.175](https://www.ecfr.gov/current/title-14/chapter-I/subchapter-F/part-91/subpart-B/subject-group-ECFRef6e8c57f580cfd/section-91.175)
 - [Sporty's RNAV/GPS Approach Video](https://courses.sportys.com/training/portal/course/INSTRUMENT/volumes/VIDEO_TRAINING/1aa2e10e-8d56-4525-b222-49e9113499bc/e9499203-6826-484a-9eeb-6be7bb808daa)
