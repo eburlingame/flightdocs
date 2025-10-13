@@ -36,7 +36,7 @@ Allows a pilot to operate from more airports.
 
 <label>Elements</label>
 
-1. Short field surfaces
+1. Soft field surfaces
 2. Friction, hazards
 3. Elevator, digging into surface
 4. Lift-off
@@ -52,7 +52,7 @@ Allows a pilot to operate from more airports.
 
 <label>Procedure</label>
 
-1. Flaps &20deg;
+1. Flaps 20&deg;
 2. Turn onto runway without stopping
 3. Full aft elevator
 4. Full power smoothly

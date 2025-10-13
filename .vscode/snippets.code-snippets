@@ -199,6 +199,10 @@
     "prefix": "hstack",
     "body": ["<div class=\"h-stack\">", "", "$1", "", "</div>"],
   },
+  "vstack": {
+    "prefix": "vstack",
+    "body": ["<div class=\"v-stack\">", "", "$1", "", "</div>"],
+  },
   "div": {
     "prefix": "div",
     "body": ["<div>", "", "$1", "", "</div>"],

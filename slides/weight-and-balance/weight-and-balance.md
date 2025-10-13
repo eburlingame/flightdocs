@@ -111,7 +111,7 @@ Instruction: Known to unknown, simple to complex
 ## Weights
 
 - **Standard empty weight**: From the factory with standard equipment
-  - Includes oil, fuel, and unusable fuel
+  - Includes oil and unusable fuel
 - **Basic empty weight**
   - Standard empty weight, plus optional equipment
   - What we'll start with for W&B calculations
