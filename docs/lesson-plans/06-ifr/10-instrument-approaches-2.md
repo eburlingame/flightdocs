@@ -1,4 +1,4 @@
-# Inoperative Equipment Scenario
+# Instrument Approaches 2
 
 ## Format
 
