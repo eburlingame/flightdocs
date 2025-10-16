@@ -27,6 +27,16 @@ To demonstrate the kinds of approaches, approach limitations, and regulations th
 
 Introduce basic approach concepts for precision, non-precision, GPS, and other types of approaches.
 
+<br />
+
+Based on ASA IFR Syllabus:
+
+- Stage 2 / Module 3: GPS Approaches
+- Stage 2 / Module 4: ILS Approaches
+- Stage 2 / Module 5: RNAV Approaches
+
+(75 minutes)
+
 ---
 
 ## Overview
