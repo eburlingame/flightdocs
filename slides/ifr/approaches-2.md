@@ -89,9 +89,9 @@ How do we get from the enroute phase to the final approach phase?
 
 <div class="v-stack">
 
-![w:600](images/image-1.png)
+![w:500](images/image-1.png)
 
-![w:600](images/image-2.png)
+![w:500](images/image-2.png)
 
 </div>
 
@@ -275,6 +275,16 @@ We now use DME, 2nd VOR, or GPS to identify these points
 
 ---
 
+## Rule of Thumb for a 3&deg; Descent
+
+Descent rate = (Ground speed in knots) / 2 \* 10
+
+90 knots / 2 \* 10 = 450 fpm
+
+How would wind affect our descent rate?
+
+---
+
 ## Flying an ILS
 
 <div class="h-stack">
@@ -405,6 +415,18 @@ Non-precision approaches are characterized by **step-down fixes** and a **minimu
 </div>
 
 <div class="references">IFH Ch 10, 14 CFR 91.175</div>
+
+---
+
+## Going Missed on a Non-Precision Approach
+
+<div class="h-stack">
+
+![w:500](images/image-33.png)
+
+![w:600](images/image-34.png)
+
+</div>
 
 ---
 
@@ -819,6 +841,12 @@ While breifing an approach chart you come across a symbol on the airport sketch 
 ## Knowledge Check
 
 When flying a localizer back-course approach you notice the glideslope needle falling. What should you do?
+
+---
+
+## Knowledge Check
+
+While circling to land to the opposing runway you lose sight of the airfield. You're currently at 600 feet AGL and abeam the mid point of the runway. How should initiate the missed approach procedure?
 
 ---
 
