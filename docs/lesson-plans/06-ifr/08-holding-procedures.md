@@ -114,6 +114,7 @@ Published and unpublished holds are a routine part of IFR flight and must be und
   - Newer GPS units (GTNs): Will determine hold entry and issue roll-steering commands to fly the hold
     - Note they may not always choose the hold entry you would chose
   - GPS demo (DTO, hold, holding directions)
+    - "Hold west on the 100 degree radial of the ARTTY intersection, 4nm legs, left turns."
 - OBS mode hold
   - Allows you track an inbound radial to any arbitrary fix using the GPS
   - Fly just like a timed VOR hold, except using the GPS in OBS mode
