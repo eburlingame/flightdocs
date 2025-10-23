@@ -34,6 +34,7 @@ Published and unpublished holds are a routine part of IFR flight and must be und
   - VOR hold
   - DME hold
   - RNAV hold
+- Hold airspace
 - Wind correction
 - Lost comms procedure
 
@@ -55,6 +56,15 @@ Published and unpublished holds are a routine part of IFR flight and must be und
 [Draw a holding pattern]
 ![](images/image-1.png)
 
+### Hold Types
+
+- Published
+  - Approach charts (e.g. Hold-in-lieu of procedure turn, missed hold)
+  - Enroute charts
+    - ![alt text](images/image-2.png)
+- Unpublished holds
+  - Instructions give by ATC
+
 ### Holding instructions
 
 1. Direction of holding from the fix in terms of the 8 cardinal compass points (N, NE, E, SE, etc.)
@@ -67,18 +77,10 @@ Published and unpublished holds are a routine part of IFR flight and must be und
 ### Hold clearance examples
 
 - "Hold as published on the ARTTY intersection, expect further clearance at 15:30Z"
+  - KSLE RNAV 31
 - "Hold east of the UGB VOR on the 090&deg; radial, expect further clearance at 15:30Z"
   - No leg length was given, so 1 minute turns are expected
-- "Hold north on the 180 radial of the SHEDD intersection, left turns 4nm legs."
-
-### Hold altitudes and speeds
-
-- Standard leg timing &le; 14,000' MSL: 1 minute
-- Standard leg timing &gt; 14,000' MSL: 1.5 minutes
-- Speed limits
-  - Up to 6,000’ 200 knots
-  - 6,001’ to 14,000’ 230 knots
-  - 14,001 and higher 265 knots
+- "Hold north on the 360 radial of the SHEDD intersection, left turns, 4nm legs."
 
 ### Hold entries
 
@@ -86,7 +88,7 @@ Published and unpublished holds are a routine part of IFR flight and must be und
 - Always start tracking inbound to the fix
 - Depending on where we are, what's the best way to get into the racetrack pattern?
   - Direct: Turning directly outbound, may be more than 180&deg;
-  - Parallel: Track inbound course outbound, the turn 180&deg; to intercept
+  - Parallel: Track inbound course outbound, then turn &gt;180&deg; (like 210&deg;) to intercept
   - Teardrop: Fly 30&deg; into the hold for 1 minute
 - Note we want to be at holding speed with in 3 min. of holding
 
@@ -133,9 +135,19 @@ Published and unpublished holds are a routine part of IFR flight and must be und
   - Adjust timing of the outbound leg to make the inbound leg 1 minute
   - If the inbound leg took only 45s, make outbound leg 1min 15s on the next lap
 
+### Hold altitudes and speeds
+
+- Standard leg timing &le; 14,000' MSL: 1 minute
+- Standard leg timing &gt; 14,000' MSL: 1.5 minutes
+- Speed limits
+  - Up to 6,000’: 200 knots
+  - 6,001’ to 14,000’: 230 knots
+  - 14,001 and higher: 265 knots
+
 ### Lost comms procedure
 
-- FAR 91.185: Leaving the Clearance Limit (CL)
+FAR 91.185: Leaving the Clearance Limit (CL)
+
 - Hold until time to leave the CL
 - If the CL is a fix from which an approach begins: Leave at EFC time
   - If no EFC, leave as close to the ETA based on ETE
