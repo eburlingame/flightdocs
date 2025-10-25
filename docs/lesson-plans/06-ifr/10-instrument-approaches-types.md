@@ -16,7 +16,7 @@ Assumes familiarity with instrument approach plates and the components of an app
 
 ## Timing
 
-90 minutes
+60 minutes
 
 ## Outline
 

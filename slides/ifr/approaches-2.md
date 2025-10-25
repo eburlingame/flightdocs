@@ -35,7 +35,7 @@ Based on ASA IFR Syllabus:
 - Stage 2 / Module 4: ILS Approaches
 - Stage 2 / Module 5: RNAV Approaches
 
-(75 minutes)
+(60 minutes)
 
 ---
 
@@ -78,7 +78,8 @@ Based on ASA IFR Syllabus:
 How do we get from the enroute phase to the final approach phase?
 
 - **Direct to an IAF** (e.g. LOATH)
-- **Published feeder routes** (e.g. COUGA)
+  - Or an IF if RNAV equipped
+- **Via a feeder route** (e.g. COUGA)
 - **Vectors to final**
   - ATC-assigned headings, intercept to the final approach course
   - Entry behind the FAF
@@ -137,6 +138,7 @@ A published 180-degree turn to align you with the final approach course.
 - Fly standard hold entry and begin the approach
 - ATC will not expect you to make additional turns in the hold
 - These are become more common than barbed PTs
+- Tip: Always confirm with ATC if you're going to fly the course reversal
 
 <div class="references">AIM 5-4-9, IFH Ch 10</div>
 
@@ -207,6 +209,7 @@ Type of precision approaches:
 
 - Positioned at the end of the runway
 - Angular width is 700' wide at the threshold
+  - Two signals: 150HZ and 90HZ signals
 - Gives precise L/R angular guidance aligned with the runway
 - Note: Sensitivity depends on runway length
 
@@ -275,9 +278,11 @@ We now use DME, 2nd VOR, or GPS to identify these points
 
 ![alt text](images/image-9.png)
 
+![alt text](images/image-35.png)
+
 </div>
 
-- Glideslope needle starts above us
+- Glideslope [needle starts above us](https://www.luizmonteiro.com/Learning_VOR_Sim.aspx)
 - As we approach the GS intercept (lightning bolt), glideslope needle will come down
 - One dot below glideslope: Reconfigure for your approach
 
@@ -286,6 +291,8 @@ We now use DME, 2nd VOR, or GPS to identify these points
 ---
 
 ## Rule of Thumb for a 3&deg; Descent
+
+![bg left:40% fit](images/image-36.png)
 
 Descent rate = (Ground speed in knots) / 2 \* 10
 
@@ -517,7 +524,7 @@ Non-precision approaches are characterized by **step-down fixes** and a **minimu
 
 <div class="h-stack">
 
-![w:750](images/image-15.png)
+![w:700](images/image-15.png)
 
 </div>
 
@@ -666,7 +673,7 @@ The signal from a localizer also extends behind the primary runway, and can be u
 - Disregard any glideslope indication
 - A standard CDI will be read L/R backwards
   - Fly away from the needle instead of towards it
-  - "You are the needle"
+  - ["You are the needle"](https://www.luizmonteiro.com/Learning_VOR_Sim.aspx)
 - With an HSI, set the **inbound/front course** into your OBS
   - Then the green needles will read correctly (since the needles are flipped upside down)
 
@@ -857,6 +864,12 @@ When flying a localizer back-course approach you notice the glideslope needle fa
 ## Knowledge Check
 
 While circling to land to the opposing runway you lose sight of the airfield. You're currently at 600 feet AGL and abeam the mid point of the runway. How should initiate the missed approach procedure?
+
+---
+
+## Knowledge Check
+
+You're approaching an airport to land and you notice that the VOR navaid on the field is out-of-service. You were hoping to fly the VOR-16 approach to land. You have a WAAS-based GPS system installed in your airplane. Can you fly the approach?
 
 ---
 
