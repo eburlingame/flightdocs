@@ -227,7 +227,7 @@ Some ground lesson will use the [Backseat Pilot (BP) Commerical Lesson Plans](ht
         <td>0</td>
         <td>
            - [Holding Procedures](/docs/lesson-plans/ifr/holding-procedures)
-           - [BP V.A: ATC Clearances](https://thebackseatpilot.com/products/cfii-lesson-plans)
+           - [ATC Clearances](/docs/lesson-plans/ifr/ifr-clearances)
         </td>
         <td>Holds and IFR clearances</td>
     </tr>

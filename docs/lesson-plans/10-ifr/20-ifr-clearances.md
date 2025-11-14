@@ -18,6 +18,17 @@ Every IFR flight will involve an IFR clearance.
 
 ## Overview
 
+- What is an IFR clearance?
+- Why do we need one?
+- Filing a flight plan
+- Calling for a clearance
+- Copy and readback
+- Ways to obtain a clearance
+- Departure clearances
+- Approach clearances
+- Pilot responsibilities
+- Controller responsibilities
+
 ## Elements
 
 ### IFR Clearances
@@ -28,17 +39,17 @@ Every IFR flight will involve an IFR clearance.
   - 91.173: No person may operate an aircraft in controlled airspace under IFR unless that person has filed an IFR flight plans and recieved an approriate clearance.
 - Filing a flight plan
   - Via FSS or ForeFlight
-  - This gets sent to the tower, the departure radar facility, and the Center
+  - This gets sent to the tower, the departure radar facility, and appropriate ARTCC (center)
   - Usually flight plans show up in the system 30 minutes the ETD on the flight plan, and remain for 2 hours after the ETD
 - Calling for a clearance
   - "Boeing Clearance, N2017E, IFR to Vancouver, ready to copy"
 - Copy and readback
   - CRAFT
-    - Clearance limit: Usually the aiport
+    - Clearance limit: Usually the aiport, sometimes a fix
     - Route: Route to fly, or "as filed"
       - Must notify ATC if you can't comply (not equipped, performance limitations)
     - Altitude: Initial altitude to maintain
-      - They can give youi a "cruise" clearance here, which allows you to climb/descend from minimum IFR altitude to the cruise clearance altitude
+      - They can give you a "cruise" clearance here, which allows you to climb/descend from minimum IFR altitude to the cruise clearance altitude
     - Frequency: Frequency to contact after departure (Departure, approach, center)
     - Transponder: Squawk code
   - Clearance readback
@@ -51,7 +62,7 @@ Every IFR flight will involve an IFR clearance.
   - At a towered airport
     - Ground frequency
     - Clearance delivery frequency
-    - Some airports have digital digital pre-departure clearance (PDC) or you may be CPDLC-DCL equipped
+    - Some airports have digital digital pre-departure clearance (PDC), or you may be CPDLC-DCL equipped
   - At a non-towered airport
     - On the ground via a published frequency or phone number
       - Departure procedure charts will list a frequency for CLNC DEL
@@ -65,7 +76,7 @@ Every IFR flight will involve an IFR clearance.
   - Digitally
     - Some airports have digital digital pre-departure clearance (PDC)
       - This can be done through ForeFlight
-      - Requires registing through a data provider for your tail number
+      - Requires registering through a data provider for your tail number
       - Only one flight plan per airport per tail number is allowed in an 18 hour window
       - No flight plan ammendments can be made
     - Another option is CPDLC-DC
@@ -77,6 +88,17 @@ Every IFR flight will involve an IFR clearance.
   - SID: If a SID is it will be included in your routing and readback
     - Fly the SID as published
     - ATC may ammend some altitudes
+  - What if there's non SID or ODP?
+    - If the airport has an IAP, then a departure assessment was not done
+      - Follow the "non-charted procedure"
+      - Fly runway heading until 400' AGL, then proceed as instructed (on course, vectors)
+    - If the airport has _no_ IAP, then obstacle clearance is entirely up to you
+- Approach clearances
+  - PTAC:
+    - Position from fix
+    - Turn to intercept the final approach course
+    - Altitude
+    - "Cleared for approach"
 
 ### Pilot and Controller Responsibilities
 
@@ -97,7 +119,9 @@ Every IFR flight will involve an IFR clearance.
 
 - "N549SR, cleared to the Astoria airport via the published departure procedure, then as filed. Maintain 5000, expect 8000 10 minutes after departure. Departure frequency 124.87. Squawk 4866."
 - At KBLI, "N549SR cleared to the Spokane airport via the NRVNA ONE departure, then direct ZADON, then as filed. Climb via the SID maintain 5000, expect 11,000 10 minutes after departure. Departure frequency 119.2, squawk 4166."
+- "Delta 134 is cleared to Denver via the HILAA Two Departure, BLH transition, then as filed. Maintain five thousand, expect FL350 10 minutes after departure. Departure frequency 124.3, squawk 4766, Delta 134."
 - Departing SMO to : "Cleared to Big Bear airport via climb runway heading, at the LAX315 radial turn right heading 250, radar vectors SMO VOR, outbound SMO 125 degree radial, V64, SLI, V8, PDZ, V442, APLES intersection, V386, SOGGI intersection, direct. Maintian 3000, expect 11,000 15 minutes after depature. SoCal departure frequency 126.8, sqwak 4634"
+- "3 miles from LOTKE, cross LOTKE at or above 3000, cleared ILS runway 31 approach Salem airport"
 
 ## References
 
