@@ -568,7 +568,7 @@ Some ground lesson will use the [Backseat Pilot (BP) Commerical Lesson Plans](ht
 - [BP VI.H: Unusual Attitudes](https://thebackseatpilot.com/products/cfii-lesson-plans)
 - [BP II.B: Aeromedical Factors](https://thebackseatpilot.com/products/cfii-lesson-plans)
 - [BP VII.A: Intercepting/Tracking Nav Systems](https://thebackseatpilot.com/products/cfii-lesson-plans)
-- [BP II.A.4: Autopilot Mode and Usage](https://thebackseatpilot.com/products/cfii-lesson-plans)
+- [BP II.A.4: Autopilot Modes and Usage](https://thebackseatpilot.com/products/cfii-lesson-plans)
 - [BP II.C: Regulations & Publications](https://thebackseatpilot.com/products/cfii-lesson-plans)
 - [Holding Procedures](/docs/lesson-plans/ifr/holding-procedures)
 - [BP V.A: ATC Clearances](https://thebackseatpilot.com/products/cfii-lesson-plans)
