@@ -11,7 +11,11 @@ Understand and apply the different autopilot modes, how the autopilot operates, 
 
 ## Timing
 
+30 minutes
+
 ## Format
+
+- [Slides](/slides/autopilot-use.pdf)
 
 - Slides
 
