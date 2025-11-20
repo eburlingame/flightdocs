@@ -146,7 +146,7 @@ Some ground lesson will use the [Backseat Pilot (BP) Commerical Lesson Plans](ht
         <td>0</td>
         <td>
            - [BP II.A.4: Autopilot Mode and Usage](https://thebackseatpilot.com/products/cfii-lesson-plans)
-           - TODO: Need AP mode-specific lesson plan
+           - [Autopilot Use under IFR](/docs/lesson-plans/ifr/autopilot-use)
         </td>
         <td>Autopilot fundamentals</td>
     </tr>
