@@ -30,8 +30,14 @@ Understand and apply the different autopilot modes, how the autopilot operates, 
 ## Overview
 
 - Effective use of the autopilot
-- Autopilot documents
-- Autopilot modes
+- Autopilot Documents
+- Mode Annunciations
+- Lateral Modes
+- Vertical Modes
+- Approach Modes
+- Specific scenarios
+  - How to use VNAV Mode
+  - Fully-Coupled Go-Around
 
 ---
 
@@ -55,8 +61,16 @@ Understand and apply the different autopilot modes, how the autopilot operates, 
 
 ## Autopilot Documents
 
+<div class="h-stack">
+
+![w:400](images/image-9.png)
+
+- Retrofit autopilots are installed per an STC
 - [GFC 500 Pilots's Guide](https://static.garmin.com/pumac/190-01112-12_B)
-- [GFC 500 AFMS](https://static.garmin.com/pumac/190-02291-06_10.pdf) - Flight Manual Supplement (must be in the plane)
+- [GFC 500 AFMS](https://static.garmin.com/pumac/190-02291-06_10.pdf) - Flight Manual Supplement
+  - Must be in the plane
+
+</div>
 
 ---
 
@@ -137,12 +151,12 @@ Initial Mode Activation
 
 <div>
 
-- Ensure altitudes are configured on the GTN navigator
-- Ensure you're in GPS mode on the CDI
-- Altitude preselect: Set to clearance limit
-- Press the VNAV button to arm VNAV (white VNAV)
-- "Vertical Track" audio alert - 1 minute before TOD (akin to a GS)
-- Intermediate level offs will show with ALTV annunciation
+1. Ensure altitudes are configured on the GTN
+2. Ensure you're in GPS mode on the CDI
+3. Altitude preselect: Set to clearance limit
+4. Press the VNAV button to arm VNAV (white VNAV)
+5. "Vertical Track" audio alert 1 minute before TOD (similar to a GS capture)
+6. Intermediate level offs will show with ALTV annunciation
 
 </div>
 
