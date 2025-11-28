@@ -48,7 +48,7 @@ Understand and apply the different autopilot modes, how the autopilot operates, 
 ![alt text](images/image-3.png)
 
 - Workload reduction
-- Allows you to focus your attention elsewhere. Thinkg of heads-down work:
+- Allows you to focus your attention elsewhere. Thinking of heads-down work:
   - Talking to ATC
   - Briefing and approach
   - Programming avionics
@@ -172,7 +172,7 @@ Note: "VNAV mode will not capture a descending profile unless the selected altit
 - At the go-around point, hit GA switch twice
   - This will put the AP in G/A mode, which pitches up to 7&deg;, wings level
 - Switch to IAS or VS mode, as appropriate to follow missed altitudes
-- Switch to NAV or HDG mode, as approriate to follow missed procedure
+- Switch to NAV or HDG mode, as appropriate to follow missed procedure
 
 ---
 
@@ -184,5 +184,5 @@ Note: "VNAV mode will not capture a descending profile unless the selected altit
 - Beware of mode confusion
   - Particularly around PIT and ROL modes (which are usually not what you want)
   - VNAV requires altitude bug set below you at your final altitude
-  - Glideslops only capture from below
+  - Glideslope only capture from below
   - G/A around mode uses 7&deg; nose-up and wings level (with ALT mode armed)
