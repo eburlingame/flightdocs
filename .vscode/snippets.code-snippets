@@ -16,6 +16,13 @@
     ],
     "description": "Link to Pilot's Handbook of Aeronautical Knowledge",
   },
+  "ifh": {
+    "prefix": "ifh",
+    "body": [
+      "[Instrument Flying Handbook pg. $1](/_references/IFH/$1)",
+    ],
+    "description": "Link to Instrument Flying Handbook",
+  },
   "6165": {
     "prefix": "6165",
     "body": ["[AC 61-65 $1](/_references/AC-61-65/$1)"],
