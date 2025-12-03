@@ -10,6 +10,9 @@ const transformations: Record<string, (url: string) => string> = {
   "/_references/PHAK/": () =>
     "https://www.faa.gov/regulations_policies/handbooks_manuals/aviation/faa-h-8083-25c.pdf",
 
+  "/_references/IFH/": () =>
+    "https://www.faa.gov/sites/faa.gov/files/regulations_policies/handbooks_manuals/aviation/FAA-H-8083-15B.pdf",
+
   "/_references/AC-61-65/": () =>
     "https://www.faa.gov/documentLibrary/media/Advisory_Circular/AC_61-65J.pdf",
 
