@@ -129,9 +129,22 @@ To understand the formation, dangers, and mitigation of in-flight icing and how 
     - Increase approach airspeed by at least 25 percent above non-icing airspeed for the applicable flap setting
 - Icing regulations: [91.527](/_references/14-CFR/91.527)
   - "No pilot may take off an airplane that has frost, ice, or snow adhering to any propeller, windshield, stabilizing or control surface; to a powerplant installation; or to an airspeed, altimeter, rate of climb, or flight attitude instrument system or wing"
-  - No pilot may fly under IFR into known or forecast light or moderate icing conditions, or under VFR into known light or moderate icing conditions, unless the aircraft is FIKI-certified.
+  - No pilot may fly under IFR into known or forecast light or moderate icing conditions, or under IFR into known light or moderate icing conditions, unless the aircraft is FIKI-certified.
 - Flight into known icing certification (FIKI)
   - "Flight into known icing": Any flight conditions where you’d expect the possibility of ice forming or adhering to the aircraft based on all available preflight information
+  - FIKI is a certification process that occurs when the aircraft is developed
+  - Is you aircraft FIKI certified?
+    - How to tell: AFM or POH references "part 25 appendix C"
+    - If your A/C has a MEL which includes icing conditions
+  - Features of a FIKI airplane
+    - Pitot-heat: Hotter than a no-FIKI model
+    - Carburetor heat/Alternate air
+    - Windshield defroster or anti-ice panel
+    - Wing boots or "weeping wing"/TKS system
+    - Propeller anti-ice system
+    - Stall warning system heat
+    - Fluid quantity gauge (weeping wing system)
+    - Note some aircraft have the above features but our not FIKI-certified, like our SR22
   - Note: Even airplanes approved for flight into known icing conditions should not fly into **severe** icing, **freezing rain** or **freezing drizzle**.
 
 ## References
@@ -143,3 +156,5 @@ To understand the formation, dangers, and mitigation of in-flight icing and how 
 - [AIM 7-6-15](/_references/AIM/7-6-15): Operations in Ground Icing Conditions
 - [Aviation Weather Handbook pg. 20-2](https://www.faa.gov/sites/faa.gov/files/FAA-H-8083-28A_FAA_Web.pdf)
 - [AC 91-74B](https://www.faa.gov/documentLibrary/media/Advisory_Circular/AC_91-74B.pdf)
+- [Article about FIKI](https://www.aopa.org/training-and-safety/online-learning/safety-spotlights/weather-wise-precipitation-and-icing/deicing-and-anti-icing-equipment)
+- [NASA Icing Course](https://aircrafticing.grc.nasa.gov/1_2_8_1.html)
