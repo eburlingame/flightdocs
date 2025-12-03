@@ -62,6 +62,7 @@ convert_to_pdf slides/aerodynamics/stability-template.md
 
 convert_to_pdf slides/ifr/approaches/approaches-2.md
 convert_to_pdf slides/ifr/autopilot/autopilot-use.md
+convert_to_pdf slides/ifr/icing/icing-fiki.md
 
 # Recursively scan all .md files in the slides directory and convert them to .pdf using marp
 # mkdir -p static/slides
