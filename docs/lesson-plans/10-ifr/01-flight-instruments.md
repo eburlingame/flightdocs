@@ -43,7 +43,7 @@ Review the pitot-static and gyroscopic instruments, their operation and errors, 
   - Density altitude
     - The height in the standard atmosphere where an equivalent pressure is found after adjusting for non-standard temperature and pressure
   - Absolute altitude (AGL): Actual height above the terrain
-- Altimetery errors
+- Altimetry errors
   - Cold weather errors: Cold air is more dense, therefore at the same indicated altitude the aircraft would be flying lower than is indicated
     - Think of the cylinder of air below the aircraft condensing in cold weather
   - Warm weather errors: Warm air is less dense, therefore at the same indicated altitude the aircraft would be flying higher than is indicated
@@ -73,7 +73,7 @@ Review the pitot-static and gyroscopic instruments, their operation and errors, 
 - Types of airspeed
   - **Indicated airspeed**: Read from the altimeter
   - **Calibrated airspeed**: Airspeed corrected for installation and position errors
-  - **True airspeed**: The speed at which in the air is moving through the airmass
+  - **True airspeed**: The speed at which the aircraft is moving through the airmass
     - Changes in temperature and ambient pressure result in different air densities
     - This means the aircraft could be moving faster or slower through an airmass at the same indicated airspeed
     - True airspeed corrects for this
@@ -104,13 +104,13 @@ Gyroscopic instruments are often powered by:
 
 ### Attitude Indicator
 
-- Sometimes called an "artifical horizon"
+- Sometimes called an "artificial horizon"
 - Contains a vertical spinning wheel, spun at high speeds
-- The disk is attached toa gimbal that allows the aircraft to pitch and bank _around_ the gyro
+- The disk is attached to a gimbal that allows the aircraft to pitch and bank _around_ the gyro
 - Gyroscopic AI's can take up to 5 minutes to stabilize
 - Some AI's have a slight acceleration error
   - Slight nose-up indication when accelerating
-  - Slight nose-down indication when deceleration
+  - Slight nose-down indication when decelerating
 
 ### Gyro-driven Heading Indicator
 
