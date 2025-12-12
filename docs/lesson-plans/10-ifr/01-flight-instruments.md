@@ -124,13 +124,23 @@ Gyroscopic instruments are often powered by:
 
 ### Turn Coordinator
 
+- Operates in much the same way as the heading indicator with a spinning gyro
+- Used to make standard-rate turns
+- Often are powered by a DC motor, for redundancy if the main vacuum pump were to fail
+
 ### Slip/Skid Indicator
 
-### Glass panel instrument components
+- Also called a coordination ball or inclinometer
 
-- Enhanced Flight Information System
-- Air data computer
-- AHRS
+### Electronic Flight Instruments
+
+- Electronic Flight Information System (EFIS): Digital cockpit information display
+  - Primary flight display (PFD)
+  - Multi-function display (MFD)
+- AHRS: Attitude and Heading Reference System (AHRS)
+- Air data computer:
+  - Integrates static, pitot, and air temperature information
+  - Compute airspeed, altitude, vertical speed, and true airspeed to be output on a PFD
 
 ## References
 
