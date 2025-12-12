@@ -146,3 +146,4 @@ Gyroscopic instruments are often powered by:
 
 - [Pitot Static System Simulator](https://www.luizmonteiro.com/Learning_Pitot_Sim.aspx)
 - [Instrument Flying Handbook pg. 5-1](/_references/IFH/5-1)
+- Backseat Pilot CFI-I Lesson Plans II.A.1
