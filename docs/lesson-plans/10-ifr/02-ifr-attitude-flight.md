@@ -31,7 +31,7 @@ Introduce basic aircraft control using the standard instruments, covering instru
 
 - Maintaining an instrument scan is fundamental to instrument flying
   - We want to view and interpret each instrument in rapid succession to get a clear sense of our attitude, performance, and navigation
-- How fast: Recommended to change instruments fast than 1 per second
+- How fast: Recommended to change instruments faster than 1 per second
 - Styles of instrument scan
   - Selected Radial Cross-Check
     - ![alt text](images/image-15.png)
@@ -53,13 +53,13 @@ Introduce basic aircraft control using the standard instruments, covering instru
 
 - Control and performance is all about setting the aircraft into a known configuration, then confirming you're getting the performance that you expect
 - Steps
-  1. **Establish** a know pitch and power setting
+  1. **Establish** a known pitch and power setting
   2. **Trim** to relieve control pressure
   3. **Cross**-check performance instruments
   4. **Adjust** pitch/power as necessary
      - Restrict the Attitude Indicator’s displacement to ½ - 1 bar width movements up or down
 - Control Instruments
-  - These instruments provide **immediate indications of attitude and power**. They are used primarily to **establish** the desired pitch and power settings,.
+  - These instruments provide **immediate indications of attitude and power**. They are used primarily to **establish** the desired pitch and power settings.
   - Examples: Attitude Indicator and Power Indicators (e.g., manifold pressure, tachometer/RPM)
 - Performance Instruments
   - These instruments indicate the aircraft's actual performance resulting from inputs made to the control instruments
@@ -241,7 +241,7 @@ Introduce basic aircraft control using the standard instruments, covering instru
 - Basic procedure
 
   1. Line up with the intended runway
-  2. hold the brakes firmly to avoid creeping
+  2. Hold the brakes firmly to avoid creeping
   3. Set the heading bug to the runway heading
   4. Apply takeoff power, confirm power, then release the brakes
   5. Cross-check the heading indicator and ASI during takeoff roll
