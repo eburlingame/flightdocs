@@ -53,13 +53,15 @@ Review the magnetic compass construction, operation, errors, and usage under IFR
   - Magnetic north also changes over time as the Earth's magnetic field changes
 - **Magnetic variation** is the error caused by the difference between true and magnetic north
   - Corrected by **isogonic** lines, or lines of equal variation
-  - These are dashed magenta lines on a sectional
+  - These are dashed magenta lines on a sectional, bright green lines on an IFR enroute chart
   - **Agonic** Line: The line along which the two poles are aligned, and there is no variation
 - Correcting for magnetic variation
   - True course ± variation = magnetic course
   - Remember: East is Least, West is Best
     - Subtract easterly variations to get a magnetic heading
     - Add westerly variations to get a magnetic heading
+
+![alt text](images/ifr-isogonic.png)
 
 ### Dip Errors
 

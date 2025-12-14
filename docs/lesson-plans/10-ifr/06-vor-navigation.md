@@ -84,6 +84,8 @@ See [AIM 1-1-4](/_references/AIM/1-1-4)
 
 ### VOR Tuning and Identifying
 
+![alt text](images/vor-morse-code.png)
+
 - VOR procedure requires pilots to **Tune, Identify, and Monitor (TIM)** the facility.
   - **Tune:** Select the VOR frequency using the aircraft receiver.
   - **Identify:** Confirm the Morse code signal or voice announcement stating the name of the facility followed by "VOR".
@@ -92,41 +94,60 @@ See [AIM 1-1-4](/_references/AIM/1-1-4)
 
 ### VOR Orientation
 
-- VOR indicates aircraft direction **FROM the station**; readings are independent of aircraft heading.
-- To determine position (radial): Rotate OBS to center CDI needle and read course under **“FROM”** indicator.
-- The radial is the line of magnetic bearing extending outward from the VOR.
-- To determine course to station: Rotate OBS to center CDI needle and read course under **“TO”** indicator.
-- TO/FROM indicator shows direction relative to selected course.
-- Reverse sensing occurs if OBS is set to reciprocal of intended course.
+![alt text](images/image-26.png)
 
-### VOR Intercepting
+- A CDI makes no indication of **aircraft heading**
+- A CDI with a "TO" flag reads the **bearing** to fly to reach the station
+  - For instance, a centered CDI needle with the OBS set to **090&deg;** means the aircraft could fly a **90&deg;M** ground track to reach the station
+- A CDI with a "FROM" flag reads the **radial** from the station
+  - For instance, a centered CDI needle with the OBS set to **090&deg;** means the aircraft could fly a **270&deg;M** ground track to reach the station
+- If the VOR is set to the reciprocal of the intended course (e.g., 90&deg; instead of 270&deg;), the CDI will be "reverse sensing"
+  - The CDI needle would behave the opposite
+- An error flag (or a lack of T/F flag) indicates no VOR signal is being received
+- Full needle deflection from the center position to either side of the dial indicates the aircraft is **12° or more off** course
+  - The outer edge of the center circle is **2°** off course
+  - Each dot representing an additional **2°**
 
-- Determine difference between the radial aircraft is on and the radial to be intercepted.
-- Intercept angle: **Double the difference**.
-- Intercept angle should be $\ge 20^{\circ}$ and $\le 90^{\circ}$.
-- Maintain the intercept heading until CDI centers.
-- Then, turn to the magnetic course (radial heading) and begin tracking.
-- To avoid overshooting, lead the turn onto the course centerline.
+### VOR Intercepting - Doubling the Difference
+
+1. Determine the difference between the radial to be intercepted and the radial on which the aircraft is located (205° – 160° = 045°).
+2. Double the difference to determine the interception angle, which will not be less than 20° nor greater than 90° (45° × 2 = 090°).
+   - 205° + 090° = 295° for the intercept
+3. Rotate the OBS to the desired radial or inbound course.
+4. Turn to the interception heading.
+5. Hold this heading constant until the CDI center, which indicates the aircraft is on course. (With practice in judging the varying rates of closure with the course centerline, pilots learn to lead the turn to prevent overshooting the course.)
+6. Turn to the MH corresponding to the selected course, and follow tracking procedures inbound or outbound.
+
+### VOR Intercept - 45&deg; Intercept
+
+1. Determine the bearing TO the station that you are on (for example, the 060&deg; bearing TO the VOR)
+2. Identify the bearing you want to intercept (e.g. 090&deg; radial TO)
+3. Twist the OBS to our desired bearing (in this case 090&deg;)
+4. Depending on the location of the CDI need, add or subtract:
+   1. If the needle is to the left: Subtract 45 degrees from the desired bearing (90&deg; - 45&deg; = 45&deg;)
+   2. If the needle is to the right: Add 45 degrees from the desired bearing
+5. Fly the computed intercept heading
 
 ### VOR Tracking / Wind Correction Techniques
 
 - **Tracking:** Flying a constant heading to maintain the desired course over the ground.
-- If CDI deflects, turn **in the direction of the needle deflection** to intercept the course.
+  - If CDI deflects, turn **in the direction of the needle deflection** to intercept the course.
+  - "Chase the needle"
 - Pilot must establish a **wind correction angle (WCA)** to maintain track.
+  - Use a bracketing technique to determine the correct angle
 - **Homing:** Flying whatever heading keeps the needle centered (results in a circuitous path over ground).
 - Tracking outbound: Set the desired radial with a FROM indication and maintain track.
 
 ### VOR Station Passage
 
-- Indicated when the TO/FROM indicator **reverses**.
-- CDI needle **fluctuates rapidly** and deviates sharply (cone of confusion).
-- If outbound, timing begins over or **abeam the holding fix**, whichever occurs later.
-- For a VOR, outbound timing begins when the **TO/FROM indicator reverses**.
+- Indicated when the TO/FROM indicator **reverses**
+- CDI needle **fluctuates rapidly** and deviates sharply (cone of confusion)
+- If outbound, timing begins over or **abeam the holding fix**, whichever occurs later
+- For a VOR, outbound timing begins when the **TO/FROM indicator reverses**
 
 ## References
 
-- Instrument Flying Handbook
-- Aeronautical Information Manual
-- Backseat Pilot CFI-I Lesson Plans
-- FlightInsight - Basic Instrument Flight Lesson
+- [Instrument Flying Handbook pg. 9-8](/_references/IFH/9-8)
+- [AIM 1-1-4](/_references/AIM/1-1-4)
+- Backseat Pilot CFI-I Lesson Plans: VII.A. Intercepting and Tracking Navigational Systems
 - [BoldMethod How to Do a VOR Check](https://www.boldmethod.com/learn-to-fly/systems/vor-check-ifr/)
