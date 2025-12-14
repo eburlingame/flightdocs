@@ -1,4 +1,4 @@
-# Human Factors
+# Aeromedical Factors
 
 ## Objective
 
@@ -71,14 +71,14 @@ Understand the risks and mitigations for aeromedical factors that can affect fli
 - The "leans"
   - After a long gradual turn, the airplane is returned to level
   - The plane may feel as though it's banking in the opposite direction
+- Graveyard spiral
+  - During a prolonged, coordinated, constant-rate turn (especially in IMC), the pilot may not sense the turn due to lack of sensory cues
+  - Noticing a loss of altitude, the pilot may mistakenly believe the wings are level and pull back on the controls to stop the descent
+  - This action tightens the turn, increasing the rate of descent and tightening the spiral
+  - The result is a nose-low, descending, high-G turn that can lead to loss of control if not recognized and corrected
 - Coriolis illusion
   - Rapid head movement during a turn
   - The plane may feel as though it's banking in the opposite direction
-- Graveyard spiral
-  - After entering a prolonged, coordinated, constant-rate turn without visual references, the pilot's inner ear no longer senses the turn, leading to the false impression of straight-and-level flight.
-  - When the pilot levels the wings, it feels as though the aircraft is turning in the opposite direction, so the pilot may erroneously bank back into the original turn.
-  - The airplane will tend to lose altitude in the turn, so the pilot pulls back on the elevator, tightening the spiral.
-  - The result is a nose-low, descending, high-G turn.
 - Somatogravic illusion
   - Acceleration may feel like a pitching-up movement
   - Especially true with limited visual reference, like at night
@@ -187,11 +187,10 @@ Understand the risks and mitigations for aeromedical factors that can affect fli
 
 ### Drugs
 
-- Regulations
-  - Part [61.53](/_references/14-CFR/61.53):
-    - A pilot cannot act as PIC if:
-      - They have any known condition that would make them ineligible for a medical
-      - Are receiving treatment or taking medication that would make them ineligible for a medical
+- Regulations: Part [61.53](/_references/14-CFR/61.53):
+  - A pilot cannot act as PIC if:
+    - They have any known condition that would make them ineligible for a medical
+    - Are receiving treatment or taking medication that would make them ineligible for a medical
 - [AOPA Drug Database](https://www.aopa.org/go-fly/medical-resources/medications-database)
 - FAA [Over-the-Counter (OTC) Drug List](https://www.faa.gov/sites/faa.gov/files/licenses_certificates/medical_certification/medications/OTCMedicationsforPilots.pdf)
 - Check the half-life of any drug you intend to take
