@@ -31,7 +31,7 @@ Some ground lesson will use the [Backseat Pilot (BP) Commerical Lesson Plans](ht
         <td>1.2</td>
         <td>0</td>
         <td>
-            - [Attitude Instrument Flight](/docs/lesson-plans/ifr/ifr-atttiude-flight)
+            - [Attitude Instrument Flight](/docs/lesson-plans/ifr/ifr-attitude-flight)
         </td>
         <td>Basic attitude instrument flying</td>
     </tr>
