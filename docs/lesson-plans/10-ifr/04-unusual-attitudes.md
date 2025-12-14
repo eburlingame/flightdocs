@@ -51,7 +51,7 @@ Discuss and understand unusual attitude recovery, both full and partial panel.
 - Some systems (like the G1000) have a reversionary mode
   - This puts the PFD on the MFD display
 - For a complete electrical failure, rely on the backup instruments
-- Use all tools at your dispose
+- Use all tools at your disposal
   - Ask for radar vectors out of IFR conditions
   - Use your iPad's attitude indicator and map
 
@@ -78,12 +78,12 @@ Discuss and understand unusual attitude recovery, both full and partial panel.
     2. Elevator: **Lower the nose**
     3. Aileron and rudder: **Remove bank**
     4. Pitch attitude is indicated by the reversal and stabilization of altimeter and ASI
-- Nose-lose attitudes
+- Nose-low attitudes
   - Identified by
     - Attitude indicator: **Nose-low**
-    - Altimeter needle: **Climbing**
-    - Vertical speed needle: **Positive**
-    - Airspeed needle: **Falling**
+    - Altimeter needle: **Descending**
+    - Vertical speed needle: **Negative**
+    - Airspeed needle: **Increasing**
   - Recovery
     1. Power: **Idle** ("Brown: power down")
     2. Rudder and aileron: **Level the wings**
