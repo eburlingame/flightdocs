@@ -71,13 +71,15 @@ Understand the risks and mitigations for aeromedical factors that can effect fli
 - The "leans"
   - After a long gradual turn, the airplane is returned to level
   - The plane may feel as though it's banking in the opposite direction
-- Coriolis illusion
-  - Rapid head movement during a turn
-  - The plane may feel as though it's banking in the opposite direction
 - Graveyard spiral
+  - After a long gradual turn, the airplane is returned to level
+  - The plane may feel as though it's banking in the opposite direction
   - The pilot erroneous banks back into the turn
   - The airplane will tend to lose altitude, so the pilot pulls back on the elevator
   - The result is a nose-low, descending, high-G turn
+- Coriolis illusion
+  - Rapid head movement during a turn
+  - The plane may feel as though it's banking in the opposite direction
 - Somatogravic illusion
   - Acceleration may feel like a pitching-up movement
   - Especially true with limited visual reference, like at night
@@ -186,11 +188,10 @@ Understand the risks and mitigations for aeromedical factors that can effect fli
 
 ### Drugs
 
-- Regulations
-  - Part [61.53](/_references/14-CFR/61.53):
-    - A pilot cannot act as PIC if:
-      - They have any known condition that would make them ineligible for a medical
-      - Are receiving treatment or taking medication that would make them ineligible for a medical
+- Regulations: Part [61.53](/_references/14-CFR/61.53):
+  - A pilot cannot act as PIC if:
+    - They have any known condition that would make them ineligible for a medical
+    - Are receiving treatment or taking medication that would make them ineligible for a medical
 - [AOPA Drug Database](https://www.aopa.org/go-fly/medical-resources/medications-database)
 - FAA [Over-the-Counter (OTC) Drug List](https://www.faa.gov/sites/faa.gov/files/licenses_certificates/medical_certification/medications/OTCMedicationsforPilots.pdf)
 - Check the half-life of any drug you intend to take
