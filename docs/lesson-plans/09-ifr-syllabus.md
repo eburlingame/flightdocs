@@ -21,7 +21,7 @@ Some ground lesson will use the [Backseat Pilot (BP) Commerical Lesson Plans](ht
         <td>1.2</td>
         <td>0</td>
         <td>
-            - [BP II.A.1, 3: Flight Instruments/EFIS](https://thebackseatpilot.com/products/cfii-lesson-plans)
+            - [Flight Instruments and EFIS](/docs/lesson-plans/ifr/flight-instruments)
         </td>
         <td>Flight Instruments</td>
     </tr>
@@ -31,7 +31,7 @@ Some ground lesson will use the [Backseat Pilot (BP) Commerical Lesson Plans](ht
         <td>1.2</td>
         <td>0</td>
         <td>
-            - [BP VI.A-E: Attitude Instrument Flight](https://thebackseatpilot.com/products/cfii-lesson-plans)
+            - [Attitude Instrument Flight](/docs/lesson-plans/ifr/ifr-atttiude-flight)
         </td>
         <td>Basic attitude instrument flying</td>
     </tr>
@@ -65,9 +65,9 @@ Some ground lesson will use the [Backseat Pilot (BP) Commerical Lesson Plans](ht
         <td>1.2</td>
         <td>0</td>
         <td>
-            - [BP II.A.1.k: Magnetic Compass](https://thebackseatpilot.com/products/cfii-lesson-plans)
-            - [BP VI.H: Unusual Attitudes](https://thebackseatpilot.com/products/cfii-lesson-plans)
-            - [BP II.B: Aeromedical Factors](https://thebackseatpilot.com/products/cfii-lesson-plans)
+            - [Magnetic Compass](/docs/lesson-plans/ifr/magnetic-compass)
+            - [Partial Panel and Unusual Attitudes](/docs/lesson-plans/ifr/unusual-attitudes)
+            - [Aeromedical Factors](/docs/lesson-plans/ifr/aeromedical-factors)
         </td>
         <td>Magnetic compass, turns, unusual attitudes, aeromedical</td>
     </tr>
