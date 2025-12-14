@@ -33,14 +33,14 @@ Review the magnetic compass construction, operation, errors, and usage under IFR
 ### Construction
 
 - An aircraft magnetic compass has two small magnets attached to a metal float sealed inside a bowl of clear compass fluid similar to kerosene. The buoyancy of the float takes most of the weight off the pivot
-- A graduate scale, called a card, is wrapped around the float and viewed through a glass window with a lubber line across it
+- A graduated scale, called a card, is wrapped around the float and viewed through a glass window with a lubber line across it
 - This jewel-and-pivot type mounting allows the float freedom to rotate and tilt up to approximately 18° angle of bank
 - The compass card stays stationary, and the pilot turns around it
-- Oscillation errors: Erratic movement of the card caused my turbulence or rough control inputs
+- Oscillation errors: Erratic movement of the card caused by turbulence or rough control inputs
 
 ### Magnetic Deviation
 
-- Magnetic fields caused by aircraft electronics and wiring can effect the magnetic compass
+- Magnetic fields caused by aircraft electronics and wiring can affect the magnetic compass
   - This induced error is called **compass deviation**
   - The compass card in your airplane will show the error
   - Note: electronic heading indicators will internally compensate for magnetic deviation
@@ -50,7 +50,7 @@ Review the magnetic compass construction, operation, errors, and usage under IFR
 ![alt text](images/image-20.png)
 
 - The location of true north (geographic north), and magnetic north are not the same place.
-  - Magnetic north also changes over time as the Earth's magnetic field change
+  - Magnetic north also changes over time as the Earth's magnetic field changes
 - **Magnetic variation** is the error caused by the difference between true and magnetic north
   - Corrected by **isogonic** lines, or lines of equal variation
   - These are dashed magenta lines on a sectional
@@ -64,7 +64,7 @@ Review the magnetic compass construction, operation, errors, and usage under IFR
 ### Dip Errors
 
 - Acceleration errors: On east or west heading, the compass will show a
-  momentary turn to the north when accelerating, and to the sound when
+  momentary turn to the north when accelerating, and to the south when
   decelerating.
   - **A**ccelerate
   - **N**orth
@@ -80,8 +80,8 @@ Review the magnetic compass construction, operation, errors, and usage under IFR
 ## Turns to Magnetic Compass Headings
 
 - A **northerly** turn should be stopped prior to arrival at the desired heading
-  - One rule of thumb to correct for this leading error is to stop the turn 15° plus half of the latitude (e.g. 15 + 45 = 60)
-- A **southerly** turns, the aircraft should be allowed to pass the desired heading prior to stopping the turn
+  - One rule of thumb to correct for this leading error is to stop the turn 15° plus half of the latitude (e.g. 15 + (45/2) = 15 + 22.5 = 37.5°)
+- A **southerly** turn, the aircraft should be allowed to pass the desired heading prior to stopping the turn
 
 ## Timed Turns
 
