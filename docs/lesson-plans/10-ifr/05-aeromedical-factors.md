@@ -6,7 +6,7 @@ To become familiar with human and aeromedical factors that can affect flight saf
 
 ## Motivation
 
-Understand the risks and mitigations for aeromedical factors that can effect flight safety, as they may happen to you, another pilot, or your passengers.
+Understand the risks and mitigations for aeromedical factors that can affect flight safety, as they may happen to you, another pilot, or your passengers.
 
 ## Timing
 
@@ -39,7 +39,7 @@ Understand the risks and mitigations for aeromedical factors that can effect fli
 - **Symptoms**: Rapid breathing, visual impairment, sweaty skin, dizziness
   - Often occurs with stress or anxiety
 - **Corrective Actions**
-  - Breath slowly
+  - Breathe slowly
   - Speak something slowly
   - Breathe into a bag
 
@@ -72,11 +72,10 @@ Understand the risks and mitigations for aeromedical factors that can effect fli
   - After a long gradual turn, the airplane is returned to level
   - The plane may feel as though it's banking in the opposite direction
 - Graveyard spiral
-  - After a long gradual turn, the airplane is returned to level
-  - The plane may feel as though it's banking in the opposite direction
-  - The pilot erroneous banks back into the turn
-  - The airplane will tend to lose altitude, so the pilot pulls back on the elevator
-  - The result is a nose-low, descending, high-G turn
+  - During a prolonged, coordinated, constant-rate turn (especially in IMC), the pilot may not sense the turn due to lack of sensory cues
+  - Noticing a loss of altitude, the pilot may mistakenly believe the wings are level and pull back on the controls to stop the descent
+  - This action tightens the turn, increasing the rate of descent and tightening the spiral
+  - The result is a nose-low, descending, high-G turn that can lead to loss of control if not recognized and corrected
 - Coriolis illusion
   - Rapid head movement during a turn
   - The plane may feel as though it's banking in the opposite direction

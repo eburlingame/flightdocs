@@ -6,7 +6,7 @@ To become familiar with human and aeromedical factors that can affect flight saf
 
 ## Motivation
 
-Understand the risks and mitigations for aeromedical factors that can effect flight safety, as they may happen to you, another pilot, or your passengers.
+Understand the risks and mitigations for aeromedical factors that can affect flight safety, as they may happen to you, another pilot, or your passengers.
 
 ## Timing
 
@@ -39,7 +39,7 @@ Understand the risks and mitigations for aeromedical factors that can effect fli
 - **Symptoms**: Rapid breathing, visual impairment, sweaty skin, dizziness
   - Often occurs with stress or anxiety
 - **Corrective Actions**
-  - Breath slowly
+  - Breathe slowly
   - Speak something slowly
   - Breathe into a bag
 

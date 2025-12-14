@@ -23,7 +23,7 @@ To become familiar with human and aeromedical factors that can affect flight saf
 
 ## Motivation
 
-Understand the risks and mitigations for aeromedical factors that can effect flight safety, as they may happen to you, another pilot, or your passengers.
+Understand the risks and mitigations for aeromedical factors that can affect flight safety, as they may happen to you, another pilot, or your passengers.
 
 ---
 
@@ -110,7 +110,7 @@ Excessive rate and depth of respiration, body expels more carbon dioxide than th
 
 ### Corrective Actions
 
-- Breath slowly
+- Breathe slowly
 - Speak something slowly
 - Breathe into a bag
 

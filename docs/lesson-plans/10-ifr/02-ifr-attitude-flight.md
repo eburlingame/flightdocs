@@ -264,5 +264,5 @@ Introduce basic aircraft control using the standard instruments, covering instru
 
 - [Instrument Flying Handbook pg. 6-1](/_references/IFH/6-1)
 - [Instrument Flying Handbook pg. 7-29](/_references/IFH/7-29)
-- Backseat Pilot CFI-I Lesson Plans VI.A-EØ
+- Backseat Pilot CFI-I Lesson Plans VI.A-E
 - FlightInsight Airplane Knowledge Test Guide: Chapter 1 - Fundamentals of IFR
