@@ -75,9 +75,10 @@ Understand the risks and mitigations for aeromedical factors that can effect fli
   - Rapid head movement during a turn
   - The plane may feel as though it's banking in the opposite direction
 - Graveyard spiral
-  - The pilot erroneous banks back into the turn
-  - The airplane will tend to lose altitude, so the pilot pulls back on the elevator
-  - The result is a nose-low, descending, high-G turn
+  - After entering a prolonged, coordinated, constant-rate turn without visual references, the pilot's inner ear no longer senses the turn, leading to the false impression of straight-and-level flight.
+  - When the pilot levels the wings, it feels as though the aircraft is turning in the opposite direction, so the pilot may erroneously bank back into the original turn.
+  - The airplane will tend to lose altitude in the turn, so the pilot pulls back on the elevator, tightening the spiral.
+  - The result is a nose-low, descending, high-G turn.
 - Somatogravic illusion
   - Acceleration may feel like a pitching-up movement
   - Especially true with limited visual reference, like at night

@@ -2,7 +2,7 @@
 
 ## Objective
 
-Understand vacuum system failures and how to transition to partial panel flight using conventional instrument. Also discuss "partial panel" flight using an and Electronic Flight Information Systems (EFIS).
+Understand vacuum system failures and how to transition to partial panel flight using conventional instruments. Also discuss "partial panel" flight using an Electronic Flight Information System (EFIS).
 
 Discuss and understand unusual attitude recovery, both full and partial panel.
 
