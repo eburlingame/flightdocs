@@ -115,7 +115,7 @@ See [AIM 1-1-4](/_references/AIM/1-1-4)
    - 205° + 090° = 295° for the intercept
 3. Rotate the OBS to the desired radial or inbound course.
 4. Turn to the interception heading.
-5. Hold this heading constant until the CDI center, which indicates the aircraft is on course. (With practice in judging the varying rates of closure with the course centerline, pilots learn to lead the turn to prevent overshooting the course.)
+5. Hold this heading constant until the CDI centers, which indicates the aircraft is on course. (With practice in judging the varying rates of closure with the course centerline, pilots learn to lead the turn to prevent overshooting the course.)
 6. Turn to the MH corresponding to the selected course, and follow tracking procedures inbound or outbound.
 
 ### VOR Intercept - 45&deg; Intercept
@@ -123,7 +123,7 @@ See [AIM 1-1-4](/_references/AIM/1-1-4)
 1. Determine the bearing TO the station that you are on (for example, the 060&deg; bearing TO the VOR)
 2. Identify the bearing you want to intercept (e.g. 090&deg; radial TO)
 3. Twist the OBS to our desired bearing (in this case 090&deg;)
-4. Depending on the location of the CDI need, add or subtract:
+4. Depending on the location of the CDI needle, add or subtract:
    1. If the needle is to the left: Subtract 45 degrees from the desired bearing (90&deg; - 45&deg; = 45&deg;)
    2. If the needle is to the right: Add 45 degrees from the desired bearing
 5. Fly the computed intercept heading
