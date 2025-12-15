@@ -99,7 +99,7 @@ See [AIM 1-1-4](/_references/AIM/1-1-4)
 - A CDI makes no indication of **aircraft heading**
 - A CDI with a "TO" flag reads the **bearing** to fly to reach the station
   - For instance, a centered CDI needle with the OBS set to **090&deg;** means the aircraft could fly a **90&deg;M** ground track to reach the station
-- A CDI with a "FROM" flag reads the **radial** from the station
+- A CDI with a "FROM" flag reads the **radial** from the station…
   - For instance, a centered CDI needle with the OBS set to **090&deg;** means the aircraft could fly a **270&deg;M** ground track to reach the station
 - If the VOR is set to the reciprocal of the intended course (e.g., 90&deg; instead of 270&deg;), the CDI will be "reverse sensing"
   - The CDI needle would behave the opposite
