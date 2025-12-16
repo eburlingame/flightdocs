@@ -1,4 +1,4 @@
-Create a lesson plan in the following format. The lesson should be in markdown format, with each of the these sections as 2nd-level headings:
+Create a lesson plan in the following format. The lesson should be in markdown format, with each of these sections as 2nd-level headings:
 
 - **Objective**: What is expected to be learned/understood in this lesson
 - **Overview**: Bulleted list of subject titles which will be covered

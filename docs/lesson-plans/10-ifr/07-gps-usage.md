@@ -39,8 +39,8 @@ The student will have knowledge of GPS operation, including its principles, capa
 
 - GPS is a satellite-based radio navigation system
 - **Space Element** consists of over 30 Navstar satellites
-  - The satellites broadcast a pseudo-random code timing signal and data message,
-  - Satellites transmit position, velocity, and precise timing,
+  - The satellites broadcast a pseudo-random code timing signal and data message
+  - Satellites transmit position, velocity, and precise timing
   - At least five satellites are designed to be in view to a user worldwide
 - **Control Element** is a network of ground-based monitoring and control stations
   - Monitoring stations ensure the accuracy of satellite positions and clocks
@@ -48,7 +48,7 @@ The student will have knowledge of GPS operation, including its principles, capa
   - The receiver requires a minimum of four satellites for a three-dimensional position solution (latitude, longitude, and altitude)
   - The receiver computes distance based on signal travel time (pseudo-range)
   - Position is determined by triangulation using the pseudo-range and position information supplied by the satellite
-- Other countries have their own sa
+- Other countries have their own satellite navigation systems, such as Russia's GLONASS, the European Union's Galileo, and China's BeiDou.
 
 ### Receiver Autonomous Integrity Monitoring (RAIM)
 
@@ -57,8 +57,8 @@ The student will have knowledge of GPS operation, including its principles, capa
 - RAIM is the capability of a GPS receiver to **monitor its own integrity**
   - It uses extra satellites to compute multiple positions
   - RAIM requires a **minimum of five satellites in view**, or four satellites and **barometric altimeter input (baro-aiding)**, to detect an integrity anomaly
-- Some receivers are capable of **fault detection and exclusion (FDE)** require 6 satellites in view (or 5 satellites with baro-aiding)
-  - FDE allows the receiver to isolate a corrupt signal and remove it from the position solution, while still providing an integrity-assured position,
+- Some receivers are capable of **fault detection and exclusion (FDE)** that require 6 satellites in view (or 5 satellites with baro-aiding)
+  - FDE allows the receiver to isolate a corrupt signal and remove it from the position solution, while still providing an integrity-assured position
 - The two general types of RAIM messages are:
   - **Insufficient satellites** to provide integrity monitoring
   - RAIM integrity monitor detects a **potential error** exceeding the limit for the phase of flight
@@ -81,7 +81,7 @@ The student will have knowledge of GPS operation, including its principles, capa
 
 ![alt text](images/image-30.png)
 
-- WAAS is designed to improve the **accuracy, integrity, and availability** of GPS signals,
+- WAAS is designed to improve the **accuracy, integrity, and availability** of GPS signals
   - It is the U.S. version of a **satellite-based augmentation system (SBAS)**
   - Allows GPS to be used for **takeoff through Category I precision approaches**
 - A network of **Wide-Area Reference Stations (WRS)** on the ground monitors GPS signals for errors
@@ -116,7 +116,7 @@ GPS CDI sensitivity changes based on the **phase of flight**
 
 - GPS must be **TSO-certified** (C129, C196, C145, or C146) and the installation approved per AC 20-138
   - GPS operations must be conducted in accordance with the **AFM or flight manual supplement**
-- Non-WAAS GPS (TSO-C129/C196) aircraft must be equipped with an **alternate approved and operational means of navigation**,
+- Non-WAAS GPS (TSO-C129/C196) aircraft must be equipped with an **alternate approved and operational means of navigation**
   - **GPS RAIM availability must be checked** before IFR operations
   - If a continuous RAIM loss is predicted for more than 5 minutes, the flight must be delayed, canceled, or re-routed
     - See [AIM 5-1-16](/_references/AIM/5-1-16) for more details
@@ -128,7 +128,7 @@ GPS CDI sensitivity changes based on the **phase of flight**
 ### GPS Waypoints
 
 - Waypoint (WP) is a predetermined geographical position defined by latitude/longitude coordinates
-- WPs are used to indicate a change in direction, speed, or altitude,
+- WPs are used to indicate a change in direction, speed, or altitude
 - **Fly-by (FB) Waypoints** are used when a turn should begin prior to reaching the waypoint (turn anticipation)
   - Chart symbol: Four-pointed star
 - **Fly-over (FO) Waypoints** require the aircraft to fly over the point prior to starting a turn
@@ -149,7 +149,7 @@ GPS CDI sensitivity changes based on the **phase of flight**
 
 ### GPS Flight Plan Operations
 
-- ICAO Flight require two codes:
+- ICAO Flight Plans require two codes:
   - Equipment codes (nav capability)
     - ![alt text](images/image-34.png)
     - See more about [ICAO equipment codes here](https://support.foreflight.com/hc/en-us/articles/360049193173-ICAO-Equipment-and-PBN-Code-Setup-Guide)
@@ -169,7 +169,7 @@ GPS CDI sensitivity changes based on the **phase of flight**
 
 [AIM 1-2-3](/_references/AIM/1-2-3)
 
-- IFR-certified GPS systems may be used as a substitute for traditional NAVAID navgiation
+- IFR-certified GPS systems may be used as a substitute for traditional NAVAID navigation
   - This application requires at least **en route RAIM or equivalent integrity**
 - GPS can be substituted to:
   - Fly a **DME arc**
