@@ -6,7 +6,11 @@ The student will have knowledge of GPS operation, including its principles, capa
 
 ## Timing
 
+45 minutes
+
 ## Format
+
+- Garmin GTN Trainer
 
 ## Overview
 
@@ -121,17 +125,6 @@ GPS CDI sensitivity changes based on the **phase of flight**
   - Procedures must be **retrievable by name** from the database; manual entry of waypoints is not permitted for approach procedures
 - Pilot should review appropriate **NOTAMs** before GPS IFR operation
 
-### GPS CDI Scaling (En Route, Terminal, & Approach)
-
-- **En Route:** ±5 NM sensitivity
-- **Terminal:** ±1 NM sensitivity
-  - Terminal mode activates when within 30 NM of the airport
-- **Approach:** ±0.3 NM sensitivity
-  - Approach mode becomes active when within 2 NM of the FAWP
-  - CDI sensitivity ramps smoothly from ±1 NM to ±0.3 NM at the FAWP,
-- **Missed Approach:** CDI sensitivity changes immediately to terminal (±1 NM) sensitivity,
-- **PHOTO PLACEHOLDER: Image demonstrating GPS CDI scaling changes.**
-
 ### GPS Waypoints
 
 - Waypoint (WP) is a predetermined geographical position defined by latitude/longitude coordinates
@@ -142,42 +135,51 @@ GPS CDI sensitivity changes based on the **phase of flight**
   - Chart symbol: Four-pointed star enclosed in a circle
   - The MAWP is always a fly-over waypoint
 
+![alt text](images/image-36.png)
+
 ### GPS Direct-To Operations
 
+![alt text](<images/garmin dto.png>)
+
 - A Direct to Fix (DF) leg defines an **unspecified track** from an undefined position to a specific database fix
-- Often used by pilots in describing **off-airway routes**,
-- When used by pilots in describing off-airway routes, points defining the direct route segments become **compulsory reporting points** unless under radar contact
+- Generally there are two types of Direct-To:
+  - **On-route direct-to**, where you navigate directly to a fix in your flight plan (the flight plan will then sequence from there)
+  - **Off-route direct-to**, where you navigate to an arbitrary fix (flight plan sequencing will suspend when you arrive at the fix)
 - ATC may clear an aircraft **direct to a fix** when issuing approach clearance
 
 ### GPS Flight Plan Operations
 
-- An IFR flight plan requires specific information about aircraft capabilities,
-- For a GPS-equipped aircraft, **‘G’ is filed in Item 10a** for GNSS capability
-- If the aircraft is PBN-approved, **‘R’ must be filed in Item 10a**, and the specific PBN levels must be listed in **Item 18 PBN/**
-- The onboard navigation database should be checked for **current NOTAMs** relating to the IFR flight,
-- The flight plan must include an alternate airport if the weather forecast 1 hour before to 1 hour after ETA is less than 2,000 feet ceiling and 3 SM visibility
+- ICAO Flight require two codes:
+  - Equipment codes (nav capability)
+    - ![alt text](images/image-34.png)
+    - See more about [ICAO equipment codes here](https://support.foreflight.com/hc/en-us/articles/360049193173-ICAO-Equipment-and-PBN-Code-Setup-Guide)
+  - Surveillance codes (transponder/ADS-B)
+    - ![alt text](images/image-35.png)
+    - See more about [ICAO surveillance codes here](https://support.foreflight.com/hc/en-us/articles/360050191733-ICAO-Surveillance-Code-Setup-Guide)
 
 ### GPS Nearest Functions
 
 - GPS displays can provide information on **nearest airports**
-- The MFD can display up to **25 nearest airports** that meet specified criteria
-- The display can show information including **runway length, surface, available approaches, and communication frequencies**
-- The nearest airport function allows the pilot to **activate a Direct-To course** to the selected airport
-- The function may allow the pilot to **auto-tune communication frequencies**
+  - The display can show information including **runway length, surface, available approaches, and communication frequencies**
+  - The nearest airport function allows the pilot to **activate a Direct-To course** to the selected airport
+
+![alt text](<images/garmin nrst.png>)
 
 ### Substitution of GPS for Other Navigation Radios Under IFR
 
-- IFR-certified GPS systems may be used as a substitute for ADF and DME receivers in controlled airspace when conducting specific operations
-- This application requires at least **en route RAIM or equivalent integrity**
-- GPS can be substituted for ADF and DME to:
+[AIM 1-2-3](/_references/AIM/1-2-3)
+
+- IFR-certified GPS systems may be used as a substitute for traditional NAVAID navgiation
+  - This application requires at least **en route RAIM or equivalent integrity**
+- GPS can be substituted to:
   - Fly a **DME arc**
   - Navigate **TO or FROM an NDB/compass locator**
   - Hold over an **NDB/compass locator**
-  - Determine position over a **DME fix**
-- GPS is **not authorized as the final approach navigation source** on procedures based on VOR, LOC, LDA, or NDB signals
-  - Exception: GPS may be used on approaches with “or GPS” in the title,
+  - Determine position over a **NAVAID**
+- Pilots may not substitute for the NAVAID (for example, a VOR or NDB) providing lateral guidance for the **final approach segment**
+  - Exception: GPS may be used on overlay approaches with "or GPS" in the title
 
-### Orientation, Position, and Waypoint Passage / Sequencing
+### Orientation, Position, Waypoint Sequencing
 
 - GPS provides **linear course guidance** between waypoints
   - Position information
@@ -185,12 +187,10 @@ GPS CDI sensitivity changes based on the **phase of flight**
 - The receiver **sequences to the next waypoint** when the current one is passed
   - This may be prevented by placing the receiver in **non-sequencing mode** (often referred to as `OBS` or `HOLD`)
   - `SUS` mode indicates that automatic sequencing is suspended
-- The **Missed Approach Waypoint (MAWP)** requires pilot action to sequence the receiver
-- Waypoints can be designated **fly-over (FO)** or **fly-by (FB)**
+  - The **Missed Approach Waypoint (MAWP)** requires pilot action to sequence the receiver
 
 ### GPS Course Intercepting, Tracking Procedures, Wind Correction Techniques
 
-- To intercept a desired GPS course, pilots must first **orient the aircraft’s position** with respect to the waypoint
 - Match your current track (`TRK`) with the desired track (`DTK`)
 - The difference between the aircraft’s **heading** and **ground track** visualizes **wind drift**
   - This information, often displayed on the MFD, simplifies crosswind corrections
@@ -208,13 +208,19 @@ GPS CDI sensitivity changes based on the **phase of flight**
   - Programming and flying missed approaches
   - Indicating actions required for **RAIM failure**
 
+See the [Avidyne IFD Trainer App](https://www.avidyne.com/tablet-applications-trainer/) and the [Garmin GTN Trainer App](https://apps.apple.com/us/app/garmin-gtn-trainer/id479670018)
+
 ### Installed GPS Specific Procedures
 
-- Pilot must be familiar with the **specific GPS equipment** installed in the aircraft
-- Operating procedures and limitations are found in the **POH/AFM or supplement**
-- Pilots should be familiar with the manufacturer’s procedures for:
-  - Setting **CDI sensitivity**
-  - **Arming the approach mode** when within 30 NM of the airport
-  - Placing the receiver in **non-sequencing mode** (HOLD or OBS) when receiving radar vectors
+- Discuss specifics of Garmin GTN or Avidyne IFD
+  - Garmin
+    - "Activating" an approach just means going direct-to the initial approach fix (IAF)
+    - On old units, when flying a vectors-to-final approach, it can be helpful to still load an approach with a transition (rather than the `Vectors to Final Mode`)
+      - This loads all of the previous waypoints into the approach, in case you need to reference them
+  - Avidyne
 
 ## References
+
+- [AIM 1-2-3](/_references/AIM/1-2-3)
+- [Instrument Flying Handbook pg. 9-24](/_references/IFH/9-24): GPS System and Use
+- [Instrument Flying Handbook pg. 10-1](/_references/IFH/10-1): IFR Flight Plans
