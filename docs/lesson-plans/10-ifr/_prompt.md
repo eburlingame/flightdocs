@@ -10,23 +10,23 @@ Create a lesson plan in the following format. The lesson should be in markdown f
   - Make bullets very short, not complete sentences but terse, information-dense phrases. Do not include a period at the end of each bullet point.
 - **References**: A list of document names and relevant page numbers
 
-This lesson should cover the operation and use of the GPS navigation system, with the following sections:
+This lesson should cover the regulations and publications associated with IFR flight, with the following sections:
 
-- GPS Principles of Operation
-- Receiver Autonomous Integrity Monitoring (RAIM)
-- GPS Errors & Irregularities
-- Wide Area Augmentation System (WAAS)
-- GPS Modes of Operation
-- GPS Use Under IFR
-- GPS CDI Scaling (En Route, Terminal, & Approach)
-- GPS Waypoints
-- GPS Direct-To Operations
-- GPS Flight Plan Operations
-- GPS Nearest Functions
-- Substitution of GPS for Other Navigation Radios Under IFR
-- Orientation, Position, and Waypoint Passage / Sequencing
-- GPS Course Intercepting and Tracking Procedures / Wind Correction Techniques
-- Computer / App Based GPS Procedures Simulator (from Appropriate GPS Manufacturer)
-- Installed GPS Specific Procedures
+- 14 CFR Regulations - Applicable to IFR Flight
+  - Part 1
+  - Part 43
+  - Part 61
+  - Part 91
+  - Part 97
+  - NTSB 830
+- AIM - Chapters Applicable to IFR Flight
+  - Chapter 1: Air Navigation
+  - Chapter 2: Aeronautical Lighting and Other Airport Visual Aids
+  - Chapter 3: Airspace
+  - Chapter 4: Air Traffic Control
+  - Chapter 5: Air Traffic Procedure
+  - Chapter 6: Emergency Procedures
+  - Chapter 7: Safety of FLight
+  - Chapter 9: Aeronautical Charts
 
-Your primary sources should be chapter 9 of the instrument flying handbook and chapter 1 of the aeronautical information manual (AIM).
+Your primary sources should be the relevant AIM chapters and the Code of Federal regulations, along with the NTSB part 830.
