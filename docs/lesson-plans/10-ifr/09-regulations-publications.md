@@ -11,7 +11,7 @@ The student will have a thorough knowledge of the Federal Aviation Regulations (
 ## Format
 
 - Whiteboard
-- [cCFR](https://www.ecfr.gov/current/title-14/chapter-I/subchapter-F/part-91)
+- [eCFR](https://www.ecfr.gov/current/title-14/chapter-I/subchapter-F/part-91)
 
 ## Overview
 
@@ -30,7 +30,7 @@ The student will have a thorough knowledge of the Federal Aviation Regulations (
   - Chapter 4: Air Traffic Control
   - Chapter 5: Air Traffic Procedure
   - Chapter 6: Emergency Procedures
-  - Chapter 7: Safety of FLight
+  - Chapter 7: Safety of Flight
   - Chapter 9: Aeronautical Charts
 - Instrument Flying Handbook
 - Chart Supplement
@@ -90,7 +90,7 @@ The student will have a thorough knowledge of the Federal Aviation Regulations (
     - Fly on the centerline of an airway, or direct course between fixes
   - [91.183](/_references/14-CFR/91.183): IFR communications
     - Report to ATC when passing mandatory reporting points, except when in radar contact
-    - Report to ATC any unforseen weather, or information related to flight safety
+    - Report to ATC any unforeseen weather, or information related to flight safety
   - [91.185](/_references/14-CFR/91.185): Two-way radio communications failure
     - Under VFR: Continue and land in VFR conditions
     - Under IFR:
@@ -100,7 +100,7 @@ The student will have a thorough knowledge of the Federal Aviation Regulations (
     - If clearance limit is not a fix from which an approach begins, proceed to a fix where an approach begins and start an approach as close as possible to the filed ETA
   - [91.187](/_references/14-CFR/91.187): Equipment malfunctions under IFR
     - Report to ATC any malfunctions
-  - [91.205](/_references/14-CFR/91.205): Requirement instruments and equipment
+  - [91.205](/_references/14-CFR/91.205): Required instruments and equipment
     - IFR flight requires all VFR-day equipment, plus IFR-required equipment (**GRABCARD**)
   - [91.411](/_references/14-CFR/91.411): Static pressure system inspection
     - IFR static pressure system check must be completed every **24 calendar months**

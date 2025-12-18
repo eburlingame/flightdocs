@@ -26,7 +26,7 @@ This lesson should cover the regulations and publications associated with IFR fl
   - Chapter 4: Air Traffic Control
   - Chapter 5: Air Traffic Procedure
   - Chapter 6: Emergency Procedures
-  - Chapter 7: Safety of FLight
+  - Chapter 7: Safety of Flight
   - Chapter 9: Aeronautical Charts
 
 Your primary sources should be the relevant AIM chapters and the Code of Federal regulations, along with the NTSB part 830.
