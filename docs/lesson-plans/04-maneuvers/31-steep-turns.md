@@ -114,10 +114,10 @@ Roll scale: 10, 20, 30, 45, and 60&deg;
 
 - 360&deg; turn, 45-50&deg; of bank
 - &lte; V<sub>A</sub>
-- Altitude &pm; 100 ft.
-- Airspeed &pm; 10 knots
-- Bank &pm; 5 &deg;
-- Heading &pm; 10 &deg;
+- Altitude &plusmn; 100 ft.
+- Airspeed &plusmn; 10 knots
+- Bank &plusmn; 5 &deg;
+- Heading &plusmn; 10 &deg;
 
 </td>
 

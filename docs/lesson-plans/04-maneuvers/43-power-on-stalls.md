@@ -103,8 +103,8 @@ Understand dangers and signs of a stall in a takeoff scenario.
 
 - Completion >1500 ft. AGL
 - Power >65%
-- Heading &pm;10&deg;
-- Bank &pm;10&deg;
+- Heading &plusmn;10&deg;
+- Bank &plusmn;10&deg;
 - Recovery at V<sub>X</sub> or V<sub>Y</sub>
 
 </td>

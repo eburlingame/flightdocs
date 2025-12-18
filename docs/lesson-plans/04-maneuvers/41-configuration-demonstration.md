@@ -101,9 +101,9 @@ Different aircraft configuration produce different airspeed and power combinatio
 <label>Completion Standards</label>
 
 - Recovery >1500 ft. AGL
-- Altitude &pm; 100 ft.
+- Altitude &plusmn; 100 ft.
 - Airspeed +5/-0 knots
-- Heading &pm;10&deg;
+- Heading &plusmn;10&deg;
 
 </td>
 

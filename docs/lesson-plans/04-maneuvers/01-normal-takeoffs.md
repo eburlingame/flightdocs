@@ -120,7 +120,7 @@ Takeoff distance:
 
 <label>Completion Standards</label>
 
-- Maintain V<sub>Y</sub> &pm;5 knots
+- Maintain V<sub>Y</sub> &plusmn;5 knots
 - Position flight controls into the wind
 
 </td>

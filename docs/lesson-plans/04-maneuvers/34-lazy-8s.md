@@ -102,9 +102,9 @@ Develop precise control of pitch, bank, and coordination through the full range 
 
 - ~30&deg; max bank
 - At 180&deg; point:
-  - &pm;100 ft. from entry altitude
-  - &pm;10 knots from entry airspeed
-  - &pm;10&deg; from entry heading
+  - &plusmn;100 ft. from entry altitude
+  - &plusmn;10 knots from entry airspeed
+  - &plusmn;10&deg; from entry heading
 
 </td>
 

@@ -1,4 +1,4 @@
-# Autpilot Use in IFR
+# Autopilot Use in IFR
 
 ## Objective
 

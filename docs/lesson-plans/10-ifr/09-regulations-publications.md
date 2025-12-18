@@ -58,16 +58,16 @@ The student will have a thorough knowledge of the Federal Aviation Regulations (
   - [91.167](/_references/14-CFR/91.167): Fuel requirements for IFR Flight
     - Destination + alternate + 45 minutes reserve
   - [91.169](/_references/14-CFR/91.169): IFR alternate requirements
-    - An alternate does not need to be filed if, within **&pm;1** hour of ETA, the ceiling is forecast to be **&gt;2000'**, and visibility is **&gt;3 s.m.**
+    - An alternate does not need to be filed if, within **&plusmn;1** hour of ETA, the ceiling is forecast to be **&gt;2000'**, and visibility is **&gt;3 s.m.**
     - An alternate airport must have forecast weather at your ETA:
       - Airports with precision approach (ILS): **&gt;600'** ceiling / **2 s.m.** visibility
       - Airports with non-precision approach (VOR/GPS): **&gt;800'** ceiling / **2 s.m.**
       - Airports with no IAP: Basic descent from the MEA can be made in basic VFR conditions
-      - Or, the alternate minimums specific in the airport's procedure
+      - Or, the alternate minimums specified in the airport's procedure
   - [91.171](/_references/14-CFR/91.171): VOR check and accuracy
     - VOR check must be completed every 30 days for use in IFR
-    - Tolerances are &pm;4&deg; for ground-based and dual-VOR checks
-    - Tolerances are &pm;6&deg; for flight-based checks
+    - Tolerances are &plusmn;4&deg; for ground-based and dual-VOR checks
+    - Tolerances are &plusmn;6&deg; for flight-based checks
   - [91.173](/_references/14-CFR/91.173): ATC clearance and flight plan requirement
     - An IFR flight plan and ATC clearance is required to fly in _controlled airspace_ under _instrument flight rules_
   - [91.175](/_references/14-CFR/91.175): Takeoff and landing under IFR

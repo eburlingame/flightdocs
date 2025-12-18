@@ -96,8 +96,8 @@ Develops wind correction and precise turning control.
 
 - 600-1000 ft. AGL
 - Adequate wind drift correction
-- Altitude &pm;100 ft.
-- Airspeed &pm; 10 knots
+- Altitude &plusmn;100 ft.
+- Airspeed &plusmn; 10 knots
 
 </td>
 

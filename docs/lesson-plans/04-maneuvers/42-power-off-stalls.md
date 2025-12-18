@@ -106,7 +106,7 @@ Pilots need to know the dangers of stalls and their warning signs.
 <label>Completion Standards</label>
 
 - Completion >1500 ft.
-- Heading &pm;10&deg; or bank &pm;5&deg;
+- Heading &plusmn;10&deg; or bank &plusmn;5&deg;
 - Acknowledge stall warning cues
 - Recovery at V<sub>X</sub> or V<sub>Y</sub>
 

@@ -2,8 +2,8 @@ name: IFR Quiz
 description: 
 ---
 VOR checks have the following tolerances:
-- A VOT or dual VOR check: &pm;*4*&deg;
-- An airborne check: &pm;*6*&deg;
+- A VOT or dual VOR check: &plusmn;*4*&deg;
+- An airborne check: &plusmn;*6*&deg;
 ---
 A VOT test station should show 360&deg; *FROM* the station and 180 degrees *TO* the station.
 ---
@@ -13,7 +13,7 @@ The minimum altitude for IFR is *2000* over mountainous terrain, and *1000* over
 
 These altitudes are defined in *91.177*.
 ---
-You are not required to file an alternate if your destination has an instrument approach and within &pm;*1* hour of your ETA the weather is forecast to be &gt;2000 ft. ceilings AND the visibility will be &gt;*3* s.m. Otherwise, filing an alternate is required.
+You are not required to file an alternate if your destination has an instrument approach and within &plusmn;*1* hour of your ETA the weather is forecast to be &gt;2000 ft. ceilings AND the visibility will be &gt;*3* s.m. Otherwise, filing an alternate is required.
 ---
 To select an alternate, the airport must:
 - Have a usable precision approach, with weather forecasted to be least *600* ft. AND *2* s.m. of visibility
