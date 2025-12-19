@@ -107,7 +107,7 @@ Develop coordination, planning, and sense of control effectiveness.
 - ~30&deg; bank
 - Completion >1500 ft. AGL
 - 180&deg; point: 
-  - &pm; 10&deg; heading
+  - &plusmn; 10&deg; heading
   - Just above stall speed
 
 </td>

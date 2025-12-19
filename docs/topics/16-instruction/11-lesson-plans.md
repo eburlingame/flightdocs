@@ -34,6 +34,6 @@ Lookout/clearing turns, blind spots, anchor points
 
 ### Completion Standards
 
-- &pm;100 feet altitude
-- &pm;10 knots airspeed
-- &pm;5 degrees bank
+- &plusmn;100 feet altitude
+- &plusmn;10 knots airspeed
+- &plusmn;5 degrees bank

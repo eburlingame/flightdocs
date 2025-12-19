@@ -89,9 +89,9 @@ Inadvertent flight into IMC has killed many pilots, so having the skills to get 
 
 <label>Completion Standards</label>
 
-- Altitude &pm; 100 ft.
-- Heading &pm; 10&deg;
-- Airspeed &pm; 10 knots
+- Altitude &plusmn; 100 ft.
+- Heading &plusmn; 10&deg;
+- Airspeed &plusmn; 10 knots
 
 </td>
 

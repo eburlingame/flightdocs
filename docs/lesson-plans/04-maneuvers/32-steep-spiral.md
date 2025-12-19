@@ -100,8 +100,8 @@ Develops airspeed control, wind correction, planning, and division of attention.
 
 - Constant radius track over ground
 - &lt;60&deg; of bank
-- Airspeed &pm; 10 knots
-- Heading &pm;10&deg; rollout
+- Airspeed &plusmn; 10 knots
+- Heading &plusmn;10&deg; rollout
 - Complete &gt;1500 ft. AGL
 
 </td>

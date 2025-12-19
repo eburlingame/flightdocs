@@ -100,7 +100,7 @@ Simulated engine fire:
 
 - Bank 30-40&deg;
 - Airspeed +0/-10 knots
-- Level off &pm; 100 ft.
+- Level off &plusmn; 100 ft.
 
 </td>
 

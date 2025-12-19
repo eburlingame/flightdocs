@@ -96,7 +96,7 @@ All pilot need to go-round on some landings, and need to identify when to go-aro
 <label>Completion Standards</label>
 
 - Maintain V<sub>X</sub> or V<sub>Y</sub> climb speed as appropriate
-- Establish VY climb &pm; 5 knots
+- Establish VY climb &plusmn; 5 knots
 
 </td>
 

@@ -99,8 +99,8 @@ Develop an intuition of wind drift in a turn.
 
 - 600-1000 ft. AGL
 - Constant radius ground track
-- Airspeed &pm;100 ft.
-- Airspeed &pm;10 knots
+- Airspeed &plusmn;100 ft.
+- Airspeed &plusmn;10 knots
 
 </td>
 

@@ -112,10 +112,10 @@ $$
 
 - Fly just above stall <u>warning</u>
 - Straight and level, turns, climbs, descents
-- Altitude &pm; 50 ft.
-- Heading &pm; 10&deg;
+- Altitude &plusmn; 50 ft.
+- Heading &plusmn; 10&deg;
 - Airspeed +5/-0 knots
-- Bank &pm;5&deg;
+- Bank &plusmn;5&deg;
 
 </td>
 

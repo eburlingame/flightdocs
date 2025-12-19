@@ -101,7 +101,7 @@ Pilots need to be prepared for an emergency landing.
 
 <label>Completion Standards</label>
 
-- Maintain best glide airspeed &pm; 10 knots
+- Maintain best glide airspeed &plusmn; 10 knots
 
 </td>
 

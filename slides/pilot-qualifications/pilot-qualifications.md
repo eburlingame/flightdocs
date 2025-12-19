@@ -91,7 +91,7 @@ Subpart K Flight Instructors With a Sport Pilot Rating 61.401 – 61.429
 
 - Rubric used for grading checkrides
 - Lists "area of operations" that a certificated pilot must know
-- Lists the tolerances for all maneuvers (Steep turns &pm; 100 ft. altitude)
+- Lists the tolerances for all maneuvers (Steep turns &plusmn; 100 ft. altitude)
 - Two formats:
   - Practical Test Standards (PTS): Old format
   - Airmen Certification Standards (ACS): New format
