@@ -1,4 +1,4 @@
-# Instrument Approach Types
+# Approach Procedure Basics
 
 ## Format
 

@@ -1,4 +1,4 @@
-# Instrument Approach Charts
+# Instrument Approach Basics
 
 ## Format
 
@@ -28,6 +28,12 @@ ASA IFR Syllabus Stage 4 / Module 1: Instrument Approaches
   - Minimums
 - Precision approach
 - How do we brief an approach
+
+- Radar Instrument Approach Minimums
+- Pilot Briefing Information Section
+- Minimum Safe Altitude
+- Standard vs Expanded Circling Radii
+- Cold Temperature Restricted Airports / Altitude Corrections
 
 ## Content
 
