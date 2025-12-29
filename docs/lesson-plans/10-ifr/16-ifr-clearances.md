@@ -51,7 +51,7 @@ Every IFR flight will involve an IFR clearance.
 ### Copy and Readback
 
 - CRAFT
-  - **Clearance limit**: Usually the aiport, sometimes a fix
+  - **Clearance limit**: Usually the airport, sometimes a fix
   - **Route**: Route to fly, or "as filed"
     - Must notify ATC if you can't comply (not equipped, performance limitations)
   - **Altitude**: Initial altitude to maintain
@@ -88,7 +88,7 @@ Every IFR flight will involve an IFR clearance.
     - Only one flight plan per airport per tail number is allowed in an 18 hour window
     - No flight plan ammendments can be made
   - Another option is CPDLC-DC
-    - This requires special hardware and avionics to recieve the clearance (like a Garmin GDR 66)
+    - This requires special hardware and avionics to receive the clearance (like a Garmin GDR 66)
 
 ### Departure clearances
 
