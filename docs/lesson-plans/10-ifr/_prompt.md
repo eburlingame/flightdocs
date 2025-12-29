@@ -10,18 +10,27 @@ Create a lesson plan in the following format. The lesson should be in markdown f
   - Make bullets very short, not complete sentences but terse, information-dense phrases. Do not include a period at the end of each bullet point.
 - **References**: A list of document names and relevant page numbers
 
-This lesson should cover the IFR terminal departure and arrival procedures, covering the following topics in order:
+This lesson should cover the pilot/controller responsibilities for the following areas of operations. List references to specific, relevant sections at the end of each section. Bold important numbers, terms, and acronyms, as appropriate:
 
-- Precision approaches overview
-- Localizer Principles of Operation
-- Glideslope Principles of Operation
-- Marker Beacons
-- ILS Receiving Equipment
-- ILS Categories
-- ILS Errors & Irregularities
-- Localizer and Glideslope Critical Areas
-- Precision Instrument Approaches
-- Back Course Approaches
-- APV Instrument Approaches
+Air Traffic Clearance
+Contact Approach
+Visual Approach
+Instrument Approach
+Missed Approach
+Radar Vectors
+Safety Alerts
+Speed Adjustments
+Visual Separation
+Instrument Departures
+Wake Turbulence Separations
+Compulsory Reporting Points
+Loss of Communications
+Land and Hold Short Operations
+Practice Instrument Approaches
+IFR Separation Standards
+See and Avoid
+Traffic Advisories
+VFR-On-Top
+Minimum Fuel Advisory
 
 Your primary sources should be the relevant AIM chapters and the Instrument Flying Handbook, also the TERPs manual where appropriate.

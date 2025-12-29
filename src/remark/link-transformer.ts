@@ -28,6 +28,9 @@ const transformations: Record<string, (url: string) => string> = {
     const [chapter, section, paragraph] = sectionId.split("-");
     return `https://www.faa.gov/air_traffic/publications/atpubs/aim_html/chap${chapter}_section_${section}.html#$paragraph${sectionId}`;
   },
+
+  "/_references/Pilot-Controller-Glossary/": () =>
+    "https://www.faa.gov/air_traffic/publications/atpubs/pcg_html/",
 };
 
 const plugin = (options) => {

@@ -104,7 +104,7 @@ Every IFR flight will involve an IFR clearance.
     - Fly runway heading until 400' AGL, then proceed as instructed (on course, vectors)
   - If the airport has _no_ IAP, then obstacle clearance is entirely up to you
 
-### Approach clearances
+### Approach Clearances
 
 - PTAC:
   - Position from fix

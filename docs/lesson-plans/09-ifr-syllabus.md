@@ -273,7 +273,7 @@ Some ground lesson will use the [Backseat Pilot (BP) Commerical Lesson Plans](ht
         <td>1.2</td>
         <td>0</td>
         <td>
-           - [BP V.X: ATC System](https://thebackseatpilot.com/products/cfii-lesson-plans)
+           - [ATC System](/docs/lesson-plans/ifr/atc-system)
         </td>
         <td>ATC system, Clearance Delivery, Airways</td>
     </tr>
@@ -291,7 +291,7 @@ Some ground lesson will use the [Backseat Pilot (BP) Commerical Lesson Plans](ht
         <td>1.2</td>
         <td>0</td>
         <td>
-           - [BP V.A: ATC Clearances, Pilot/Controller Responsibilities](https://thebackseatpilot.com/products/cfii-lesson-plans)
+           - [Pilot-Controller Responsibilities](/docs/lesson-plans/ifr/pilot-controller)
         </td>
         <td>Pilot/controller responsibilities, lost comms</td>
     </tr>
