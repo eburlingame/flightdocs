@@ -86,7 +86,7 @@ Every IFR flight will involve an IFR clearance.
     - This can be done through ForeFlight
     - Requires registering through a data provider for your tail number
     - Only one flight plan per airport per tail number is allowed in an 18 hour window
-    - No flight plan ammendments can be made
+    - No flight plan amendments can be made
   - Another option is CPDLC-DC
     - This requires special hardware and avionics to receive the clearance (like a Garmin GDR 66)
 
@@ -97,7 +97,7 @@ Every IFR flight will involve an IFR clearance.
   - If given this fly the heading given, not the ODP
 - SID: If a SID is it will be included in your routing and readback
   - Fly the SID as published
-  - ATC may ammend some altitudes
+  - ATC may amend some altitudes
 - What if there's non SID or ODP?
   - If the airport has an IAP, then a departure assessment was not done
     - Follow the "non-charted procedure"

@@ -12,18 +12,16 @@ Create a lesson plan in the following format. The lesson should be in markdown f
 
 This lesson should cover the IFR terminal departure and arrival procedures, covering the following topics in order:
 
-- Clearance Delivery
-- Ground Control
-- Tower Control (Local Control)
-- Terminal Approach Control Facilities
-- Approach Control
-- Departure Control
-- Final Controller
-- Air Route Traffic Control Centers (ARTCC)
-- Tower En Route Control (TEC)
-- Federal Airways
-- Uncontrolled Airspace
-- IFR Flight Planning and Filing Procedures
-- Closing an IFR Flight Plan
+- Precision approaches overview
+- Localizer Principles of Operation
+- Glideslope Principles of Operation
+- Marker Beacons
+- ILS Receiving Equipment
+- ILS Categories
+- ILS Errors & Irregularities
+- Localizer and Glideslope Critical Areas
+- Precision Instrument Approaches
+- Back Course Approaches
+- APV Instrument Approaches
 
 Your primary sources should be the relevant AIM chapters and the Instrument Flying Handbook, also the TERPs manual where appropriate.
