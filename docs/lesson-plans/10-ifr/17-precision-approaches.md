@@ -64,7 +64,7 @@ Precision approaches are characterized by vertical and horizontal guidance that 
   - **Middle Marker (MM):** Located ~3,500 feet from threshold; indicates ~200' altitude above threshold; amber light and alternate dots/dashes
   - **Inner Marker (IM):** Indicates Decision Height for CAT II approaches; white light and high-pitch dots
   - **Back Course Marker:** Indicates the final approach fix for a back course approach; white light and pairs of dots
-- Markers beacons have mostly been decommissioned, except for inner markers required for CAT-III approaches at large airports. Per [AIM 1-1-9](/_references/AIM/1-1-9), the following may be subsituted for an outer marker:
+- Markers beacons have mostly been decommissioned, except for inner markers required for CAT-III approaches at large airports. Per [AIM 1-1-9](/_references/AIM/1-1-9), the following may be substituted for an outer marker:
   - DME fix
   - VOR or VOR intersection
   - Suitable RNAV/GPS system
@@ -97,7 +97,7 @@ Precision approaches are characterized by vertical and horizontal guidance that 
 - **Reflection**: Surface vehicles or aircraft below 5,000 feet AGL may cause signal disturbances
 - **False glideslope**:
   - Inherent GS signals at higher vertical angles (typically 9°– 12°)
-- **Backcourse glideslope**: A glideslope signal may also be received when flying the BC of an ILS; it should be ignore
+- **Backcourse glideslope**: A glideslope signal may also be received when flying the BC of an ILS; it should be ignored
 - Needle "chasing" often results from poor planning or over-controlling
 - Guidance anomalies may occur below 100' above the DA
   - In this case it's best to fly a known good heading and maintain the established descent rate
