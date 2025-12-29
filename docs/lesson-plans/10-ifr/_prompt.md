@@ -10,23 +10,21 @@ Create a lesson plan in the following format. The lesson should be in markdown f
   - Make bullets very short, not complete sentences but terse, information-dense phrases. Do not include a period at the end of each bullet point.
 - **References**: A list of document names and relevant page numbers
 
-This lesson should cover the regulations and publications associated with IFR flight, with the following sections:
+This lesson should cover the IFR terminal departure and arrival procedures, covering the following topcis in order:
 
-- 14 CFR Regulations - Applicable to IFR Flight
-  - Part 1
-  - Part 43
-  - Part 61
-  - Part 91
-  - Part 97
-  - NTSB 830
-- AIM - Chapters Applicable to IFR Flight
-  - Chapter 1: Air Navigation
-  - Chapter 2: Aeronautical Lighting and Other Airport Visual Aids
-  - Chapter 3: Airspace
-  - Chapter 4: Air Traffic Control
-  - Chapter 5: Air Traffic Procedure
-  - Chapter 6: Emergency Procedures
-  - Chapter 7: Safety of Flight
-  - Chapter 9: Aeronautical Charts
+- Nonprecision Instrument Approaches
+- Approach Briefing
+- Missed Approach Procedures
+- Visibility Minimums
+- Timed Approaches
+- Radar Approaches
+- Visual Approaches
+- Contact Approaches
+- Charted Visual Flight Procedures
+- Visual Descent Point
+- Circling Approaches
+- Vectored Approaches
+- Terminal Arrival Area (TAA) Approaches
+- Lighting Systems
 
-Your primary sources should be the relevant AIM chapters and the Code of Federal regulations, along with the NTSB part 830.
+Your primary sources should be the relevant AIM chapters and the Instrument Flying Handbook, also the TERPs manual where appropriate.
