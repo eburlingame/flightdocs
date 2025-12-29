@@ -33,72 +33,84 @@ Every IFR flight will involve an IFR clearance.
 
 ### IFR Clearances
 
-- What is an IFR clearance?
-  - A clearance to operate in controlled airspace under IFR rules
-- Why do we need one?
-  - 91.173: No person may operate an aircraft in controlled airspace under IFR unless that person has filed an IFR flight plans and recieved an approriate clearance.
-- Filing a flight plan
-  - Via FSS or ForeFlight
-  - This gets sent to the tower, the departure radar facility, and appropriate ARTCC (center)
-  - Usually flight plans show up in the system 30 minutes the ETD on the flight plan, and remain for 2 hours after the ETD
-- Calling for a clearance
-  - "Boeing Clearance, N2017E, IFR to Vancouver, ready to copy"
-- Copy and readback
-  - CRAFT
-    - Clearance limit: Usually the aiport, sometimes a fix
-    - Route: Route to fly, or "as filed"
-      - Must notify ATC if you can't comply (not equipped, performance limitations)
-    - Altitude: Initial altitude to maintain
-      - They can give you a "cruise" clearance here, which allows you to climb/descend from minimum IFR altitude to the cruise clearance altitude
-    - Frequency: Frequency to contact after departure (Departure, approach, center)
-    - Transponder: Squawk code
-  - Clearance readback
-  - Tips
-    - Fill in CRAFT with everything you exepect before recieveing your clearance
-  - Example:
-    - "Medford ground, N549SR IFR to KSAC, ready to copy IFR"
-    - "N549SR, Medford ground, cleared to the KSAC airport via the Eagle Six departure, climb via the SID, expect 9000 10 minutes after departure. Departure frequency 124.85, squawk 4476"
-- Ways to obtain a clearance
-  - At a towered airport
-    - Ground frequency
-    - Clearance delivery frequency
-    - Some airports have digital digital pre-departure clearance (PDC), or you may be CPDLC-DCL equipped
-  - At a non-towered airport
-    - On the ground via a published frequency or phone number
-      - Departure procedure charts will list a frequency for CLNC DEL
-      - ![GLARA TWO](images/image-3.png)
-    - Through FSS (1-800-WX-BRIEF)
-    - Non-towered airport clearances will have a void time: "N2017E, cleared for IFR release, hold if not off in 3 minutes"
-      - If the void time passes, you much contact ATC without departing
-  - In the air:
-    - Calling center/tracon
-    - Calling a FSS on 122.2
-  - Digitally
-    - Some airports have digital digital pre-departure clearance (PDC)
-      - This can be done through ForeFlight
-      - Requires registering through a data provider for your tail number
-      - Only one flight plan per airport per tail number is allowed in an 18 hour window
-      - No flight plan ammendments can be made
-    - Another option is CPDLC-DC
-      - This requires special hardware and avionics to recieve the clearance (like a Garmin GDR 66)
-- Departure clearances
-  - ODPs: Do not require a clearance to fly, though a controller may refer to the "published instrument departure procedure"
-  - DVA: ATC-assigned heading to fly after departure
-    - If given this fly the heading given, not the ODP
-  - SID: If a SID is it will be included in your routing and readback
-    - Fly the SID as published
-    - ATC may ammend some altitudes
-  - What if there's non SID or ODP?
-    - If the airport has an IAP, then a departure assessment was not done
-      - Follow the "non-charted procedure"
-      - Fly runway heading until 400' AGL, then proceed as instructed (on course, vectors)
-    - If the airport has _no_ IAP, then obstacle clearance is entirely up to you
-- Approach clearances
-  - PTAC:
-    - Position from fix
-    - Turn to intercept the final approach course
-    - Altitude
-    - "Cleared for approach"
+### What is an IFR clearance? Why do we need one?
+
+- A clearance to operate in controlled airspace under IFR rules
+- [91.173](/_references/14-CFR/91.173): No person may operate an aircraft in controlled airspace under IFR unless that person has filed an IFR flight plans and received an appropriate clearance.
+
+### Filing a flight plan
+
+- Via FSS or ForeFlight
+- This gets sent to the tower, the departure radar facility, and appropriate ARTCC (center)
+- Usually flight plans show up in the system 30 minutes the ETD on the flight plan, and remain for 2 hours after the ETD
+
+### Calling for a clearance
+
+- "Boeing Clearance, N2017E, IFR to Vancouver, ready to copy"
+
+### Copy and Readback
+
+- CRAFT
+  - **Clearance limit**: Usually the airport, sometimes a fix
+  - **Route**: Route to fly, or "as filed"
+    - Must notify ATC if you can't comply (not equipped, performance limitations)
+  - **Altitude**: Initial altitude to maintain
+    - They can give you a "cruise" clearance here, which allows you to climb/descend from minimum IFR altitude to the cruise clearance altitude
+  - **Frequency**: Frequency to contact after departure (Departure, approach, center)
+  - **Transponder**: Squawk code
+- Clearance readback
+- Tips
+  - Fill in CRAFT with everything you expect before receiving your clearance
+- Example:
+  - "Medford ground, N549SR IFR to KSAC, ready to copy IFR"
+  - "N549SR, Medford ground, cleared to the KSAC airport via the Eagle Six departure, climb via the SID, expect 9000 10 minutes after departure. Departure frequency 124.85, squawk 4476"
+
+### Ways to obtain a clearance
+
+- At a towered airport
+  - Ground frequency
+  - Clearance delivery frequency
+  - Some airports have digital digital pre-departure clearance (PDC), or you may be CPDLC-DCL equipped
+- At a non-towered airport
+  - On the ground via a published frequency or phone number
+    - Departure procedure charts will list a frequency for CLNC DEL
+    - ![GLARA TWO](images/image-3.png)
+  - Through FSS (1-800-WX-BRIEF)
+  - Non-towered airport clearances will have a void time: "N2017E, cleared for IFR release, hold if not off in 3 minutes"
+    - If the void time passes, you much contact ATC without departing
+- In the air:
+  - Calling center/tracon
+  - Calling a FSS on 122.2
+- Digitally
+  - Some airports have digital digital pre-departure clearance (PDC)
+    - This can be done through ForeFlight
+    - Requires registering through a data provider for your tail number
+    - Only one flight plan per airport per tail number is allowed in an 18 hour window
+    - No flight plan ammendments can be made
+  - Another option is CPDLC-DC
+    - This requires special hardware and avionics to receive the clearance (like a Garmin GDR 66)
+
+### Departure clearances
+
+- ODPs: Do not require a clearance to fly, though a controller may refer to the "published instrument departure procedure"
+- DVA: ATC-assigned heading to fly after departure
+  - If given this fly the heading given, not the ODP
+- SID: If a SID is it will be included in your routing and readback
+  - Fly the SID as published
+  - ATC may ammend some altitudes
+- What if there's non SID or ODP?
+  - If the airport has an IAP, then a departure assessment was not done
+    - Follow the "non-charted procedure"
+    - Fly runway heading until 400' AGL, then proceed as instructed (on course, vectors)
+  - If the airport has _no_ IAP, then obstacle clearance is entirely up to you
+
+### Approach clearances
+
+- PTAC:
+  - Position from fix
+  - Turn to intercept the final approach course
+  - Altitude
+  - "Cleared for approach"
 
 ### Pilot and Controller Responsibilities
 
