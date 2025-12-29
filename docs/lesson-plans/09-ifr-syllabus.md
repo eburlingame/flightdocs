@@ -41,7 +41,7 @@ Some ground lesson will use the [Backseat Pilot (BP) Commerical Lesson Plans](ht
         <td>0.4</td>
         <td>1.2</td>
         <td>S&L, level std turns, constant A/S climbs/descents</td>
-        <td>BAIF</td>
+        <td>Basic instrument attitude flying</td>
     </tr>
     <tr>
         <td>4</td>
@@ -49,7 +49,7 @@ Some ground lesson will use the [Backseat Pilot (BP) Commerical Lesson Plans](ht
         <td>0.4</td>
         <td>1.2</td>
         <td>Const. rate climbs/descents, steep turns, turns</td>
-        <td>BAIF, Steep turns</td>
+        <td>Basic instrument attitude flying, Steep turns</td>
     </tr>
     <tr>
         <td>5</td>
@@ -77,7 +77,7 @@ Some ground lesson will use the [Backseat Pilot (BP) Commerical Lesson Plans](ht
         <td>0.4</td>
         <td>1.5</td>
         <td>Magnetic compass, timed. turns, unusual attitudes</td>
-        <td>Cmps Turns, Timed Turns, Unus Att, Unus Att PP</td>
+        <td>Compass turns, Timed Turns, unusual attitudes, unusual attitudes partial panel</td>
     </tr>
     <tr>
         <td>8</td>
@@ -85,7 +85,7 @@ Some ground lesson will use the [Backseat Pilot (BP) Commerical Lesson Plans](ht
         <td>0.4</td>
         <td>1.2</td>
         <td>Magnetic compass, partial panel, instrument patterns</td>
-        <td>Cmps Turns, Unus Att, Unus Att PP</td>
+        <td>Compass turns, unusual attitudes, unusual attitudes partial panel</td>
     </tr>
     <tr>
         <td>9</td>
@@ -93,7 +93,7 @@ Some ground lesson will use the [Backseat Pilot (BP) Commerical Lesson Plans](ht
         <td>0.4</td>
         <td>1.2</td>
         <td>Unusual attitudes, partial panel</td>
-        <td>Unus Att, Unus Att PP</td>
+        <td>Unusual attitudes, unusual attitudes partial panel</td>
     </tr>
     <tr>
         <td>10</td>
@@ -101,7 +101,7 @@ Some ground lesson will use the [Backseat Pilot (BP) Commerical Lesson Plans](ht
         <td>1.2</td>
         <td>0</td>
         <td>
-            - [BP VII.A: Intercepting/Tracking Nav Systems](https://thebackseatpilot.com/products/cfii-lesson-plans)
+            - [VOR Navigation](/docs/lesson-plans/ifr/vor-navigation)
         </td>
         <td>VOR fundamentals</td>
     </tr>
@@ -127,7 +127,7 @@ Some ground lesson will use the [Backseat Pilot (BP) Commerical Lesson Plans](ht
         <td>1.2</td>
         <td>0</td>
         <td>
-            - TODO: Needs GPS lesson plans
+            - [GPS Usage under IFR](/docs/lesson-plans/ifr/gps-usage)
         </td>
         <td>GPS fundamentals</td>
     </tr>
@@ -145,7 +145,6 @@ Some ground lesson will use the [Backseat Pilot (BP) Commerical Lesson Plans](ht
         <td>1.2</td>
         <td>0</td>
         <td>
-           - [BP II.A.4: Autopilot Mode and Usage](https://thebackseatpilot.com/products/cfii-lesson-plans)
            - [Autopilot Use under IFR](/docs/lesson-plans/ifr/autopilot-use)
         </td>
         <td>Autopilot fundamentals</td>
@@ -164,7 +163,7 @@ Some ground lesson will use the [Backseat Pilot (BP) Commerical Lesson Plans](ht
         <td>1.2</td>
         <td>0</td>
         <td>
-            - [BP II.C: Regulations & Publications](https://thebackseatpilot.com/products/cfii-lesson-plans)
+           - [Regulations and Publications](/docs/lesson-plans/ifr/autopilot-use)
         </td>
         <td>Regulations, CFR/FAR/AIM</td>
     </tr>
@@ -174,7 +173,7 @@ Some ground lesson will use the [Backseat Pilot (BP) Commerical Lesson Plans](ht
         <td>0.4</td>
         <td>1.8</td>
         <td>Stage 1 Review</td>
-        <td>Steep turns, Pattern A/B, Unus Att, Unus Att PP, VOR Use, GPS Use, AP Use</td>
+        <td>Steep turns, Pattern A/B, unusual attitudes, unusual attitudes partial panel, VOR Use, GPS Use, AP Use</td>
     </tr>
     <tr>
         <td>Check</td>
@@ -182,7 +181,7 @@ Some ground lesson will use the [Backseat Pilot (BP) Commerical Lesson Plans](ht
         <td>1</td>
         <td>1.4</td>
         <td>Stage 1 Check</td>
-        <td>Steep turns, Unus Att, Unus Att PP, VOR Use, GPS Use, AP Use</td>
+        <td>Steep turns, unusual attitudes, unusual attitudes partial panel, VOR Use, GPS Use, AP Use</td>
     </tr>
 </table>
 
@@ -245,11 +244,10 @@ Some ground lesson will use the [Backseat Pilot (BP) Commerical Lesson Plans](ht
         <td>1.2</td>
         <td>0</td>
         <td>
-           - [BP V.B: Departure, Enroute, Arrival Procedures](https://thebackseatpilot.com/products/cfii-lesson-plans)
-           - [Instrument Approach Types](/docs/lesson-plans/ifr/instrument-approach-types)
-           - [Instrument Approach Charts](/docs/lesson-plans/ifr/instrument-approach-charts)
+           - [Departure and Arrival Procedures](/docs/lesson-plans/ifr/departure-arrival)
+           - [Instrument Approach Basics](/docs/lesson-plans/ifr/approach-basics)
         </td>
-        <td>Terminal procedures: SID/STAR/Approaches</td>
+        <td>Terminal procedures: SIDs/STARs/Approaches</td>
     </tr>
     <tr>
         <td>23</td>
@@ -257,9 +255,9 @@ Some ground lesson will use the [Backseat Pilot (BP) Commerical Lesson Plans](ht
         <td>1.2</td>
         <td>0</td>
         <td>
-           - [BP VIII.A: Non-precision approaches](https://thebackseatpilot.com/products/cfii-lesson-plans)
+           - [Non-Precision Approaches](/docs/lesson-plans/ifr/nonprecision-approaches)
         </td>
-        <td>Nonprecision approaches, visual/contact, minimums</td>
+        <td>Non-precision approaches, visual/contact, minimums</td>
     </tr>
     <tr>
         <td>24</td>
@@ -340,7 +338,7 @@ Some ground lesson will use the [Backseat Pilot (BP) Commerical Lesson Plans](ht
         <td>0.4</td>
         <td>1.5</td>
         <td>Nonprec. and precision approach partial panel, DME arcs</td>
-        <td>Nonprecision part. panel, Precision part. panel, DME Arc, Circling</td>
+        <td>Non-precision part. panel, Precision part. panel, DME Arc, Circling</td>
     </tr>
     <tr>
         <td>33</td>
@@ -348,7 +346,7 @@ Some ground lesson will use the [Backseat Pilot (BP) Commerical Lesson Plans](ht
         <td>0.4</td>
         <td>2</td>
         <td>Nonprec. and precision approach partial panel, DME arcs</td>
-        <td>Nonprecision part. panel, Precision part. panel, DME Arc, Circling</td>
+        <td>Non-precision part. panel, Precision part. panel, DME Arc, Circling</td>
     </tr>
     <tr>
         <td>34</td>
@@ -376,7 +374,7 @@ Some ground lesson will use the [Backseat Pilot (BP) Commerical Lesson Plans](ht
         <td>0.4</td>
         <td>2</td>
         <td>AP approaches, partial panel approaches</td>
-        <td>AP Use, Holds, VOR Appr, GPS Appr, ILS Appr, BC Appr, Nonprecision part. panel, Precision part. panel, Circling</td>
+        <td>AP Use, Holds, VOR Appr, GPS Appr, ILS Appr, BC Appr, Non-precision part. panel, Precision part. panel, Circling</td>
     </tr>
     <tr>
         <td>37</td>
@@ -394,7 +392,7 @@ Some ground lesson will use the [Backseat Pilot (BP) Commerical Lesson Plans](ht
         <td>0.4</td>
         <td>2</td>
         <td>Stage 2 Review</td>
-        <td>Holds, VOR Appr, GPS Appr, ILS Appr, BC Appr, Nonprecision part. panel, Precision part. panel, Circling</td>
+        <td>Holds, VOR Appr, GPS Appr, ILS Appr, BC Appr, Non-precision part. panel, Precision part. panel, Circling</td>
     </tr>
     <tr>
         <td>Check</td>
@@ -402,7 +400,7 @@ Some ground lesson will use the [Backseat Pilot (BP) Commerical Lesson Plans](ht
         <td>1</td>
         <td>2</td>
         <td>Stage 2 Check</td>
-        <td>Holds, VOR Appr, GPS Appr, ILS Appr, BC Appr, Nonprecision part. panel, Precision part. panel, Circling</td>
+        <td>Holds, VOR Appr, GPS Appr, ILS Appr, BC Appr, Non-precision part. panel, Precision part. panel, Circling</td>
     </tr>
 </table>
 
@@ -421,14 +419,14 @@ Some ground lesson will use the [Backseat Pilot (BP) Commerical Lesson Plans](ht
   - ATC Clearances
   - Clearance Compliance
   - Holding Procedures
-  - Nonprecision Approach
+  - Non-precision Approach
   - APV Approach
   - Precision Approach
   - Missed Approach Procedures
-  - Nonprecision Approach with Loss of Primary Flight Instrument Indicators
+  - Non-precision Approach with Loss of Primary Flight Instrument Indicators
   - APV Approach with Loss of Primary Flight Instrument Indicators
   - Precision Approach with Loss of Primary Flight Instrument Indicators
-  - Nonprecision Approach with Autopilot
+  - Non-precision Approach with Autopilot
   - Missed Approach Procedures with an Autopilot
   - Circling Approach
   - Landing from Straight-In / Circling Approach
@@ -488,7 +486,7 @@ Some ground lesson will use the [Backseat Pilot (BP) Commerical Lesson Plans](ht
         <td>0.4</td>
         <td>2</td>
         <td>IFR XC with approaches</td>
-        <td>ILS Appr, Nonprecision part. panel, Precision part. panel, Circling</td>
+        <td>ILS Appr, Non-precision part. panel, Precision part. panel, Circling</td>
     </tr>
     <tr>
         <td>45</td>
@@ -496,7 +494,7 @@ Some ground lesson will use the [Backseat Pilot (BP) Commerical Lesson Plans](ht
         <td>0.4</td>
         <td>4</td>
         <td>250nm IFR XC with 3 approaches</td>
-        <td>Holds, VOR Appr, GPS Appr, Nonprecision part. panel, Precision part. panel, Circling</td>
+        <td>Holds, VOR Appr, GPS Appr, Non-precision part. panel, Precision part. panel, Circling</td>
     </tr>
     <tr>
         <td>46</td>
@@ -512,7 +510,7 @@ Some ground lesson will use the [Backseat Pilot (BP) Commerical Lesson Plans](ht
         <td>0.4</td>
         <td>2</td>
         <td>Stage 3 Review</td>
-        <td>VOR Use, GPS Use, AP Use, Holds, VOR Appr, GPS Appr, ILS Appr, BC Appr, Nonprecision part. panel, Precision part. panel, Circling</td>
+        <td>VOR Use, GPS Use, AP Use, Holds, VOR Appr, GPS Appr, ILS Appr, BC Appr, Non-precision part. panel, Precision part. panel, Circling</td>
     </tr>
     <tr>
         <td>Check</td>
@@ -520,7 +518,7 @@ Some ground lesson will use the [Backseat Pilot (BP) Commerical Lesson Plans](ht
         <td>1</td>
         <td>2</td>
         <td>Stage 3 Check</td>
-        <td>VOR Use, GPS Use, AP Use, Holds, VOR Appr, GPS Appr, ILS Appr, BC Appr, Nonprecision part. panel, Precision part. panel, Circling</td>
+        <td>VOR Use, GPS Use, AP Use, Holds, VOR Appr, GPS Appr, ILS Appr, BC Appr, Non-precision part. panel, Precision part. panel, Circling</td>
     </tr>
 </table>
 
@@ -543,10 +541,10 @@ Some ground lesson will use the [Backseat Pilot (BP) Commerical Lesson Plans](ht
   - Recovery from Unusual Flight Attitudes
   - Intercepting / Tracking Navigation Systems
   - Departure, En route, and Arrival Operations
-  - Nonprecision Approach - Full Approach
-  - Nonprecision Approach - Vectored
-  - Nonprecision Approach with an Autopilot
-  - Nonprecision Approach with Loss of Primary Flight Instrument Indicators
+  - Non-precision Approach - Full Approach
+  - Non-precision Approach - Vectored
+  - Non-precision Approach with an Autopilot
+  - Non-precision Approach with Loss of Primary Flight Instrument Indicators
   - APV Approach
   - Precision Approach
   - Missed Approach Procedures
@@ -574,8 +572,8 @@ Some ground lesson will use the [Backseat Pilot (BP) Commerical Lesson Plans](ht
 10. [Holding Procedures](/docs/lesson-plans/ifr/holding-procedures)
 11. ATC Clearances
 12. [BP V.B: Departure, Enroute, Arrival Procedures](https://thebackseatpilot.com/products/cfii-lesson-plans)
-13. [Instrument Approach Types](/docs/lesson-plans/ifr/instrument-approach-types)
-14. [Instrument Approach Charts](/docs/lesson-plans/ifr/instrument-approach-charts)
+13. [Instrument Approach Types](/docs/lesson-plans/ifr/approach-types)
+14. [Instrument Approach Charts](/docs/lesson-plans/ifr/approach-basics)
 15. [BP VIII.A: Non-precision approaches](https://thebackseatpilot.com/products/cfii-lesson-plans)
 16. [BP V.X: ATC System](https://thebackseatpilot.com/products/cfii-lesson-plans)
 17. [BP V.A: ATC Clearances, Pilot/Controller Responsibilities](https://thebackseatpilot.com/products/cfii-lesson-plans)

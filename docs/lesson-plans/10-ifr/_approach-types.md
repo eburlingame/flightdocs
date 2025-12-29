@@ -10,10 +10,6 @@ To demonstrate the kinds of approaches, approach limitations, and regulations th
 
 Assumes familiarity with instrument approach plates and the components of an approach.
 
-- Stage 2 / Module 3: GPS Approaches
-- Stage 2 / Module 4: ILS Approaches
-- Stage 2 / Module 5: RNAV Approaches
-
 ## Timing
 
 60 minutes

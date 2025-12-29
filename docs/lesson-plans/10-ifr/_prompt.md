@@ -12,18 +12,19 @@ Create a lesson plan in the following format. The lesson should be in markdown f
 
 This lesson should cover the IFR terminal departure and arrival procedures, covering the following topcis in order:
 
-- Terminal Procedures Publication
-- Airport Surface Hot Spots
-- IFR Take-Off Minimums
-- Declared Distance Information
-- Published Departure Procedures
-- Climb Via SID Clearance
-- ATC Communication and Compliance with Departure Instructions
-- Situational Awareness during Departure
-- Climb & Descent Tables
-- IFR Alternate Minimums
-- Descent Planning
-- Standard Terminal Arrival Procedures
-- Descend Via STAR Clearance
+- Nonprecision Instrument Approaches
+- Approach Briefing
+- Missed Approach Procedures
+- Visibility Minimums
+- Timed Approaches
+- Radar Approaches
+- Visual Approaches
+- Contact Approaches
+- Charted Visual Flight Procedures
+- Visual Descent Point
+- Circling Approaches
+- Vectored Approaches
+- Terminal Arrival Area (TAA) Approaches
+- Lighting Systems
 
 Your primary sources should be the relevant AIM chapters and the Instrument Flying Handbook, also the TERPs manual where appropriate.

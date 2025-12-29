@@ -9,9 +9,6 @@
 
 Develop an understanding of the common structure of an instrument approach procedure, and show how an approach chart describes that structure and information.
 
-Based on
-ASA IFR Syllabus Stage 4 / Module 1: Instrument Approaches
-
 ## Timing
 
 60 minutes
@@ -29,12 +26,6 @@ ASA IFR Syllabus Stage 4 / Module 1: Instrument Approaches
 - Precision approach
 - How do we brief an approach
 
-- Radar Instrument Approach Minimums
-- Pilot Briefing Information Section
-- Minimum Safe Altitude
-- Standard vs Expanded Circling Radii
-- Cold Temperature Restricted Airports / Altitude Corrections
-
 ## Content
 
 ### What is an instrument approach?
@@ -48,14 +39,17 @@ Two broad categories of approaches: Approaches with vertical guidance, approache
 ### Structure of an IAP
 
 - Transition routes, how do we get established on the approach
-- Final approach segment with some kind of guidance (ILS, VOR, GPS)
+- Final approach segment with some kind of navigational guidance (ILS, VOR, GPS)
 - Decision point: A point where we decide whether we are going to continue to land
-  - This decision is supported by a set of minimums, which tells us the altitude and visibility we need to have the runway in sight, and be able to land safely
+  - Dictated by a set of **minimums**, which tells us the altitude and visibility we need to have the runway in sight, and be able to land safely
+  - Also a set of criteria to ensure we can land safely
 - Missed approach procedure with a hold
 
 ### Chart Components
 
 Non-precision approach example: [KCVO VOR RWY 17](https://www.airnav.com/depart?http://aeronav.faa.gov/d-tpp/2509/00782VA.PDF)
+
+![alt text](images/kcvo-vor-17.png)
 
 - Margin identification
   - City/State (top L)
@@ -119,7 +113,9 @@ Non-precision approach example: [KCVO VOR RWY 17](https://www.airnav.com/depart?
       - RVR in 100's of feet, can be converted to s.m. (TPP supplement pg. 5) - See KSLE RNAV 31 for RVR
     - Small numbers: MDA/DA in height about runway threshold
 
-#### VDPs
+#### Visual Descent Points (VDPs)
+
+![alt text](images/kcvo-vdp.png)
 
 - Used on non-precision approach charts
 - Tells you the last point where a descent to the runway can be made at the established (often, but not always, aligning with the angle of the PAPI/VASI)
@@ -128,19 +124,39 @@ Non-precision approach example: [KCVO VOR RWY 17](https://www.airnav.com/depart?
   - VASI 3° angle: (632 MDH) / 300 = 2.1nm
   - Approach angle 3.2°: (632 / 354) = 1.8
 - Depending on our aircraft, we should treat the VDP as the MAP
-
   - A 172 may be able to make a safe approach and landing at >3° descent angle
   - A Cirrus or a King Air should probably make a missed approach
   - Reminder that we need to land using normal maneuvers
 
-- Precision approach chart: [KMFR ILS or LOC RWY 14](https://aeronav.faa.gov/d-tpp/2510/00251IL14.PDF)
-- Procedure turn example: KSPB VOR-A
-- Hold-in-lieu of procedure turn example: KSLE RNAV 31
+### Other Approach Charts
+
+<details>
+<summary>Precision approach: KMFR ILS or LOC RWY 14</summary>
+
+![alt text](images/image-43.png)
+
+</details>
+
+<details>
+<summary>Procedure turn: KSPB VOR-A</summary>
+
+![alt text](images/image-44.png)
+
+</details>
+
+<details>
+<summary>Hold-in-lieu of procedure turn: KSLE RNAV 31</summary>
+
+![alt text](images/image-45.png)
+
+</details>
 
 ### Briefing an approach
 
 Basic flow: Top left to bottom rate of the chart
 Example: KSLE RNAV 31, DIYAT to NECIP, LPV
+
+**W-WIRE**: Weather, waypoints, instruments, radios, everything else
 
 - Confirm approach name and chart currency
 - NAVAIDs: Tune and identify
@@ -156,12 +172,7 @@ Example: KSLE RNAV 31, DIYAT to NECIP, LPV
 - Missed approach procedure
 - Any questions?
 
-## Resources
+## References
 
 - DTPP Supplement: In ForeFlight FAA documents drive
-
-## Review
-
-- What is an approach?
-- Common structure: Transition, FAF, MAP, missed procedure, hold
-- Approach briefing: Top left to bottom right
+- [Instrument Flying Handbook pg. 10-13](/_references/IFH/10-13)
