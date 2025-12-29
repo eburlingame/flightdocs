@@ -24,6 +24,38 @@
 
 ## Elements
 
+### Autopilot Approach Operations and Limitations
+
+- Know the limitations of your aircraft, autopilot, and NOTAMs
+
+![alt text](images/cvo-notam.png)
+
+### Non-precision Approaches with an Autopilot
+
+- Use NAV or GPS mode, as appropriate for you autopilot
+
+### APV Approaches with an Autopilot
+
+- Monitor GPS annunciations and ensure correct mode (LPV, LPV+V, LNAV+V)
+
+### Precision Approaches with an Autopilot
+
+### Back Course Approaches with an Autopilot
+
+- HSI may need to be tuned to the front course (for the Avidyne/DFC90)
+
+### Missed Approach Procedures with an Autopilot
+
+- Some systems have go-around button (GA), for instance the GFC500
+  - This system puts the aircraft into PIT mode, node up of 7&deg;
+- Other systems require you to change into a climb mode
+- Be sure to unusupend the GPS sequencies
+
+### Holding Procedures with an Autopilot
+
+- Modern autopilots will fly the proper hold entry and execute the hold course
+- Note the CDI will still display relative to the holding inbound course
+
 ### DME Principles of Operation
 
 - System uses **paired pulses** sent from aircraft (**interrogation**) to ground station
@@ -58,7 +90,7 @@
 - Maximum arc radius for final approach segments is **30 NM**
 - Adjust rollout heading based on **DME** movement during the turn
 
-
+![alt text](images/image-65.png)
 
 ### DME Arc Tracking
 
@@ -70,7 +102,6 @@
 - Using **VOR CDI**: maintain heading near the **90$^{\circ}$** or **270$^{\circ}$** reference points
 - Recenter **CDI** whenever needle moves **2$^{\circ}$–4$^{\circ}$** from center
 - Intercept **Lead Radials** to transition from the arc to a final approach course
-- **PHOTO PLACEHOLDER: RMI display showing bearing pointer positions for maintaining a DME arc**
 
 ## References
 

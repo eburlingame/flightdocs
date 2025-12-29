@@ -62,7 +62,7 @@ Understand the specific roles and shared responsibilities of pilots and air traf
   - Verify reported ground visibility at destination is at least **1 s.m.**
   - Provide separation from other **IFR** or **Special VFR (SVFR)** traffic
 
-[AIM 5-5-3](/_references/AIM/5-5-3), [Pilot-Controller Glossary](/_references/Pilot-Controller-Glossary)
+[AIM 5-5-3](/_references/AIM/5-5-3), [Pilot-Controller Glossary](/_references/Pilot-Controller-Glossary/)
 
 ### Visual Approach
 

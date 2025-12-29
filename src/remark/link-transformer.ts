@@ -29,7 +29,7 @@ const transformations: Record<string, (url: string) => string> = {
     return `https://www.faa.gov/air_traffic/publications/atpubs/aim_html/chap${chapter}_section_${section}.html#$paragraph${sectionId}`;
   },
 
-  "/_references/Pilot-Controller-Glossary": () =>
+  "/_references/Pilot-Controller-Glossary/": () =>
     "https://www.faa.gov/air_traffic/publications/atpubs/pcg_html/",
 };
 

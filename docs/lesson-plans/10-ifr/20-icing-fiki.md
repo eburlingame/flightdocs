@@ -10,7 +10,7 @@ To understand the formation, dangers, and mitigation of in-flight icing and how 
 
 ## Format
 
-- [Slides](/slides/ifr/icing/icing-fiki)
+- [Slides](/slides/icing-fiki.pdf)
 
 ## Overview
 
