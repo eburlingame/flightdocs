@@ -10,27 +10,11 @@ Create a lesson plan in the following format. The lesson should be in markdown f
   - Make bullets very short, not complete sentences but terse, information-dense phrases. Do not include a period at the end of each bullet point.
 - **References**: A list of document names and relevant page numbers
 
-This lesson should cover the pilot/controller responsibilities for the following areas of operations. List references to specific, relevant sections at the end of each section. Bold important numbers, terms, and acronyms, as appropriate:
+This lesson should cover the DME operation and use. Bold important numbers, terms, and acronyms, as appropriate:
 
-Air Traffic Clearance
-Contact Approach
-Visual Approach
-Instrument Approach
-Missed Approach
-Radar Vectors
-Safety Alerts
-Speed Adjustments
-Visual Separation
-Instrument Departures
-Wake Turbulence Separations
-Compulsory Reporting Points
-Loss of Communications
-Land and Hold Short Operations
-Practice Instrument Approaches
-IFR Separation Standards
-See and Avoid
-Traffic Advisories
-VFR-On-Top
-Minimum Fuel Advisory
+- DME Principles of Operation
+- DME Errors and Irregularities
+- DME Arc Interception
+- DME Arc Tracking
 
 Your primary sources should be the relevant AIM chapters and the Instrument Flying Handbook, also the TERPs manual where appropriate.

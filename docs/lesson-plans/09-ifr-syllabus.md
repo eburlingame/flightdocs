@@ -301,7 +301,7 @@ Some ground lesson will use the [Backseat Pilot (BP) Commerical Lesson Plans](ht
         <td>1.2</td>
         <td>0</td>
         <td>
-           - [BP VIII.B: Precision Approaches](https://thebackseatpilot.com/products/cfii-lesson-plans)
+           - [Precision Approaches](/docs/lesson-plans/ifr/precision-approaches)
         </td>
         <td>ILS, precision approaches, backcourses, LPV</td>
     </tr>
@@ -327,8 +327,7 @@ Some ground lesson will use the [Backseat Pilot (BP) Commerical Lesson Plans](ht
         <td>1.2</td>
         <td>0</td>
         <td>
-        - TODO: Needs lesson plan for approaches with the Autopilot
-        - TODO: Need lesson plan for partial panel approaches?
+        - [Approaches with the Autopilot](/docs/lesson-plans/ifr/autopilot-approaches)
         </td>
         <td>AP nonprec. approach, AP LPV, AP ILS, AP holds, DME</td>
     </tr>
