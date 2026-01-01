@@ -144,7 +144,7 @@ Provide an understanding of the use of autopilot for IFR approach operations, in
   - Use timed, standard-rate turns and cross-check with the compass
 - Backup Systems: In aircraft with electronic flight displays, transition to the **standby instruments** (typically an analog airspeed indicator, attitude indicator, and altimeter) and use the moving map on the MFD to maintain situational awareness.
 
-[Instrument Flying Handbook pg. 7-36](/_referencØes/IFH/7-36)
+[Instrument Flying Handbook pg. 7-36](/_references/IFH/7-36)
 
 ## References
 
