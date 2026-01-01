@@ -134,15 +134,17 @@ Demostrate the ability to locate, interpret, and analyze various aviation weathe
 - **Composite Reflectivity** displays maximum intensity found in a vertical column
 - **Datalinked** radar mosaics may have a latency of **15–20** minutes
   - Beware of NEXARD data displayed in the cockpit
+  - Never navigate close to a thunderstorm using NEXRAD radar imagery
 
 ### Surface Analysis Chart
+
+![alt text](images/image-82.png)
 
 - Computer-prepared analysis transmitted every **3** hours
 - Depicts pressure systems, fronts, and station models
 - Plotted **Sea Level Pressure** (**SLP**) uses **3** digits (tens, units, tenths)
 - Station models show wind, temperature, dewpoint, sky cover, and present weather
 - Isobars depict lines of equal pressure, typically at **4 MB** intervals
-- **PHOTO PLACEHOLDER: A portion of a Surface Analysis Chart with legends for front types**
 
 ### Freezing Level Chart
 
