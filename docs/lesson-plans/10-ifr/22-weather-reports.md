@@ -72,21 +72,68 @@ Demostrate the ability to locate, interpret, and analyze various aviation weathe
 
 ### Pilot Reports
 
+![alt text](images/hio-pirep.png)
+
 - Volunteered observations of in-flight conditions
 - Two types: Routine (**UA**) and Urgent (**UUA**)
-- **UUA** required for tornadoes, **severe** icing/turbulence, **hail**, and **LLWS** $\pm$ **10** knots
-- Elements include: **/OV** (location), **/TM** (time), **/FL** (altitude), **/TP** (aircraft type), **/WX** (weather), **/TB** (turbulence), **/IC** (icing)
-- Standardized format for entry into the National Airspace System (**NAS**)
-- **PHOTO PLACEHOLDER: A completed PIREP form showing symbols for location and intensity**
+  - **UUA** required for tornadoes, **severe** icing/turbulence, **hail**, and **LLWS** $\pm$ **10** knots
+- Elements include:
+  - **/OV** (location)
+  - **/TM** (time)
+  - **/FL** (altitude)
+  - **/TP** (aircraft type)
+  - **/WX** (weather)
+  - **/TB** (turbulence)
+  - **/IC** (icing)
+
+![alt text](images/image-81.png)
+
+#### Reporting a PIREP
+
+- **Who**: Tailnumber and type, if needed
+- **Where**: Relative to an airport or NAVAID
+- **When**: Zulu time of the report
+- **What**: One or more of the following
+  - Clouds
+    - Cloud Type
+      - Stratus
+      - Cumulus
+      - Towering Cumulus
+      - Cirrus
+      - Cumulonimbus
+    - Cloud Coverage
+      - **Clear**: no coverage
+      - **Few**: >0 to 2/8 coverage
+      - **Scattered**: 3/8 to 4/8 coverage
+      - **Broken**: 5/8 to 7/8 coverage
+      - **Overcast**: 8/8 coverage
+  - Turbulence (See [Pilot-Controller Glossary T](https://www.faa.gov/air_traffic/publications/atpubs/pcg_html/glossary-t.html))
+    - **Light:** Momentarily causes slight, erratic changes in altitude and/or attitude.
+    - **Light Chop**: Slight, rapid, and somewhat rhythmic bumpiness without appreciable change in altitude or attitude. Occupants feel a slight strain against their seatbelts.
+    - **Moderate**: Changes in altitude and/or attitude occur but the aircraft remains in positive control. It usually causes variations in indicated airspeed.
+    - **Moderate Chop**: Causes rapid bumps or jolts without appreciable changes in altitude or attitude. Occupants feel a definite strain against their seatbelts, and unsecured objects will be dislodged.
+    - **Severe**: Causes large, abrupt changes in altitude and/or attitude. It usually causes large variations in indicated airspeed and the aircraft may be momentarily out of control. Occupants are violently forced against their seatbelts, and unsecured objects are tossed throughout the cabin.
+    - **Extreme**: Aircraft is violently tossed about and is practically impossible to control. It may cause structural damage.
+  - Icing ([AIM 7-1-19](/_references/AIM/7-1-19))
+    - **Trace**: Ice is just becoming noticeable; accumulation slightly exceeds sublimation. Can be managed for longer periods but still requires monitoring
+    - **Light**: Occasional use of deicing systems is needed. Can be hazardous for an hour or more
+    - **Moderate**: Continuous use of ice protection systems is needed. Diversion or exit from icing conditions
+    - **Severe**: Ice protection systems cannot remove faster than accumulation. Immediate exit from icing conditions is required
+  - Visibility and type of precipitation
 
 ### Radar Observations
 
 - Primary tool for detecting coverage, intensity, and movement of precipitation
 - **WSR-88D** (**NEXRAD**) network updated every **4–10** minutes
-- Intensity levels: **LIGHT**, **MODERATE**, **HEAVY**, and **EXTREME**
+- Intensity levels:
+  - **LIGHT**
+  - **MODERATE**
+  - **HEAVY**
+  - **EXTREME**
 - Radar cannot detect clouds, fog, or turbulence directly
 - **Composite Reflectivity** displays maximum intensity found in a vertical column
 - **Datalinked** radar mosaics may have a latency of **15–20** minutes
+  - Beware of NEXARD data displayed in the cockpit
 
 ### Surface Analysis Chart
 
@@ -125,12 +172,12 @@ Demostrate the ability to locate, interpret, and analyze various aviation weathe
 
 - **AIRMET** (**WA**): Advisories for phenomena hazardous to light aircraft, issued every **6** hours
   - **SIERRA**: **IFR** and mountain obscuration
-  - **TANGO**: Moderate turbulence, **SFC** winds $>$ **30** kt, and **LLWS**
+  - **TANGO**: Moderate turbulence, **SFC** winds &gt; **30** kt, and **LLWS**
   - **ZULU**: Moderate icing and freezing levels
 - **SIGMET** (**WS**): Non-convective hazards to all aircraft (Severe turb/icing, ash, dust)
   - Valid for **4** hours (**6** for hurricanes/volcanic ash)
 - **Convective SIGMET** (**WST**): Issued for hazardous convective activity in **CONUS**
-  - Criteria: Surface winds $\geq$ **50** kt, hail $\geq$ **3/4** inch, or tornadoes
+  - Criteria: Surface winds &ge;**50** kt, hail &ge;**3/4** inch, or tornadoes
   - Issued hourly at **H+55** and valid for up to **2** hours
 
 ### Recognition of Critical Weather Situations
@@ -158,3 +205,4 @@ Demostrate the ability to locate, interpret, and analyze various aviation weathe
 - Aeronautical Information Manual: 7-1-3, 7-1-5, 7-1-26
 - Pilot-Controller Glossary: 2137, 2151, 2174, 2180, 2318
 - Backseat Pilot CFII Lesson Plans: III.A (Weather Information)
+- [AOPA PIREP Safety Spotlight](https://www.aopa.org/training-and-safety/online-learning/safety-spotlights/pireps-made-easy/creating-a-pirep)
