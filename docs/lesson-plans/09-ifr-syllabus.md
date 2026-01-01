@@ -353,7 +353,7 @@ Some ground lesson will use the [Backseat Pilot (BP) Commerical Lesson Plans](ht
         <td>1.2</td>
         <td>0</td>
         <td>
-           - [BP III.A: Weather Information](https://thebackseatpilot.com/products/cfii-lesson-plans)
+        - [Icing, PIREPs, and FIKI](/docs/lesson-plans/ifr/icing-fiki)
         </td>
         <td>Icing, PIREPs, FIKI</td>
     </tr>
@@ -363,7 +363,7 @@ Some ground lesson will use the [Backseat Pilot (BP) Commerical Lesson Plans](ht
         <td>1.2</td>
         <td>0</td>
         <td>
-           - [BP III.A: Weather Theory](https://thebackseatpilot.com/products/cfii-lesson-plans)
+        - [Thunderstorms](/docs/lesson-plans/ifr/thunderstorms)
         </td>
         <td>Thunderstorms</td>
     </tr>
@@ -381,7 +381,7 @@ Some ground lesson will use the [Backseat Pilot (BP) Commerical Lesson Plans](ht
         <td>1.2</td>
         <td>0</td>
         <td>
-           - [BP III.A: Weather Theory](https://thebackseatpilot.com/products/cfii-lesson-plans)
+        - [Weather Reports and Forecasts](/docs/lesson-plans/ifr/weather-reports)
         </td>
         <td>Forecasts and Reports</td>
     </tr>
