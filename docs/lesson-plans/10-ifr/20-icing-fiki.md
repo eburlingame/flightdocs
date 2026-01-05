@@ -59,7 +59,7 @@ Aircraft icing is ice that accumulates on the structure or in the induction syst
     - Typically more dangerous that rime ice
   - Mixed ice: A combination of clear and rime ice
 
-### Hazards of structural icing
+### Hazards of Structural Icing
 
 - Ice alters the shape of an airfoil, reducing the AOA at which the aircraft stalls
   - Note: This may have no effect in cruise but pose a significant risk during approach and landing
@@ -85,7 +85,7 @@ Aircraft icing is ice that accumulates on the structure or in the induction syst
     - Radio reception may become distorted
     - Antennas can also break off with enough ice accumulation
 
-### Factors which affect ice accumulation
+### Factors Which Affect Ice Accumulation
 
 - Water content
 - Temperature
@@ -100,14 +100,14 @@ Aircraft icing is ice that accumulates on the structure or in the induction syst
 - **Moderate**: Requires continuous use of the deice system
 - **Severe**: Conditions where the deice system fails to remove ice and accumulates in places normally not prone to icing
 
-### Ground icing: Frost
+### Ground Icing: Frost
 
 - Frost may form overnight when the temperature is below freezing and dew forms on the wings
 - Just like airframe ice, this can have a significant effect of the aerodynamics of the airfoil and adds weight to the airplane
 - Any accumulation of ice or frost should be removed before attempting flight
 - How to remove frost: Rag with deicing fluid, deicing fluid spray, or a light brush
 
-### Conditions which form ice
+### Conditions Which Form Ice
 
 - There is potential for icing anytime you're in visible moisture and the temperature is near or below freezing
   - Most ice forms between **-20&deg;** and **0&deg;**
@@ -124,7 +124,7 @@ Aircraft icing is ice that accumulates on the structure or in the induction syst
   - ![alt text](images/image-6.png)
 - Freezing fog
 
-### Icing weather products
+### Icing Weather Products
 
 - Freezing level chart
 - AIRMETs: Moderate icing and low freezing levels

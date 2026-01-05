@@ -2,9 +2,16 @@
 
 ## Objective
 
+Understand the formation, classification, and lifecycle of thunderstorms, identify associated aviation hazards, interpret relevant weather products, and apply established safety strategies for avoidance and inadvertent encounters.
+
 ## Timing
 
+- 45 minutes
+
 ## Format
+
+- Whiteboard
+- ForeFlight weather products
 
 ## Overview
 
