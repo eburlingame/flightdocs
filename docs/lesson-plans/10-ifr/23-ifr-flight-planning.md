@@ -26,16 +26,31 @@ Demonstrate the ability to plan an IFR cross-country flight, including selecting
 
 ### Filing an IFR Flight Plan
 
+![alt text](images/flightplan.png)
+
 - Mandatory for all flights in controlled airspace under **IFR**
 - Submit via **ICAO** format (FAA Form **7233-4**)
   - This is what ForeFlight will submit as when you file
 - File at least **30** minutes prior to estimated time of departure (**ETD**)
-  - Flight plans show up in the ATC system prior to your ETD, and remain
+  - Flight plans show up in the ATC system **30 minutes** prior to your ETD and remain active for 3-4 hours depending on the facility
 - Utilize **1-2-3** rule for alternate necessity: **1** hour before/after **ETA**, **2,000**' ceiling, **3** **SM** visibility
 - Identify **PBN** and **RVSM** equipment capabilities in blocks 10 and 18
 - Include aircraft identification, type, and color for search and rescue
 
-![alt text](images/flightplan.png)
+### Briefing a Flight
+
+- Retrieve a weather briefing before departure
+- Recall [91.103](/_references/14-CFR/91.103), preflight planning must include:
+  - **N**OTAMs
+  - **W**eather forecasts and reports
+  - [**K**nown ATC delays](https://nasstatus.faa.gov/)
+  - **R**unway lengths at airports of intended use
+  - **A**lternate if the flight cannot be completed as planned
+  - **F**uel requirements
+  - **T**akeoff and landing distance information from the AFM/POH
+- Use a standard briefing checklist which covers your NWKRAFT items, airworthiness, and personal minimums
+
+![alt text](images/brief-checklist.png)
 
 ### Copying / Understanding IFR Clearances
 
@@ -49,7 +64,7 @@ Demonstrate the ability to plan an IFR cross-country flight, including selecting
   - Start a timer when given a void time to keep track
 - Read back all altitudes, restrictions, headings, and "hold short" instructions in sequence
 
-### Enroute Weather
+### En Route Weather
 
 - Monitor **SIGMETs** for non-convective hazards like severe icing or turbulence
 - Track **AIRMETs** (**SIERRA, TANGO, ZULU**) for conditions hazardous to light aircraft
@@ -75,19 +90,21 @@ Demonstrate the ability to plan an IFR cross-country flight, including selecting
 
 ### Planning Departures and Arrivals
 
-- Check for published **ODPs** to ensure terrain clearance during climb-out
-- Standard climb gradient is **200** **FPNM** (assumes crossing **DER** at **35** feet and climbing to **400** feet before turns)
+- Check for published **ODPs** or **SIDs** to ensure terrain clearance during climb-out
+  - Standard climb gradient is **200** **FPNM** (assumes crossing **DER** at **35** feet and climbing to **400** feet before turns)
   - Non-standard climb gradients: $\text{Climb rate (ft / min)} = \frac{\text{Ground speed } * \text{ Climb gradient (ft / nm)}}{60}$
-- Confirm eligibility and possession of charted **SIDs** and **STARs** before accepting clearances
-- Comply with "Climb Via" or "Descend Via" instructions to meet all published restrictions
-- Notify ATC as early as possible if intending to use a **VCOA** departure
-- Load procedures directly from a current database by name
-  - This is required for RNAV terminal procedures
+  - Confirm eligibility and possession of charted **SIDs** and **STARs** before accepting clearances
+  - Comply with "Climb Via" or "Descend Via" instructions to meet all published restrictions
+  - Load procedures directly from a current database by name
+    - This is required for RNAV terminal procedures
+- Notify ATC as early as possible if intending to use a visual climb over airport (**VCOA**) departure
+- Class G airports do not have published ODPs or SIDs
+  - You must maintain **your own obstacle clearance** before entering controlled airspace
 
 ### Power / Fuel Management
 
 - Legal fuel requirements must be met [91.167](/_references/14-CFR/91.167):
-  1. Enough fuel to flight to first airport of intended landing
+  1. Enough fuel to fly to first airport of intended landing
   2. Then to your alternate, if an alternate was filed
   3. Then for 45 minutes at normal cruising speed
 - Sensible fuel requirements: **Land with >1 hour of fuel**
@@ -107,3 +124,4 @@ Demonstrate the ability to plan an IFR cross-country flight, including selecting
 - **TERPS Manual (FAA Order 8260.3)**: 2-1, 3-5
 - **14 CFR Part 91**: 91.103, 91.167, 91.169, 91.173, 91.177, 91.185
 - **Backseat Pilot CFII Lesson Plans**: III.B, V.A, V.B, XI.A
+- [IFR Magazine Flight Plans](https://ifr-magazine.com/system/flight-plans/)
