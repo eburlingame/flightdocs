@@ -30,10 +30,10 @@ Demonstrate the ability to plan an IFR cross-country flight, including selecting
 
 - Mandatory for all flights in controlled airspace under **IFR**
 - Submit via **ICAO** format (FAA Form **7233-4**)
-  - This is what ForeFlight will submit as when you file
+  - This is what ForeFlight will submit when you file
 - File at least **30** minutes prior to estimated time of departure (**ETD**)
   - Flight plans show up in the ATC system **30 minutes** prior to your ETD and remain active for 3-4 hours depending on the facility
-- Utilize **1-2-3** rule for alternate necessity: **1** hour before/after **ETA**, **2,000**' ceiling, **3** **SM** visibility
+- Utilize the **1-2-3** rule to determine when an alternate is **not required**: if, within ±**1** hour of **ETA**, the destination is forecast to have a ceiling greater than **2,000**' and visibility greater than **3 SM**
 - Identify **PBN** and **RVSM** equipment capabilities in blocks 10 and 18
 - Include aircraft identification, type, and color for search and rescue
 
@@ -111,7 +111,7 @@ Demonstrate the ability to plan an IFR cross-country flight, including selecting
 - Select cruise power settings from the POH based on desired cruise speed and fuel burn
 - For low-wing airplanes
   - Use a recurring alert as a reminder to switch tanks
-  - Record the level of each fuel when swapping tanks to prevent fuel imbalance
+  - Record the level of each fuel tank when swapping tanks to prevent fuel imbalance
 - Advise ATC of "Minimum Fuel" status when fuel supply allows for little or no undue delay
 - Declare an emergency and report remaining fuel in minutes if priority is needed
 
