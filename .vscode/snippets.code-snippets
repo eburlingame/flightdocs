@@ -23,6 +23,13 @@
     ],
     "description": "Link to Instrument Flying Handbook",
   },
+  "awh": {
+    "prefix": "awh",
+    "body": [
+      "[Aviation Weather Handbook pg. $1](/_references/AWH/$1)",
+    ],
+    "description": "Link to Aviation Weather Handbook",
+  },
   "6165": {
     "prefix": "6165",
     "body": ["[AC 61-65 $1](/_references/AC-61-65/$1)"],
