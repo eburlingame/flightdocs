@@ -130,7 +130,7 @@ Aircraft icing is ice that accumulates on the structure or in the induction syst
 - AIRMETs: Moderate icing and low freezing levels
 - SIGMETs: Severe icing
 
-### Ice accumulation playbook
+### Ice Accumulation Playbook
 
 1. Pitot heat ON
 2. Ice protection system (TKS, boots) ON

@@ -2,7 +2,7 @@
 
 ## Objective
 
-Demostrate the ability to locate, interpret, and analyze various aviation weather reports and forecasts, correlating this data to identify hazards and make informed go/no-go decisions for **IFR** operations.
+Demonstrate the ability to locate, interpret, and analyze various aviation weather reports and forecasts, correlating this data to identify hazards and make informed go/no-go decisions for **IFR** operations.
 
 ## Timing
 
@@ -59,7 +59,7 @@ Demostrate the ability to locate, interpret, and analyze various aviation weathe
   - Station ID
   - Time
   - Wind, relative to **true** north
-  - Visibility, reported in **statue miles**
+  - Visibility, reported in **statute miles**
   - RVR, if available
   - Weather, given in **AGL**
   - Sky Condition
@@ -86,7 +86,7 @@ Demostrate the ability to locate, interpret, and analyze various aviation weathe
 
 - Volunteered observations of in-flight conditions
 - Two types: Routine (**UA**) and Urgent (**UUA**)
-  - **UUA** required for tornadoes, **severe** icing/turbulence, **hail**, and **LLWS** &pm;**10** knots
+  - **UUA** required for tornadoes, **severe** icing/turbulence, **hail**, and **LLWS** ±**10** knots
 - Elements include:
   - **/OV** (location)
   - **/TM** (time)
@@ -145,9 +145,9 @@ Demostrate the ability to locate, interpret, and analyze various aviation weathe
 - Radar cannot detect clouds, fog, or turbulence directly
 - **Composite Reflectivity** displays maximum intensity found in a vertical column (default Radar layer in ForeFlight)
 - **Base Reflectivity** displays lowest elevation angle scan, or 0.5° above the horizon (also called "lowest tilt")
-  - This of this as surface precipitation
+  - Think of this as surface precipitation
 - **Datalinked** radar mosaics may have a latency of **15–20** minutes
-  - Beware of NEXARD data displayed in the cockpit
+  - Beware of NEXRAD data displayed in the cockpit
   - Never navigate close to a thunderstorm using NEXRAD radar imagery
 
 ![alt text](images/image-84.png)
@@ -168,7 +168,8 @@ Demostrate the ability to locate, interpret, and analyze various aviation weathe
   - Mid-Level Chart covers **10,000** ft to **FL450**
   - High-Level Chart covers **FL250** to **FL630**
 - Depicts flying categories (**IFR**, **MVFR**, **VFR**), turbulence, and freezing levels
-- Depicts jet streams, **CB** cloud areas, and tropopause heights- Isobars depict lines of equal pressure, typically at **4 MB** intervals
+- Depicts jet streams, **CB** cloud areas, and tropopause heights
+- Isobars depict lines of equal pressure, typically at **4 MB** intervals
 
 ### Freezing Level Chart
 
@@ -187,7 +188,7 @@ Demostrate the ability to locate, interpret, and analyze various aviation weathe
 Advisories for phenomena hazardous to light aircraft, issued every **6** hours
 
 - **SIERRA**: IFR and mountain obscuration
-  - Ceilings less than **1000**' and/or visibility less than 3 s.m., affecting over 50% of the area at one time
+  - Ceilings less than **1000**' and/or visibility less than **3 SM**, affecting over 50% of the area at one time
 - **TANGO**: Turbulence
   - Moderate turbulence
   - Sustained surface winds of **30** knots or more at the surface

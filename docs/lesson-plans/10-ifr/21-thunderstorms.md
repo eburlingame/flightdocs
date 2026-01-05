@@ -41,7 +41,7 @@ Three essential ingredients:
 
 - Conditionally unstable air allows for release of convective energy
 - Lifting mechanisms: converging winds, fronts, upslope flow, drylines, or local wind circulations
-- A rapid decrease in temperature with altitude may indicate a unstable air mass
+- A rapid decrease in temperature with altitude may indicate an unstable air mass
 
 ### Thunderstorm Lifecycle
 
@@ -108,7 +108,7 @@ Three distinct stages: **Towering Cumulus**, **Mature**, and **Dissipating**
   - Greatest turbulence is found around the perimeter of the storm, where the stormy air is mixing with the air around it
   - Usually the turbulence is strongest on the front side of the storms
   - 20 fpm gusts: Moderate turbulence, 30 fpm gusts: Severe turbulence
-  - Gustfront can extend **15-20 miles** in front of a strong storm, surface winds can change rapidly in speed and direction
+  - Gust fronts can extend **15-20 miles** in front of a strong storm; surface winds can change rapidly in speed and direction
 - **Hailstones** &ge;**0.75** inches cause significant structural damage
 - **Lightning** strikes most common at temperatures between -5&deg;C and +5&deg;C
 - **Static electricity** (**P-static**) can cause complete loss of **VHF** communications
@@ -121,7 +121,7 @@ Three distinct stages: **Towering Cumulus**, **Mature**, and **Dissipating**
 
 **Microbursts** produce downdrafts up to **6,000** fpm and headwind losses of **30–90** knots
 
-- Microburst are small-scale, intense downdrafts that spread out symmetrically when reaching the ground
+- Microbursts are small-scale, intense downdrafts that spread out symmetrically when reaching the ground
 
 ![alt text](images/image-74.png)
 
@@ -151,7 +151,7 @@ Three distinct stages: **Towering Cumulus**, **Mature**, and **Dissipating**
 - Valid for up to **2** hours
 - Criteria:
   - Surface winds &gt;**50** knots, hail &ge;**3/4** inch, or tornadoes
-  - Tornados, lines of thunderstorms, embedded or severe thunderstorms
+  - Tornadoes, lines of thunderstorms, embedded or severe thunderstorms
   - Area of very strong storms affecting **3000 square miles** and covering at least **40%** of the area
 - Based on a convective outlook, which is also available
 
