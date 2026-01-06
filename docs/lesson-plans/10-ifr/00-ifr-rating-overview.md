@@ -66,9 +66,11 @@ A logbook entry needs to include ([61.51(b)](</_references/14-CFR/61.51(b)>))
 
 To file and fly under IFR, you must have, within the **6 calendar months**, performed and logged at least the following tasks and iterations in actual IFR weather conditions, or simulated IFR weather conditions using a view-limiting device:
 
-- Six instrument approaches
+- Six instrument approaches\*
 - Holding procedures and tasks
 - Intercepting and tracking courses through the use of navigational electronic systems
+
+> Note that the approaches need to be done in simulated instrument conditions to the DA/MAP, or the airplane transition to VMC on the final approach segment ([FAA InFO 15012](https://www.faa.gov/sites/faa.gov/files/pilots/training/firc/InFO15012.pdf)).
 
 A pilot may accomplish this requirement in a full flight simulator (FFS), flight training device (FTD), or aviation training device (ATD) provided the device represents the category of aircraft for the instrument rating privileges, and the pilot performs the tasks in simulated instrument conditions.
 
