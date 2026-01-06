@@ -10,21 +10,13 @@ Create a lesson plan in the following format. The lesson should be in markdown f
   - Make bullets very short, not complete sentences but terse, information-dense phrases. Do not include a period at the end of each bullet point.
 - **References**: A list of document names and relevant page numbers
 
-This lesson should cover aviation weather reports and forecasts. Bold very important numbers and acronyms, as appropriate. Do not bold terms in the subheadings of each section.
+This lesson should cover IFR cross-country flight planning. Bold very important numbers and acronyms, as appropriate. Do not bold terms in the subheadings of each section.
 
-- Graphical Forecasts for Aviation
-- Terminal Aerodrome Forecasts
-- METARs
-- Winds / Temperatures Aloft
-- Pilot Reports
-- Radar Observations
-- Surface Analysis Chart
-- Freezing Level Chart
-- Upper Level Charts
-- Significant Weather Prognostic Charts
-- SIGMETs, AIRMETs, & Convective
-- SIGMETs
-- Recognition of Critical Weather Situations
-- Windshear Avoidance
+- Filing an IFR Flight Plan
+- Copying / Understanding IFR Clearances
+- Dealing with En Route Weather
+- Preparation of an IFR Navigation Log
+- Planning Departures and Arrivals
+- Power / Fuel Management
 
 Your primary sources should be the relevant flying handbooks and the aviation weather handbook, also the TERPs manual where appropriate.

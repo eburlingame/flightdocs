@@ -28,7 +28,7 @@ The student will have knowledge of GPS operation, including its principles, capa
 - Substitution of GPS for Other Navigation Radios Under IFR
 - Orientation, Position, and Waypoint Passage / Sequencing
 - GPS Course Intercepting and Tracking Procedures / Wind Correction Techniques
-- Computer / App Based GPS Procedures Simulator (from Appropriate GPS Manufacturer)
+- Computer / App Based GPS Procedures Simulator
 - Installed GPS Specific Procedures
 
 ## Elements
@@ -199,7 +199,7 @@ GPS CDI sensitivity changes based on the **phase of flight**
 
 ![alt text](images/image-33.png)
 
-### Computer / App Based GPS Procedures Simulator (from Appropriate GPS Manufacturer)
+### Computer / App Based GPS Procedures Simulator
 
 - Computer-based tutorials or simulations are often provided by manufacturers to allow pilots to **become familiar with the equipment’s operation**
 - Practice should include:
