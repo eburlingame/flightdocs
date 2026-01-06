@@ -7,10 +7,10 @@ The instrument rating is an additional _rating_ on your existing pilot certifica
 - Hold, or be concurrently applying for, a private pilot certificate
 - Speak, read, and write the English language
 - Receive and log ground training from an instructor or accomplish a home-study course
-- Receive a logbook endorsement from an instructor certifying that the student is prepared to the take the knowledge test
+- Receive a logbook endorsement from an instructor certifying that the student is prepared to take the knowledge test
 - Pass the required knowledge test on the following aeronautical knowledge areas:
   - Federal Aviation Regulations apply to flight operations under IFR
-  - Flight operations under IFR in the AIM
+  - Flight operations under IFR as described in the AIM
   - ATC system and procedures for instrument flight operations
   - IFR navigation and approaches
   - Use of IFR en route and instrument approach procedure charts
@@ -34,13 +34,13 @@ The instrument rating is an additional _rating_ on your existing pilot certifica
 ## Aeronautical Experience
 
 - **50 hours** of total cross-country time, of which **10** must be in airplanes
-  - XC time is [defined as](<https://www.ecfr.gov/current/title-14/part-61/section-61.1#p-61.1(b)(Cross-country%20time)>) time in an airplane, includes a landing at another airport, involves navigation or pilotage.
-  - For an IFR rating, the flight must include a point of landing at least **50nm** straight-line distance from the original point of departure
+  - XC time is [defined as](<https://www.ecfr.gov/current/title-14/part-61/section-61.1#p-61.1(b)(Cross-country%20time)>) time in an airplane that includes a landing at another airport and involves navigation or pilotage.
+  - For an IFR rating, the flight must include a point of landing at least **50 nm** straight-line distance from the original point of departure
 - **40 hours** of actual or simulated instrument time
   - Must include **15 hours** with an authorized CFI-I
   - **3 hours** of flight training within **2** calendar months of the test
   - One XC flight under IFR, filed with an ATC facility:
-    - At least **250nm** along airways or ATC routing
+    - At least **250 nm** along airways or ATC routing
     - 3 different kinds of instrument approaches
     - An approach at each airport
 
@@ -64,7 +64,7 @@ A logbook entry needs to include ([61.51(b)](</_references/14-CFR/61.51(b)>))
 
 [61.51(c)](</_references/14-CFR/61.51(c)>)
 
-To file and file under IFR, you must have, within the **6 calendar months**, that person performed and logged at least the following tasks and iterations in actual IFR weather conditions, or simulated IFR weather conditions using a view-limiting device:
+To file and fly under IFR, you must have, within the **6 calendar months**, performed and logged at least the following tasks and iterations in actual IFR weather conditions, or simulated IFR weather conditions using a view-limiting device:
 
 - Six instrument approaches
 - Holding procedures and tasks
