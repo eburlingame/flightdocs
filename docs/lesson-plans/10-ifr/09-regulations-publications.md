@@ -45,6 +45,7 @@ The student will have a thorough knowledge of the Federal Aviation Regulations (
 - Part 1: Contains Definitions
 - Part 43: Maintenance
 - Part 61: Certification Pilots Flight Instructors And Ground Instructors
+  - [61.51](/_references/14-CFR/61.51): Pilot log books
   - [61.57](/_references/14-CFR/61.57): Recent Flight Experience
   - [61.65](/_references/14-CFR/61.65): Instrument Rating Requirements
 - Part 91: General Operating and Flight Rules
