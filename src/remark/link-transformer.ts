@@ -17,7 +17,7 @@ const transformations: Record<string, (url: string) => string> = {
     "https://www.faa.gov/sites/faa.gov/files/regulations_policies/handbooks_manuals/aviation/FAA-H-8083-15B.pdf",
 
   "/_references/AC-61-65/": () =>
-    "https://www.faa.gov/documentLibrary/media/Advisory_Circular/AC_61-65J.pdf",
+    "https://www.faa.gov/documentLibrary/media/Advisory_Circular/AC_61-65K.pdf",
 
   "/_references/14-CFR/": (url: string) => {
     const sectionAndParagraph = url.replace("/_references/14-CFR/", "");
