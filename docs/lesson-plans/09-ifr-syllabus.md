@@ -449,7 +449,7 @@ Some ground lesson will use the [Backseat Pilot (BP) Commerical Lesson Plans](ht
         <td>1.2</td>
         <td>0</td>
         <td>
-           - [BP III.B: Cross-country Flight Planning](https://thebackseatpilot.com/products/cfii-lesson-plans)
+        - [IFR Cross-Country Flight Planning](/docs/lesson-plans/ifr/ifr-flight-planning)
         </td>
         <td>Enroute charts, airways, intersections, position reports</td>
     </tr>
@@ -459,7 +459,7 @@ Some ground lesson will use the [Backseat Pilot (BP) Commerical Lesson Plans](ht
         <td>1.2</td>
         <td>0</td>
         <td>
-           - [BP III.B: Cross-country Flight Planning](https://thebackseatpilot.com/products/cfii-lesson-plans)
+        - [IFR Cross-Country Flight Planning](/docs/lesson-plans/ifr/ifr-flight-planning)
         </td>
         <td>IFR XC planning, takeoff minimums</td>
     </tr>

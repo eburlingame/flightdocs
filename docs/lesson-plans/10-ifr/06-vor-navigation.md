@@ -59,6 +59,11 @@ See [AIM 1-1-4](/_references/AIM/1-1-4)
   - Place
   - Bearing error
   - Pilot signature
+- To find checkpoints in **ForeFlight**:
+  - Documents > FAA > Chart Supplement > Northwest
+    - Find VOR Recevier Checkpoints and VOR Test Facilities
+    - E.g. Oregon (pg. 358)
+  - VOT facilities and VOR checkpoints
 
 ![alt text](images/image-25.png)
 

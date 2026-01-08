@@ -146,7 +146,12 @@
 
 ### IFR Alternate Minimums
 
-- Alternates are required if, within &plusmn; 1 hour of your ETA, [ceilings are &lt; 2000' or visibility is &lt; 3 s.m.](/docs/topics/ifr/ifr-fuel-requirements), or your destination does not have an instrument approach.
+[91.175](/_references/14-CFR/91.175)
+
+- Alternates are required if, within &plusmn;**1 hour of your ETA**, the weather is forecast with:
+  - Ceilings **&lt; 2000'**, or
+  - Visibility is &lt; **3 s.m.**, or
+  - The destination does not have an instrument approach.
 - If an alternate is required, they must be selected based on the following criteria:
   - For an airports with a **precision** approach, the weather must be better than:
     - **> 600' ceiling**, and
@@ -157,9 +162,12 @@
   - If an airport contains a negative A on its approach plates, then it has non-standard alternate minimums.
     - ![Negative A symbol](/img/content/kcvo-vor-a-header.png)
   - In this case refer to the Alternate Minimums chart for the airport in the TPP:
+    - In ForeFlight, this is listed under the Arrival section of the procedures
     - ![Alternative minimums](/img/content/kcvo-alternate-mins.png)
+  - Jeppesen Charts include this on the Airport Info chart:
+    - ![alt text](images/kcvo-alt-mins.png)
   - If an airport does not have an instrument approach, it can be used as an alternate if:
-    - A decent to landing can be made from the **MEA** to the airport in basic VFR conditions
+    - A decent to landing can be made from the **MEA** to the airport in [basic VFR conditions](/_references/14-CFR/91.155)
   - If the chart contains a negative "A" followed by "NA", then that airport cannot be used as an alternate.
     - This may be because the airport does not have weather reporting
 - Commercial operators (Part 121/135) have more stringent, OpSpec-driven alternate requirements
@@ -168,6 +176,11 @@
 
 - Top-of-Descent (TOD) identifies where to begin descent from cruise
 - Maintain "Sterile Cockpit" during critical phases of flight, including descent
+- Heuristics for descent planning: At 500 fpm: 1000' decent takes 2 minutes
+  - At **60** knots ground speed, we're going **1nm** per minute. So **2nm per 1000'**
+  - At **90** knots ground speed, we're going **1.5nm** per minute. So **3nm per 1000'**
+  - At **120** knots ground speed, we're going **2nm** per minute. So **4nm per 1000'**
+- You can also use **ETE** data field on a GPS to determine when to start a descent
 
 ### Standard Terminal Arrival Procedures
 
