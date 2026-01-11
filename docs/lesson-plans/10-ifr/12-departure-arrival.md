@@ -2,6 +2,8 @@
 
 ## Objective
 
+Understand the use and purpose of standard departure and arrival procedures, their restrictions, and the expectations of ATC when using them. Also understand the purpose of IFR takeoff and alternate miniums.
+
 ## Timing
 
 1 hour
@@ -14,18 +16,18 @@
 ## Overview
 
 - Terminal Procedures Publication
-- Airport Surface Hot Spots
 - IFR Take-Off Minimums
-- Declared Distance Information
 - Published Departure Procedures
+- Climb & Descent Tables
 - Climb Via SID Clearance
 - ATC Communication and Compliance with Departure Instructions
 - Situational Awareness during Departure
-- Climb & Descent Tables
-- IFR Alternate Minimums
 - Descent Planning
 - Standard Terminal Arrival Procedures
 - Descend Via STAR Clearance
+- IFR Alternate Minimums
+- Airport Surface Hot Spots
+- Declared Distance Information
 
 ## Elements
 
@@ -46,18 +48,6 @@
 
 ![alt text](images/image-38.png)
 
-### Airport Surface Hot Spots
-
-- Areas that may cause confusion or have a higher potential for runway incursions
-  - Typically involve complex or confusing taxiway geometry
-  - Heightened pilot vigilance required when approaching or taxiing through these areas
-- Marked on the airport diagram
-- Read the hotspot information in the Chart Supplement
-
-![Hotspots on Airport Diagrma](images/image-40.png)
-
-![Hotspot descriptions in the Chart Supplement or TPP](images/image-39.png)
-
 ### IFR Take-Off Minimums
 
 - Required for commercial operators under 14 CFR Parts 121, 125, 129, or 135
@@ -71,46 +61,80 @@
 
 ![alt text](images/breifing-t.png)
 
-### Declared Distance Information
-
-![alt text](images/image-41.png)
-
-- Represent maximum distances suitable for takeoff and landing performance
-  - **TORA**: Takeoff Run Available, runway length for ground run
-  - **TODA**: Takeoff Distance Available, TORA + clearway length
-  - **ASDA**: Accelerate-Stop Distance Available, runway + stopway length for aborted takeoff
-  - **LDA**: Landing Distance Available, runway length for ground run of landing aircraft
-- Indicated on charts with a specific symbol referencing the Chart Supplement
-
 ### Published Departure Procedures
 
-- Preplanned IFR procedures providing obstruction clearance from terminal to en route structure
-- Three different types of published departure procedures:
-  - **Obstacle Departure Procedures (ODP)**: printed textually or graphically; primarily for obstacle avoidance
-    - Textual ODPs are found in the "takeoff minimums" section
-    - Graphical ODPs are published like SIDs, with "(Obstacle)" in the title
-  - **Standard Instrument Departures (SID)**: always graphic; designed for ATC flow, capacity, and workload reduction
-  - **Diverse vector area (DVA)**: an area in which ATC may provide radar vectors for a climb above the MVA/MIA, in lieu of a ODP or SID
+- When they add an instrument approach to an airport, they do a departure obstacle analysis
+
+![alt text](images/image-88.png)
+
+- If obstacles penetrate this envelope, then they will publish a departure procedure
+- When departure procedures are designed they look at obstacles within
+  - **25 NM** in non-mountainous areas, or
+  - **46 NM** in mountainous areas
+- Standard procedures assume you can climb:
+  - **200 ft. / nm**
+  - Assumes crossing DER at **35 feet**
+  - Climb at least **400'** above the runway before turning
+- Note: Some obstacles that are < 200' are defined as "low close-in obstacles"
+
+#### Obstacle Departure Procedures (ODPs)
+
+![alt text](images/odp.png)
+
+- Printed textually or graphically; primarily for obstacle avoidance
+  - Textual ODPs are found in the "takeoff minimums" section
+  - Graphical ODPs are published like SIDs, with "(Obstacle)" in the title
+- Jeppesen Chart include ODPs on the airport info chart (or additional page)
+- Must possess at least _textual_ description to accept a DP clearance
 - ODPs do _not_ require a clearance to fly
   - You should always fly an ODP unless the weather is day VFR
-- Must possess at least _textual_ description to accept a DP clearance
-- Departure procedures are defined around a 40:1 obstacle slope
-  - Assumes crossing DER at 35 feet, climbing to 400 feet above DER before turns, and 200 FT/NM climb
-  - ODPs/SIDs are only defined at airports with an instrument approach procedure, and which have obstacles which penetrate the 40:1 slope
-  - Obstacles that are < 200' are defined as "low close-in obstacles"
 
-### Climb via SID Clearance
+#### Standard Instrument Departures (SIDs)
 
-- A clearance for a SID which contains published altitude restrictions, which are mandatory
-  - Cancels previously issued speed or altitude restrictions when issued
-- "Climb via SID except maintain" cancels published altitudes above the cleared level
-- ATC ensures obstacle clearance until the aircraft is established on the published SID path
-- Examples:
-  - "Cleared Loop Six departure." - Fly lateral portion of SID only
-  - "Cleared Loop Six departure, climb and maintain four thousand." - Fly lateral portion of SID and speed restrictions, climb to and hold 4000
-  - "Climb via SID except maintain flight level one eight zero." - Fly lateral + vertical portion of SID, stop at 18,000
-- On initial contact with ATC, inform them of your position when climbing "via":
-  - "Cactus Seven Eleven leaving two thousand for one-six thousand, climbing via the Laura Two departure."
+- Always printed graphically
+- Designed for ATC flow, capacity, and workload reduction in addition to obstacle avoidance
+- Broken up into the primary procedure, and transition routes (bold vs. dashed line on Jepp charts)
+  - **Example: KPDX Cascade 4**
+  - They'll say something like "Cascade 4 departure, JUDAH transition"
+- "Climb Via" Clearance
+  - A clearance for a SID which contains published altitude restrictions, which are mandatory
+    - Cancels previously issued speed or altitude restrictions when issued
+  - Examples:
+    - "Cleared Loop Six departure. Climb via SID" - Fly lateral, vertical and speed restrictions
+    - "Cleared Loop Six departure." - Fly lateral portion of SID only
+    - "Cleared Loop Six departure, climb and maintain four thousand." - Fly lateral portion of SID and speed restrictions, climb to and stop at 4000
+    - "Climb via SID except maintain flight level one eight zero." - Fly lateral + vertical portion of SID, stop at 18,000
+  - On initial contact with ATC, inform them of your position when climbing "via":
+    - "Cactus Seven Eleven leaving two thousand for one-six thousand, climbing via the Laura Two departure."
+- **Example KBFI CBAIN 1**
+
+#### Diverse Vector Areas
+
+![alt text](<images/KUAO Aurora State.png>)
+
+- An area in which ATC may provide radar vectors for a climb above the MVA/MEA, in lieu of a ODP or SID.
+- Usually requires a certain climb gradient for each runway
+
+#### Visual Climb over Airport
+
+- Alternative to complying with climb gradients greater than 200 feet per nautical mile for an ODP or SID
+  - Developed to avoid obstacles greater than 3 statute miles from the departure end of the runway
+- Visually conduct climbing turns over the airport to the published "at or above" altitude
+- Takeoff minimums (or Jeppesen Airport Info Chart) will contain
+  - Top altitude to climb to
+  - Minimum weather needed for VCOA
+- Ask ATC for this departure option; they won't prompt you for it
+- Good option if the weather at the airport is good and you need to climb above terrain/weather before proceeding on course
+- **Example: KBIH or KBFI**
+
+### Climb & Descent Tables
+
+- Located in the front matter of the Terminal Procedures Publication
+- Converts required climb gradient (FT/NM) into a rate of climb (FPM) based on groundspeed
+- Essential for verifying aircraft can meet non-standard climb requirements on ODPs or SIDs
+- Can also be used for rate-of-descent to aid in a stabilized descent on final approach
+
+![alt text](images/image-42.png)
 
 ### ATC Communication and Compliance with Departure Instructions
 
@@ -125,24 +149,38 @@
 
 - Verify transponder and ADS-B are ON and squawking assigned code
 - Monitor instruments to ensure continuous orientation to assigned route, especially when being vectored
-- Note initial departure heading for lost communication backup
+- Note initial departure heading and last frequency for lost communication backup
 - Review all pertinent NOTAMs and TFRs before departure
 
-### Climb & Descent Tables
+### Descent Planning
 
-- When departure procedures are designed they look at obstacles within
-  - **25 NM** in non-mountainous areas, or
-  - **46 NM** in mountainous areas
-- Standard procedures assume you can climb at least:
-  - **200 ft. / nm**
-  - Climb at least **400'** above the runway before turning
-- Climb and descent table
-  - Located in the front matter of the Terminal Procedures Publication
-  - Converts required climb gradient (FT/NM) into a rate of climb (FPM) based on groundspeed
-  - Essential for verifying aircraft can meet non-standard climb requirements on ODPs or SIDs
-  - Can also be used for rate-of-descent to aid in a stabilized descent on final approach
+- Top-of-Descent (TOD) identifies where to begin descent from cruise
+- Maintain "Sterile Cockpit" during critical phases of flight, including descent
+- Heuristics for descent planning: At 500 fpm: 1000' decent takes 2 minutes
+  - At **60** knots ground speed, we're going **1nm** per minute. So **2nm per 1000'**
+  - At **90** knots ground speed, we're going **1.5nm** per minute. So **3nm per 1000'**
+  - At **120** knots ground speed, we're going **2nm** per minute. So **4nm per 1000'**
+- You can also use **ETE** data field on a GPS to determine when to start a descent
 
-![alt text](images/image-42.png)
+### Standard Terminal Arrival Procedures
+
+- Transition aircraft from en route structure to the terminal environment
+  - Serve multiple runways and sometimes multiple airports in a terminal area
+  - Simplify clearance delivery and reduce radio frequency congestion
+- The descent gradient is designed to be **250-350 ft/nm** into the airport
+  - At 120 knots GS, this is 500-700 fpm
+- Usually terminate at a fix where radar vectors begin, or connect to an IAP directly
+- Often contains altitude restrictions or speed restrictions
+- "Descend VIA SID" clearance
+  - Allow you to descend at pilot's discretion to meet published restrictions and laterally navigate on a STAR
+  - Examples
+    - "Descend via the Tyler One arrival" - Fly lateral, vertical, and speed restrictions
+    - "Cleared Tyler One arrival." - Fly lateral SID only
+    - "Cleared Tyler One arrival, descend and maintain flight level two four zero." - Fly lateral and speed restrictions to 4000
+- VNAV systems may be able to automate the path computation to achieve an efficient descent
+- Must have at least textual description in possession to accept STAR clearance
+- Put "NO STARs" in your flight plan if you are unable to fly one
+- **Example: KBLI MADEE 6**
 
 ### IFR Alternate Minimums
 
@@ -172,34 +210,28 @@
     - This may be because the airport does not have weather reporting
 - Commercial operators (Part 121/135) have more stringent, OpSpec-driven alternate requirements
 
-### Descent Planning
+### Airport Surface Hot Spots
 
-- Top-of-Descent (TOD) identifies where to begin descent from cruise
-- Maintain "Sterile Cockpit" during critical phases of flight, including descent
-- Heuristics for descent planning: At 500 fpm: 1000' decent takes 2 minutes
-  - At **60** knots ground speed, we're going **1nm** per minute. So **2nm per 1000'**
-  - At **90** knots ground speed, we're going **1.5nm** per minute. So **3nm per 1000'**
-  - At **120** knots ground speed, we're going **2nm** per minute. So **4nm per 1000'**
-- You can also use **ETE** data field on a GPS to determine when to start a descent
+- Areas that may cause confusion or have a higher potential for runway incursions
+  - Typically involve complex or confusing taxiway geometry
+  - Heightened pilot vigilance required when approaching or taxiing through these areas
+- Marked on the airport diagram
+- Read the hotspot information in the Chart Supplement
 
-### Standard Terminal Arrival Procedures
+![Hotspots on Airport Diagrma](images/image-40.png)
 
-- Transition aircraft from en route structure to the terminal environment
-  - Serve multiple runways and sometimes multiple airports in a terminal area
-  - Simplify clearance delivery and reduce radio frequency congestion
-- The descent gradient is designed to be **250-350 ft/nm** into the airport
-  - At 120 knots GS, this is 500-700 fpm
-- Usually terminate at a fix where radar vectors begin or connect to an IAP
-- Must have at least textual description in possession to accept STAR clearance
-- Put "NO STARs" in your flight plan if you are unable to fly one
+![Hotspot descriptions in the Chart Supplement or TPP](images/image-39.png)
 
-### Descend Via STAR Clearance
+### Declared Distance Information
 
-- Just like SIDs, ATC can issue a "descend via STAR" clearance
-  - Authorizes descent at pilot's discretion to meet published altitude and speed restrictions
-- Requires aircraft to follow both lateral path and vertical constraints as charted
-- "Descend via... except maintain" cancels published altitudes below the cleared level
-- VNAV systems may be able to automate the path computation to achieve an efficient descent
+![alt text](images/image-41.png)
+
+- Represent maximum distances suitable for takeoff and landing performance
+  - **TORA**: Takeoff Run Available, runway length for ground run
+  - **TODA**: Takeoff Distance Available, TORA + clearway length
+  - **ASDA**: Accelerate-Stop Distance Available, runway + stopway length for aborted takeoff
+  - **LDA**: Landing Distance Available, runway length for ground run of landing aircraft
+- Indicated on charts with a specific symbol referencing the Chart Supplement
 
 ## References
 
