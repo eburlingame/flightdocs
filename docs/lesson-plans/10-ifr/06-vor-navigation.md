@@ -53,7 +53,8 @@ See [AIM 1-1-4](/_references/AIM/1-1-4)
   - **VOR Test Facility (VOT)**:
     - VOT stations are listed in the Chart Supplement
     - The Course Deviation Indicator (CDI) must center when the Omnibearing Selector (OBS) reads **0° with a FROM indication**, or **180° with a TO indication**.
-  - **Airborne check**: Use a prominent, identifiable point on the centerline of an airway
+  - **Airborne check**: Use a prominent, identifiable point the centerline of an airway,
+    - **6° degree** tolerance
 - The pilot must record in the aircraft logbook or record:
   - Date
   - Place

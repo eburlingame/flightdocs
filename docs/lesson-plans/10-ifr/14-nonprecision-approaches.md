@@ -104,8 +104,8 @@ Note: only the pilot can determine if the flight visibility meets the landing re
 ### Visual Approaches
 
 - Authorization for aircraft on IFR plan to proceed visually and clear of clouds
-- Reported weather must be at least 1,000-foot ceiling and 3 SM visibility
-- Pilot must have the airport or preceding aircraft in sight
+- Reported weather must be at least **1,000-foot** ceiling and **3 SM visibility**
+- Pilot must have the airport _or_ preceding aircraft in sight
 - Pilot assumes responsibility for obstacle clearance and wake turbulence separation
 - Not an IAP; has no missed approach segment
 
@@ -119,9 +119,9 @@ Note: only the pilot can determine if the flight visibility meets the landing re
 - Charted visual procedures (ex. KPIE North Bay Visual)
   - Often used for noise-abatement
 - Contact approaches
-  - Gives us permission to descend to and land
-  - Need ground-visibility >1 s.m.
-  - Pilot needs to ask for a contact approach
+  - Gives us permission to descend to and land at the airport
+  - Need to remain clear of clouds, need flight-visibility **>1 s.m.**, and reasonably expect to continue to the airport in those conditions
+  - Pilot needs to ask for a contact approach, will not be offered up by ATC
 
 ![alt text](images/kpie.png)
 
@@ -137,8 +137,9 @@ Note: only the pilot can determine if the flight visibility meets the landing re
   - Approach angle 3.2°: (632 / 354) = 1.8
 - Depending on our aircraft, we should treat the VDP as the MAP
   - A 172 may be able to make a safe approach and landing at >3° descent angle
-  - A Cirrus or a King Air should probably make a missed approach
-  - Reminder that we need to land using normal maneuvers
+  - A Cirrus or a King Air should probably make a missed approach, or circle to land on the same runway
+  - Remember [91.175](/_references/14-CFR/91.175), "descent to a landing on the intended runway can be made at a normal rate of descent using normal maneuvers"
+  - "On a straight-in nonprecision IAP, descent below the MDA between the VDP and the MAP may be inadvisable or impossible" ([AIM 5-4-5](/_references/AIM/5-4-5))
 
 ### Circling Approaches
 
