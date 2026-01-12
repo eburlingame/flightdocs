@@ -84,6 +84,9 @@ Understand the use and purpose of standard departure and arrival procedures, the
 - Printed textually or graphically; primarily for obstacle avoidance
   - Textual ODPs are found in the "takeoff minimums" section
   - Graphical ODPs are published like SIDs, with "(Obstacle)" in the title
+    - **Example KKLS Kelso 2 (Obstacle)**
+  - Graphical ones can be added to flight plan with their ID (KELSO2.KELLNG)
+  - Textual ODPs can be added to remarks section: "Dill depart (airport) (runway) via textual ODP"
 - Jeppesen Chart include ODPs on the airport info chart (or additional page)
 - Must possess at least _textual_ description to accept a DP clearance
 - ODPs do _not_ require a clearance to fly
@@ -93,6 +96,10 @@ Understand the use and purpose of standard departure and arrival procedures, the
 
 - Always printed graphically
 - Designed for ATC flow, capacity, and workload reduction in addition to obstacle avoidance
+- Types
+  - Non-RNAV: For aircraft equipped with conventional avionics using ground-based navaids
+  - RNAV: For aircraft equipped with RNAV avionics (GPS, VOR/DME, DME/DME)
+  - Radar: Established when ATC has a need to vector aircraft to a particular route, navaid, or fix
 - Broken up into the primary procedure, and transition routes (bold vs. dashed line on Jepp charts)
   - **Example: KPDX Cascade 4**
   - They'll say something like "Cascade 4 departure, JUDAH transition"
@@ -180,7 +187,7 @@ Understand the use and purpose of standard departure and arrival procedures, the
 - VNAV systems may be able to automate the path computation to achieve an efficient descent
 - Must have at least textual description in possession to accept STAR clearance
 - Put "NO STARs" in your flight plan if you are unable to fly one
-- **Example: KBLI MADEE 6**
+- **Example: KBLI MADEE 6** or **KSEA CHINS5**
 
 ### IFR Alternate Minimums
 
@@ -245,3 +252,4 @@ Understand the use and purpose of standard departure and arrival procedures, the
 - Instrument ACS: IR.V.B, IR.VI.D, IR.VI.E
 - Instrument Procedures Handbook: Chapters 1, 2, and 3
 - Backseat Pilot CFII Lesson Plans: II.C, V.A, V.B
+- Aeronautical Chart Users Guide
