@@ -2,7 +2,7 @@
 
 ## Objective
 
-Understand the use and purpose of standard departure and arrival procedures, their restrictions, and the expectations of ATC when using them. Also understand the purpose of IFR takeoff and alternate miniums.
+Understand the use and purpose of standard departure and arrival procedures, their restrictions, and the expectations of ATC when using them. Also understand the purpose of IFR takeoff and alternate minimums.
 
 ## Timing
 
@@ -170,7 +170,7 @@ Understand the use and purpose of standard departure and arrival procedures, the
 
 - Top-of-Descent (TOD) identifies where to begin descent from cruise
 - Maintain "Sterile Cockpit" during critical phases of flight, including descent
-- Heuristics for descent planning: At 500 fpm: 1000' decent takes 2 minutes
+- Heuristics for descent planning: At 500 fpm: 1000' descent takes 2 minutes
   - At **60** knots ground speed, we're going **1nm** per minute. So **2nm per 1000'**
   - At **90** knots ground speed, we're going **1.5nm** per minute. So **3nm per 1000'**
   - At **120** knots ground speed, we're going **2nm** per minute. So **4nm per 1000'**
@@ -189,7 +189,7 @@ Understand the use and purpose of standard departure and arrival procedures, the
   - Allow you to descend at pilot's discretion to meet published restrictions and laterally navigate on a STAR
   - Examples
     - "Descend via the Tyler One arrival" - Fly lateral, vertical, and speed restrictions
-    - "Cleared Tyler One arrival." - Fly lateral SID only
+    - "Cleared Tyler One arrival." - Fly lateral STAR only
     - "Cleared Tyler One arrival, descend and maintain flight level two four zero." - Fly lateral and speed restrictions to 4000
 - VNAV systems may be able to automate the path computation to achieve an efficient descent
 - Must have at least textual description in possession to accept STAR clearance
@@ -233,7 +233,7 @@ Flight plan requirements: [91.169](/_references/14-CFR/91.169)
 - Marked on the airport diagram
 - Read the hotspot information in the Chart Supplement
 
-![Hotspots on Airport Diagrma](images/image-40.png)
+![Hotspots on Airport Diagram](images/image-40.png)
 
 ![Hotspot descriptions in the Chart Supplement or TPP](images/image-39.png)
 
