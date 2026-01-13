@@ -38,21 +38,21 @@ Note: (required) indicates it is required for the addition of an instrument inst
   - E. Critique and Evaluation
   - F. Flight Instructor Characteristics and Responsibilities
   - G. Planning Instructional Activity
-- **II**. Technical Subject Areas
+- **II**. Technical Subject Areas (required A and B)
   - A. Aircraft Flight Instruments and Navigation Equipment (required)
   - B. Aeromedical Factors
   - C. Regulations and Publications Related to IFR Operations (required)
   - D. Logbook Entries Related to Instrument Instruction (may be required)
-- **III**. Preflight Preparation
+- **III**. Preflight Preparation (required B and C)
   - A. Weather Information
   - B. Cross-Country Flight Planning (required)
   - C. Instrument Flight Deck Check (required)
 - **IV**. Preflight Lesson on a Maneuver to be Performed in Flight
   - A. Maneuver Lesson
-- **V**. Air Traffic Control Clearances and Procedures (required, one task)
+- **V**. Air Traffic Control Clearances and Procedures (required, A or B)
   - A. Air Traffic Control Clearances
   - B. Compliance With Departure, En Route, and Arrival Procedures and Clearances
-- **VI**. Flight by Reference to Instruments (required)
+- **VI**. Flight by Reference to Instruments (required, one task plus H)
   - A. Straight-and-Level Flight
   - B. Turns
   - C. Change of Airspeed in Straight-and-Level and Turning Flight
@@ -60,17 +60,17 @@ Note: (required) indicates it is required for the addition of an instrument inst
   - E. Constant Rate Climbs and Descents
   - F. Timed Turns to Magnetic Compass Headings
   - G. Steep Turns
-  - H. Recovery From Unusual Flight Attitudes
+  - H. Recovery From Unusual Flight Attitudes (required)
 - **VII**. Navigation Aids (required)
-  - A. Intercepting and Tracking Navigational Systems and DME Arcs
-  - B. Holding Procedures
-- **VIII**. Instrument Approach Procedures (required)
+  - A. Intercepting and Tracking Navigational Systems and DME Arcs (required)
+  - B. Holding Procedures (required)
+- **VIII**. Instrument Approach Procedures (required A + B, combined with C, D, or E, one approach partial panel)
   - A. Nonprecision Instrument Approach
   - B. Precision Instrument Approach
   - C. Missed Approach
   - D. Circling Approach (Airplane)
   - E. Landing From a Straight-In Approach
-- **IX**. Emergency Operations (required)
+- **IX**. Emergency Operations (required, A or B)
   - A. Loss of Communications
   - B. Approach With Loss of Primary Flight Instrument Indicators
   - C. Engine Failure During Straight-and-Level Flight and Turns (Multiengine)
