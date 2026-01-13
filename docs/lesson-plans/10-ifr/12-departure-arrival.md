@@ -50,6 +50,8 @@ Understand the use and purpose of standard departure and arrival procedures, the
 
 ### IFR Take-Off Minimums
 
+[91.175](/_references/14-CFR/91.175)
+
 - Required for commercial operators under 14 CFR Parts 121, 125, 129, or 135
 - Standard minimums:
   - **1 s.m. visibility** for 1-2 engines
@@ -83,10 +85,11 @@ Understand the use and purpose of standard departure and arrival procedures, the
 
 - Printed textually or graphically; primarily for obstacle avoidance
   - Textual ODPs are found in the "takeoff minimums" section
+    - **Example KVUO ODP**
   - Graphical ODPs are published like SIDs, with "(Obstacle)" in the title
     - **Example KKLS Kelso 2 (Obstacle)**
   - Graphical ones can be added to flight plan with their ID (KELSO2.KELLNG)
-  - Textual ODPs can be added to remarks section: "Dill depart (airport) (runway) via textual ODP"
+  - Textual ODPs can be added to remarks section: "Will depart (airport) (runway) via textual ODP"
 - Jeppesen Chart include ODPs on the airport info chart (or additional page)
 - Must possess at least _textual_ description to accept a DP clearance
 - ODPs do _not_ require a clearance to fly
@@ -103,14 +106,15 @@ Understand the use and purpose of standard departure and arrival procedures, the
 - Broken up into the primary procedure, and transition routes (bold vs. dashed line on Jepp charts)
   - **Example: KPDX Cascade 4**
   - They'll say something like "Cascade 4 departure, JUDAH transition"
+- When do you fly a SID?
+  - Always require an ATC clearance
 - "Climb Via" Clearance
   - A clearance for a SID which contains published altitude restrictions, which are mandatory
     - Cancels previously issued speed or altitude restrictions when issued
   - Examples:
-    - "Cleared Loop Six departure. Climb via SID" - Fly lateral, vertical and speed restrictions
-    - "Cleared Loop Six departure." - Fly lateral portion of SID only
-    - "Cleared Loop Six departure, climb and maintain four thousand." - Fly lateral portion of SID and speed restrictions, climb to and stop at 4000
-    - "Climb via SID except maintain flight level one eight zero." - Fly lateral + vertical portion of SID, stop at 18,000
+    - "Cleared Cascade 4 departure, maintain 18,000" - Fly lateral + speed restrictions, up to 18,000
+    - "Climb via Cascade 4 departure" - Fly lateral, altitude, and speed restrictions
+    - "Climb via Cascade 4 departure, maintain 18,000" - Fly lateral, altitude, and speed restrictions
   - On initial contact with ATC, inform them of your position when climbing "via":
     - "Cactus Seven Eleven leaving two thousand for one-six thousand, climbing via the Laura Two departure."
 - **Example KBFI CBAIN 1**
@@ -121,6 +125,7 @@ Understand the use and purpose of standard departure and arrival procedures, the
 
 - An area in which ATC may provide radar vectors for a climb above the MVA/MEA, in lieu of a ODP or SID.
 - Usually requires a certain climb gradient for each runway
+- **Example KUAO**
 
 #### Visual Climb over Airport
 
@@ -137,8 +142,10 @@ Understand the use and purpose of standard departure and arrival procedures, the
 ### Climb & Descent Tables
 
 - Located in the front matter of the Terminal Procedures Publication
+  - In ForeFlight: Documents > FAA > Digital Terminal Procedures Supplemental
 - Converts required climb gradient (FT/NM) into a rate of climb (FPM) based on groundspeed
-- Essential for verifying aircraft can meet non-standard climb requirements on ODPs or SIDs
+- Non-standard climb gradients: $\text{Climb rate (ft / min)} = \frac{\text{Ground speed } * \text{ Climb gradient (ft / nm)}}{60}$
+  - Example: 440 ft. / NM at 100 knots GS = 733 ft/min
 - Can also be used for rate-of-descent to aid in a stabilized descent on final approach
 
 ![alt text](images/image-42.png)
@@ -178,7 +185,7 @@ Understand the use and purpose of standard departure and arrival procedures, the
   - At 120 knots GS, this is 500-700 fpm
 - Usually terminate at a fix where radar vectors begin, or connect to an IAP directly
 - Often contains altitude restrictions or speed restrictions
-- "Descend VIA SID" clearance
+- "Descend VIA STAR" clearance
   - Allow you to descend at pilot's discretion to meet published restrictions and laterally navigate on a STAR
   - Examples
     - "Descend via the Tyler One arrival" - Fly lateral, vertical, and speed restrictions
@@ -191,7 +198,8 @@ Understand the use and purpose of standard departure and arrival procedures, the
 
 ### IFR Alternate Minimums
 
-[91.175](/_references/14-CFR/91.175)
+Fuel requirements for IFR: [91.167](/_references/14-CFR/91.167),
+Flight plan requirements: [91.169](/_references/14-CFR/91.169)
 
 - Alternates are required if, within &plusmn;**1 hour of your ETA**, the weather is forecast with:
   - Ceilings **&lt; 2000'**, or
@@ -237,8 +245,11 @@ Understand the use and purpose of standard departure and arrival procedures, the
   - **TORA**: Takeoff Run Available, runway length for ground run
   - **TODA**: Takeoff Distance Available, TORA + clearway length
   - **ASDA**: Accelerate-Stop Distance Available, runway + stopway length for aborted takeoff
+    - A stopway is an area beyond the runway which can be used for deceleration in the event of a rejected takeoff
   - **LDA**: Landing Distance Available, runway length for ground run of landing aircraft
 - Indicated on charts with a specific symbol referencing the Chart Supplement
+
+![alt text](images/stopway.png)
 
 ## References
 
