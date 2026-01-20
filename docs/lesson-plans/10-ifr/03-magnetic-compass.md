@@ -103,7 +103,7 @@ Review the magnetic compass construction, operation, errors, and usage under IFR
   - Turn coordinator still primary instrument; cross-check altimeter/VSI/ASI for pitch
   - Check magnetic compass after the completion of the turn
 
-#### Turn Coordinator Calibration
+### Turn Coordinator Calibration
 
 1. Prior to performing timed turns, calibrate the turn coordinator to determine its accuracy
 2. Note heading & start a standard rate turn as the second hand passes a cardinal direction (12, 3, 6, 9)
