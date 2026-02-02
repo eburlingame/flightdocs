@@ -77,7 +77,7 @@ Review the magnetic compass construction, operation, errors, and usage under IFR
   - **U**ndershoot
   - **N**orth
   - **O**vershoot
-    - **S**outh
+  - **S**outh
 
 ## Turns to Magnetic Compass Headings
 

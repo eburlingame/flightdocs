@@ -158,7 +158,8 @@ Aircraft icing is ice that accumulates on the structure or in the induction syst
 
 ### Flight into known icing certification (FIKI)
 
-- "Flight into known icing": Any flight conditions where you’d expect the possibility of ice forming or adhering to the aircraft based on all available preflight information
+- **"Flight into known icing"**
+  - "Known icing conditions" involve instead circumstances where a reasonable pilot would expect a substantial likelihood of ice formation on the aircraft based upon all information available to that pilot" - Bell AOPA 2009 Legal Interpretation
 - FIKI is a certification process that occurs when the aircraft is developed
 - Is you aircraft FIKI certified?
   - How to tell: AFM or POH references "part 25 appendix C"

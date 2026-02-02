@@ -95,7 +95,7 @@ Provide an understanding of the use of autopilot for IFR approach operations, in
 ### DME Arc Interception
 
 - Requires use of a **Lead Point** to transition from a radial to the arc
-- Standard lead point of **0.5 NM** for groundspeeds $\leq$ **150 knots**
+  - Standard lead point of **0.5 NM** for groundspeeds $\leq$ **150 knots**
 - Start turn approximately **90$^{\circ}$** from arrival radial to intercept arc
 - Minimum arc radius for **TERPS** design is **7 NM** (**15 NM** for high altitude)
 - Maximum arc radius for final approach segments is **30 NM**

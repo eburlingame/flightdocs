@@ -170,13 +170,14 @@ GPS CDI sensitivity changes based on the **phase of flight**
 [AIM 1-2-3](/_references/AIM/1-2-3)
 
 - IFR-certified GPS systems may be used as a substitute for traditional NAVAID navigation
-  - This application requires at least **en route RAIM or equivalent integrity**
+  - This application requires the system to have en-route RAIM or WAAS
 - GPS can be substituted to:
   - Fly a **DME arc**
   - Navigate **TO or FROM an NDB/compass locator**
   - Hold over an **NDB/compass locator**
   - Determine position over a **NAVAID**
 - Pilots may not substitute for the NAVAID (for example, a VOR or NDB) providing lateral guidance for the **final approach segment**
+  - Use of a suitable RNAV system as a means to _navigate_ on the final approach segment of an instrument approach procedure based on a VOR, TACAN or NDB signal, is allowable, so long as the nav signal is monitored for final segment course alignment
   - Exception: GPS may be used on overlay approaches with "or GPS" in the title
 
 ### Orientation, Position, Waypoint Sequencing

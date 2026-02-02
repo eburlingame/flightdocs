@@ -369,8 +369,8 @@ To a give a student an intuitive understanding of the operation of the flight in
 - North: compass card leads actual heading
 - South: compass card lags actual heading
 - "UNOS"
-  - Undershoot North
-  - Overshoot South
+  - Undershoot - North
+  - Overshoot - South
 
 ---
 
