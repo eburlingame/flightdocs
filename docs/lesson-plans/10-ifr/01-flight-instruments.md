@@ -102,6 +102,8 @@ Alternate static source
 | Climb     | Decreases       | Pressure decreases, contracting the diaphragm | Indicates a climb   |
 | Descent   | Increases       | Pressure increases, expanding the diaphragm   | Indicates a descent |
 
+![alt text](images/image-96.png)
+
 #### Airspeed Indicator
 
 ![alt text](images/image-11.png)
@@ -173,6 +175,8 @@ Gyroscopic instruments are often powered by:
 
 ### Attitude Indicator
 
+![alt text](images/image-97.png)
+
 - Sometimes called an "artificial horizon"
 - Operation
   - Contains a vertical spinning wheel, spun at high speeds
@@ -187,6 +191,8 @@ Gyroscopic instruments are often powered by:
 
 ![alt text](images/image-14.png)
 
+![alt text](images/image-98.png)
+
 - Operation
   - Mounted in double gimbal axis (like the attitude indicator), but the spin axis is horizontal
   - Headings turn cause rotation around the aircraft's vertical axis
@@ -195,6 +201,23 @@ Gyroscopic instruments are often powered by:
   - The Earth constantly rotates at 15° per hour, and the gyro is rigid in space
   - Thus, the heading error will accumulate at least at 15° per hour
   - Standard practice is to compare the compass and HI every **15 minutes**
+
+### Remote Indicating Compass/Radio Magnetic Indicator (RMI)
+
+![alt text](images/image-90.png)
+
+- A flux valve automatically adjusts heading as you turn
+- Flux valve (pictured right): small, segmented ring of soft iron that readily accepts lines of magnetic flux. As heading changes, current in the flux valve changes, rotating the RMI’s heading
+- Bearing indicator(s) overlaid on a heading indicator
+  - Doesn't require constant calibration like a heading indicator
+  - Gyro automatically "slaves" to the detected heading
+  - These can usually operate in "slave" or "free gyro" mode
+
+### HSI
+
+- Operates just like an RMI, but overlays a CDI and glideslope
+
+![alt text](images/image-91.png)
 
 ### Turn-and-Slip Indicator
 
@@ -221,23 +244,6 @@ Gyroscopic instruments are often powered by:
   - **Ball centered**: Coordinated, rate of turn rate aligned with bank
   - **Ball inside the turn**: Slipping, rate of turn not enough for bank
   - **Ball outside the turn**: Skidding, rate of turn too great for bank
-
-### Remote Indicating Compass (RMI)
-
-![alt text](images/image-90.png)
-
-- A flux valve automatically adjusts heading as you turn
-- Flux valve (pictured right): small, segmented ring of soft iron that readily accepts lines of magnetic flux. As heading changes, current in the flux valve changes, rotating the RMI’s heading
-- Bearing indicator(s) overlaid on a heading indicator
-  - Doesn't require constant calibration like a heading indicator
-  - Gyro automatically "slaves" to the detected heading
-  - These can usually operate in "slave" or "free gyro" mode
-
-### HSI
-
-- Operates just like an RMI, but overlays a CDI and glideslope
-
-![alt text](images/image-91.png)
 
 ### Electronic Flight Instruments
 
