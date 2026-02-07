@@ -10,13 +10,18 @@ Create a lesson plan in the following format. The lesson should be in markdown f
   - Make bullets very short, not complete sentences but terse, information-dense phrases. Do not include a period at the end of each bullet point.
 - **References**: A list of document names and relevant page numbers
 
-This lesson should cover IFR cross-country flight planning. Bold very important numbers and acronyms, as appropriate. Do not bold terms in the subheadings of each section.
+This lesson should cover IFR cross-country flight planning charts, symbology, and position reporting requirements. Bold very important numbers and acronyms, as appropriate. Do not bold terms in the subheadings of each section.
 
-- Filing an IFR Flight Plan
-- Copying / Understanding IFR Clearances
-- Dealing with En Route Weather
-- Preparation of an IFR Navigation Log
-- Planning Departures and Arrivals
-- Power / Fuel Management
+Chart Supplements
+VFR / IFR Low Altitude Planning Chart
+En Route Low Altitude IFR Chart
+En Route Chart Symbology
+Air Traffic Service (ATS) Route System
+Intersections and Changeover Points
+ATS Route Course Changes
+Flight Deck Management
+Position Reporting Requirements
+Additional Reporting Requirements
+Loss of Communications Procedures (IMC and VMC)
 
-Your primary sources should be the relevant flying handbooks and the aviation weather handbook, also the TERPs manual where appropriate.
+Your primary sources should be the relevant flying handbooks and the aviation weather handbook, the FAR/AIM, also the TERPs manual where appropriate.

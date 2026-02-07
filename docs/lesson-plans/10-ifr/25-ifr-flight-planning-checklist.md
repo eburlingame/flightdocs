@@ -1,0 +1,52 @@
+# Flight Planning
+
+- [ ] IFR currency and proficiency
+- [ ] Destination selection
+  - [ ] Aircraft endurance
+  - [ ] FBOs and services?
+  - [ ] Runways and approaches
+- [ ] Route
+  - [ ] Airways
+  - [ ] IFR altitudes
+  - [ ] Airspace
+  - [ ] TFRs
+- [ ] Departure
+  - [ ] Runways, slope
+  - [ ] Density altitude
+  - [ ] Takeoff performance
+  - [ ] Departure selection
+    - [ ] Which departure can we expect?
+    - [ ] How will we get our clearance?
+    - [ ] T/O minimums
+    - [ ] Required climb gradient
+- [ ] Departure alternate
+  - [ ] What happens if something goes wrong during departure?
+  - [ ] Available approaches
+- [ ] Enroute
+  - [ ] Enroute weather
+  - [ ] Enroute altitude (minimum for IFR, navaids, radar, terrain, contingency)
+  - [ ] Winds aloft
+- [ ] Destination
+  - [ ] Runways, length, slope, lighting
+  - [ ] Approach selection
+  - [ ] Approach minimums
+  - [ ] Landing performance
+- [ ] Alternate
+  - [ ] 1-2-3 Rule
+  - [ ] Alternate fuel
+  - [ ] Select an alternate outside of your current weather system
+- [ ] NOTAMs
+- [ ] PIREPs
+- [ ] Fuel requirements
+- [ ] Oxygen
+- [ ] Weather briefing
+  - [ ] Personal minimums
+- [ ] IFR flight plan
+  - [ ] Requirement components
+  - [ ] How to file
+- [ ] Aircraft airworthiness
+  - [ ] AV1ATED
+  - [ ] ARROW documents
+- [ ] Personal readiness
+  - [ ] PAVE
+  - [ ] IMSAFE

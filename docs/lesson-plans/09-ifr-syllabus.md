@@ -459,7 +459,8 @@ Some ground lesson will use the [Backseat Pilot (BP) Commerical Lesson Plans](ht
         <td>1.2</td>
         <td>0</td>
         <td>
-        - [IFR Cross-Country Flight Planning](/docs/lesson-plans/ifr/ifr-flight-planning)
+        - [IFR Flight Planning Process](/docs/lesson-plans/ifr/ifr-flight-planning-process)
+        - [IFR Flight Planning Checklist](/docs/lesson-plans/ifr/ifr-flight-planning-checklist)
         </td>
         <td>IFR XC planning, takeoff minimums</td>
     </tr>

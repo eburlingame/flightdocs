@@ -1,127 +1,135 @@
-# IFR Flight Planning
+# IFR Cross-Country Planning, Symbology, and Reporting
 
 ## Objective
 
-Demonstrate the ability to plan an IFR cross-country flight, including selecting appropriate routes and altitudes, interpreting weather data and NOTAMs, managing fuel requirements, and understanding the requirements for filing, copying, and complying with ATC clearances.
-
-## Timing
-
-- 45 minutes
-
-## Format
-
-- ForeFlight demo
-- Whiteboard
+The student will demonstrate the ability to utilize **IFR** planning publications and charts, interpret complex en route symbology, and adhere to mandatory position and status reporting requirements to maintain safety and separation in the **National Airspace System (NAS)**.
 
 ## Overview
 
-- Filing an IFR Flight Plan
-- Copying / Understanding IFR Clearances
-- Dealing with En Route Weather
-- Preparation of an IFR Navigation Log
-- Planning Departures and Arrivals
-- Power / Fuel Management
+- Chart Supplements
+- VFR / IFR Low Altitude Planning Chart
+- En Route Low Altitude IFR Chart
+- En Route Chart Symbology
+- Air Traffic Service (ATS) Route System
+- Intersections and Changeover Points
+- ATS Route Course Changes
+- Flight Deck Management
+- Position Reporting Requirements
+- Additional Reporting Requirements
+- Loss of Communications Procedures (IMC and VMC)
 
 ## Elements
 
-### Filing an IFR Flight Plan
+## Chart Supplements
 
-![alt text](images/flightplan.png)
+- Published by Aeronautical Information Services in regional booklets every **56** days
+- Contains the Airport/Facility Directory (**A/FD**) with detailed data on public-use airports
+- Includes runway dimensions, surface types, load capacities, and lighting codes
+- Lists weather data sources, communication frequencies, and **NAVAID** status
+- Features full-page airport diagrams and "Hot Spot" locations for complex layouts
+- Provides Preferred **IFR** Routes and **TEC** route descriptions
+- **PHOTO PLACEHOLDER: Cover of a Chart Supplement regional booklet and a sample A/FD entry**
 
-- Mandatory for all flights in controlled airspace under **IFR**
-- Submit via **ICAO** format (FAA Form **7233-4**)
-  - This is what ForeFlight will submit when you file
-- File at least **30** minutes prior to estimated time of departure (**ETD**)
-  - Flight plans show up in the ATC system **30 minutes** prior to your ETD and remain active for 3-4 hours depending on the facility
-- Utilize the **1-2-3** rule to determine when an alternate is **not required**: if, within ±**1** hour of **ETA**, the destination is forecast to have a ceiling greater than **2,000**' and visibility greater than **3 SM**
-- Identify **PBN** and **RVSM** equipment capabilities in blocks 10 and 18
-- Include aircraft identification, type, and color for search and rescue
+## VFR / IFR Low Altitude Planning Chart
 
-### Briefing a Flight
+- Designed for preflight and en route planning for both **VFR** and **IFR** flights
+- Depicts low altitude airways, mileages, **NAVAIDs**, and airports
+- Includes special use airspace, cities, time zones, and major drainage features
+- Features a directory of airports with airspace classifications
+- Scale is **1 inch = 47 NM** (**1:3,400,000**)
+- Revised annually and available in folded or wall-mount versions
+- **PHOTO PLACEHOLDER: Image of the U.S. IFR/VFR Low Altitude Planning Chart**
 
-- Retrieve a weather briefing before departure
-- Recall [91.103](/_references/14-CFR/91.103), preflight planning must include:
-  - **N**OTAMs
-  - **W**eather forecasts and reports
-  - [**K**nown ATC delays](https://nasstatus.faa.gov/)
-  - **R**unway lengths at airports of intended use
-  - **A**lternate if the flight cannot be completed as planned
-  - **F**uel requirements
-  - **T**akeoff and landing distance information from the AFM/POH
-- Use a standard briefing checklist which covers your NWKRAFT items, airworthiness, and personal minimums
+## En Route Low Altitude IFR Chart
 
-![alt text](images/brief-checklist.png)
+- Provides aeronautical info for **IFR** navigation below **18,000** feet **MSL**
+- Depicts Victor airways (**VOR**-based) and **T-routes** (**RNAV**-based)
+- Shows limits of controlled airspace, **VHF** **NAVAIDs**, and reporting points
+- Includes minimum en route altitudes (**MEA**) and obstruction clearance altitudes (**MOCA**)
+- Contains **OROCA** for situational awareness and emergency use
+- Charts are revised every **56** days
+- **PHOTO PLACEHOLDER: Excerpt of an En Route Low Altitude Chart showing airways and NAVAIDs**
 
-### Copying / Understanding IFR Clearances
+## En Route Chart Symbology
 
-- Use **C-R-A-F-T** format, fill in everything you know beforehand:
-  - **C**learance limit
-  - **R**oute
-  - **A**ltitude
-  - **F**requency
-  - **T**ransponder
-- Verify clearance void time when departing non-towered fields
-  - Start a timer when given a void time to keep track
-- Read back all altitudes, restrictions, headings, and "hold short" instructions in sequence
+- **NAVAID** boxes show name, identifier, frequency, and Morse code
+- Compulsory reporting points depicted as solid triangles
+- "On request" reporting points depicted as open triangles
+- **MEA** is the lowest altitude between fixes ensuring signal reception and obstacle clearance
+- **MOCA** (preceded by \*) ensures signal coverage only within **22** **NM** of a **VOR**
+- **MRA** (preceded by symbol) is the lowest altitude to receive an off-course **NAVAID** to identify a fix
+- **MCA** (preceded by symbol) is the altitude required to cross a fix when climbing to a higher **MEA**
+- **PHOTO PLACEHOLDER: Chart excerpt illustrating MEA, MOCA, MRA, and MCA symbols**
 
-### En Route Weather
+## Air Traffic Service (ATS) Route System
 
-- Monitor **SIGMETs** for non-convective hazards like severe icing or turbulence
-- Track **AIRMETs** (**SIERRA, TANGO, ZULU**) for conditions hazardous to light aircraft
-- Avoid thunderstorms identified as severe by at least **20** miles
-- Circumnavigate convective areas with **6/10** or more cell coverage
-- Use **FIS-B** via **ADS-B** for strategic planning only, accounting for **15-20** minute latency
-- Report unforecast weather or hazardous conditions to **ATC** immediately
+- Generic term including **VOR** Federal airways, colored airways, jet routes, and **RNAV** routes
+- Victor airways are identified by "**V**" and exist from **1,200**' **AGL** up to **18,000**' **MSL**
+- Jet routes are identified by "**J**" and exist from **18,000**' **MSL** to **FL** **450**
+- **RNAV** routes include **Q-routes** (high) and **T-routes** (low) depicted in aeronautical blue
+- Standard airway width is **8** **NM** (**4** **NM** each side of centerline)
+- Routes are contained within Class **E** (low) or Class **A** (high) airspace
 
-![alt text](images/image-85.png)
+## Intersections and Changeover Points
 
-### Preparation of an IFR Navigation Log
+- Intersections are fixes formed by crossing **VOR** radials, **DME**, or **RNAV** waypoints
+- Changeover Points (**COP**) specify where to switch navigation guidance from one facility to the next
+- **COP** prevents frequency interference and ensures continuous signal reception
+- Depicted as a "bent" line symbol on airways with a number indicating mileage from a fix
+- If no **COP** is charted, the change should occur at the midpoint of the route segment
+- **PHOTO PLACEHOLDER: Chart example of a COP symbol and an intersection**
 
-- Manual creation of navigation log
-  - List all fixes/waypoints for each leg of the flight
-  - Correct for magnetic deviation and variation, as appropriate
-  - Record magnetic courses, distances, true airspeed and fuel burn from the POH
-  - Determine **TAS**, **GS**, and **ETE** for each segment based on winds/temperatures aloft
-  - Include navigation frequencies on your flight plan
-- With ForeFlight
-  - Configure an aircraft profile, either a basic or advanced profile based on tables from your POH
-  - Create a flight plan and select a cruise profile
-  - Cross-check profile with reasonable POH values
+## ATS Route Course Changes
 
-### Planning Departures and Arrivals
+- Pilots required to adhere to airway/route centerlines
+- Course changes require lead turns based on turn radius, wind, and airspeed
+- Lead points ensure the aircraft remains within protected airspace boundaries
+- Distance measuring equipment (**DME**) or **RNAV** used to determine lead points
+- High-speed aircraft require more significant turn anticipation
 
-- Check for published **ODPs** or **SIDs** to ensure terrain clearance during climb-out
-  - Standard climb gradient is **200** **FPNM** (assumes crossing **DER** at **35** feet and climbing to **400** feet before turns)
-  - Non-standard climb gradients: $\text{Climb rate (ft / min)} = \frac{\text{Ground speed } * \text{ Climb gradient (ft / nm)}}{60}$
-  - Confirm eligibility and possession of charted **SIDs** and **STARs** before accepting clearances
-  - Comply with "Climb Via" or "Descend Via" instructions to meet all published restrictions
-  - Load procedures directly from a current database by name
-    - This is required for RNAV terminal procedures
-- Notify ATC as early as possible if intending to use a visual climb over airport (**VCOA**) departure
-- Class G airports do not have published ODPs or SIDs
-  - You must maintain **your own obstacle clearance** before entering controlled airspace
+## Flight Deck Management
 
-### Power / Fuel Management
+- Organize charts, navigation logs, and materials for quick, easy access
+- Maintain situational awareness by following the flight on a current paper or electronic chart
+- Continuously monitor instruments while time-sharing with outside visual scans
+- Systematically cross-check **GPS** position against **VOR** or **DME** data
+- Track actual time of arrival (**ATA**) and fuel state at each fix to monitor progress
+- Keep interior lights low at night to preserve vision
 
-- Legal fuel requirements must be met [91.167](/_references/14-CFR/91.167):
-  1. Enough fuel to fly to first airport of intended landing
-  2. Then to your alternate, if an alternate was filed
-  3. Then for 45 minutes at normal cruising speed
-- Sensible fuel requirements: **Land with >1 hour of fuel**
-- Select cruise power settings from the POH based on desired cruise speed and fuel burn
-- For low-wing airplanes
-  - Use a recurring alert as a reminder to switch tanks
-  - Record the level of each fuel tank when swapping tanks to prevent fuel imbalance
-- Advise ATC of "Minimum Fuel" status when fuel supply allows for little or no undue delay
-- Declare an emergency and report remaining fuel in minutes if priority is needed
+## Position Reporting Requirements
+
+- Required over each compulsory point (solid triangle) when not in radar contact
+- Required over each fix used in the flight plan for direct route flights
+- Reports include: Identification, Position, Time, Altitude, **ETA**, and next fix
+- Actual altitude/flight level included when operating on a clearance specifying "**VFR-on-top**"
+- Discontinue reports over compulsory points when informed of "**radar contact**"
+- Resume reporting when advised "**radar contact lost**" or "**radar service terminated**"
+
+## Additional Reporting Requirements
+
+- Report vacating any previously assigned altitude/flight level
+- Report altitude changes while operating on a "**VFR-on-top**" clearance
+- Report being unable to climb/descend at least **500** feet per minute
+- Report any missed approach and request further clearance
+- Report cruise true airspeed variations of **5%** or **10** knots (whichever is greater)
+- Report time and altitude reaching or leaving an assigned holding fix
+- Report any loss of **VOR**, **TACAN**, **ADF**, **ILS**, **GPS**, or communication capability
+- Report unforecast weather conditions or info relating to safety of flight
+
+## Loss of Communications Procedures (IMC and VMC)
+
+- If in **VMC** or if **VMC** is encountered, continue under **VFR** and land as soon as practicable
+- If in **IMC**, follow route (**AVE F**) in order: **Assigned**, **Vectored**, **Expected**, **Filed**
+- If in **IMC**, fly altitude (**MEA**) at the highest of: **Minimum**, **Expected**, **Assigned**
+- If radio failure occurs while being radar vectored, proceed direct to the fix specified in vector clearance
+- Leave clearance limit at the **EFC** time, or if none, at the **ETA** filed in flight plan
+- Squawk **7600** to notify **ATC** of radio failure
 
 ## References
 
-- **Instrument Flying Handbook**: 1-12, 10-2 to 10-9, 10-22 to 10-25, 10-31 to 10-33
-- **Instrument Procedures Handbook**: 1-16 to 1-42, 2-13 to 2-43, 3-10 to 3-24
-- **Aeronautical Information Manual**: 5-1-6, 5-1-15, 5-2-9, 5-3-2, 5-5-2, 5-5-15, 7-1-5
-- **Aviation Weather Handbook**: 3-10 to 3-12, 26-2 to 26-21, 27-7 to 27-21, D-6 to D-10
-- **TERPS Manual (FAA Order 8260.3)**: 2-1, 3-5
-- **14 CFR Part 91**: 91.103, 91.167, 91.169, 91.173, 91.177, 91.185
-- **Backseat Pilot CFII Lesson Plans**: III.B, V.A, V.B, XI.A
-- [IFR Magazine Flight Plans](https://ifr-magazine.com/system/flight-plans/)
+- Aeronautical Information Manual (**AIM**): Chapters 1, 3, 4, 5, 6, 7, 9
+- Instrument Flying Handbook (**IFH**): Chapters 1, 2, 5, 8, 9, 10
+- Instrument Procedures Handbook (**IPH**): Chapters 1, 2, 3
+- Title **14** Code of Federal Regulations (**CFR**): Parts **1**, **61**, **71**, **91**, **95**, **97**
+- **TERPS** Manual (**FAA** Order **8260.3**): Chapters **1**, **2**, **14**, **16**
+- Pilot-Controller Glossary

@@ -241,8 +241,12 @@ To a give a student an intuitive understanding of the operation of the flight in
 
 - Indicates rotational position of the longitudinal (pitch) and lateral axis (roll)
 - Adjustment knob to set horizon to level
-- Pitch limit usually around 100-110&deg;
-- Bank limit around 60-70&deg;
+- Errors:
+  - **Acceleration and Deceleration Errors**: During rapid acceleration, the instrument may display a slight nose-up indication
+  - **Turn Errors**: After a 180° turn, it is possible for the instrument to show a small bank angle and pitch error
+  - **Tumble Limits**: Older "artificial horizons" have mechanical limits, typically around 60° in pitch and 100° in roll
+    - Pitch limit usually around 100-110&deg;
+    - Bank limit around 60-70&deg;
 
 ---
 
@@ -251,9 +255,11 @@ To a give a student an intuitive understanding of the operation of the flight in
 ![bg left:45% contain](images/image-84.png)
 
 - Indicates rotational position about the vertical axis
-- Must be continually calibrated with the magnetic compass
-  - Earth rotates in space at a rate of 15° in 1 hour
-  - Gyroscopic precession: gimbal is not frictionless, small forces cause position drift
+- Errors
+  - **Drift errors**: Earth rotates in space at a rate of 15° in 1 hour
+    - Must be continually calibrated with the magnetic compass
+  - **Gyroscopic precession**: gimbal is not frictionless, small forces cause position drift
+  - **Tumble Limits**: Older directional gyros have mechanical limits for pitch and bank (typically around 60° in pitch and 100° in roll)
 
 ---
 
