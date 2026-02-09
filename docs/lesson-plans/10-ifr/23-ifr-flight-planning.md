@@ -7,7 +7,6 @@ The student will demonstrate the ability to utilize **IFR** planning publication
 ## Overview
 
 - Chart Supplements
-- VFR / IFR Low Altitude Planning Chart
 - En Route Low Altitude IFR Chart
 - En Route Chart Symbology
 - Air Traffic Service (ATS) Route System
@@ -24,21 +23,12 @@ The student will demonstrate the ability to utilize **IFR** planning publication
 
 - Published by Aeronautical Information Services in regional booklets every **56** days
 - Contains the Airport/Facility Directory (**A/FD**) with detailed data on public-use airports
-- Includes runway dimensions, surface types, load capacities, and lighting codes
-- Lists weather data sources, communication frequencies, and **NAVAID** status
+  - Includes runway dimensions, surface types, load capacities, and lighting codes
+  - Lists weather data sources, communication frequencies, and **NAVAID** status
 - Features full-page airport diagrams and "Hot Spot" locations for complex layouts
 - Provides Preferred **IFR** Routes and **TEC** route descriptions
-- **PHOTO PLACEHOLDER: Cover of a Chart Supplement regional booklet and a sample A/FD entry**
 
-## VFR / IFR Low Altitude Planning Chart
-
-- Designed for preflight and en route planning for both **VFR** and **IFR** flights
-- Depicts low altitude airways, mileages, **NAVAIDs**, and airports
-- Includes special use airspace, cities, time zones, and major drainage features
-- Features a directory of airports with airspace classifications
-- Scale is **1 inch = 47 NM** (**1:3,400,000**)
-- Revised annually and available in folded or wall-mount versions
-- **PHOTO PLACEHOLDER: Image of the U.S. IFR/VFR Low Altitude Planning Chart**
+![alt text](images/afd.png)
 
 ## En Route Low Altitude IFR Chart
 
@@ -48,7 +38,8 @@ The student will demonstrate the ability to utilize **IFR** planning publication
 - Includes minimum en route altitudes (**MEA**) and obstruction clearance altitudes (**MOCA**)
 - Contains **OROCA** for situational awareness and emergency use
 - Charts are revised every **56** days
-- **PHOTO PLACEHOLDER: Excerpt of an En Route Low Altitude Chart showing airways and NAVAIDs**
+
+![alt text](<images/KHIO Portland-Hillsboro.png>)
 
 ## En Route Chart Symbology
 
@@ -59,7 +50,53 @@ The student will demonstrate the ability to utilize **IFR** planning publication
 - **MOCA** (preceded by \*) ensures signal coverage only within **22** **NM** of a **VOR**
 - **MRA** (preceded by symbol) is the lowest altitude to receive an off-course **NAVAID** to identify a fix
 - **MCA** (preceded by symbol) is the altitude required to cross a fix when climbing to a higher **MEA**
-- **PHOTO PLACEHOLDER: Chart excerpt illustrating MEA, MOCA, MRA, and MCA symbols**
+
+<table>
+  <tr>
+    <th>Altitude</th>
+    <th>Name</th>
+    <th>Obstruction Clearance</th>
+    <th>Navaid Signal</th>
+  </tr>
+  <tr>
+    <td>MEA</td>
+    <td>Minimum Enroute Altitude</td>
+    <td className="center">✅</td>
+    <td className="center">✅</td>
+  </tr>
+  <tr>
+    <td>MOCA</td>
+    <td>Minimum Obstruction Clearance Altitude</td>
+    <td className="center">✅</td>
+    <td className="center">Within 22nm (25 s.m.) of NAVAID</td>
+  </tr>
+  <tr>
+    <td>MCA</td>
+    <td>Minimum Crossing Altitude</td>
+    <td className="center">✅</td>
+    <td className="center">✅</td>
+  </tr>
+  <tr>
+    <td>MRA</td>
+    <td>Minimum Reception Altitude</td>
+    <td className="center">✅</td>
+    <td className="center">✅</td>
+  </tr>
+  <tr>
+    <td>MAA</td>
+    <td>Maximum Authorized Altitude</td>
+    <td className="center">✅</td>
+    <td className="center">✅</td>
+  </tr>
+  <tr>
+    <td>OROCA</td>
+    <td>Off-route Obstruction Clearance Altitude</td>
+    <td className="center">✅</td>
+    <td className="center">❌</td>
+  </tr>
+</table>
+
+![IFR chart altitudes](/img/content/ifr-chart-altitudes.png)
 
 ## Air Traffic Service (ATS) Route System
 
@@ -69,6 +106,14 @@ The student will demonstrate the ability to utilize **IFR** planning publication
 - **RNAV** routes include **Q-routes** (high) and **T-routes** (low) depicted in aeronautical blue
 - Standard airway width is **8** **NM** (**4** **NM** each side of centerline)
 - Routes are contained within Class **E** (low) or Class **A** (high) airspace
+
+| Airway Type         | Chart Type                  | Identifier Prefix | Altitude Range                                   | Depiction Color       | Primary Navigation Base |
+| :------------------ | :-------------------------- | :---------------- | :----------------------------------------------- | :-------------------- | :---------------------- |
+| **Victor Airways**  | Enroute Low Altitude        | **V**             | 1,200' AGL up to (but not including) 18,000' MSL | **Black**             | VOR or VORTAC           |
+| **T-Routes** (RNAV) | Enroute Low Altitude        | **T**             | 1,200' AGL up to (but not including) 18,000' MSL | **Aeronautical Blue** | GNSS (GPS/WAAS)         |
+| **Jet Routes**      | Enroute High Altitude       | **J**             | 18,000' MSL to FL 450                            | **Black**             | VOR or VORTAC           |
+| **Q-Routes** (RNAV) | Enroute High Altitude       | **Q**             | 18,000' MSL to FL 450                            | **Aeronautical Blue** | GNSS or DME/DME/IRU     |
+| **Y-Routes** (RNAV) | High/Low Enroute (Offshore) | **Y**             | Predominantly Class A offshore (>18,000' MSL)    | **Blue**              | GPS (RNAV 2)            |
 
 ## Intersections and Changeover Points
 
@@ -89,34 +134,49 @@ The student will demonstrate the ability to utilize **IFR** planning publication
 
 ## Flight Deck Management
 
-- Organize charts, navigation logs, and materials for quick, easy access
-- Maintain situational awareness by following the flight on a current paper or electronic chart
-- Continuously monitor instruments while time-sharing with outside visual scans
 - Systematically cross-check **GPS** position against **VOR** or **DME** data
 - Track actual time of arrival (**ATA**) and fuel state at each fix to monitor progress
 - Keep interior lights low at night to preserve vision
 
 ## Position Reporting Requirements
 
-- Required over each compulsory point (solid triangle) when not in radar contact
+[91.183: IFR Communications](/_references/14-CFR/91.183)
+[91.187: Equipment malfunction reports](/_references/14-CFR/91.187)
+
+- Required over each compulsory point (solid triangle) when **not in radar contact**
 - Required over each fix used in the flight plan for direct route flights
-- Reports include: Identification, Position, Time, Altitude, **ETA**, and next fix
+- Reports include:
+  - Identification
+  - Position
+  - Time
+  - Altitude
+  - Next fix, and ETA of cross next fix
 - Actual altitude/flight level included when operating on a clearance specifying "**VFR-on-top**"
 - Discontinue reports over compulsory points when informed of "**radar contact**"
 - Resume reporting when advised "**radar contact lost**" or "**radar service terminated**"
 
 ## Additional Reporting Requirements
 
-- Report vacating any previously assigned altitude/flight level
-- Report altitude changes while operating on a "**VFR-on-top**" clearance
-- Report being unable to climb/descend at least **500** feet per minute
-- Report any missed approach and request further clearance
-- Report cruise true airspeed variations of **5%** or **10** knots (whichever is greater)
-- Report time and altitude reaching or leaving an assigned holding fix
-- Report any loss of **VOR**, **TACAN**, **ADF**, **ILS**, **GPS**, or communication capability
-- Report unforecast weather conditions or info relating to safety of flight
+The acronym **STALLMUUVA** is a common mnemonic used to remember the additional reports that pilots must make to Air Traffic Control (ATC) or Flight Service Stations (FSS) without a specific request while operating under Instrument Flight Rules (IFR).
+
+The following breakdown explains each element of the acronym as defined in the provided sources:
+
+| Letter | Component                           | Details                                                                                                          |
+| :----- | :---------------------------------- | :--------------------------------------------------------------------------------------------------------------- |
+| **S**  | **Safety** of flight                | Any information relating to the safety of flight must be reported at all times.                                  |
+| **T**  | **Time** reaching fix               | The time and altitude/flight level reaching a holding fix or point to which cleared.                             |
+| **A**  | **Altitude** change when VFR-on-top | When an altitude change will be made if operating on a clearance specifying "VFR-on-top".                        |
+| **L**  | **Leaving** holding fix             | When leaving any assigned holding fix or point.                                                                  |
+| **L**  | **Loss** of equipment               | Any loss of navigation or communications equipment or capabilities.                                              |
+| **M**  | **Missed** approach                 | When an approach has been missed, including a request for specific action.                                       |
+| **U**  | **Unable** to climb/descend 500 fpm | When unable to climb or descend at a rate of at least **500 feet per minute**.                                   |
+| **U**  | **Unforecast** weather              | Weather conditions which have not been forecast, hazardous forecast conditions                                   |
+| **V**  | **Variation** in airspeed           | Change in true airspeed when it varies by **5 percent or 10 knots** (whichever is greater) from the flight plan. |
+| **A**  | **Assigned** altitude               | When vacating any previously assigned altitude or flight level for a newly assigned one.                         |
 
 ## Loss of Communications Procedures (IMC and VMC)
+
+[91.185](/_references/14-CFR/91.185)
 
 - If in **VMC** or if **VMC** is encountered, continue under **VFR** and land as soon as practicable
 - If in **IMC**, follow route (**AVE F**) in order: **Assigned**, **Vectored**, **Expected**, **Filed**
