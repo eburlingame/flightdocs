@@ -15,25 +15,22 @@ Demonstrate the ability to plan an IFR cross-country flight, including selecting
 
 ## Overview
 
-- IFR Currency and Proficiency
+- IFR currency, proficiency, and fitness
 - Legal Requirements for Preflight Planning
 - Destination Selection
-- Weight and Balance
 - Route
 - Weather Briefing
 - Departure
 - Destination
 - Alternate
 - NOTAMs
-- PIREPs
 - Fuel Requirements
 - IFR Flight Plan
 - GPS Use Under IFR
 - Icing and FIKI
 - Aircraft Airworthiness
-- Personal Pressures
 
-### IFR Currency and Proficiency
+### IFR Currency, Proficiency, and Fitness
 
 - Am I VFR current?
   - Current medical (and fit to fly)
@@ -51,6 +48,18 @@ Demonstrate the ability to plan an IFR cross-country flight, including selecting
   - Flying in actual IMC?
   - Flying in busy airspace?
   - Flying an unpublished hold?
+- PAVE checklist: Identify and mitigate hazards during flight planning and the go/no-go decision-making process
+  - Pilot
+  - Aircraft
+  - EnVironment
+  - External pressures
+- IMSAFE checklist
+  - Illness
+  - Medication
+  - Stress
+  - Alcohol
+  - Fatigue
+  - Emotions
 
 ### Legal Requirements for Preflight Planning
 
@@ -74,11 +83,6 @@ NWKRAFT - ([91.103](/_references/14-CFR/91.103))
 - Runways and approaches
   - What approaches are available?
   - What are their minimums?
-
-### Weight and Balance
-
-- I like to carry as much fuel as I can carry
-- Perform a weight an balance calculation for the expect amount of fuel
 
 ### Route
 
@@ -265,15 +269,6 @@ Alternates are required if, within **&plusmn; 1 hour of your ETA**, ceilings are
 | **Military NOTAM**      | Originated by the U.S. Air Force, Army, Marine Corps, or Navy.                                                                                                  | Pertaining to military or joint-use navigational aids and airports that are part of the National Airspace System.                                                                         |
 | **GPS / WAAS NOTAM**    | Specifically addresses the status of satellite-based navigation systems.                                                                                        | Advising of satellite outages, planned GPS testing that may result in "UNRELIABLE" signals, or WAAS vertical guidance being "NOT AVBL".                                                   |
 
-### PIREPs
-
-- Pilot reports reflect real-life conditions (not forecast or terminal weather)
-- Two types:
-  - Routine (UA)
-  - Urgent (UUA) which report hazardous weather conditions that could affect flight safety
-- Note the aircraft that reported the NOTAM
-  - A turbulence report from a 737 is different than one from a 182
-
 ### Fuel Requirements
 
 [91.167](/_references/14-CFR/91.167)
@@ -349,21 +344,6 @@ Alternates are required if, within **&plusmn; 1 hour of your ETA**, ceilings are
 
 - AV1ATED
 - ARROW documents
-
-### Personal Pressures
-
-- PAVE checklist: Identify and mitigate hazards during flight planning and the go/no-go decision-making process
-  - Pilot
-  - Aircraft
-  - EnVironment
-  - External pressures
-- IMSAFE checklist
-  - Illness
-  - Medication
-  - Stress
-  - Alcohol
-  - Fatigue
-  - Emotions
 
 ## References
 

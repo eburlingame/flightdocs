@@ -202,7 +202,7 @@ Understand the specific roles and shared responsibilities of pilots and air traf
   - **V**: Vacating previously assigned altitude
   - **A**: Altitude change during VFR on top
 - Mandatory reports when not in radar contact:
-  - **C**: Compulsory reporting points
+  - **C**: Compulsory reporting points, or non-airway fixes
   - **E**: ETA change by more than 2 minutes
   - **F**: FAF inbound on a non-precision approach
   - **O**: Outer marker inbound on a precision
@@ -212,10 +212,9 @@ Understand the specific roles and shared responsibilities of pilots and air traf
   2. Position
   3. Time
   4. Altitude or flight level
-  5. Type of flight plan (not required in IFR position reports made directly to ARTCCs or approach control)
-  6. ETA and name of next reporting point
-  7. The name only of the next succeeding reporting point along the route of flight
-  8. Any pertinent remarks.
+  5. ETA and name of next reporting point
+  6. The name only of the next succeeding reporting point along the route of flight
+  7. Any pertinent remarks
 
 [AIM 5-3-2](/_references/AIM/5-3-2), [Instrument Flying Handbook pg. 10-7](/_references/IFH/10-7)
 
