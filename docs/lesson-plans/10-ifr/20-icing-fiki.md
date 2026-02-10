@@ -143,7 +143,7 @@ Aircraft icing is ice that accumulates on the structure or in the induction syst
 - Ice will sublimate after moving to clear air, but this can be very slow
 - Ice will melt if moving to warmer air
 
-### Landing with accumulated ice
+### Landing with Accumulated Ice
 
 - Be very caution of configuration changes, particularly flaps. Deploy flaps in stages
 - Perform a reduced-flap landing on a long runway, if possible

@@ -15,6 +15,24 @@ Demonstrate the ability to plan an IFR cross-country flight, including selecting
 
 ## Overview
 
+- IFR Currency and Proficiency
+- Legal Requirements for Preflight Planning
+- Destination Selection
+- Weight and Balance
+- Route
+- Weather Briefing
+- Departure
+- Destination
+- Alternate
+- NOTAMs
+- PIREPs
+- Fuel Requirements
+- IFR Flight Plan
+- GPS Use Under IFR
+- Icing and FIKI
+- Aircraft Airworthiness
+- Personal Pressures
+
 ### IFR Currency and Proficiency
 
 - Am I VFR current?
@@ -22,17 +40,32 @@ Demonstrate the ability to plan an IFR cross-country flight, including selecting
   - Current BFR
   - 90-day passenger currency
 - Am I IFR current?
-  - 6 approaches, holds, and navigation tracking (or an IPC) within the last 6 months
+  - [61.51(c)](</_references/14-CFR/61.51(c)>)
+  - To file and fly under IFR, you must have, within the **6 calendar months**, performed and logged at least the following tasks and iterations in actual IFR weather conditions, or simulated IFR weather conditions using a view-limiting device:
+    - Six instrument approaches\*
+    - Holding procedures and tasks
+    - Intercepting and tracking courses through the use of navigational electronic systems
+  - Note that the approaches need to be done in simulated instrument conditions to the DA/MAP, or the airplane transition to VMC on the final approach segment ([FAA InFO 15012](https://www.faa.gov/sites/faa.gov/files/pilots/training/firc/InFO15012.pdf)).
 - Am I IFR proficient?
   - Am I comfortable filing IFR?
   - Flying in actual IMC?
   - Flying in busy airspace?
   - Flying an unpublished hold?
 
+### Legal Requirements for Preflight Planning
+
+NWKRAFT - ([91.103](/_references/14-CFR/91.103))
+
+- **N**OTAMs
+- **W**eather
+- **K**nown ATC delays
+- **R**unway lengths
+- **F**uel requirements
+- **A**lternates available
+- **T**akeoff and landing distances
+
 ### Destination Selection
 
-- Aircraft endurance, how far can I go?
-  - Refer to POH endurance or cruise chart
 - FBOs and services?
   - Transient parking?
   - Tiedown fees?
@@ -44,6 +77,7 @@ Demonstrate the ability to plan an IFR cross-country flight, including selecting
 
 ### Weight and Balance
 
+- I like to carry as much fuel as I can carry
 - Perform a weight an balance calculation for the expect amount of fuel
 
 ### Route
@@ -62,6 +96,75 @@ Demonstrate the ability to plan an IFR cross-country flight, including selecting
 | **Jet Routes**      | Enroute High Altitude       | **J**             | 18,000' MSL to FL 450                            | **Black**             | VOR or VORTAC           |
 | **Q-Routes** (RNAV) | Enroute High Altitude       | **Q**             | 18,000' MSL to FL 450                            | **Aeronautical Blue** | GNSS or DME/DME/IRU     |
 | **Y-Routes** (RNAV) | High/Low Enroute (Offshore) | **Y**             | Predominantly Class A offshore (>18,000' MSL)    | **Blue**              | GPS (RNAV 2)            |
+
+#### Airspace
+
+- Does your flight pass through any special-use airspace?
+  - Military operation areas (MOAs)
+  - Restricted areas
+  - Prohibited areas
+  - Warning areas
+  - National Security Areas
+  - Special flight rules areas (SFRAs)
+
+Aeronautical Information Publication (AIP) ENR 5.1: Prohibited, Restricted, and Other Areas:
+
+> 1.3.2 ATC facilities apply the following procedures when aircraft are operating on an IFR clearance (including those cleared by ATC to maintain VFR-on-top) via a route which lies within joint-use restricted airspace.
+>
+> > 1.3.2.1 If the restricted area is not active and has been released to the controlling agency (FAA), the ATC facility will allow the aircraft to operate in the restricted airspace without issuing specific clearance for it to do so.
+>
+> > 1.3.2.2 If the restricted area is active and has not been released to the controlling agency (FAA), the ATC facility will issue a clearance which will ensure the aircraft avoids the restricted airspace unless it is on an approved altitude reservation mission or has obtained its own permission to operate in the airspace and so informs the controlling facility.
+
+### Weather Briefing
+
+- Why get a briefing vs looked at NOTAMs via ForeFlight airport tab?
+  - Record of the briefing is stored in case of emergencies
+  - Includes enroute NOTAMs, PIREPs, and AIRMETs/SIGMETs
+- Personal minimums
+  - Can you make this flight with your current personal minimums?
+
+### Departure
+
+- Runways dimension
+  - What runways are we likely to use based on the forecast conditions?
+  - What is the length, width, slope, and lighting?
+- Takeoff Performance
+  - What is our expected takeoff performance at our given loading?
+  - Add a 50% safety factor
+- Departure Selection
+  - Which departure can we expect?
+  - How will we get our clearance?
+- T/O Minimums
+  - What weather and/or climb requirements do we need for an IFR departure?
+    - [91.175: Takeoff Under IFR](/_references/14-CFR/91.175)
+    - Note: Part 91 can legally takeoff in 0/0 visibility, but it's not a good idea
+  - Can we make the climb gradient based on our loading?
+  - Unless otherwise noted, standard procedures assume you can climb:
+    - **200 ft. / nm**
+    - Assumes crossing DER at **35 feet**
+    - Climb at least **400'** above the runway before turning
+- Departure alternate
+  - What happens if something goes wrong during departure?
+  - Particularly useful when departing in low IFR conditions
+
+### Cruise Altitude
+
+- Select based on:
+  - Minimum for IFR
+  - NAV signal coverage
+  - Radar coverage
+  - Terrain
+  - Contingency
+  - Winds
+- Minimum for IFR (recall [91.177](/_references/14-CFR/91.177), 1000' in non-mountainous areas, 2000' in mountainous)
+  - [Part 95 defines MEA criteria and mountainous vs non-mountainous areas](https://www.ecfr.gov/current/title-14/chapter-I/subchapter-F/part-95)
+  - [Part 97 defines approach altitude criteria](https://www.ecfr.gov/current/title-14/chapter-I/subchapter-F/part-97)
+- Altitude changes
+  - Changes to a new MEA: Climb can start over the waypoint
+  - Crossing point with a MCA: Climb to the MCA prior to reaching the crossing point
+- In uncontrolled airspace below 18,000':
+  - On a magnetic course of 0o&deg; through 179&deg;: Any **odd** Thousand-foot MSL altitude
+  - On a magnetic course of 180&deg; through 359&deg;: Any **even** Thousand-foot MSL altitude
 
 #### IFR Altitudes
 
@@ -114,75 +217,23 @@ Demonstrate the ability to plan an IFR cross-country flight, including selecting
 
 **Remember**: None of the specific altitudes listed (MEA, MOCA, OROCA, MRA, or MCA) are designed to ensure radar coverage.
 
-#### Airspace
-
-- Does your flight pass through any special-use airspace?
-  - Military operation areas (MOAs)
-  - Restricted areas
-  - Prohibited areas
-  - Warning areas
-  - National Security Areas
-  - Special flight rules areas (SFRAs)
-
-Aeronautical Information Publication (AIP) ENR 5.1: Prohibited, Restricted, and Other Areas:
-
-> 1.3.2 ATC facilities apply the following procedures when aircraft are operating on an IFR clearance (including those cleared by ATC to maintain VFR-on-top) via a route which lies within joint-use restricted airspace.
->
-> > 1.3.2.1 If the restricted area is not active and has been released to the controlling agency (FAA), the ATC facility will allow the aircraft to operate in the restricted airspace without issuing specific clearance for it to do so.
->
-> > 1.3.2.2 If the restricted area is active and has not been released to the controlling agency (FAA), the ATC facility will issue a clearance which will ensure the aircraft avoids the restricted airspace unless it is on an approved altitude reservation mission or has obtained its own permission to operate in the airspace and so informs the controlling facility.
-
-#### TFRs
-
-### Departure
-
-- Runways dimension
-  - What runways are we likely to use based on the forecast conditions?
-  - What is the length, width, slope, and lighting?
-- Takeoff Performance
-  - What is our expected takeoff performance at our given loading?
-- Departure Selection
-  - Which departure can we expect?
-  - How will we get our clearance?
-- T/O Minimums
-  - What weather and/or climb requirements do we need for the departure?
-- Required climb gradient
-  - Can we make the climb gradient based on our loading?
-- Departure alternate
-  - What happens if something goes wrong during departure?
-
-### Enroute
-
-- Enroute weather
-  - Monitor **SIGMETs** for non-convective hazards like severe icing or turbulence
-  - Track **AIRMETs** (**SIERRA, TANGO, ZULU**) for conditions hazardous to light aircraft
-  - Avoid thunderstorms identified as severe by at least **20** miles
-  - Circumnavigate convective areas with **6/10** or more cell coverage
-  - Instability (rapid drop of temperature with altitude)
-- Winds aloft
-- Enroute altitude selection:
-  - Minimum for IFR (recall [91.177](/_references/14-CFR/91.177), 1000' in non-mountainous areas, 2000' in mountainous)
-  - NAV signal coverage
-  - Radar coverage
-  - Terrain
-  - Contingency
-  - Winds
-- Expected performance
-  - Use performance charts
-
 ### Destination
 
 - Approaches available
   - Their minimums and required equipment
+  - Any notes and restrictions around equipment, weather, circling
 - Runway dimensions
   - What runways are we likely to use based on the forecast conditions?
   - What is the length, width, slope, and lighting?
 - Landing performance
   - Landing performance given fuel requirements
+  - Add 50% safety factor
 
 ### Alternate
 
 #### 1-2-3 Rule
+
+[91.169](/_references/14-CFR/91.169)
 
 Alternates are required if, within **&plusmn; 1 hour of your ETA**, ceilings are **&lt; 2000'** or visibility is **&lt; 3 s.m.**, or your destination does not have an instrument approach.
 
@@ -210,10 +261,8 @@ Alternates are required if, within **&plusmn; 1 hour of your ETA**, ceilings are
 | :---------------------- | :-------------------------------------------------------------------------------------------------------------------------------------------------------------- | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | **NOTAM (D)**           | Distributed for all navigational facilities in the NAS and all public-use aerodromes listed in the Chart Supplement. They receive distant dissemination.        | Taxiway closures (**TWY**), personnel/equipment near runways, airport lighting aids that do not affect approach criteria (**APRON**, **RWY**), and wildlife near movement areas (**AD**). |
 | **FDC NOTAM**           | Regulatory in nature, these are issued by the National Flight Data Center and receive system-wide dissemination.                                                | Amendments to published IAPs and aeronautical charts (**IAP**, **CHART**), Temporary Flight Restrictions (**TFR**), laser light activity, and high barometric pressure warnings.          |
-| **Pointer NOTAM**       | Issued by a flight service station to highlight or "point" to another NOTAM, making it easier to find related information.                                      | Highlighting a NOTAM related to a major system interruption, a TFR, a large airshow, or temporary Special Use Airspace.                                                                   |
 | **International NOTAM** | Published in ICAO format and distributed to multiple countries. They typically duplicate data found in Domestic NOTAMs but are formatted for international use. | Information on airports, facilities, and procedures available for use by international civil aviation, or short-term information on hazardous airspace utilization.                       |
 | **Military NOTAM**      | Originated by the U.S. Air Force, Army, Marine Corps, or Navy.                                                                                                  | Pertaining to military or joint-use navigational aids and airports that are part of the National Airspace System.                                                                         |
-| **Security NOTAM**      | A specific type of FDC NOTAM that informs pilots of U.S. security activities or requirements.                                                                   | Special Security Instructions for aircraft operations entering, exiting, or transitioning U.S. territorial airspace.                                                                      |
 | **GPS / WAAS NOTAM**    | Specifically addresses the status of satellite-based navigation systems.                                                                                        | Advising of satellite outages, planned GPS testing that may result in "UNRELIABLE" signals, or WAAS vertical guidance being "NOT AVBL".                                                   |
 
 ### PIREPs
@@ -222,9 +271,12 @@ Alternates are required if, within **&plusmn; 1 hour of your ETA**, ceilings are
 - Two types:
   - Routine (UA)
   - Urgent (UUA) which report hazardous weather conditions that could affect flight safety
-- Note the aircraft that
+- Note the aircraft that reported the NOTAM
+  - A turbulence report from a 737 is different than one from a 182
 
 ### Fuel Requirements
+
+[91.167](/_references/14-CFR/91.167)
 
 - How much fuel do we need?
 - Our legal fuel requirement: You cannot fly in IFR conditions unless you carry enough fuel to fly:
@@ -234,28 +286,64 @@ Alternates are required if, within **&plusmn; 1 hour of your ETA**, ceilings are
 - What's a smart fuel requirement?
   - Land with **1 hour of fuel**
 
-### Oxygen
-
-- 91.211(a): Minimum oxygen requirements for high-altitude flight (>12,500')
-- For optimum protection against hypoxia, the FAA encourages pilots to use supplemental oxygen:
-  - During the day: Above **10,000 feet** cabin pressure altitude
-  - At night: Above **5,000 feet** cabin pressure altitude, as night vision is particularly sensitive to oxygen deprivation
-
-### Weather briefing
-
-- Why get a briefing vs looked at NOTAMs via ForeFlight airport tab?
-  - Record of the briefing is stored in case of emergencies
-  - Includes enroute NOTAMs, PIREPs, and AIR/SIGMETS
-- Personal minimums
-  - Can you make this flight with your current personal minimums?
-
 ### IFR Flight Plan
 
 - Mandatory for all flights in controlled airspace under **IFR**
 - Submit via **ICAO** format (FAA Form **7233-4**)
+  - FSS transitioned to only ICAO Flight Plans for domestic/international flights in August 2019
   - This is what ForeFlight will submit when you file
+  - Requires specific equipments codes (different than FAA domestic flight plans)
+    - [AIM ICAO Equipment Codes](https://www.faa.gov/air_traffic/publications/atpubs/aim_html/appendix_4.html)
 - File at least **30** minutes prior to estimated time of departure (**ETD**)
   - Flight plans show up in the ATC system **30 minutes** prior to your ETD and remain active for 3-4 hours depending on the facility
+- Ways to file
+  - **Filing on the Ground** - Submit the flight plan to the nearest FSS or ATCT (Air Traffic Control Tower)
+    - In person, by phone (1800 WX-Brief), radio, computer, app (such as ForeFlight)
+  - **Filing in the Air** - File with the nearest FSS or directly with ARTCC
+    - FSS will relay the information to ARTCC
+    - ARTCC saturation can prevent them from accepting your flight plan by radio
+    - Do not enter IFR conditions until clearance is received
+
+### GPS Use Under IFR
+
+- GPS must be **TSO-certified** (C129, C196, C145, or C146) and the installation approved per AC 20-138
+- **Non-WAAS GPS (TSO-C129/C196)** aircraft must be equipped with an **alternate approved and operational means of navigation**
+  - Receiver-autonomous integrity monitoring: Uses an additional satellite to cross-check position information
+  - GPS RAIM **availability** must be checked before IFR operations
+    - Also called "RAIM prediction" and can be done within most units
+  - If a continuous RAIM loss is predicted for more than 5 minutes, the flight must be delayed, canceled, or re-routed
+    - See [AIM 5-1-16](/_references/AIM/5-1-16) for more details
+- **WAAS (TSO-C145/C146) users** do not need to perform RAIM prediction if WAAS coverage is confirmed along the entire route
+  - The onboard navigation database must be current and appropriate for the operation
+    - Note: This is a change the AIM which now requires a current database, even for enroute operations.
+  - Procedures must be retrievable by name from the database; manual entry of waypoints is not permitted for approach procedures
+- Pilot should review appropriate NOTAMs before GPS IFR operation
+
+[AIM 1-1-17](/_references/AIM/1-1-17)
+
+### Icing and FIKI
+
+- Some airplanes are flight-into-known icing certified
+  - "Known icing conditions" involve instead circumstances where a reasonable pilot would expect a substantial likelihood of ice formation on the aircraft based upon all information available to that pilot" - Bell AOPA 2009 Legal Interpretation
+- Some aircraft have deice and anti-ice equipment similar to FIKI aircraft, but are not FIKI-certified (e.g. our SR22)
+  - TKS panels ("weeping wing")
+  - TKS "slinger" on propeller
+  - Heated windshield
+- There is potential for icing anytime you're in visible moisture and the temperature is near or below freezing
+  - Most ice forms between **-20&deg;** and **0&deg;**
+  - About half of reports are between **-8 °C** and **-12 °C**, and between **5,000** and **13,000 ft**.
+- Cumulus clouds and thunderstorms
+  - Ice can form in all levels of a cumulus cloud
+  - Updrafts make SLDs and cold temperatures in the upper levels of a cumulus
+
+![](images/icing-likelihood.png)
+
+#### PIREP Accumulation rates ([AIM 7-1-19](/_references/AIM/7-1-19))
+
+- **Trace**: Ice becomes noticeable. The rate of accumulation is slightly greater than the rate of sublimation
+- **Light**: Occasional requires manual activation of the deicing systems. May become hazardous after an hour in the icing conditions
+- **Moderate**: Requires continuous use of the deice system
+- **Severe**: Conditions where the deice system fails to remove ice and accumulates in places normally not prone to icing
 
 ### Aircraft Airworthiness
 
@@ -276,3 +364,7 @@ Alternates are required if, within **&plusmn; 1 hour of your ETA**, ceilings are
   - Alcohol
   - Fatigue
   - Emotions
+
+## References
+
+- [AC 91-92: Pilot’s Guide to a Preflight Briefing](https://www.faa.gov/documentLibrary/media/Advisory_Circular/AC_91-92.pdf)

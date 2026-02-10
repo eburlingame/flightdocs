@@ -116,14 +116,14 @@ GPS CDI sensitivity changes based on the **phase of flight**
 
 - GPS must be **TSO-certified** (C129, C196, C145, or C146) and the installation approved per AC 20-138
   - GPS operations must be conducted in accordance with the **AFM or flight manual supplement**
-- Non-WAAS GPS (TSO-C129/C196) aircraft must be equipped with an **alternate approved and operational means of navigation**
-  - **GPS RAIM availability must be checked** before IFR operations
+- **Non-WAAS GPS (TSO-C129/C196)** aircraft must be equipped with an **alternate approved and operational means of navigation**
+  - GPS RAIM availability must be checked before IFR operations
   - If a continuous RAIM loss is predicted for more than 5 minutes, the flight must be delayed, canceled, or re-routed
     - See [AIM 5-1-16](/_references/AIM/5-1-16) for more details
 - **WAAS (TSO-C145/C146) users** do not need to perform RAIM prediction if WAAS coverage is confirmed along the entire route
-  - The **onboard navigation database must be current and appropriate** for the operation
-  - Procedures must be **retrievable by name** from the database; manual entry of waypoints is not permitted for approach procedures
-- Pilot should review appropriate **NOTAMs** before GPS IFR operation
+  - The onboard navigation database must be current and appropriate for the operation
+  - Procedures must be retrievable by name from the database; manual entry of waypoints is not permitted for approach procedures
+- Pilot should review appropriate NOTAMs before GPS IFR operation
 
 ### GPS Waypoints
 
