@@ -15,20 +15,19 @@ Demonstrate the ability to plan an IFR cross-country flight, including selecting
 
 ## Overview
 
-- IFR currency, proficiency, and fitness
+- IFR Currency, Proficiency, and Fitness
 - Legal Requirements for Preflight Planning
 - Destination Selection
 - Route
+- Cruise Altitude
 - Weather Briefing
 - Departure
-- Destination
 - Alternate
-- NOTAMs
 - Fuel Requirements
+- NOTAMs
 - IFR Flight Plan
 - GPS Use Under IFR
 - Icing and FIKI
-- Aircraft Airworthiness
 
 ### IFR Currency, Proficiency, and Fitness
 
@@ -83,6 +82,15 @@ NWKRAFT - ([91.103](/_references/14-CFR/91.103))
 - Runways and approaches
   - What approaches are available?
   - What are their minimums?
+- Approaches available
+  - Their minimums and required equipment
+  - Any notes and restrictions around equipment, weather, circling
+- Runway dimensions
+  - What runways are we likely to use based on the forecast conditions?
+  - What is the length, width, slope, and lighting?
+- Landing performance
+  - Landing performance given fuel requirements
+  - Add 50% safety factor
 
 ### Route
 
@@ -100,56 +108,6 @@ NWKRAFT - ([91.103](/_references/14-CFR/91.103))
 | **Jet Routes**      | Enroute High Altitude       | **J**             | 18,000' MSL to FL 450                            | **Black**             | VOR or VORTAC           |
 | **Q-Routes** (RNAV) | Enroute High Altitude       | **Q**             | 18,000' MSL to FL 450                            | **Aeronautical Blue** | GNSS or DME/DME/IRU     |
 | **Y-Routes** (RNAV) | High/Low Enroute (Offshore) | **Y**             | Predominantly Class A offshore (>18,000' MSL)    | **Blue**              | GPS (RNAV 2)            |
-
-#### Airspace
-
-- Does your flight pass through any special-use airspace?
-  - Military operation areas (MOAs)
-  - Restricted areas
-  - Prohibited areas
-  - Warning areas
-  - National Security Areas
-  - Special flight rules areas (SFRAs)
-
-Aeronautical Information Publication (AIP) ENR 5.1: Prohibited, Restricted, and Other Areas:
-
-> 1.3.2 ATC facilities apply the following procedures when aircraft are operating on an IFR clearance (including those cleared by ATC to maintain VFR-on-top) via a route which lies within joint-use restricted airspace.
->
-> > 1.3.2.1 If the restricted area is not active and has been released to the controlling agency (FAA), the ATC facility will allow the aircraft to operate in the restricted airspace without issuing specific clearance for it to do so.
->
-> > 1.3.2.2 If the restricted area is active and has not been released to the controlling agency (FAA), the ATC facility will issue a clearance which will ensure the aircraft avoids the restricted airspace unless it is on an approved altitude reservation mission or has obtained its own permission to operate in the airspace and so informs the controlling facility.
-
-### Weather Briefing
-
-- Why get a briefing vs looked at NOTAMs via ForeFlight airport tab?
-  - Record of the briefing is stored in case of emergencies
-  - Includes enroute NOTAMs, PIREPs, and AIRMETs/SIGMETs
-- Personal minimums
-  - Can you make this flight with your current personal minimums?
-
-### Departure
-
-- Runways dimension
-  - What runways are we likely to use based on the forecast conditions?
-  - What is the length, width, slope, and lighting?
-- Takeoff Performance
-  - What is our expected takeoff performance at our given loading?
-  - Add a 50% safety factor
-- Departure Selection
-  - Which departure can we expect?
-  - How will we get our clearance?
-- T/O Minimums
-  - What weather and/or climb requirements do we need for an IFR departure?
-    - [91.175: Takeoff Under IFR](/_references/14-CFR/91.175)
-    - Note: Part 91 can legally takeoff in 0/0 visibility, but it's not a good idea
-  - Can we make the climb gradient based on our loading?
-  - Unless otherwise noted, standard procedures assume you can climb:
-    - **200 ft. / nm**
-    - Assumes crossing DER at **35 feet**
-    - Climb at least **400'** above the runway before turning
-- Departure alternate
-  - What happens if something goes wrong during departure?
-  - Particularly useful when departing in low IFR conditions
 
 ### Cruise Altitude
 
@@ -221,17 +179,55 @@ Aeronautical Information Publication (AIP) ENR 5.1: Prohibited, Restricted, and 
 
 **Remember**: None of the specific altitudes listed (MEA, MOCA, OROCA, MRA, or MCA) are designed to ensure radar coverage.
 
-### Destination
+#### Airspace
 
-- Approaches available
-  - Their minimums and required equipment
-  - Any notes and restrictions around equipment, weather, circling
-- Runway dimensions
+- Does your flight pass through any special-use airspace?
+  - Military operation areas (MOAs)
+  - Restricted areas
+  - Prohibited areas
+  - Warning areas
+  - National Security Areas
+  - Special flight rules areas (SFRAs)
+
+Aeronautical Information Publication (AIP) ENR 5.1: Prohibited, Restricted, and Other Areas:
+
+> 1.3.2 ATC facilities apply the following procedures when aircraft are operating on an IFR clearance (including those cleared by ATC to maintain VFR-on-top) via a route which lies within joint-use restricted airspace.
+>
+> > 1.3.2.1 If the restricted area is not active and has been released to the controlling agency (FAA), the ATC facility will allow the aircraft to operate in the restricted airspace without issuing specific clearance for it to do so.
+>
+> > 1.3.2.2 If the restricted area is active and has not been released to the controlling agency (FAA), the ATC facility will issue a clearance which will ensure the aircraft avoids the restricted airspace unless it is on an approved altitude reservation mission or has obtained its own permission to operate in the airspace and so informs the controlling facility.
+
+### Weather Briefing
+
+- Why get a briefing vs looked at NOTAMs via ForeFlight airport tab?
+  - Record of the briefing is stored in case of emergencies
+  - Includes enroute NOTAMs, PIREPs, and AIRMETs/SIGMETs
+- Personal minimums
+  - Can you make this flight with your current personal minimums?
+
+### Departure
+
+- Runways dimension
   - What runways are we likely to use based on the forecast conditions?
   - What is the length, width, slope, and lighting?
-- Landing performance
-  - Landing performance given fuel requirements
-  - Add 50% safety factor
+- Takeoff Performance
+  - What is our expected takeoff performance at our given loading?
+  - Add a 50% safety factor
+- Departure Selection
+  - Which departure can we expect?
+  - How will we get our clearance?
+- T/O Minimums
+  - What weather and/or climb requirements do we need for an IFR departure?
+    - [91.175: Takeoff Under IFR](/_references/14-CFR/91.175)
+    - Note: Part 91 can legally takeoff in 0/0 visibility, but it's not a good idea
+  - Can we make the climb gradient based on our loading?
+  - Unless otherwise noted, standard procedures assume you can climb:
+    - **200 ft. / nm**
+    - Assumes crossing DER at **35 feet**
+    - Climb at least **400'** above the runway before turning
+- Departure alternate
+  - What happens if something goes wrong during departure?
+  - Particularly useful when departing in low IFR conditions
 
 ### Alternate
 
@@ -259,16 +255,6 @@ Alternates are required if, within **&plusmn; 1 hour of your ETA**, ceilings are
 - Select an alternate outside of your current weather system
 - You are **not** required to fly to you filed alternate (expect in a rare case of a radio failure in IMC)
 
-### NOTAMs
-
-| NOTAM Type              | Description                                                                                                                                                     | Examples of Use                                                                                                                                                                           |
-| :---------------------- | :-------------------------------------------------------------------------------------------------------------------------------------------------------------- | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **NOTAM (D)**           | Distributed for all navigational facilities in the NAS and all public-use aerodromes listed in the Chart Supplement. They receive distant dissemination.        | Taxiway closures (**TWY**), personnel/equipment near runways, airport lighting aids that do not affect approach criteria (**APRON**, **RWY**), and wildlife near movement areas (**AD**). |
-| **FDC NOTAM**           | Regulatory in nature, these are issued by the National Flight Data Center and receive system-wide dissemination.                                                | Amendments to published IAPs and aeronautical charts (**IAP**, **CHART**), Temporary Flight Restrictions (**TFR**), laser light activity, and high barometric pressure warnings.          |
-| **International NOTAM** | Published in ICAO format and distributed to multiple countries. They typically duplicate data found in Domestic NOTAMs but are formatted for international use. | Information on airports, facilities, and procedures available for use by international civil aviation, or short-term information on hazardous airspace utilization.                       |
-| **Military NOTAM**      | Originated by the U.S. Air Force, Army, Marine Corps, or Navy.                                                                                                  | Pertaining to military or joint-use navigational aids and airports that are part of the National Airspace System.                                                                         |
-| **GPS / WAAS NOTAM**    | Specifically addresses the status of satellite-based navigation systems.                                                                                        | Advising of satellite outages, planned GPS testing that may result in "UNRELIABLE" signals, or WAAS vertical guidance being "NOT AVBL".                                                   |
-
 ### Fuel Requirements
 
 [91.167](/_references/14-CFR/91.167)
@@ -280,6 +266,16 @@ Alternates are required if, within **&plusmn; 1 hour of your ETA**, ceilings are
   - For **45 additional minutes**
 - What's a smart fuel requirement?
   - Land with **1 hour of fuel**
+
+### NOTAMs
+
+| NOTAM Type              | Description                                                                                                                                                     | Examples of Use                                                                                                                                                                           |
+| :---------------------- | :-------------------------------------------------------------------------------------------------------------------------------------------------------------- | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **NOTAM (D)**           | Distributed for all navigational facilities in the NAS and all public-use aerodromes listed in the Chart Supplement. They receive distant dissemination.        | Taxiway closures (**TWY**), personnel/equipment near runways, airport lighting aids that do not affect approach criteria (**APRON**, **RWY**), and wildlife near movement areas (**AD**). |
+| **FDC NOTAM**           | Regulatory in nature, these are issued by the National Flight Data Center and receive system-wide dissemination.                                                | Amendments to published IAPs and aeronautical charts (**IAP**, **CHART**), Temporary Flight Restrictions (**TFR**), laser light activity, and high barometric pressure warnings.          |
+| **International NOTAM** | Published in ICAO format and distributed to multiple countries. They typically duplicate data found in Domestic NOTAMs but are formatted for international use. | Information on airports, facilities, and procedures available for use by international civil aviation, or short-term information on hazardous airspace utilization.                       |
+| **Military NOTAM**      | Originated by the U.S. Air Force, Army, Marine Corps, or Navy.                                                                                                  | Pertaining to military or joint-use navigational aids and airports that are part of the National Airspace System.                                                                         |
+| **GPS / WAAS NOTAM**    | Specifically addresses the status of satellite-based navigation systems.                                                                                        | Advising of satellite outages, planned GPS testing that may result in "UNRELIABLE" signals, or WAAS vertical guidance being "NOT AVBL".                                                   |
 
 ### IFR Flight Plan
 
@@ -340,10 +336,21 @@ Alternates are required if, within **&plusmn; 1 hour of your ETA**, ceilings are
 - **Moderate**: Requires continuous use of the deice system
 - **Severe**: Conditions where the deice system fails to remove ice and accumulates in places normally not prone to icing
 
-### Aircraft Airworthiness
+## Review
 
-- AV1ATED
-- ARROW documents
+- IFR Currency, Proficiency, and Fitness
+- Legal Requirements for Preflight Planning
+- Destination Selection
+- Route
+- Cruise Altitude
+- Weather Briefing
+- Departure
+- Alternate
+- Fuel Requirements
+- NOTAMs
+- IFR Flight Plan
+- GPS Use Under IFR
+- Icing and FIKIØ
 
 ## References
 
